@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="robots" content="noindex,nofollow"/>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-title" content="일별 수익률"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <title>일별 수익률</title>
+  <style>
+    :root {
+      --bg: #111113;
+      --fg: #f4f4f5;
+      --muted: #a1a1aa;
+      --card: #1c1c1f;
+      --line: #2a2a2e;
+      --up: #34d399;
+      --down: #f87171;
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      font: 15px/1.35 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+      overflow: hidden;
+    }
+    main {
+      flex: 1;
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      max-width: none;
+      padding: 0;
+    }
+    .chrome { flex: 0 0 auto; padding: .55rem .5rem .2rem; }
+    h1 { font-size: 1.05rem; font-weight: 650; margin: 0 0 .1rem; }
+    .ytd {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: .5rem;
+      margin: 0 0 .2rem;
+    }
+    .ytd > span:first-child { color: var(--muted); font-size: .78rem; }
+    .ytd .nums {
+      display: flex;
+      align-items: baseline;
+      gap: .35rem;
+      font-variant-numeric: tabular-nums;
+    }
+    .ytd b {
+      font-size: 1.55rem;
+      font-weight: 700;
+      line-height: 1.1;
+    }
+    .ytd i {
+      font-style: normal;
+      font-size: .92rem;
+      font-weight: 600;
+    }
+    .sub { color: var(--muted); font-size: .78rem; margin: 0 0 .2rem; }
+    .actions { margin: 0 0 .25rem; }
+    a.btn, button.btn {
+      display: inline-block;
+      color: var(--fg);
+      background: #27272a;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: .3rem .7rem;
+      text-decoration: none;
+      font: inherit;
+      font-size: .8rem;
+      cursor: pointer;
+    }
+    .up { color: var(--up); }
+    .down { color: var(--down); }
+    .empty, .warn { color: var(--muted); padding: 0 .5rem; }
+    .warn { color: #fbbf24; }
+    .list {
+      flex: 1;
+      min-height: 0;
+      overflow-x: hidden;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+      padding: 0;
+    }
+    table {
+      width: 100%;
+      table-layout: fixed;
+      border-collapse: collapse;
+      font-variant-numeric: tabular-nums;
+      font-size: .62rem;
+    }
+    th, td {
+      text-align: right;
+      padding: .32rem .08rem;
+      border-bottom: 1px solid var(--line);
+      white-space: nowrap;
+    }
+    th {
+      color: var(--muted);
+      font-weight: 500;
+      font-size: .62rem;
+      background: var(--bg);
+      line-height: 1.2;
+    }
+    th.pin, td.pin {
+      text-align: left;
+      width: 3.4rem;
+      padding-left: .5rem;
+      overflow: visible;
+      position: sticky;
+      left: 0;
+      z-index: 1;
+      background: var(--bg);
+    }
+    thead {
+      position: sticky;
+      top: 0;
+      z-index: 3;
+    }
+    thead th {
+      box-shadow: 0 1px 0 var(--line);
+    }
+    thead th.pin { z-index: 4; }
+    td.name, th.sym {
+      text-align: center;
+      font-weight: 650;
+      font-size: .64rem;
+    }
+    th.sym { font-weight: 500; font-size: .62rem; }
+    tr.names td { background: var(--card); border-bottom: none; padding-top: .45rem; padding-bottom: .16rem; }
+    tr.names td.pin { background: var(--card); font-weight: 650; }
+    tr.cum td { background: var(--card); border-bottom: 2px solid var(--line); }
+    tr.cum td.pin { background: var(--card); color: var(--muted); font-size: .68rem; }
+    td.combo { font-weight: 600; }
+    /* Latest-month cumulative only: highlight + enlarge 통합 */
+    tr.cum.hi {
+      position: sticky;
+      top: 1.55rem;
+      z-index: 2;
+    }
+    tr.cum.hi td {
+      background: #243d34;
+      border-bottom: 2px solid #34d399;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, .28);
+    }
+    tr.cum.hi td.pin {
+      background: #243d34;
+      color: #e4e4e7;
+      font-weight: 650;
+      box-shadow: inset 3px 0 0 #34d399;
+    }
+    tr.cum.hi td.combo {
+      font-size: .88rem;
+      font-weight: 750;
+    }
+    tr.cum.past td {
+      opacity: .72;
+    }
+    .nav {
+      display: flex;
+      gap: .35rem;
+      margin: 0 0 .35rem;
+      flex-wrap: wrap;
+    }
+    .nav a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: .78rem;
+      padding: .2rem .55rem;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+    }
+    .nav a.on {
+      color: var(--fg);
+      background: #27272a;
+      border-color: #3f3f46;
+    }
+    .top10-list {
+      flex: 1;
+      min-height: 0;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+      padding: 0 .35rem .8rem;
+    }
+    .top10-row {
+      display: flex;
+      align-items: center;
+      gap: .55rem;
+      padding: .55rem .4rem;
+      border-bottom: 1px solid var(--line);
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .top10-row:active, .top10-row.copied { background: #1c1c1f; }
+    .top10-rank {
+      flex: 0 0 1.6rem;
+      font-size: 1.15rem;
+      font-weight: 750;
+      font-variant-numeric: tabular-nums;
+      color: var(--muted);
+      text-align: center;
+    }
+    .top10-rank.slot { color: var(--up); }
+    .top10-main { min-width: 0; flex: 1; }
+    .top10-sym {
+      font-size: 1.05rem;
+      font-weight: 700;
+      letter-spacing: .02em;
+    }
+    .top10-name {
+      color: var(--muted);
+      font-size: .72rem;
+      margin-top: .08rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .top10-nums {
+      flex: 0 0 auto;
+      text-align: right;
+      font-variant-numeric: tabular-nums;
+    }
+    .top10-mom { font-size: 1rem; font-weight: 700; }
+    .top10-day { font-size: .72rem; color: var(--muted); margin-top: .08rem; }
+    .top10-badges { display: flex; gap: .25rem; margin-top: .18rem; flex-wrap: wrap; }
+    .badge {
+      font-size: .62rem;
+      font-weight: 650;
+      padding: .08rem .28rem;
+      border-radius: 4px;
+      background: #27272a;
+      color: var(--muted);
+    }
+    .badge.hold { background: #1e3a2f; color: var(--up); }
+    .badge.slot { background: #1e293b; color: #93c5fd; }
+    .toast {
+      position: fixed; left: 50%; bottom: .9rem;
+      transform: translateX(-50%) translateY(140%);
+      background: #f4f4f5; color: #111;
+      font-size: .75rem; font-weight: 650;
+      padding: .28rem .7rem; border-radius: 999px;
+      pointer-events: none; transition: transform .16s;
+    }
+    .toast.show { transform: translateX(-50%) translateY(0); }
+    select.archive {
+      font: inherit; color: var(--fg); background: #18181b;
+      border: 1px solid var(--line); border-radius: 999px;
+      padding: .15rem .5rem; font-size: .78rem;
+    }
+</style>
+</head>
+<body>
+  <main>
+    
+    <div class="chrome">
+      <div class="nav"><a class="on" href="index.html">일별</a><a class="" href="top10.html">Top10</a></div>
+      <div class="actions"><button type="button" class="btn" id="reload">새로고침</button></div>
+    </div>
+    <div class='list'><table><thead><tr><th class='pin'>일자</th><th class='sym'>종목1</th><th class='sym'>종목2</th><th class='sym'>종목3</th><th class='sym'>종목4</th><th class='sym'>종목5</th><th>통합 수익률</th></tr></thead><tbody><tr class='cum hi'><td class='pin'>26-09 누적</td><td class='up'>1.77</td><td class='down'>4.20</td><td class='up'>3.85</td><td class='up'>6.08</td><td class='down'>0.46</td><td class='combo up'>0.35</td></tr><tr><td class='pin'>9-04</td><td class=''>—</td><td class=''>—</td><td class=''>—</td><td class=''>—</td><td class=''>—</td><td class='combo down'>0.92</td></tr>
+<tr><td class='pin'>9-03</td><td class='up'>0.54</td><td class='down'>1.87</td><td class='up'>0.18</td><td class='down'>1.29</td><td class='up'>1.30</td><td class='combo down'>0.23</td></tr>
+<tr><td class='pin'>9-02</td><td class='up'>3.34</td><td class='up'>0.26</td><td class='up'>1.04</td><td class='down'>2.24</td><td class='up'>0.53</td><td class='combo up'>0.52</td></tr>
+<tr><td class='pin'>9-01</td><td class='down'>2.05</td><td class='down'>2.62</td><td class='up'>2.59</td><td class='up'>9.93</td><td class='down'>2.26</td><td class='combo up'>1.00</td></tr><tr class='cum past'><td class='pin'>26-08 누적</td><td class='down'>11.56</td><td class='up'>12.55</td><td class='up'>2.50</td><td class='up'>13.34</td><td class='up'>11.98</td><td class='combo up'>6.17</td></tr><tr class='cum past'><td class='pin'>26-07 누적</td><td class='down'>14.08</td><td class='up'>1.81</td><td class='up'>6.33</td><td class='down'>27.83</td><td class='down'>4.83</td><td class='combo down'>19.34</td></tr><tr class='cum past'><td class='pin'>26-06 누적</td><td class='up'>12.56</td><td class='up'>5.82</td><td class='up'>21.76</td><td class='up'>45.31</td><td class='up'>34.14</td><td class='combo up'>30.03</td></tr><tr class='cum past'><td class='pin'>26-05 누적</td><td class='up'>8.07</td><td class='up'>21.38</td><td class='down'>4.62</td><td class='up'>24.13</td><td class='up'>54.58</td><td class='combo up'>35.71</td></tr><tr class='cum past'><td class='pin'>26-04 누적</td><td class='up'>28.40</td><td class='down'>10.00</td><td class='up'>72.59</td><td class='up'>3.33</td><td class='up'>52.60</td><td class='combo up'>46.54</td></tr><tr class='cum past'><td class='pin'>26-03 누적</td><td class='up'>0.26</td><td class='down'>5.17</td><td class='down'>0.00</td><td class='down'>7.36</td><td class='down'>3.25</td><td class='combo down'>1.34</td></tr><tr class='cum past'><td class='pin'>26-02 누적</td><td class='up'>78.88</td><td class='up'>0.16</td><td class='up'>10.26</td><td class='up'>0.49</td><td class='up'>11.78</td><td class='combo up'>13.95</td></tr><tr class='cum past'><td class='pin'>26-01 누적</td><td class='up'>27.76</td><td class='up'>16.95</td><td class='up'>6.31</td><td class='up'>45.36</td><td class='up'>142.75</td><td class='combo up'>59.90</td></tr></tbody></table></div>
+    
+  </main>
+  <script>
+
+(function () {
+  var standalone = window.navigator.standalone === true
+    || window.matchMedia("(display-mode: standalone)").matches;
+  function bust() {
+    var u = new URL(location.href);
+    u.search = "";
+    u.searchParams.set("_r", String(Date.now()));
+    location.replace(u.pathname + u.search);
+  }
+  if (standalone && !new URL(location.href).searchParams.has("_r")) bust();
+  window.addEventListener("pageshow", function (e) {
+    if (e.persisted) bust();
+  });
+  var left = false;
+  document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState !== "visible") { left = true; return; }
+    if (!standalone || !left) return;
+    left = false;
+    var last = Number(sessionStorage.getItem("invest_web_at") || 0);
+    if (last && Date.now() - last > 60 * 1000) bust();
+    sessionStorage.setItem("invest_web_at", String(Date.now()));
+  });
+  sessionStorage.setItem("invest_web_at", String(Date.now()));
+  var btn = document.getElementById("reload");
+  if (btn) btn.addEventListener("click", function (e) {
+    e.preventDefault();
+    bust();
+  });
+})();
+
+
+  </script>
+</body>
+</html>

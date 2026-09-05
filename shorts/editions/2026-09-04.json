@@ -1,0 +1,154 @@
+{
+  "date": "2026-09-04",
+  "built_at": "2026-09-04 09:17",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/04 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "“트럼프, 미국 G20에 김정은 부를 수도…11∼12월 북미회담 가능성”",
+          "hook": "트럼프, 미국 G20에 김정은 부를 수도…11∼12월 북미회담 가능성",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레신문",
+          "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hN0xZRnFXSi0wYk56ZFViZWNwbXJsRWNQUFZkZ0Z3ZVI1d1MxNzJoSG9iZXNRekc3RWdVSDVzdUVwMmhFQU03X2pWMzlxRl9TclN4VmVFalBGdHBqYlJoQ3R5NWRmTVFYOUJCNF92aw?oc=5",
+          "source_date": "2026-09-03"
+        },
+        {
+          "item": "김종철 경찰청장 대행 “기본부터 다시…국민 신뢰 잃으면 존재 이유 없다”",
+          "hook": "김종철 경찰청장 대행 기본부터 다시…국민 신뢰 잃으면 존재 이유 없다",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레신문",
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sVTd2SUd0aXFDZnNVejlPNUJ1WWhoNDRaaTI5ZEVreTl0UkpGbFZSWkxHNEh4ampaR3pEcnhjX19VRDdEWGpNQlpaUVNyeDNIUXBKTGlRUGs4UVhkOFFob1NvRzYtWTVuRm1mZ254Sno0UQ?oc=5",
+          "source_date": "2026-09-03"
+        },
+        {
+          "item": "7000만달러 비트코인 영화, 라이트 논란 다시 불렀다",
+          "hook": "7000만달러 비트코인 영화, 라이트 논란 다시 불렀다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "tokenpost.kr",
+          "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NRE1TRENEbUNOcDdWWEVDSnlsRVBYN1lsSjJ3MTU2blRtdjVjVV9LSE5YZ1BCN0otX04zbVNvbDRTQjZYazMxVW1BVU4tZnN2YXFMclJPVVVDRnQySzExWdIBZkFVX3lxTFBEal92R0dTMkktbmlOTklRQXZ4UTZpSnBMTVVSTGlnUU9yQlc0bVZIWFZDU3VpMGgxYmlRNEJDNmgtWlZ5ejIzNXhXOVQ4Vm03ZDF1WXJZT0l1Wi1vT0tYU0gweFlkdw?oc=5",
+          "source_date": "2026-09-03"
+        },
+        {
+          "item": "모텔 투숙객 2명 일산화탄소 중독돼 중태‥경찰 \"자는 줄 알았다\"",
+          "hook": "모텔 투숙객 2명 일산화탄소 중독돼 중태‥경찰 자는 줄 알았다",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBacFNFdjVRelQ5ZWw3a3dzTzUtdlFCY2E4ZUhHU20zSktVZ2RoNUl1R09SN1E4cFRCT0tYN0RDZjlURUxPcC1ZVkZ3U2Q5Y3NKU1JhMFJQU2xFN1NxbTlKRjc2dmVfNEtBRlFaQWdnSXFkRHBXVm1n0gF3QVVfeXFMT0JpUnVSd2lQRENWMXpNX2U5ejdBSU91eXZIb0FId0ZvN2FWVFR1R1A4ekNQb1JCMEFrV1JTeGh1eTdiYVBPb1JQVHJZcWR0Q1IteVBfUDlYTUM3TmpxbTE2aklkalo0RVVIZmpxRnhwR3hZRkNSTTA?oc=5",
+          "source_date": "2026-09-03"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "전장연, 박위 CCTV 논란에 글 공유…\"장애인, 감동 줄 땐 환영, 권리 요구하면 불편\"",
+              "hook": "전장연, 박위 CCTV 논란에 글 공유…장애인, 감동 줄 땐 환영, 권리 요구하면 불편",
+              "topic": "연예",
+              "summary": "전장연, 박위 CCTV 논란에 글 공유…\"장애인, 감동 줄 땐 환영, 권리 요구하면 불편\" 전장연, 박위 CCTV 논란에 글 공유…\"장애인, 감동 줄 땐 환영, 권리 요구하면 불편\"    네이트",
+              "openings": [
+                "전장연, 박위 CCTV 논란에 글 공유…\"장애인, 감동 줄 땐 환영, 권리 요구하면 불편\"."
+              ],
+              "source_name": "네이트",
+              "source_date": "2026-09-04",
+              "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Yc2ROeDZfQWJnaHY0OS1MbWZtLWI1c3FFZ3Nxel9xeGpsVEdIdXBRTlpJNGRLZFpVcTREa2N5UlJzVXR5ODM2YTJjeGdESnJSWVhPLWFvWXpHV1E4UnhYT2RaSGZ3QTNoRFJRSTNjY25MQTNNcnNBSQ?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "박위·하영·'나혼산' 논란 어디까지…'수습 불가' 후폭풍, 탈출구 있나[이슈S]",
+              "hook": "박위·하영·나혼산 논란 어디까지…수습 불가 후폭풍, 탈출구 있나",
+              "topic": "연예",
+              "summary": "박위·하영·'나혼산' 논란 어디까지…'수습 불가' 후폭풍, 탈출구 있나[이슈S] 박위·하영·'나혼산' 논란 어디까지…'수습 불가' 후폭풍, 탈출구 있나[이슈S]    v.daum.net",
+              "openings": [
+                "박위·하영·'나혼산' 논란 어디까지…'수습 불가' 후폭풍, 탈출구 있나[이슈S]."
+              ],
+              "source_name": "v.daum.net",
+              "source_date": "2026-09-03",
+              "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rdHc3TEQybl9uSVZsYW1vdTV1ZUdLWUJNOVk2MW9VRm1sWTJKYm1Cc2l0S3lwazRHamhLanJ1NFFTdWZBUEF5N0g5TjVWa1k?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "'박위 옹호 논란' 김동완, 의미심장 글 남겼다 \"무심코 던진 말에 무지성 공격\"",
+              "hook": "박위 옹호 논란 김동완, 의미심장 글 남겼다 무심코 던진 말에 무지성 공격",
+              "topic": "연예",
+              "summary": "'박위 옹호 논란' 김동완, 의미심장 글 남겼다 \"무심코 던진 말에 무지성 공격\" '박위 옹호 논란' 김동완, 의미심장 글 남겼다 \"무심코 던진 말에 무지성 공격\"    SPOTV NEWS",
+              "openings": [
+                "'박위 옹호 논란' 김동완, 의미심장 글 남겼다 \"무심코 던진 말에 무지성 공격\"."
+              ],
+              "source_name": "SPOTV NEWS",
+              "source_date": "2026-09-03",
+              "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3Ym16RFNrOFZqUTlUY2FGeENMUzNTWFhBM3dDZlBIWFBrUDZOV3V3a1VsOW1mRHdsYkZuVktpUm93bDRZQ3F2djZTRmxIOVp5bWhUZE5fcklBbTN2U0IzMjdQb28zZVpTRlBEcC15dUk?oc=5",
+              "priority": "B"
+            }
+          ]
+        },
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "전장연, 박위에 손 내밀었다…“이제 같이 싸우자”",
+              "hook": "전장연, 박위에 손 내밀었다…이제 같이 싸우자",
+              "topic": "연예",
+              "summary": "전장연, 박위에 손 내밀었다…“이제 같이 싸우자” 전장연, 박위에 손 내밀었다…“이제 같이 싸우자”    경기일보    박위에 손 내민 전장연 \"감동보다 저항의 세계로…같이 싸우자\"    한국경제    박위·하영·'나혼산' 논란 어디까지…'수습 불가' 후폭풍, 탈출구 있나[이슈S]    v.daum.net    장애인 혐오로 번지는 ‘박위 KTX 사고’…“안전한 이동권 본질은 뒷전”    경향신문    \"호의를 권리로 착각하는 태도가 원인\"…박위 논란에 현직 변호사 소신 발언    뉴시스",
+              "openings": [
+                "전장연, 박위에 손 내밀었다…“이제 같이 싸우자”."
+              ],
+              "source_name": "경기일보",
+              "source_date": "2026-09-03",
+              "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8waDl6SG9sQV9WMlJEVkd3UkQ3d3FnZXNiZXNOWU8wcjY3dGhBTHJJeUk5VFI1OV9PVDFDV2ZUUGtsZVNQWjN3TTRJU01meUJyU0doWmZfNDltZG8?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    }
+  ]
+}

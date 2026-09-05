@@ -1,0 +1,357 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="robots" content="noindex,nofollow"/>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-title" content="모멘텀 Top10"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <title>모멘텀 Top10 · 2026-09-02</title>
+  <style>
+    :root {
+      --bg: #111113;
+      --fg: #f4f4f5;
+      --muted: #a1a1aa;
+      --card: #1c1c1f;
+      --line: #2a2a2e;
+      --up: #34d399;
+      --down: #f87171;
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      font: 15px/1.35 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+      overflow: hidden;
+    }
+    main {
+      flex: 1;
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      max-width: none;
+      padding: 0;
+    }
+    .chrome { flex: 0 0 auto; padding: .55rem .5rem .2rem; }
+    h1 { font-size: 1.05rem; font-weight: 650; margin: 0 0 .1rem; }
+    .ytd {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: .5rem;
+      margin: 0 0 .2rem;
+    }
+    .ytd > span:first-child { color: var(--muted); font-size: .78rem; }
+    .ytd .nums {
+      display: flex;
+      align-items: baseline;
+      gap: .35rem;
+      font-variant-numeric: tabular-nums;
+    }
+    .ytd b {
+      font-size: 1.55rem;
+      font-weight: 700;
+      line-height: 1.1;
+    }
+    .ytd i {
+      font-style: normal;
+      font-size: .92rem;
+      font-weight: 600;
+    }
+    .sub { color: var(--muted); font-size: .78rem; margin: 0 0 .2rem; }
+    .actions { margin: 0 0 .25rem; }
+    a.btn, button.btn {
+      display: inline-block;
+      color: var(--fg);
+      background: #27272a;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: .3rem .7rem;
+      text-decoration: none;
+      font: inherit;
+      font-size: .8rem;
+      cursor: pointer;
+    }
+    .up { color: var(--up); }
+    .down { color: var(--down); }
+    .empty, .warn { color: var(--muted); padding: 0 .5rem; }
+    .warn { color: #fbbf24; }
+    .list {
+      flex: 1;
+      min-height: 0;
+      overflow-x: hidden;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+      padding: 0;
+    }
+    table {
+      width: 100%;
+      table-layout: fixed;
+      border-collapse: collapse;
+      font-variant-numeric: tabular-nums;
+      font-size: .62rem;
+    }
+    th, td {
+      text-align: right;
+      padding: .32rem .08rem;
+      border-bottom: 1px solid var(--line);
+      white-space: nowrap;
+    }
+    th {
+      color: var(--muted);
+      font-weight: 500;
+      font-size: .62rem;
+      background: var(--bg);
+      line-height: 1.2;
+    }
+    th.pin, td.pin {
+      text-align: left;
+      width: 3.4rem;
+      padding-left: .5rem;
+      overflow: visible;
+      position: sticky;
+      left: 0;
+      z-index: 1;
+      background: var(--bg);
+    }
+    thead {
+      position: sticky;
+      top: 0;
+      z-index: 3;
+    }
+    thead th {
+      box-shadow: 0 1px 0 var(--line);
+    }
+    thead th.pin { z-index: 4; }
+    td.name, th.sym {
+      text-align: center;
+      font-weight: 650;
+      font-size: .64rem;
+    }
+    th.sym { font-weight: 500; font-size: .62rem; }
+    tr.names td { background: var(--card); border-bottom: none; padding-top: .45rem; padding-bottom: .16rem; }
+    tr.names td.pin { background: var(--card); font-weight: 650; }
+    tr.cum td { background: var(--card); border-bottom: 2px solid var(--line); }
+    tr.cum td.pin { background: var(--card); color: var(--muted); font-size: .68rem; }
+    td.combo { font-weight: 600; }
+    /* Latest-month cumulative only: highlight + enlarge 통합 */
+    tr.cum.hi {
+      position: sticky;
+      top: 1.55rem;
+      z-index: 2;
+    }
+    tr.cum.hi td {
+      background: #243d34;
+      border-bottom: 2px solid #34d399;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, .28);
+    }
+    tr.cum.hi td.pin {
+      background: #243d34;
+      color: #e4e4e7;
+      font-weight: 650;
+      box-shadow: inset 3px 0 0 #34d399;
+    }
+    tr.cum.hi td.combo {
+      font-size: .88rem;
+      font-weight: 750;
+    }
+    tr.cum.past td {
+      opacity: .72;
+    }
+    .nav {
+      display: flex;
+      gap: .35rem;
+      margin: 0 0 .35rem;
+      flex-wrap: wrap;
+    }
+    .nav a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: .78rem;
+      padding: .2rem .55rem;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+    }
+    .nav a.on {
+      color: var(--fg);
+      background: #27272a;
+      border-color: #3f3f46;
+    }
+    .top10-list {
+      flex: 1;
+      min-height: 0;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+      padding: 0 .35rem .8rem;
+    }
+    .top10-row {
+      display: flex;
+      align-items: center;
+      gap: .55rem;
+      padding: .55rem .4rem;
+      border-bottom: 1px solid var(--line);
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .top10-row:active, .top10-row.copied { background: #1c1c1f; }
+    .top10-rank {
+      flex: 0 0 1.6rem;
+      font-size: 1.15rem;
+      font-weight: 750;
+      font-variant-numeric: tabular-nums;
+      color: var(--muted);
+      text-align: center;
+    }
+    .top10-rank.slot { color: var(--up); }
+    .top10-main { min-width: 0; flex: 1; }
+    .top10-sym {
+      font-size: 1.05rem;
+      font-weight: 700;
+      letter-spacing: .02em;
+    }
+    .top10-name {
+      color: var(--muted);
+      font-size: .72rem;
+      margin-top: .08rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .top10-nums {
+      flex: 0 0 auto;
+      text-align: right;
+      font-variant-numeric: tabular-nums;
+    }
+    .top10-mom { font-size: 1rem; font-weight: 700; }
+    .top10-day { font-size: .72rem; color: var(--muted); margin-top: .08rem; }
+    .top10-badges { display: flex; gap: .25rem; margin-top: .18rem; flex-wrap: wrap; }
+    .badge {
+      font-size: .62rem;
+      font-weight: 650;
+      padding: .08rem .28rem;
+      border-radius: 4px;
+      background: #27272a;
+      color: var(--muted);
+    }
+    .badge.hold { background: #1e3a2f; color: var(--up); }
+    .badge.slot { background: #1e293b; color: #93c5fd; }
+    .toast {
+      position: fixed; left: 50%; bottom: .9rem;
+      transform: translateX(-50%) translateY(140%);
+      background: #f4f4f5; color: #111;
+      font-size: .75rem; font-weight: 650;
+      padding: .28rem .7rem; border-radius: 999px;
+      pointer-events: none; transition: transform .16s;
+    }
+    .toast.show { transform: translateX(-50%) translateY(0); }
+    select.archive {
+      font: inherit; color: var(--fg); background: #18181b;
+      border: 1px solid var(--line); border-radius: 999px;
+      padding: .15rem .5rem; font-size: .78rem;
+    }
+</style>
+</head>
+<body data-today="2026-09-04">
+  <main>
+    
+    <div class="chrome">
+      <div class="nav"><a class="" href="../index.html">일별</a><a class="on" href="../top10.html">Top10</a></div>
+      <div class="ytd">
+        <span>모멘텀 Top10</span>
+        <div class="nums"><b>2026-09-02</b></div>
+      </div>
+      <p class="sub">핀 규칙 동일: 매매시점 스냅샷500(시총패널 없음) · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5) · 시총500 · <select class="archive" id="archive" aria-label="날짜"><option value="2026-09-04">2026-09-04</option><option value="2026-09-03">2026-09-03</option><option value="2026-09-02" selected>2026-09-02</option><option value="2026-09-01">2026-09-01</option><option value="2026-08-31">2026-08-31</option></select></p>
+      <div class="actions">
+        <button type="button" class="btn" id="reload">새로고침</button>
+      </div>
+    </div>
+    <div class="top10-list"><div class="top10-row" data-sym="MRNA" role="button"><div class="top10-rank slot">1</div><div class="top10-main"><div class="top10-sym">MRNA</div><div class="top10-name">Moderna</div><div class="top10-badges"><span class="badge slot">Top5</span><span class="badge hold">보유</span></div></div><div class="top10-nums"><div class="top10-mom up">+214.5%</div><div class="top10-day">당일 0.0%</div></div></div><div class="top10-row" data-sym="CRL" role="button"><div class="top10-rank slot">2</div><div class="top10-main"><div class="top10-sym">CRL</div><div class="top10-name">Charles River Laboratories</div><div class="top10-badges"><span class="badge slot">Top5</span><span class="badge hold">보유</span></div></div><div class="top10-nums"><div class="top10-mom up">+57.0%</div><div class="top10-day">당일 0.0%</div></div></div><div class="top10-row" data-sym="VEEV" role="button"><div class="top10-rank slot">3</div><div class="top10-main"><div class="top10-sym">VEEV</div><div class="top10-name">Veeva Systems</div><div class="top10-badges"><span class="badge slot">Top5</span><span class="badge hold">보유</span></div></div><div class="top10-nums"><div class="top10-mom up">+56.2%</div><div class="top10-day">당일 0.0%</div></div></div><div class="top10-row" data-sym="DASH" role="button"><div class="top10-rank slot">4</div><div class="top10-main"><div class="top10-sym">DASH</div><div class="top10-name">DoorDash</div><div class="top10-badges"><span class="badge slot">Top5</span></div></div><div class="top10-nums"><div class="top10-mom up">+46.0%</div><div class="top10-day">당일 0.0%</div></div></div><div class="top10-row" data-sym="MPC" role="button"><div class="top10-rank slot">5</div><div class="top10-main"><div class="top10-sym">MPC</div><div class="top10-name">Marathon Petroleum</div><div class="top10-badges"><span class="badge slot">Top5</span><span class="badge hold">보유</span></div></div><div class="top10-nums"><div class="top10-mom up">+43.7%</div><div class="top10-day">당일 0.0%</div></div></div><div class="top10-row" data-sym="TECH" role="button"><div class="top10-rank">6</div><div class="top10-main"><div class="top10-sym">TECH</div><div class="top10-name">Bio-Techne</div></div><div class="top10-nums"><div class="top10-mom up">+42.1%</div><div class="top10-day">당일 0.0%</div></div></div><div class="top10-row" data-sym="IQV" role="button"><div class="top10-rank">7</div><div class="top10-main"><div class="top10-sym">IQV</div><div class="top10-name">IQVIA</div></div><div class="top10-nums"><div class="top10-mom up">+41.9%</div><div class="top10-day">당일 0.0%</div></div></div><div class="top10-row" data-sym="VLO" role="button"><div class="top10-rank">8</div><div class="top10-main"><div class="top10-sym">VLO</div><div class="top10-name">Valero Energy</div></div><div class="top10-nums"><div class="top10-mom up">+39.0%</div><div class="top10-day">당일 0.0%</div></div></div><div class="top10-row" data-sym="GPC" role="button"><div class="top10-rank">9</div><div class="top10-main"><div class="top10-sym">GPC</div><div class="top10-name">Genuine Parts Company</div></div><div class="top10-nums"><div class="top10-mom up">+38.7%</div><div class="top10-day">당일 0.0%</div></div></div><div class="top10-row" data-sym="ZBRA" role="button"><div class="top10-rank">10</div><div class="top10-main"><div class="top10-sym">ZBRA</div><div class="top10-name">Zebra Technologies</div><div class="top10-badges"><span class="badge hold">보유</span></div></div><div class="top10-nums"><div class="top10-mom up">+37.9%</div><div class="top10-day">당일 0.0%</div></div></div></div>
+    <div class="toast" id="toast">복사됨</div>
+    
+  </main>
+  <script>
+
+(function () {
+  var standalone = window.navigator.standalone === true
+    || window.matchMedia("(display-mode: standalone)").matches;
+  function bust() {
+    var u = new URL(location.href);
+    u.search = "";
+    u.searchParams.set("_r", String(Date.now()));
+    location.replace(u.pathname + u.search);
+  }
+  if (standalone && !new URL(location.href).searchParams.has("_r")) bust();
+  window.addEventListener("pageshow", function (e) {
+    if (e.persisted) bust();
+  });
+  var left = false;
+  document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState !== "visible") { left = true; return; }
+    if (!standalone || !left) return;
+    left = false;
+    var last = Number(sessionStorage.getItem("invest_web_at") || 0);
+    if (last && Date.now() - last > 60 * 1000) bust();
+    sessionStorage.setItem("invest_web_at", String(Date.now()));
+  });
+  sessionStorage.setItem("invest_web_at", String(Date.now()));
+  var btn = document.getElementById("reload");
+  if (btn) btn.addEventListener("click", function (e) {
+    e.preventDefault();
+    bust();
+  });
+})();
+
+
+(function () {
+  var toast = document.getElementById("toast");
+  function show(msg) {
+    if (!toast) return;
+    toast.textContent = msg;
+    toast.classList.add("show");
+    setTimeout(function () { toast.classList.remove("show"); }, 900);
+  }
+  document.querySelectorAll(".top10-row[data-sym]").forEach(function (row) {
+    row.addEventListener("click", function () {
+      var sym = row.getAttribute("data-sym") || "";
+      if (!sym) return;
+      function done() {
+        row.classList.add("copied");
+        show(sym + " 복사");
+        setTimeout(function () { row.classList.remove("copied"); }, 400);
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(sym).then(done).catch(done);
+      } else {
+        done();
+      }
+    });
+  });
+  var sel = document.getElementById("archive");
+  if (sel) {
+    sel.addEventListener("change", function () {
+      var d = sel.value;
+      var today = document.body.getAttribute("data-today") || "";
+      if (!d) return;
+      var inEdition = /\/top10\/[^/]+\.html$/.test(location.pathname);
+      if (d === today) {
+        location.href = inEdition ? "../top10.html" : "top10.html";
+      } else {
+        location.href = inEdition
+          ? (encodeURIComponent(d) + ".html")
+          : ("top10/" + encodeURIComponent(d) + ".html");
+      }
+    });
+  }
+})();
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#0c0c0e">
+<title>쇼츠 재료 · 2026-09-03</title>
+<style>
+:root { --bg:#0c0c0e; --fg:#f4f4f5; --muted:#a1a1aa; --line:#27272a; --ok:#34d399; }
+* { box-sizing:border-box; }
+html, body { height:100%; }
+body {
+  margin:0; display:flex; flex-direction:column; overflow:hidden;
+  font:12.5px/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo",sans-serif;
+  background:var(--bg); color:var(--fg);
+}
+header {
+  flex:0 0 auto; display:flex; align-items:center; gap:.5rem;
+  padding:.28rem .45rem; border-bottom:1px solid var(--line);
+}
+h1 { font-size:.82rem; margin:0; font-weight:700; }
+select {
+  font:inherit; color:var(--fg); background:#18181b;
+  border:1px solid var(--line); border-radius:999px; padding:.08rem .5rem;
+}
+.board {
+  flex:1; min-height:0; display:grid;
+  grid-template-columns:repeat(2, minmax(0, 1fr));
+}
+.col {
+  min-width:0; min-height:0; display:flex; flex-direction:column;
+  border-right:1px solid var(--line);
+}
+.col:last-child { border-right:0; }
+.col h2 {
+  flex:0 0 auto; margin:0; padding:.28rem .45rem;
+  font-size:.78rem; font-weight:700; border-bottom:1px solid var(--line);
+}
+.list { flex:1; min-height:0; display:flex; flex-direction:column; }
+.row {
+  flex:1 1 0; min-height:0; display:flex; align-items:flex-start; gap:.28rem;
+  padding:.12rem .4rem; border-bottom:1px solid var(--line); cursor:pointer;
+  -webkit-tap-highlight-color:transparent;
+}
+.row:last-child { border-bottom:0; }
+.row:active, .row.copied { background:#1c1c1f; }
+.row.empty { cursor:default; }
+.row.empty .n { opacity:.35; }
+.n {
+  flex:0 0 1.05rem; color:var(--muted); font-variant-numeric:tabular-nums;
+  font-size:.7rem; padding-top:.05rem;
+}
+.tag {
+  flex:0 0 auto; color:#111; background:#fbbf24; font-size:.68rem; font-weight:750;
+  line-height:1.2; padding:.08rem .28rem; border-radius:4px; white-space:nowrap;
+  margin-top:.02rem;
+}
+.hook {
+  min-width:0; flex:1; overflow:hidden; font-weight:600; line-height:1.25;
+  word-break:keep-all; overflow-wrap:break-word;
+}
+.toast {
+  position:fixed; left:50%; bottom:.7rem; transform:translateX(-50%) translateY(140%);
+  background:#f4f4f5; color:#111; font-size:.75rem; font-weight:650;
+  padding:.28rem .7rem; border-radius:999px; pointer-events:none; transition:transform .16s;
+}
+.toast.show { transform:translateX(-50%) translateY(0); }
+</style>
+</head>
+<body data-date="2026-09-03">
+<header>
+  <h1>쇼츠 재료</h1>
+  <select id="archive" aria-label="날짜"><option value="2026-09-03" selected>2026-09-03</option><option value="2026-09-02">2026-09-02</option><option value="2026-09-01">2026-09-01</option><option value="2026-08-31">2026-08-31</option></select>
+</header>
+<div class="board"><section class="col"><h2>군림보</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMiWkFVX3lxTE54UFEyanRuNExXaGpkQmRFUWVtMTJ1bS1jZTNfOHRybHVpNDJVTEFYUFZaX0F0bHMxZkFqdWc1QUVISUc5RW4xdWxhcGRWTWRoQ0pjMXcyeU9Hdw?oc=5" role="button"><span class="n">1</span><span class="tag">북한</span><span class="hook">[인터뷰] 안킷 판다 “트럼프·김정은 협상 위험할 수도···그럼에도 추진할 가치 있어”</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nc3U1Q3hEVFhqeEFYOHFheUlqcUcxbmZ6RHp1Ri1ZbncyaGEwejJDM0dUdXF3UXlXZURpRDJ6Q0FJdDl6c2pfcHF0NW83VEplXzUwWWpoTk8xbHBWaXNxSTdnVkZIdw?oc=5" role="button"><span class="n">2</span><span class="tag">사건</span><span class="hook">경찰차 들이받고 도주…실탄에 테이저건까지 발사</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMidEFVX3lxTE5CM2E4MHo3UGl6VWIxdmVueTZzQnlaejJ1N0htN3ZGbnMzQUhvSkU2UzhqUDNmbGx5MnIwSHoxX0h3Nkc2c05KRUJKSVdhRTY4QmxTMVhMOTZFR3BjZUktN0Znc1I4bHhST0JLQm14bFFhcjFR?oc=5" role="button"><span class="n">3</span><span class="tag">이슈</span><span class="hook">김민석, 용혜인 논란에 “깊이 생각 중…국민 목소리 존중할 필요”</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81MDUyLVV1TEhLSFRTS2czVEpWVVV6T0ZmSWNEeFRyUVlaaGJzS3RwNmxiUGZ5QkZPMUR2ZlUyTHhaRlQ1aHB3c3hRU2RXcVFiQUNsamU2YUI2SWt5dTNIWENHc0xoZms?oc=5" role="button"><span class="n">4</span><span class="tag">사건</span><span class="hook">2년4개월 공석 한국공항공사 사장에 경찰 출신 김원준</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiW0FVX3lxTE92QlRQYkRwN201S2tvRkc2ZkRUY3NhY1hoMkdKbFpZc0J5MFBiZUhGVEZTT1F3ZjBzT3lJUURyY1JLOGlWbzdzUXdtOXltelZ1SXRtVGRlTFhRdlU?oc=5" role="button"><span class="n">5</span><span class="tag">사건</span><span class="hook">[단독] 경찰, ‘직원 등 명의 110억 차명 예금’ 새마을금고 이사장 수사</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMid0FVX3lxTE9MOFZnOHFDMzFROUllVUVMQWxfZFJOOVZFYmQ0ZnBsTkJGT1dLdmJHcHlkVEs0LVJfZDRuOExHOG9hMnRtSzRXM21PM21mM0lld29lc1NkUzFkRGN5V0FHTGwzTjROQ1l2M1FaclpFVUJHT1N4NEJv0gF3QVVfeXFMTWVfUEVwR0paMGV3MGRNY19WSTVsdUNHYVg1V09OZTM5a0k1Mm9EN1pjWnJhQVZweXZpNGRwQVhXS3ZrS0RScEhPTldfeFlmRC16UExVZ09OU3BLa2lKLTkzRzVmOTh3R0xJeXRPMUk3TDNhc3Ntam8?oc=5" role="button"><span class="n">6</span><span class="tag">사건</span><span class="hook">신임 경찰 수장 첫 지휘부 회의 소집‥&quot;국민 신뢰 세우기 위해 근본 쇄신&quot;</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiakFVX3lxTE5la0RKNlVFZjJzSzhfOFlza21ZUVVSamhTbzRJWWluYTN1NkVqWDhtWWtTd1Z6SGJUajRfZnhDSXRwNFhtUlBDczd4OXFLdHlWcEdjajNsNTE2M3pZRVFhc0QxWlotMVAxWGc?oc=5" role="button"><span class="n">7</span><span class="tag">이슈</span><span class="hook">현실적 이적 시장 구현한 축구 게임, ‘EA SPORTS FC 27’ 패키지 예약 개시</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wWEEyd2dsTWUtT1JzLTJwd1ItUFR5SUxjdnFXeGZNR2Z1d3VrZVpiV1MwOXNWdWtHVG1qcklhVGQ2azVRdnJWMEs5Y3BJMzQ?oc=5" role="button"><span class="n">8</span><span class="tag">사건</span><span class="hook">&#x27;홍명보 선임 의혹&#x27; 정몽규 11시간 반 경찰 조사…&quot;부당 개입 없어&quot;(종합)</span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section><section class="col"><h2>뇌전구</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHF2T25xc21DLWRZZld0ajBnWklvTUpleFNqa21xOTI4dENxN08xdXR1cFJ3SHk1alFLazlGRTB4amRJRWpEMUpIbWhhX2NXS3FrTk9lQkZ5dllIczM5Q2NCeU5ZSTdZNlhIcG9zZU5Vc3QxQVVqZDQzbkFkMHhYaTJwY0o?oc=5" role="button"><span class="n">1</span><span class="tag">연예</span><span class="hook">&#x27;박위 논란&#x27; 커지는 후폭풍...기존 &#x27;사회실험&#x27; 영상도 무더기 삭제 채널 비상</span></div><div class="row empty"><span class="n">2</span><span class="hook"></span></div><div class="row empty"><span class="n">3</span><span class="hook"></span></div><div class="row empty"><span class="n">4</span><span class="hook"></span></div><div class="row empty"><span class="n">5</span><span class="hook"></span></div><div class="row empty"><span class="n">6</span><span class="hook"></span></div><div class="row empty"><span class="n">7</span><span class="hook"></span></div><div class="row empty"><span class="n">8</span><span class="hook"></span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section></div>
+<div class="toast" id="toast">링크 복사됨</div>
+<script>
+const DATE = document.body.dataset.date;
+fetch("archive.json").then(r => r.json()).then(dates => {
+  const sel = document.getElementById("archive");
+  const latest = dates[0];
+  sel.innerHTML = dates.map(d => {
+    const selAttr = d === DATE ? " selected" : "";
+    return '<option value="'+d+'"'+selAttr+'>'+d+'</option>';
+  }).join("");
+  sel.onchange = () => {
+    const d = sel.value;
+    location.href = (d === latest) ? "index.html" : (d + ".html");
+  };
+}).catch(() => {});
+const toastEl = document.getElementById("toast");
+let toastTimer;
+function toast() {
+  toastEl.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toastEl.classList.remove("show"), 900);
+}
+document.querySelectorAll(".row[data-url]").forEach(row => {
+  row.addEventListener("click", async () => {
+    const url = row.getAttribute("data-url");
+    if (!url) return;
+    await navigator.clipboard.writeText(url);
+    row.classList.add("copied");
+    setTimeout(() => row.classList.remove("copied"), 500);
+    toast();
+  });
+});
+function linePx(el) {
+  const cs = getComputedStyle(el);
+  if (cs.lineHeight.endsWith("px")) return parseFloat(cs.lineHeight);
+  return parseFloat(cs.fontSize) * 1.25;
+}
+function fitHooks() {
+  document.querySelectorAll(".hook").forEach(el => {
+    el.style.display = "block";
+    el.style.webkitLineClamp = "unset";
+    if (el.scrollHeight <= el.clientHeight + 1) return;
+    const n = Math.max(1, Math.floor(el.clientHeight / linePx(el)));
+    el.style.display = "-webkit-box";
+    el.style.webkitBoxOrient = "vertical";
+    el.style.webkitLineClamp = String(n);
+  });
+}
+window.addEventListener("resize", fitHooks);
+requestAnimationFrame(fitHooks);
+</script>
+</body>
+</html>

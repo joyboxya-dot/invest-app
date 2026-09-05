@@ -1,0 +1,168 @@
+{
+  "date": "2026-09-02",
+  "built_at": "2026-09-02 09:26",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/02 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "장애인 혐오로 번지는 ‘박위 논란’…“안전한 이동권·인식 차이 짚어야”",
+          "hook": "장애인 혐오로 번지는 박위 논란…안전한 이동권·인식 차이 짚어야",
+          "topic": "연예",
+          "why": "누가 뭘 했는지 한 줄로 떨어진다. 클릭 이유 분명.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10YlEtSUZxN01fWTVDQjNsOEZ2RWZtVHVoTlpnU2xKcktYVEROdkpWQ1h1eHFzUDZqWVRYOWVzS2Z4Y2w1T0ctaXdxcHVpMVZDTGdrRC11NmRqd9IBX0FVX3lxTFB4U1EwbS0wdU9GVHRQUzVaM3RmcEZRay1DNFAxYnpIdWZOQWs3dkVLSURxeHVpQXk5RTk5T2wwU2hRSWFaVFVmZnRMWFF4MmxjbTBRUUVjWVgybWl4ODlr?oc=5",
+          "source_date": "2026-09-01"
+        },
+        {
+          "item": "국회 행안위, '특조위 1년 연장' 이태원참사 특별법 개정안 의결",
+          "hook": "국회 행안위, 특조위 1년 연장 이태원참사 특별법 개정안 의결",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FVnh4Z21sZlptdnhFb0xObmExWldxMDFrdDdOdzI4RnVMMEw0TFJFbHlTZDg5dGZscFY2WXU4SnpUWkFfTjRacmRRTUhrMWcyQkh5LThhZWRkVzdVVmhYXzZtMkJHaFFtNWJUQnZUdzNYT2xaMkZrRNIBeEFVX3lxTFBNZ2I4dlN3em5BVnlQbUdVV2hqbVpvRzZxWjdPc0tZeWE5VFpISnRJWWFfVnJCSDY1dFZPbjZvZjgwSXVfa3NReEJBTC1qRDU0WkM3VkQyTjF4OVJzQWtoNkNMckRzS2pHanpuLU80UTJlQzQ0ZGcwSg?oc=5",
+          "source_date": "2026-09-01"
+        },
+        {
+          "item": "클로드 맥스 플랜 '5x·20x' 표시 논란... 오픈AI \"코덱스는 진짜 20배\"",
+          "hook": "클로드 맥스 플랜 5x·20x 표시 논란... 오픈AI 코덱스는 진짜 20배",
+          "topic": "AI",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "AI타임스",
+          "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0eXVkUFJlZUhtRnNnZ2p3RFJMV3Nzc2xEVHdXM2FNWlBYMERzTkF0UG9vYWdTajZlVHhWajNBS25hSU5VeFVCUHVaMDNpUEEtTTRXSVZjZ3JPMFBBTTFpVEVtZHo5UXFlY3c?oc=5",
+          "source_date": "2026-09-01"
+        },
+        {
+          "item": "경찰청 차장에 김종철…서울청장 고범석·인천청장 유승렬",
+          "hook": "경찰청 차장에 김종철…서울청장 고범석·인천청장 유승렬",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWXVJMU1OOHZ6dnJGb284eS1XWEo3eGRNN2RzMTM3SWpJenVIZjFsdXdSZFJPOGVZLXdXT2hPT21YYUNKNVlHOXg1X0tLY0lNQUtOMkpKeDN0LTFGdmoyb1UxV2g3T0N4UXR4N0FPMGc3RENBTTQ1RFVseGxiR285RGllcU9ib3JuOXpEdEhjMVY?oc=5",
+          "source_date": "2026-09-01"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          4
+        ],
+        "money": [],
+        "tech": [
+          3
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "왜 박진희까지 머리채 잡나...박위 논란 '불똥' 김기리 이어 또 '3자' 소환 [핫피플]",
+              "hook": "왜 박진희까지 머리채 잡나...박위 논란 불똥 김기리 이어 또 3자 소환",
+              "topic": "연예",
+              "summary": "왜 박진희까지 머리채 잡나...박위 논란 '불똥' 김기리 이어 또 '3자' 소환 [핫피플] 왜 박진희까지 머리채 잡나...박위 논란 '불똥' 김기리 이어 또 '3자' 소환 [핫피플]    조선일보",
+              "openings": [
+                "왜 박진희까지 머리채 잡나...박위 논란 '불똥' 김기리 이어 또 '3자' 소환 [핫피플]."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-09-01",
+              "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMDJueW5zWVFmQTVCTjJqSEtDaFYyNnN2TEh4bWN3Q0JIS3ZxdU9lckp6T3JoZjZTSnpYaVhMd2twaExxQW5MV1RVNjZJZGpDaTliaEFJa05jMUpfQ0xid0FLWWhSRXBTOTZOOUpqelYxb0ItXzlqTmtyb1N4R2VXc2wxTWJ0dDU4Zm5vdXA1aw?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "\"박위, 친동생처럼 생각한다\"더니…논란 터지자 'SNS 활동' 중단한 박진희",
+              "hook": "박위, 친동생처럼 생각더니…논란 터지자 SNS 활동 중단한 박진희",
+              "topic": "연예",
+              "summary": "\"박위, 친동생처럼 생각한다\"더니…논란 터지자 'SNS 활동' 중단한 박진희 \"박위, 친동생처럼 생각한다\"더니…논란 터지자 'SNS 활동' 중단한 박진희    news.nate.com",
+              "openings": [
+                "\"박위, 친동생처럼 생각한다\"더니…논란 터지자 'SNS 활동' 중단한 박진희."
+              ],
+              "source_name": "news.nate.com",
+              "source_date": "2026-09-01",
+              "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOcjNvdFJwRGp1akZkbEVBVkoxal94WjF6WGNLRkh2RVVvdlZMSzRwRll2U1o4R1FDeGxUdndkMlppdlJwSDVjNjBKbUpKVERwQ2tpU1I3bGZmVURGQmsxXw?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "박위, KTX 논란 후 사회실험 영상 13개 비공개 전환",
+              "hook": "박위, KTX 논란 후 사회실험 영상 13개 비공개 전환",
+              "topic": "연예",
+              "summary": "박위, KTX 논란 후 사회실험 영상 13개 비공개 전환 박위, KTX 논란 후 사회실험 영상 13개 비공개 전환    news.nate.com",
+              "openings": [
+                "박위, KTX 논란 후 사회실험 영상 13개 비공개 전환."
+              ],
+              "source_name": "news.nate.com",
+              "source_date": "2026-09-01",
+              "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XLU0xV2s5c1NmU0hQOXRKSWN2SE9XdHVrdXpwUFJTazVxbDRzdGhhLWY4MFhkTUNlWUlyak50TllXZGpvSjZYMF93bmlrUWgwMTNn?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "결국 9월까지 넘어왔다, 박위·하영·박수홍·'나혼산', 논란 장기화…사과 한번으로 안끝나 [엑's 이슈]",
+              "hook": "결국 9월까지 넘어왔다, 박위·하영·박수홍·나혼산, 논란 장기화…사과 한번으로 안끝나",
+              "topic": "연예",
+              "summary": "결국 9월까지 넘어왔다, 박위·하영·박수홍·'나혼산', 논란 장기화…사과 한번으로 안끝나 [엑's 이슈] 결국 9월까지 넘어왔다, 박위·하영·박수홍·'나혼산', 논란 장기화…사과 한번으로 안끝나 [엑's 이슈]    news.nate.com",
+              "openings": [
+                "결국 9월까지 넘어왔다, 박위·하영·박수홍·'나혼산', 논란 장기화…사과 한번으로 안끝나 [엑's 이슈]."
+              ],
+              "source_name": "news.nate.com",
+              "source_date": "2026-09-01",
+              "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6cE15YUVHeTVMc004OWVoYWNiMW51bnBxWnc5SDF0U0JxVkpUQk90eEkwV3EtVGpoQmtWYjd3aGhpSm5mNENudWs4ZzZoc1J3Z0I0?oc=5",
+              "priority": "B"
+            }
+          ]
+        },
+        {
+          "id": "tech",
+          "title": "🤖 IT·과학",
+          "items": [
+            {
+              "item": "차에서 내려 동물 곁으로... 에버랜드 ‘워킹 사파리’ 12일 개장",
+              "hook": "차에서 내려 동물 곁으로... 에버랜드 워킹 사파리 12일 개장",
+              "topic": "과학",
+              "summary": "차에서 내려 동물 곁으로... 에버랜드 ‘워킹 사파리’ 12일 개장 차에서 내려 동물 곁으로... 에버랜드 ‘워킹 사파리’ 12일 개장    조선일보    동물들 사이를 걸어서…에버랜드 '사바나 익스페디션' 12일 오픈    v.daum.net    맹수와 초식동물 사이를 걷다…에버랜드, 1km 도보 사파리 오픈    뉴스1    에버랜드 ‘와일드 사바나’ 오늘은 버스 대신 운동화    sports.donga.com    [경제 단신] 에버랜드 ‘와일드 사바나’ 12일 개장 외    세계일보",
+              "openings": [
+                "차에서 내려 동물 곁으로... 에버랜드 ‘워킹 사파리’ 12일 개장."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-09-01",
+              "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc05xMVJxaFBJSms1c2NwcnMxcTlRVzFENTA0SHptZDNRVV9xQUhESTZJbzM2WGtfVWh3UGE3Tm1KaXR5bldQZzEyVE9pX1FyOXVoSHBpYlN4Zl9nRk91MnMtZk0tWjlHMzdSVC1CdkFQQmpIYjVQWVdNckhsUS1peHRXRnVsX3ZjZ0Y0UlNsWQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    }
+  ]
+}
