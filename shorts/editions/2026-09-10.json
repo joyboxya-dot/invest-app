@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-10",
+  "built_at": "2026-09-10 09:28",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/10 기준, 후보 8건에서 장면·갈등·기괴 과학 축으로 8건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "北 정권수립일 기념행사…김정은 \"애국심과 헌신적 기여로 전진\"",
+          "hook": "北 정권수립일 기념행사…김정은 애국심과 헌신적 기여로 전진",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MjZ1aHVFY1JrYlV4Q0ZwWXFZU1k5SnM5S05MNkJNZ2xnTF9CSUg4MlFSbTd4bDVaRElWU0llR1g5ZC1rYm1pczlwdnExQ1gxZ0dUallHTVVYbkHSAWBBVV95cUxNVC1Za0xhOV9QU2pEZlBwV1U0ZnAwaGp0NnBhalhJZ0ZRbS1PdWM0amVYNmZ5d0lhdi1POEMxMFNselJ3SVJFemFLdWhXdkN2N3pFTEEyRVhwSFNRb1lNcUI?oc=5",
+          "source_date": "2026-09-09"
+        },
+        {
+          "item": "대형견에 물려 소형견 숨지자…견주가 스쿠터로 돌진 ’복수’",
+          "hook": "대형견에 물려 소형견 숨지자…견주가 스쿠터로 돌진 복수",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xX29uQURxeEQyRUVyWjB1dW5VX1M0TlN4Y2JlOG4wN1J6U3RxVkNTX0tET2N4OHRESF90aEROdlFuQjZxMTEtRVhEY05FMF8zR21XLWZuWFJwQ0s4MElndVFPeVNqUlk?oc=5",
+          "source_date": "2026-09-09"
+        },
+        {
+          "item": "로먼 망원경, 허블 시야 100배… \"외계행성 10만개 찾아라\"",
+          "hook": "로먼 망원경, 허블 시야 100배… 외계행성 10만개 찾아라",
+          "topic": "우주",
+          "why": "그림이 세고 한 번에 이해된다. 다시 보기 좋은 과학.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNblBFSHd0NHlUT25xc3FqYXZEQ1ZlSlpUZml3V1V2ekhxYzF4YjM2UVBKdFlDYmt2SXk5UE5iYVJPRGNQbHRZMHlwVXZVajExbGg0d3pIWFpiUnhDdDJHSWJCMGd6c2RWN2dFRnJVOHRCdnJrRkI5cXBWTmFzVmNBbEE2TQ?oc=5",
+          "source_date": "2026-09-09"
+        },
+        {
+          "item": "\"장인한테 조끼 발주\" 특혜 논란에 불신임 투표까지…삼성 노조 균열",
+          "hook": "장인한테 조끼 발주 특혜 논란에 불신임 투표까지…삼성 노조 균열",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "머니투데이",
+          "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lWjJjNUJLVzlZWUFBdmEzb3V2RlYxVlFfQjBjMFJvMm9vTEU3WlA5RmVUTTVCQXpuMkhXRW5sekRENDZJMVdSSkFDakd3cjlyaDI3aW9TN01paVRCRllfbG51bVBWajRVZkF0d9IBckFVX3lxTFAyUWhkZXVHY1U3YnJlQXJOcmV3dUVYOUQ1WnkwZ19iOElNQVVUNFRoMW9rbWpJZ2pwdlA5eVlyalJaQjluT292dGdtdWdja243WnU3MEFOQU05eDRxMmotT3JGNGt3YlVRdFNyYWdxZHVUdw?oc=5",
+          "source_date": "2026-09-09"
+        },
+        {
+          "item": "[비즈톡톡] ‘역대급 흥행’ 갤럭시Z8 ‘모서리 눌림’ 논란 뭐길래",
+          "hook": "역대급 흥행 갤럭시Z8 모서리 눌림 논란 뭐길래",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Chosunbiz",
+          "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3BWWnhIUmNWTVA4OHVkczB5cG1GRklOZWh6X2E0UWFvcUxvcVI0dEpCdFBkenllT3FKTFhpcTFNOE9wcHRZMmFqaE1Gd3V4dlRIeWNJUi0xU09PbWd1elBZWVo2U0R6ZWNLTktWXzJ1aTYwNkFnRmpXMkEtMTRLX3F3?oc=5",
+          "source_date": "2026-09-09"
+        },
+        {
+          "item": "경찰 제복, 10년만에 바뀌는데…헌 경찰복 13만명분, 가방·새 옷 변신",
+          "hook": "경찰 제복, 10년만에 바뀌는데…헌 경찰복 13만명분, 가방·새 옷 변신",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iT2hYcVh1RkljODFySk84YU9GeEllaVZKYUl6dGVvWWtfczNES1IyQ1BWc3ljazZQcS1TQlo3NFU0dmc2VDNuX2Z5clZZS3BxWE9qVg?oc=5",
+          "source_date": "2026-09-09"
+        },
+        {
+          "item": "올림픽공원 개표소 경찰 폭행 60대 1심 징역형 집행유예",
+          "hook": "올림픽공원 개표소 경찰 폭행 60대 1심 징역형 집행유예",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NSXlHS0tCYVh2d3JtSmo3c2xZTE5hd0dzNjZtMW9RUVdlX0h2ZjNUcjlHMFRkS2REVjJtNGNaekRCRVkxMlhkdmxKVmhaWFcxc3BQNDZ0eTRfTG9sZVh6YU9NRHl0a0llTm5ydzVzU0ZMVDNGYTB30gF3QVVfeXFMUHZHVmRNa1RpdklxTmpFM0hVdENfNEJVSUp4WnJOdlpMS3d0LWtXUHEyQUxvdEt1bXVjWUwxVjI4aGdDdEJjdVVfYkFYNXhhbHBsNEt0bkRwUW9YalkzdnYxYi1jZkUtN21Zd3poc1lnSE4xTy1HMXc?oc=5",
+          "source_date": "2026-09-09"
+        },
+        {
+          "item": "강도범이 몸싸움 중 떨어진 권총 주워 경찰관 향해 방아쇠 당겨",
+          "hook": "강도범이 몸싸움 중 떨어진 권총 주워 경찰관 향해 방아쇠 당겨",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "v.daum.net",
+          "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5WnpsSktzTGtmYlNoZFpDbnNwWTYtSFd4NFZVZ2xjZ0dkTURKTGhQU1ZLXzRZbkpWUUJIUjBoeE1fd1o2LWRDLXlFenZhTEU?oc=5",
+          "source_date": "2026-09-09"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "돈스파이크, 출소 후 근황 공개…바다 앞 식당 오픈 예고 “거의 다 됐다”",
+              "hook": "돈스파이크, 출소 후 근황 공개…바다 앞 식당 오픈 예고 거의 다 됐다",
+              "topic": "연예",
+              "summary": "돈스파이크, 출소 후 근황 공개…바다 앞 식당 오픈 예고 “거의 다 됐다” 돈스파이크, 출소 후 근황 공개…바다 앞 식당 오픈 예고 “거의 다 됐다”    v.daum.net    '마약 사범' 돈스파이크, 또 일 벌였다    뉴시스    '마약 3범' 돈스파이크, 출소 후 이름 내걸고 음식점 오픈…네티즌 갑론을박[이슈S]    v.daum.net    '출소' 돈스파이크 새 식당?…간판에 이름 '딱' - 머니투데이    머니투데이    '마약 3범' 돈스파이크 오션뷰 고깃집에 온라인 발칵 \"불안해\"vs\"먹고 살아야\"[SC이슈]    조선일보",
+              "openings": [
+                "돈스파이크, 출소 후 근황 공개…바다 앞 식당 오픈 예고 “거의 다 됐다”."
+              ],
+              "source_name": "v.daum.net",
+              "source_date": "2026-09-09",
+              "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyTUhfWlk0a21sNk0xZ3I0aXh2aGYya21QY3k0VzhNekdBR3d2MVhJWXY2cnM4V1d6WkxEaW9sSF9xM0lMZ0ZqVHdlWl82UkE?oc=5",
+              "priority": "A"
+            },
+            {
+              "item": "논란의 AI 배우, 미 언론과 첫 화상 인터뷰…“인간의 적 아닙니다” [잇슈 SNS]",
+              "hook": "논란의 AI 배우, 미 언론과 첫 화상 인터뷰…인간의 적 아닙니다",
+              "topic": "AI",
+              "summary": "논란의 AI 배우, 미 언론과 첫 화상 인터뷰…“인간의 적 아닙니다” [잇슈 SNS] 논란의 AI 배우, 미 언론과 첫 화상 인터뷰…“인간의 적 아닙니다” [잇슈 SNS]    news.kbs.co.kr    AI 배우의 첫 인터뷰…인간 배우들 비판에 “솔직히 깊은 슬픔”    주간조선    최초의 AI 배우, CNN과 인터뷰…\"명령어 없인 연기 못 해\"    뉴스1    [한 손 뉴스] “난 인간의 적 아냐”…AI배우, CNN과 화상 인터뷰    국제신문    “저는 인간의 적이 아니에요”···CNN과 인터뷰한 AI 배우, 부정적인 반응엔 “슬픔 느낀다” 호소    경향신문",
+              "openings": [
+                "논란의 AI 배우, 미 언론과 첫 화상 인터뷰…“인간의 적 아닙니다” [잇슈 SNS]."
+              ],
+              "source_name": "news.kbs.co.kr",
+              "source_date": "2026-09-09",
+              "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EZWNCUGtqd0JlYXhZZXJZSXB3Slh1Nk84MG5oRUxuZi0tVjVqZGYxNF91bG9GbnR6d1hGR0tjYlJsNGVTQlpSaFhadFpkbkQ3MTFtZjVBcjljZGZsVmRVbHJhMzFkQQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 9
+    }
+  ]
+}

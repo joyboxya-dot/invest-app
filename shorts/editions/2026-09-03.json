@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-03",
+  "built_at": "2026-09-03 09:32",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/03 기준, 후보 8건에서 장면·갈등·기괴 과학 축으로 8건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "[인터뷰] 안킷 판다 “트럼프·김정은 협상 위험할 수도···그럼에도 추진할 가치 있어”",
+          "hook": "안킷 판다 트럼프·김정은 협상 위험할 수도···그럼에도 추진할 가치 있어",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54UFEyanRuNExXaGpkQmRFUWVtMTJ1bS1jZTNfOHRybHVpNDJVTEFYUFZaX0F0bHMxZkFqdWc1QUVISUc5RW4xdWxhcGRWTWRoQ0pjMXcyeU9Hdw?oc=5",
+          "source_date": "2026-09-02"
+        },
+        {
+          "item": "경찰차 들이받고 도주…실탄에 테이저건까지 발사",
+          "hook": "경찰차 들이받고 도주…실탄에 테이저건까지 발사",
+          "topic": "사건",
+          "why": "그림이 세고 한 번에 이해된다. 다시 보기 좋은 과학.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nc3U1Q3hEVFhqeEFYOHFheUlqcUcxbmZ6RHp1Ri1ZbncyaGEwejJDM0dUdXF3UXlXZURpRDJ6Q0FJdDl6c2pfcHF0NW83VEplXzUwWWpoTk8xbHBWaXNxSTdnVkZIdw?oc=5",
+          "source_date": "2026-09-02"
+        },
+        {
+          "item": "김민석, 용혜인 논란에 “깊이 생각 중…국민 목소리 존중할 필요”",
+          "hook": "김민석, 용혜인 논란에 깊이 생각 중…국민 목소리 존중할 필요",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CM2E4MHo3UGl6VWIxdmVueTZzQnlaejJ1N0htN3ZGbnMzQUhvSkU2UzhqUDNmbGx5MnIwSHoxX0h3Nkc2c05KRUJKSVdhRTY4QmxTMVhMOTZFR3BjZUktN0Znc1I4bHhST0JLQm14bFFhcjFR?oc=5",
+          "source_date": "2026-09-02"
+        },
+        {
+          "item": "2년4개월 공석 한국공항공사 사장에 경찰 출신 김원준",
+          "hook": "2년4개월 공석 한국공항공사 사장에 경찰 출신 김원준",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81MDUyLVV1TEhLSFRTS2czVEpWVVV6T0ZmSWNEeFRyUVlaaGJzS3RwNmxiUGZ5QkZPMUR2ZlUyTHhaRlQ1aHB3c3hRU2RXcVFiQUNsamU2YUI2SWt5dTNIWENHc0xoZms?oc=5",
+          "source_date": "2026-09-02"
+        },
+        {
+          "item": "[단독] 경찰, ‘직원 등 명의 110억 차명 예금’ 새마을금고 이사장 수사",
+          "hook": "경찰, 직원 등 명의 110억 차명 예금 새마을금고 이사장 수사",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92QlRQYkRwN201S2tvRkc2ZkRUY3NhY1hoMkdKbFpZc0J5MFBiZUhGVEZTT1F3ZjBzT3lJUURyY1JLOGlWbzdzUXdtOXltelZ1SXRtVGRlTFhRdlU?oc=5",
+          "source_date": "2026-09-02"
+        },
+        {
+          "item": "신임 경찰 수장 첫 지휘부 회의 소집‥\"국민 신뢰 세우기 위해 근본 쇄신\"",
+          "hook": "신임 경찰 수장 첫 지휘부 회의 소집‥국민 신뢰 세우기 위해 근본 쇄신",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MOFZnOHFDMzFROUllVUVMQWxfZFJOOVZFYmQ0ZnBsTkJGT1dLdmJHcHlkVEs0LVJfZDRuOExHOG9hMnRtSzRXM21PM21mM0lld29lc1NkUzFkRGN5V0FHTGwzTjROQ1l2M1FaclpFVUJHT1N4NEJv0gF3QVVfeXFMTWVfUEVwR0paMGV3MGRNY19WSTVsdUNHYVg1V09OZTM5a0k1Mm9EN1pjWnJhQVZweXZpNGRwQVhXS3ZrS0RScEhPTldfeFlmRC16UExVZ09OU3BLa2lKLTkzRzVmOTh3R0xJeXRPMUk3TDNhc3Ntam8?oc=5",
+          "source_date": "2026-09-03"
+        },
+        {
+          "item": "현실적 이적 시장 구현한 축구 게임, ‘EA SPORTS FC 27’ 패키지 예약 개시",
+          "hook": "현실적 이적 시장 구현한 축구 게임, EA SPORTS FC 27 패키지 예약 개시",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "디지털포스트(PC사랑)",
+          "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5la0RKNlVFZjJzSzhfOFlza21ZUVVSamhTbzRJWWluYTN1NkVqWDhtWWtTd1Z6SGJUajRfZnhDSXRwNFhtUlBDczd4OXFLdHlWcEdjajNsNTE2M3pZRVFhc0QxWlotMVAxWGc?oc=5",
+          "source_date": "2026-09-03"
+        },
+        {
+          "item": "'홍명보 선임 의혹' 정몽규 11시간 반 경찰 조사…\"부당 개입 없어\"(종합)",
+          "hook": "홍명보 선임 의혹 정몽규 11시간 반 경찰 조사…부당 개입 없어()",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "v.daum.net",
+          "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wWEEyd2dsTWUtT1JzLTJwd1ItUFR5SUxjdnFXeGZNR2Z1d3VrZVpiV1MwOXNWdWtHVG1qcklhVGQ2azVRdnJWMEs5Y3BJMzQ?oc=5",
+          "source_date": "2026-09-02"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "'박위 논란' 커지는 후폭풍...기존 '사회실험' 영상도 무더기 삭제 채널 비상",
+              "hook": "박위 논란 커지는 후폭풍...기존 사회실험 영상도 무더기 삭제 채널 비상",
+              "topic": "연예",
+              "summary": "'박위 논란' 커지는 후폭풍...기존 '사회실험' 영상도 무더기 삭제 채널 비상 '박위 논란' 커지는 후폭풍...기존 '사회실험' 영상도 무더기 삭제 채널 비상    스포츠조선",
+              "openings": [
+                "'박위 논란' 커지는 후폭풍...기존 '사회실험' 영상도 무더기 삭제 채널 비상."
+              ],
+              "source_name": "스포츠조선",
+              "source_date": "2026-09-02",
+              "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHF2T25xc21DLWRZZld0ajBnWklvTUpleFNqa21xOTI4dENxN08xdXR1cFJ3SHk1alFLazlGRTB4amRJRWpEMUpIbWhhX2NXS3FrTk9lQkZ5dllIczM5Q2NCeU5ZSTdZNlhIcG9zZU5Vc3QxQVVqZDQzbkFkMHhYaTJwY0o?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 9
+    }
+  ]
+}
