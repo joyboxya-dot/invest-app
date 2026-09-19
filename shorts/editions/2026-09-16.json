@@ -1,0 +1,155 @@
+{
+  "date": "2026-09-16",
+  "built_at": "2026-09-16 09:43",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/16 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "허블 우주망원경보다 100배 넓게 보이는 로먼 우주망원경!",
+          "hook": "허블 우주망원경보다 100배 넓게 보이는 로먼 우주망원경!",
+          "topic": "우주",
+          "why": "그림이 세고 한 번에 이해된다. 다시 보기 좋은 과학.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3VLXzA0TTRkWUN6QlU4NURydlcyTjc4SGZ4c0pIRElCMktHejNEb1hZc1FQV2dmMzhlT0NtcTlxLWpsNnJDeTRqODRvbHdQTFVJZ1NwVFB4YjIteVVRcTRldHBsaFJpZzBsdDJhZ1FSS3FUVTBzS0t5ODVKOG1QM2lpT0tNR0NMMmdnSXd0OEc5a3cz?oc=5",
+          "source_date": "2026-09-15"
+        },
+        {
+          "item": "이소영 \"현직 대통령 연임? 헌법상 적용 안 돼‥왜 논란인지 이해 못 해\"",
+          "hook": "이소영 현직 대통령 연임? 헌법상 적용 안 돼‥왜 논란인지 이해 못 해",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaWDFDYWNCLVZXSS1OUFJXSk5XZjFrOEJNd2pGc3VXUjIwcWU2bEd6VTl1cXRERDdFV3NyemFRQUpJNmVySDE2cHR6amt6SUFrT2s0dkZ6STJfSi1jUmZHWG5Bekg5WGR1a0c0QXF3Qlp1OVlQcGItUNIBeEFVX3lxTE5NbVMyaWhOQno2UEJyRUFLZHZFZmpvWVFLZ3RHT0tGcl9kRHF1VkM4N1pRd0pjamdwcWQyZG1xTmdPVkpPYzR5RWxNVlgyNmt2R2tsZmhyTUg2RGFEYmhmejBpMDgxRkdNcnU1SUxsTjY0bUYtanRiQQ?oc=5",
+          "source_date": "2026-09-15"
+        },
+        {
+          "item": "김민석 \"용혜인 문제 취약한 진보세력 현실…교섭단체 완화 논의 본격\"",
+          "hook": "김민석 용혜인 문제 취약한 진보세력 현실…교섭단체 완화 논의 본격",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzaDBxcXduSWxlTFJURnphVFhjZ3BMUXdnM1p5S0JkenRJaVBNX21MSWVzbjVqR0E0ZkIxNzlITmtlN2FMZ0ZtcUEtY2RWTmZlaDhIT0F6cFFPci11cXYwNThDSkNPd3M?oc=5",
+          "source_date": "2026-09-15"
+        },
+        {
+          "item": "검찰, ‘아버지가 경찰 간부’ 내세워 코인투자 사기 20대 수사",
+          "hook": "검찰, 아버지가 경찰 간부 내세워 코인투자 사기 20대 수사",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93czJJb1NfNklrVFdxTmZkOUR2bk1GRFljaUdJZm8zM2Y0amg0Ym4tQmRraEo2UWx3SnBObENwSEJuUF9ITmdEWmhJWlM2NjB3OW1RZ1ozUkxRWDg?oc=5",
+          "source_date": "2026-09-15"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": [
+          1
+        ]
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "송지은, 박위 논란 속 눈물 포착 “이 가정에 천사가 다녀간 것 같다” 실제 울컥한 이유 : 네이버 블로그",
+              "hook": "송지은, 박위 논란 속 눈물 포착 이 가정에 천사가 다녀간 것 같다 실제 울컥한 이유 : 네이버 블로그",
+              "topic": "연예",
+              "summary": "송지은, 박위 논란 속 눈물 포착 “이 가정에 천사가 다녀간 것 같다” 실제 울컥한 이유 : 네이버 블로그 송지은, 박위 논란 속 눈물 포착 “이 가정에 천사가 다녀간 것 같다” 실제 울컥한 이유 : 네이버 블로그    blog.naver.com",
+              "openings": [
+                "송지은, 박위 논란 속 눈물 포착 “이 가정에 천사가 다녀간 것 같다” 실제 울컥한 이유 : 네이버 블로그."
+              ],
+              "source_name": "blog.naver.com",
+              "source_date": "2026-09-16",
+              "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDRXUHNSVEZpMDUxcHhmN3E0OXMzZXNmS29maFZ6aFhwMGFLa0daSGoyOXJ0RWlmMGpjSmFwajJjam1kQy1KQ1dnRjJxY05uTjJ4LWZKSnZuSVItdEkxTFBhQmp3bEVEb1RWMjNVLUExbjBQcFlyM3RORHlCaS1JVzF4U2hCM2NXUUhnLXdlRmo?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "박위 '3주째 침묵'인데…♥송지은 먼저 활동 재개, 방송서 눈물까지 [엑's 이슈]",
+              "hook": "박위 3주째 침묵인데…♥송지은 먼저 활동 재개, 방송서 눈물까지",
+              "topic": "연예",
+              "summary": "박위 '3주째 침묵'인데…♥송지은 먼저 활동 재개, 방송서 눈물까지 [엑's 이슈] 박위 '3주째 침묵'인데…♥송지은 먼저 활동 재개, 방송서 눈물까지 [엑's 이슈]    v.daum.net",
+              "openings": [
+                "박위 '3주째 침묵'인데…♥송지은 먼저 활동 재개, 방송서 눈물까지 [엑's 이슈]."
+              ],
+              "source_name": "v.daum.net",
+              "source_date": "2026-09-15",
+              "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kVVVaN2g1VnJaVTNDY1lKWG8yaGFqOS1RUWZmRUJiWUZ3LXBKWmMxQnl6Y3hYUFFxd00wLWg2OUpXSk5yaVRvM3F2cw?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "김기수, 미용실 원장 되더니 ‘하루 10시간’씩 업무…확 달라진 근황 [MHN:피드]",
+              "hook": "김기수, 미용실 원장 되더니 하루 10시간씩 업무…확 달라진 근황",
+              "topic": "연예",
+              "summary": "김기수, 미용실 원장 되더니 ‘하루 10시간’씩 업무…확 달라진 근황 [MHN:피드] 김기수, 미용실 원장 되더니 ‘하루 10시간’씩 업무…확 달라진 근황 [MHN:피드]    mhnse.com    김기수라고? 못 알아보겠네..얼굴 이어 반전 뒷모습 “관리는 중요한 것”    v.daum.net    ’51세’ 김기수, 연예계 떠난 지 2년 만 파격 뒤태→확 달라진 이목구비 ‘눈길’ [RE:스타]    tvreport.co.kr    연예인 이름표 떼고… '10시간 근무' 김기수의 묵직한 땀방울    reportera.co.kr    가위질 10시간 하고 이 몸?…51세 ‘수쌤’",
+              "openings": [
+                "김기수, 미용실 원장 되더니 ‘하루 10시간’씩 업무…확 달라진 근황 [MHN:피드]."
+              ],
+              "source_name": "mhnse.com",
+              "source_date": "2026-09-15",
+              "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mSnpVN01HMG1EdklSdHEyZ193S0NEVmlHVEtiT09hSzk0Vko2ZkJmaHgxMkJ6cURzaHdmUk5oZlhHQTdUYUdXSDJCaFp1azZ2czNteEhFT3JXa01PUWJUdVp5cw?oc=5",
+              "priority": "A"
+            }
+          ]
+        },
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "경기 양주에서 만취 운전 사망사고 낸 20대 남성 구속",
+              "hook": "경기 양주에서 만취 운전 사망사고 낸 20대 남성 구속",
+              "topic": "사건",
+              "summary": "경기 양주에서 만취 운전 사망사고 낸 20대 남성 구속 경기 양주에서 만취 운전 사망사고 낸 20대 남성 구속    MBC 뉴스",
+              "openings": [
+                "경기 양주에서 만취 운전 사망사고 낸 20대 남성 구속."
+              ],
+              "source_name": "MBC 뉴스",
+              "source_date": "2026-09-15",
+              "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvT0tqV1JjeGhITF9JZko3dnJMWHJJMC14M1VUaDRCMWdRT1I5QnJtS0VNNVVubkc0eWhOOE85d2d2ZkFTNUM5TEZydlRwYXRBaGY5dFR4MHUwRGRYdVNtOGw5bktrRWFjMThXNEpoRzZRWXVna09v0gF3QVVfeXFMUG9PS2pXUmN4aEhMX0lmSjd2ckxYckkwLXgzVVRoNEIxZ1FPUjlCcm1LRU01VW5uRzR5aE44Tzl3Z3ZmQVM1QzlMRnJ2VHBhdEFoZjl0VHgwdTBEZFh1U204bDluS2tFYWMxOFc0SmhHNlFZdWdrT28?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    }
+  ]
+}
