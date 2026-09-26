@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-09",
+  "built_at": "2026-09-09 09:28",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/09 기준, 후보 1건에서 장면·갈등·기괴 과학 축으로 1건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "경찰, 김병기 뇌물수수액 6천700만원 등 계산…구의회 카드 유용도",
+          "hook": "경찰, 김병기 뇌물수수액 6천700만원 등 계산…구의회 카드 유용도",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LRG1uODhXY281TDc5N1cxRFBiaFRNdlV1Zk96UVBPVXQ3Z3cwbU5RdEhlclhoRTg4bjJadzJGMmMzSmdwdXJlU3N2MjMzT2ZJV0sxbHhvNnVHbWYwcVRUSdIBYEFVX3lxTE9LRG1uODhXY281TDc5N1cxRFBiaFRNdlV1Zk96UVBPVXQ3Z3cwbU5RdEhlclhoRTg4bjJadzJGMmMzSmdwdXJlU3N2MjMzT2ZJV0sxbHhvNnVHbWYwcVRUSQ?oc=5",
+          "source_date": "2026-09-08"
+        }
+      ],
+      "top5": [
+        1
+      ],
+      "buckets": {
+        "domestic": [
+          1
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 1
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "'학폭 논란' 조병규 \"올해 배우 활동 접고 '군 입대'\" 전격 발표",
+              "hook": "학폭 논란 조병규 올해 배우 활동 접고 군 입대 전격 발표",
+              "topic": "연예",
+              "summary": "'학폭 논란' 조병규 \"올해 배우 활동 접고 '군 입대'\" 전격 발표 '학폭 논란' 조병규 \"올해 배우 활동 접고 '군 입대'\" 전격 발표    starnewskorea.com    '학폭 의혹' 법적 공방 중 조병규 \"입대 준비…2년 전 카투사 탈락\"    YTN    조병규 \"곧 군대 가…2년 전 카투사 지원했다 추첨에서 떨어져\"    v.daum.net    '9억 학폭 공방' 조병규, 입대 준비…\"카투사 탈락, 육군 갈 것\" - 머니투데이    머니투데이    조병규, 13년 소속사 떠났다…올해 배우 활동 마무리 후 입대 - 스타투데이    매일경제",
+              "openings": [
+                "'학폭 논란' 조병규 \"올해 배우 활동 접고 '군 입대'\" 전격 발표."
+              ],
+              "source_name": "starnewskorea.com",
+              "source_date": "2026-09-08",
+              "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtb1NMdUdJNFlvQ1RxX1otalJsVHpkeXc2MVZ5QjROZHVMYlEteVdnMk1kcmJUZnJLNG1SdHowQy1FT1ZTZVNTczlDclVLT2kyZ0hxWW1MQUZBQWZDeVlmUVNfcWZfUUo3cGNDaFZGSWdUODQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    }
+  ]
+}

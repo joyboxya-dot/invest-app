@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-21",
+  "built_at": "2026-09-21 09:25",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/21 기준, 후보 2건에서 장면·갈등·기괴 과학 축으로 2건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "“45세가 인생 최대 흑자라고?” 현실은 통장 텅텅 비는 충격적 이유 [잇슈 머니]",
+          "hook": "45세가 인생 최대 흑자라고? 현실은 통장 텅텅 비는 충격적 이유",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15VS1wd2M0NTRyYXY3d2RDeEEwbEZTZjhOb2tWVy1LQ2dBSmtKWXpnekxHa1lWUkNQNGc1X2pfZ0RhWXlpOXFSQ0lHMElCb0NhQmhDSWh2c1MzVTQ?oc=5",
+          "source_date": "2026-09-20"
+        },
+        {
+          "item": "[뷰리핑] 김승원 ‘사퇴’… 인사 논란 여진",
+          "hook": "김승원 사퇴… 인사 논란 여진",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CTUFBM1R2Y2ExWVh2SEFIYWYtcl9YaElUVFRLQzZBdldaWXFyc0hfTDMxZEFPc2piOW1KU0RWYWxfZ1VvWndGaWhSUDJzSlMtT1pDQjJXRTRLSzFReTJVX01tNVdlRDhiUFVLRzVSdVRxZ01u?oc=5",
+          "source_date": "2026-09-21"
+        }
+      ],
+      "top5": [
+        1,
+        2
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 2
+    },
+    {
+      "categories": [
+        {
+          "id": "world",
+          "title": "🌍 국제·해외토픽",
+          "items": [
+            {
+              "item": "김정은, 이서진과 결별 후 ‘눈물 방송’ 전말…“야만의 시대”",
+              "hook": "김정은, 이서진과 결별 후 눈물 방송 전말…야만의 시대",
+              "topic": "북한",
+              "summary": "김정은, 이서진과 결별 후 ‘눈물 방송’ 전말…“야만의 시대” 김정은, 이서진과 결별 후 ‘눈물 방송’ 전말…“야만의 시대”    서울신문    김정은, '이서진과 이별' 말하며 눈물…18년 전 방송 속사정 - 머니투데이    머니투데이    김정은, 이서진과 결별 후 눈물 방송 심경…\"언급하고 싶지 않았다\"    조선일보    이혜영 \"이혼 후 방송 복귀에 기자 400명 몰려…엄청난 압박\"    뉴시스    ‘결별 방송·홍콩 출국’ 김정은·이서진 결별 18년만에 재소환    매일경제",
+              "openings": [
+                "김정은, 이서진과 결별 후 ‘눈물 방송’ 전말…“야만의 시대”."
+              ],
+              "source_name": "서울신문",
+              "source_date": "2026-09-20",
+              "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRHNsYzY4azFVNUtUc3dGN3VkaHV3bE1IUWpuMU1rR3daT0pHYWVCV1c1TDczand1TWlYUUFyUjc0elZiWlY0WGt2LTdzTW52NzdPQkhLWWFzZlY5ZlZCQjBZdTNOcnJxSVBnN1NEVzNXdldqc1AyNmgyUmFwM0RldlVZV1FGQQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        },
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "한동훈 \"'김승원 탄원서' 진실 확인‥술자리에 민주당 의원도 동석\"",
+              "hook": "한동훈 김승원 탄원서 진실 확인‥술자리에 민주당 의원도 동석",
+              "topic": "사건",
+              "summary": "한동훈 \"'김승원 탄원서' 진실 확인‥술자리에 민주당 의원도 동석\" 한동훈 \"'김승원 탄원서' 진실 확인‥술자리에 민주당 의원도 동석\"    MBC 뉴스    한동훈에 보복 나선 與 \"경찰, 수사기록 유출 즉각 수사하라\"    조선일보    “조선제일관종 왕자병” 민주당 논평 맞받은 한동훈 “쉰내 나는 소리···조직원 건드렸다고 보복”    v.daum.net    한동훈 “김민석, ‘김승원 성추행 제보’ 靑보다 먼저 받고 묵살했나”    동아일보    [삼촌설] 관우 한동훈    kyongbuk.co.kr",
+              "openings": [
+                "한동훈 \"'김승원 탄원서' 진실 확인‥술자리에 민주당 의원도 동석\"."
+              ],
+              "source_name": "MBC 뉴스",
+              "source_date": "2026-09-20",
+              "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLamxzZ1IxWFl4aWc5MFZtb0k1QXFGUTVRQ2xCbWs0OFIxOXpEVGFCN3hjZUM4ZjUyOGxvTl8wN2lITWozeXVIWm5LSm4yVzNybWM2d0lzZ1JOLWVrb0tFZDhPRHNvNm1WTXRFWGxiQmpZTWR3UXlUU9IBeEFVX3lxTE9oeGd3VTQ0bWNxQUh3VFpvc255b1Rrc012YVRlMDZLUTh2QzN2NkkydG9Od0NGanl0c0J6VlNpeFpIRTBISjJhZ2l2bmhXS1J3eDZnT3NneWwxVHM3MVcwUnFVY3hfcWhmemx0WE9TbE1ibkhnWGhvSg?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    }
+  ]
+}

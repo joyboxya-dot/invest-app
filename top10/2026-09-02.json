@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-02",
+  "asof": "2026-09-02",
+  "built_at": "2026-09-03 00:37",
+  "pinned_id": "mom_only_flat20_buynew_sr_t10_lb15_vix25nb_ss20_stoptopup25_top5_penult_sp500",
+  "universe_n": 500,
+  "pool_n": 500,
+  "lookback_months": 3,
+  "min_lookback_ret": 0.15,
+  "top_n": 10,
+  "rows": [
+    {
+      "rank": 1,
+      "symbol": "MRNA",
+      "name": "Moderna",
+      "mom_ret": 2.144516917124421,
+      "day_ret": 0.0,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 2,
+      "symbol": "CRL",
+      "name": "Charles River Laboratories",
+      "mom_ret": 0.5696892422437809,
+      "day_ret": 0.0,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 3,
+      "symbol": "VEEV",
+      "name": "Veeva Systems",
+      "mom_ret": 0.5623881439073188,
+      "day_ret": 0.0,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 4,
+      "symbol": "DASH",
+      "name": "DoorDash",
+      "mom_ret": 0.4598266333878056,
+      "day_ret": 0.0,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 5,
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "mom_ret": 0.43725437404167433,
+      "day_ret": 0.0,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 6,
+      "symbol": "TECH",
+      "name": "Bio-Techne",
+      "mom_ret": 0.42104106591556945,
+      "day_ret": 0.0,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 7,
+      "symbol": "IQV",
+      "name": "IQVIA",
+      "mom_ret": 0.4191156373123779,
+      "day_ret": 0.0,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 8,
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "mom_ret": 0.3898984463943478,
+      "day_ret": 0.0,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 9,
+      "symbol": "GPC",
+      "name": "Genuine Parts Company",
+      "mom_ret": 0.38694636810508354,
+      "day_ret": 0.0,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 10,
+      "symbol": "ZBRA",
+      "name": "Zebra Technologies",
+      "mom_ret": 0.3786602807849737,
+      "day_ret": 0.0,
+      "in_holdings": true,
+      "live_slot": false
+    }
+  ],
+  "note": "핀 규칙 동일: 매매시점 스냅샷500(시총패널 없음) · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5)"
+}

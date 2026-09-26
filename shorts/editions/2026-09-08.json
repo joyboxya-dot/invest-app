@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-08",
+  "built_at": "2026-09-08 09:37",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/08 기준, 후보 3건에서 장면·갈등·기괴 과학 축으로 3건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "[단독] 이소영 고액 후원자 배우자 공천...野 “‘공천 헌금’ 논란”",
+          "hook": "이소영 고액 후원자 배우자 공천...野 공천 헌금 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa2VLMDJCVzBiNERNMXZXajZnUDJTZFREX2Q4UjgtQmJBNXdtTHBaZ3JRTDMyS01CVWJBTUVSN2dUOHJocXFEMkgxRW9RaE1YeE9JSlU0bmV4OHd0RkFQT3lXQ3hPZ2dzNlJUYUY2MHdQTzU3OXVGZlBDR3BNQ0hOVHRjejNya0pvZzlGbkVNTTE?oc=5",
+          "source_date": "2026-09-07"
+        },
+        {
+          "item": "죽은 줄 알았던 사슴이 갑자기 벌떡…경찰도 \"으악\"",
+          "hook": "죽은 줄 알았던 사슴이 갑자기 벌떡…경찰도 으악",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wQms5djhtdDB2bzEyY2RKSklTUlpUWk42TGtXS2RZemZaS1dkbFlITzFKYlJjdU04TXBSNmFQSzQ5STJ0Sjh5QWZUc2xhNkN5U19uMVlSV29tZmhWdnl5Y0RCd3ctcmM?oc=5",
+          "source_date": "2026-09-07"
+        },
+        {
+          "item": "[속보] 대한체육회, '봉쇄 시위' 핸드볼경기장 진입 시도‥경찰 기동대 투입",
+          "hook": "대한체육회, 봉쇄 시위 핸드볼경기장 진입 시도‥경찰 기동대 투입",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14Nkw3NkVnMzBKU05KeTk2VUZJTURGZGRiSU02RnczOVN4VEIxc1NoaVJzTC16cWpaM2dOSlYzYXR4Zm1UbXcyVjliN01Ld3pnN1ZGcnAxU2xVbmNnM243STZpaUpXZzBoS2JnZ1J3ejdnNXNtRV9v0gF3QVVfeXFMUGNfa2NPeFVuUkhldGRCdkwtd01sMUhYWnJyakJYa3ZNZUZEVmpfTWxleTMzSVdyYmdYSzFXVzVzRXJEbjRjNmc0eFFsd0VVcG15ekVBVVpzZ29UaHVSd3JLckR6TFBLbDBvWm83OHV1WXl1SklwOVk?oc=5",
+          "source_date": "2026-09-08"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 3
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "경찰, 뱅뱅사거리 ‘만취 마세라티’ 운전자 구속 송치",
+              "hook": "경찰, 뱅뱅사거리 만취 마세라티 운전자 구속 송치",
+              "topic": "사건",
+              "summary": "경찰, 뱅뱅사거리 ‘만취 마세라티’ 운전자 구속 송치 경찰, 뱅뱅사거리 ‘만취 마세라티’ 운전자 구속 송치    아시아투데이",
+              "openings": [
+                "경찰, 뱅뱅사거리 ‘만취 마세라티’ 운전자 구속 송치."
+              ],
+              "source_name": "아시아투데이",
+              "source_date": "2026-09-07",
+              "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFejREd0JueEJ6VDUyZDYwNkUxc0JQbk05UURFUFRBQ0ZPX0RvNEpXWV9VUTdJRGRjVk4yMER2a2psbjFpOTRZUnktamN1WDFZMVJyNVYta3lmTFBTREx6NVBIZUhfTjQwbTRqZG93?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "경찰, 김병기 구속영장 신청…공천헌금 등 13가지 의혹 수사 1년 만에",
+              "hook": "경찰, 김병기 구속영장 신청…공천헌금 등 13가지 의혹 수사 1년 만에",
+              "topic": "사건",
+              "summary": "경찰, 김병기 구속영장 신청…공천헌금 등 13가지 의혹 수사 1년 만에 경찰, 김병기 구속영장 신청…공천헌금 등 13가지 의혹 수사 1년 만에    한겨레    경찰, 김병기 구속영장 신청…'차남 숭실대 편입 특혜' 특가법 적용(종합)    v.daum.net    취업청탁 등 13가지 의혹 김병기…수사 1년만에 구속영장    동아일보    \"구속영장 신청될 리 있겠냐\"던 김병기…불체포특권 포기할까    뉴시스    [속보]경찰, 김병기 의원 뇌물수수 등 혐의로 구속영장 신청…수사 착수 1년만    경향신문",
+              "openings": [
+                "경찰, 김병기 구속영장 신청…공천헌금 등 13가지 의혹 수사 1년 만에."
+              ],
+              "source_name": "한겨레",
+              "source_date": "2026-09-07",
+              "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsZ1BhbGlIcHhOU3l1YWpuLXdrTlJOelNITnJiYm1kWmpqUjVFTllDZmYzZzRqem5BX1p6dVcwQXFIdlAtckRtUzI4MnRLV0lZLVVtcDR4amNMRjUxUVpHZmFTOHg1clhOVVNVdnUwclA4Zw?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    }
+  ]
+}

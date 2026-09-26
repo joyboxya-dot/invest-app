@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-20",
+  "built_at": "2026-09-20 09:18",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/20 기준, 후보 10건에서 장면·갈등·기괴 과학 축으로 10건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "미 고위당국자 \"트럼프, 김정은과 전화 통화할 의향도\"",
+          "hook": "미 고위당국자 트럼프, 김정은과 전화 통화할 의향도",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QblNHbUNUMm9XUEN1MFhJUENBVjcwa1hVRUpHemM0ajc4bldLb2FubENqWXRuRS02RkZmbGZsVTh4aHV4TjRHV253QURIOGdwa1JDVnk5QWY2M0k2RXE3a3NZa3dvR2c?oc=5",
+          "source_date": "2026-09-19"
+        },
+        {
+          "item": "김정은, 드론공장 시찰‥무기 체계 '인공지능화' 강조",
+          "hook": "김정은, 드론공장 시찰‥무기 체계 인공지능화 강조",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "imnews.imbc.com",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yaDFTRm51bXkyWEhmQXotNjB0Y0I1eTRzN1RELWpMRWxrbXRCbllUa3hzZnZ2VGU0VklRX0NfbXV0c040WFg3X3hTbnM3NUhxQnR6Y2kxS1QybkhvYjc1VF9BTG9jbFMyeUJMQWEyNEZPNlQ10gF0QVVfeXFMTl9UZzFHTGpUenVubjMyTDVkQUwzWEVieW9CTWUtaldPY1lCanFVVHp2UFg1MGlSNlhKWlpwY29qTU5vOVFjS3lyQllzZmg0bl80cTJRX0lSUWZ5Q2JVZjRtOWtucURFSEFzM1RtVGpMd0M3cC0?oc=5",
+          "source_date": "2026-09-19"
+        },
+        {
+          "item": "경기 안성 나눔장터로 화물차 돌진‥모자 숨지고 5명 다쳐",
+          "hook": "경기 안성 나눔장터로 화물차 돌진‥모자 숨지고 5명 다쳐",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "imnews.imbc.com",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1cGRkVW1OYUVzcHdDaHBSam9hVUxpVFVuREZpQzg2bmJkV0FqVXJVVXVtdnR0YmZTdDNTei1jVWg3elpPR2VYRDJfLWdFaG1YUnhPX2kzTFZVclM4bTZYaVg5N2V3Tk1seV9QZEV0R2lqdzA1blZr0gF3QVVfeXFMUEdkbU9FMkVBUkJCV2hfYUNkQllnLUJKSWZrYkRlUlRmeXdpTzFpT0pLY2R3RGJXazZqLWMyOTcwTGhQNzlhdEdDYjhyT0lJa1diaVdZOS1rRUFGd1c5T0hrSWduazgwNU04Y1lGMnQ0ZlZBR3hYTkU?oc=5",
+          "source_date": "2026-09-19"
+        },
+        {
+          "item": "여친 밀쳐 콘크리트 바닥에 ‘쿵’…숨지게 한 30대 징역 3년",
+          "hook": "여친 밀쳐 콘크리트 바닥에 쿵…숨지게 한 30대 징역 3년",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "국민일보",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CWVJXTFZyZEt2amt4MkxEaHo5TXRNcHlHVHdwcEozdlJZdFRuOThMY29qZG40QUtwYUliMG1ORWEwaXFhMVBkT1BNTlhVemNmQTN4S1BTUGduMnp6Zll1WGkwdDZrc0XSAWxBVV95cUxQeE5ZUHZhQmpaaGUxNFpSSkRZZlJsS1ByQXRsOWpocFAzTWpyNUUzTnFzaUZrb1ZZZmdHU0YweEowTHVwUVItc2hhekRRcFZNcXd5QXg5MlpGdlVUOHhMSTQxc0wyalhFZTYwMUg?oc=5",
+          "source_date": "2026-09-19"
+        },
+        {
+          "item": "김여정 \"한국 핵잠엔 침묵하면서 왜 북한 핵무기만\"…IAEA 결의 비판",
+          "hook": "김여정 한국 핵잠엔 침묵하면서 왜 북한 핵무기만…IAEA 결의 비판",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "뉴스핌",
+          "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03a0VMU1dtSzdlZEVIc1o0YkhCd0hWMENFbkJYVUF3bXYtanpQeGNsd3FrZWhweFN1VjRSdEdLQzNvdmxHc3p1RWpBb3J6WExUdENncTViYVFhUEZ1?oc=5",
+          "source_date": "2026-09-19"
+        },
+        {
+          "item": "조민, 홈쇼핑 방송 90분 전 돌연 취소…“논란 우려된다더라”",
+          "hook": "조민, 홈쇼핑 방송 90분 전 돌연 취소…논란 우려된다더라",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "국민일보",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IUmlRaU5BSm5EWFlPcHlmUTBFdUsxVUpKNGFOeGFjZVg3NkJQREl2VzlSQlc0b0czTEhvTFZ0ZV9LWWI3REw5blRVLWU2eFBKUHlxYnhxSGJhTU5oNEhUeG9kUEVCb1nSAWxBVV95cUxNVDFnRUpvbUlFZzFNSnpCZWdWUlFyTUNqUF9vTlF5dG1IbFB6ZURLS2R5UEcwSTVYS3Z1cTdDbzlsMmxVWmxjVUtPUmphbkM3Uk02UTg2OU9hODdqV3g2MWlvdF9TdVkyUjU2a2Q?oc=5",
+          "source_date": "2026-09-19"
+        },
+        {
+          "item": "매출 20억 주점 유명 접대부, 마약 체포 과정서 취재카메라에 윙크 '논란' [영상]",
+          "hook": "매출 20억 주점 유명 접대부, 마약 체포 과정서 취재카메라에 윙크 논란",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "뉴스1",
+          "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KSURNd2s2b1ZsZnRqcW5oNWl1QVEtZTRsa1hielZ1SUF0SU5pekludU1JdXdqaWpuVk9GdHItajBmaEpzYVZFdHU1U2hkTFRROE5ZVmcxQVhtblR20gFiQVVfeXFMTTlDSkZLQjNJT0ZaVDFYQWNKUlVqNTd4bjNraVF2bGdmcUlnY1pibUlBcGZ2ZEZBSlVKWnl0SmtnMGxOODdSNVZ0WjNFWDRTYVR4YlBIOGNXRVlWbGozb3Ytcnc?oc=5",
+          "source_date": "2026-09-19"
+        },
+        {
+          "item": "[단독] 블랙야크 산악 마라톤 40대 참가자 사망‥경찰 조사 착수",
+          "hook": "블랙야크 산악 마라톤 40대 참가자 사망‥경찰 조사 착수",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "imnews.imbc.com",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uQW1DRzVJUDFvdHlkR01rZENIc3prSDV0Y3BySTg0eTktQnp6QWZHeU8wMVBCQlp0N3NwWnhlcDkzT1lwbjJLbUF6X1p6TnRKcUZjSFBHdVczbUJuOExkeXlkQzZka0NmNHh3cFRHNVJMRXQ5SFNR0gF3QVVfeXFMT2lFQWdQaTJUOVZSZ1BvV2E4bHNyamppYmlhbnZrcVR3ckdEd3FpOTd4cGpwX2NwOTFabEdRWmR6dTJXWUdXSm11czQ1ZVVRaXhCTVpuNEpQTWk0TzhfQ0x2VjB1c0t4dk1TNEdzNGIxSjhzNVJtdVU?oc=5",
+          "source_date": "2026-09-19"
+        },
+        {
+          "item": "파키스탄 경찰 단지에 무장 테러‥31명 사망·100여 명 부상",
+          "hook": "파키스탄 경찰 단지에 무장 테러‥31명 사망·100여 명 부상",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "imnews.imbc.com",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fR21lSzBVRmxpWk1WcEFnS3RnZTJsOHJKT2J2S21FcDRQMmJmNTNEaUFHUTllSzI4OUxqaGJmLU9ucEpPd0x6aVFQc1pkSnBtSzYwSk15dmQxcWhmTUNYRll0WVgyQ0lhYWZoTndTYTNfNFlZ0gF0QVVfeXFMUEwxVlNCNFV1VGVUal9veUNBaWN3Y2RoYm9pTEpNSjhnQzVNVnludmFCcmg0MFVZLTktR2QybG84Zk1Jc0lPNTlHVFhtTGpINV9MMlZSa2VkTUh4Qzl1V19SR1J4SkpEaThsbmxRb19IbmRib1o?oc=5",
+          "source_date": "2026-09-19"
+        },
+        {
+          "item": "\"경찰차서 혀 빼꼼 윙크, 즐기나?\"...'신호' 보낸 여성에 日 경악",
+          "hook": "경찰차서 혀 빼꼼 윙크, 즐기나?...신호 보낸 여성에 日 경악",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "마켓인",
+          "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdDBWRU5aaE9QdzhMYnFFWVpzSTk2YmhZemhzajBxVjZ5S2c1SVlCYnUtMGc0dDdlbDhyYnBNd2RaVFRIVC0yWkJZeVh2dkRNVnJrM0tHTlNvZWNDbm1BUWwtQU5jRG93bGxnaVJRdS1pdFk?oc=5",
+          "source_date": "2026-09-19"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": [
+          2
+        ]
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 10
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    }
+  ]
+}
