@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-03",
+  "asof": "2026-09-03",
+  "built_at": "2026-09-05 00:24",
+  "pinned_id": "mom_only_flat20_buynew_sr_t10_lb15_vix25nb_ss20_stoptopup25_top5_penult_sp500",
+  "universe_n": 500,
+  "pool_n": 500,
+  "lookback_months": 3,
+  "min_lookback_ret": 0.15,
+  "top_n": 10,
+  "rows": [
+    {
+      "rank": 1,
+      "symbol": "MRNA",
+      "name": "Moderna",
+      "mom_ret": 1.8856366481270457,
+      "day_ret": -0.012863884840608852,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 2,
+      "symbol": "VEEV",
+      "name": "Veeva Systems",
+      "mom_ret": 0.5922732092068761,
+      "day_ret": 0.013037915525056842,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 3,
+      "symbol": "CRL",
+      "name": "Charles River Laboratories",
+      "mom_ret": 0.5789332940646108,
+      "day_ret": 0.0054496719381380565,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 4,
+      "symbol": "ZBRA",
+      "name": "Zebra Technologies",
+      "mom_ret": 0.4563304799662502,
+      "day_ret": 0.018199467161377436,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 5,
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "mom_ret": 0.45580080393738864,
+      "day_ret": 0.0018346032430960335,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 6,
+      "symbol": "IQV",
+      "name": "IQVIA",
+      "mom_ret": 0.4534459975400429,
+      "day_ret": 0.02948756400577457,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 7,
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "mom_ret": 0.43759934944054235,
+      "day_ret": 0.012565233001532006,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 8,
+      "symbol": "HOOD",
+      "name": "Robinhood Markets",
+      "mom_ret": 0.41197779503333587,
+      "day_ret": 0.16571645678046676,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 9,
+      "symbol": "GPC",
+      "name": "Genuine Parts Company",
+      "mom_ret": 0.4105179413590594,
+      "day_ret": 0.0034269139017086836,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 10,
+      "symbol": "CRM",
+      "name": "Salesforce",
+      "mom_ret": 0.4045693996373503,
+      "day_ret": 0.029190831019343833,
+      "in_holdings": false,
+      "live_slot": false
+    }
+  ],
+  "note": "핀 규칙 동일: 매매시점 스냅샷500(시총패널 없음) · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5)"
+}

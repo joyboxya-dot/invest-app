@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-29",
+  "built_at": "2026-09-29 11:13",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/29 기준, 후보 6건에서 장면·갈등·기괴 과학 축으로 6건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프, 자꾸만 김정은을 찾는 이유는?",
+          "hook": "트럼프, 자꾸만 김정은을 찾는 이유는?",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "데일리바이트(DAILY BYTE)",
+          "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXFxNFItcWp4Mk5Pd3lIX1lQMm94b0tUX2dMLWI0ZFktRlY0dS1uSXhwUFExZ3c1NkFhdFk1LUFjWGs3QVZwdGhlcUg3SjJfdngtYXphQWFNaFN0VDNSajRZd0tCZnRuczdBWG5ESTM4bndROTdOajFqcDZraTlYWEJ6RjJOS29abG45dA?oc=5",
+          "source_date": "2026-09-28"
+        },
+        {
+          "item": "왜곡 논란 ‘암살자(들)’ 결국 2위로 하락... ‘타짜’ 1위",
+          "hook": "왜곡 논란 암살자(들) 결국 2위로 하락... 타짜 1위",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdzFLbjR5Z25fTFZvM19yUkkyTk41U2J5T2dHR1NtYmdRUW9Pa2t2WTFuLVp0NXRUblFhT29tRUl2TDNGaTA5VG1oT3d6OEJVX211YVU3V2xyeS1lT2NVSUREM01DdWRyVHg4REl2X1pvRWR0UWxOcHZjU242MURZTUx2UmtxNE56OU15SEhBRE9zSndN?oc=5",
+          "source_date": "2026-09-28"
+        },
+        {
+          "item": "한가인, 건강제품 추천 논란에 \"내돈내산이지만…신중하지 못했다\"",
+          "hook": "한가인, 건강제품 추천 논란에 내돈내산이지만…신중하지 못했다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IUXg3TWZuUndxN3RGRlF6WWZIbEVXN1ZhdjA0RlJvQkVsZFY0VFRxNXVVSDlfeVRMVGxTUl84dVpmN0xSRjYtZ3ZrYTdYN2NSSGZtNG00dVJnQQ?oc=5",
+          "source_date": "2026-09-29"
+        },
+        {
+          "item": "10년 전 1억 넣었더니…엔비디아 140배 뛰고도 세후 비트코인에 32억 뒤졌다 [숫자 뒤의 진실]",
+          "hook": "10년 전 1억 넣었더니…엔비디아 140배 뛰고도 세후 비트코인에 32억 뒤졌다",
+          "topic": "AI",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "v.daum.net",
+          "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sTzZiSzU4alZyR2xYTDNNWGlZMUN3UHNJM2xMSG1CQUxDZGZ2b0owVWQ0VTFqUl8xSGQtMnRSRlkySVVvQWNGTVFuU2N1eDg?oc=5",
+          "source_date": "2026-09-28"
+        },
+        {
+          "item": "[단독] ‘12·3 비상계엄 가담’ 징계 받은 경찰 경무관 3명 현직 복귀",
+          "hook": "12·3 비상계엄 가담 징계 받은 경찰 경무관 3명 현직 복귀",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcmlKNWlwdGZza3hGa0diTlRBZUlpMzJmYlRuTDZmT2ZzOWE3OEcwQkp4QmhScmE4dFdLM295cE44ZnNvTE0xTUFrY0Y3YVlhTnpreUh2RTloUnhGc2ZFSFQ5Z09jZ0xJUVVPOEk5T1hEd09sU19Wd2lRbXJRaG4zdTFZVkhFQQ?oc=5",
+          "source_date": "2026-09-28"
+        },
+        {
+          "item": "영국 경찰, 미 공군기지 공격 시도 의혹 수사",
+          "hook": "영국 경찰, 미 공군기지 공격 시도 의혹 수사",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "voakorea.com",
+          "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44Q284QjhLT0FVTHhJZ2dLSFpLSFhqYTZaMkFqUVk4NDBGZVNVMm5VNnotWldneGdWalhZTkotNno3cVJQUmtYQUxMbUVEWkdZ0gFTQVVfeXFMT1hCLUxYMVV3cDkweFFIVGpqaTgwQjMwOHRlaGZpV2tpZzAwVnpQZFlBRzNkR0ZhSHdKUkxBb3hZTnVlbVJmR0lBS2pKanFodG9mUEU?oc=5",
+          "source_date": "2026-09-28"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "money": [],
+        "tech": [
+          4
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "박수홍♥김다예, 딸 재이와 부산행…‘탑승지연 논란’ 비행기 아닌 기차로 [왓IS]",
+              "hook": "박수홍♥김다예, 딸 재이와 부산행…탑승지연 논란 비행기 아닌 기차로",
+              "topic": "연예",
+              "summary": "박수홍♥김다예, 딸 재이와 부산행…‘탑승지연 논란’ 비행기 아닌 기차로 [왓IS] 박수홍♥김다예, 딸 재이와 부산행…‘탑승지연 논란’ 비행기 아닌 기차로 [왓IS]    isplus.com    '비행기 민폐' 사과한 박수홍, 한 달 만에 가족여행…이번엔 기차 탔다    v.daum.net    '항공기 지연 논란' 박수홍 가족, 한 달 만에 기차 여행 근황 알려 - 조선비즈    Chosunbiz    ‘비행기 논란’ 박수홍·김다예, 이번엔 기차로 가족여행    biz.heraldcorp.com    박수홍 딸, ♥김다예 뱃속에서 왔던 부산…2년 뒤 혼자 모래사장 걸었다   ",
+              "openings": [
+                "박수홍♥김다예, 딸 재이와 부산행…‘탑승지연 논란’ 비행기 아닌 기차로 [왓IS]."
+              ],
+              "source_name": "isplus.com",
+              "source_date": "2026-09-28",
+              "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XWmhDUGhtNEZqeXBLZFoyRHIyM3dDTzFFbXQ2dW9zYlBNRFA5aXc4b2Etb0d2VjJ1Q2hJR2pXY0FmbGFqWHlYeXRhcUlCa2RZc3dhaTRPRm1xYjQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        },
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "영화 ‘암살자(들)’ 제작진, 경찰에 고발돼…명예훼손 혐의",
+              "hook": "영화 암살자(들) 제작진, 경찰에 고발돼…명예훼손 혐의",
+              "topic": "사건",
+              "summary": "영화 ‘암살자(들)’ 제작진, 경찰에 고발돼…명예훼손 혐의 영화 ‘암살자(들)’ 제작진, 경찰에 고발돼…명예훼손 혐의    한겨레    '역사왜곡' 논란 독 됐나?…암살자(들), 박스오피스 1위서 내려와    v.daum.net    \"노무현 건드리면 고소, 박정희 모욕하면 표현의 자유?\"... 정치권 화두로 떠오른 '암살자들'    한국일보    국힘 반발…‘암살자(들)’ 논란에 400만 유튜버, 결국 영상 삭제    매일경제    영화 암살자(들) 논란, 제작진 \"사실 부정·왜곡 위해 제작한 영화 아니다\"    MBC 뉴스",
+              "openings": [
+                "영화 ‘암살자(들)’ 제작진, 경찰에 고발돼…명예훼손 혐의."
+              ],
+              "source_name": "한겨레",
+              "source_date": "2026-09-29",
+              "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fRXRWZW9oNmFOazFUZHV6b1UzZkk0QzFVLUR0MDF5OFBzWW8xbC1pNzhRTkh6VEJfMmtEZ19IckllR0x2dTNyOGZ0ZEw2X1VIRlhPYnJOcGVIOV9nZFJpQzlWUTRxLVVBWkZyQXZVV25FQQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 10
+    }
+  ]
+}

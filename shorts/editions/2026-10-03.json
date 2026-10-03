@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-03",
+  "built_at": "2026-10-03 10:20",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/03 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프, 유세장서 로드먼 소개하며 “김정은 잘 아는 사람”",
+          "hook": "트럼프, 유세장서 로드먼 소개하며 김정은 잘 아는 사람",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "동아일보",
+          "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZZnEzN28yTjJWWWR4bTJESmJRVVh4Uy1MWkZhZU5VVm1XTlM3TktwTWsxbEdqZFFESWN4UW1sSm9IcmM5TGhobGRqd0luelNjSXByV3dVbU5yNU1pVkxJR3FYckt1dmNYVXlPZXEzRExpVTjSAWZBVV95cUxQaFk0MURxdU5JcWxMRmtpUFpSajFiVWdmMXJfVDFQUnA1bFpsOHJEVmlhMkltZ1o1Mi1lMHNKdjViR0pyOURJZGVDem01Wnp5R1YwQVlPWGhubEtScVVsdW9vdVhwX2c?oc=5",
+          "source_date": "2026-10-02"
+        },
+        {
+          "item": "김여정, 이 대통령 ’군사적 긴장완화’ 표명에도 “자작광대극 2부“",
+          "hook": "김여정, 이 대통령 군사적 긴장완화 표명에도 자작광대극 2부",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pMVdOYXFmeGVTUHpfdlZNR0VhTi01eFQyRkUxMXYzc2Fra2pHY2MzU1Q2bmc2OGxKUWFMeGhSQnNXV29XLWw5TkhZRDFQOWZMUEY3WHZtSFFUR0FFVVhqWGhoa3ItZTA?oc=5",
+          "source_date": "2026-10-02"
+        },
+        {
+          "item": "‘암살자(들)’ 논란에 박근혜가 꺼낸 박정희 편지···“내가 맞고 어머니가 살았더라면”",
+          "hook": "암살자(들) 논란에 박근혜가 꺼낸 박정희 편지···내가 맞고 어머니가 살았더라면",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPWEN5eVR2N2xUeXRKeFlGc3VyM0N3cVhqaUlBd3dzanRSWVdENE1EVFZ0eGVKTUNBbDZ4YWZEdXp2UkFuYU5PdU5FZ3RsVkNxLWUyeDM3TUJ6QdIBX0FVX3lxTE9VVUpTZWRvUGYtX19WWnVSUVZ5ak5tNTVzdDZTV1V1YXJ5ZUZTOFNNS2lkOEdfc3M0YXp4a01HLXh3dG1GaXRCLXZ2NXZRUXZPT2hKdnpBN3k5WF8zMWFv?oc=5",
+          "source_date": "2026-10-02"
+        },
+        {
+          "item": "영국 경찰, 이란 이중국적 남성도 체포…공군기지 테러 모의 의심",
+          "hook": "영국 경찰, 이란 이중국적 남성도 체포…공군기지 테러 모의 의심",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55eFFYTjNqVVRFci15QzRFTldaTmI0SzlweFBoODRpR1JRWkh0SXp1YjlVcEhLbVJWSXlfLWo0RjJMTVZNNEZlZ2lJYzBIRmgyX3NjeUJQT2NlV05CM3NaWjExUWo2eVRCbVVRRGZR?oc=5",
+          "source_date": "2026-10-02"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "조세호, 투턱 됐다…조폭연루설 후 예능 줄하차 하더니 요요 온 근황[Oh!쎈 이슈]",
+              "hook": "조세호, 투턱 됐다…조폭연루설 후 예능 줄하차 하더니 요요 온 근황",
+              "topic": "연예",
+              "summary": "조세호, 투턱 됐다…조폭연루설 후 예능 줄하차 하더니 요요 온 근황[Oh!쎈 이슈] 조세호, 투턱 됐다…조폭연루설 후 예능 줄하차 하더니 요요 온 근황[Oh!쎈 이슈]    조선일보    조세호, 활동 중단 후 또 요요 근황…'투턱' 전과 후 비교해보니 [엑's 이슈]    v.daum.net    조세호, 투턱 됐다…조폭연루설 후 예능 줄하차 하더니 요요 온 근황[Oh!쎈 이슈] - 조선비즈    Chosunbiz    '도라이버6' 홍진경, 황금 인간 변신⋯“남편은 석유부자”    이투데이    홍진경, 이혼 발표 1년 만 “내 남편은 석유부자” 고백(도라이버)    뉴스엔",
+              "openings": [
+                "조세호, 투턱 됐다…조폭연루설 후 예능 줄하차 하더니 요요 온 근황[Oh!쎈 이슈]."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-10-02",
+              "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRUJRcmZZeTZoTGt0ZU1YTXhnVERReEdRSHFCUWxfRnd0SHVfclFWZU9lQzVxSk1ydkY3LVd1MnUxWUE4YVVFNE5PVTZCdUJsekRWRTYtYlc3N2kxdXBmdGx4Q1JnY3c3eTA0NGk2M2x2Q2NVREQxSEdxbUJnYk9EN0tQcGRDMmlYZTRnZWl5QQ?oc=5",
+              "priority": "A"
+            },
+            {
+              "item": "故최진실 18주기…최준희 \"문득 엄마에게 말하고 싶은 일 생겨\"",
+              "hook": "故최진실 18주기…최준희 문득 엄마에게 말하고 싶은 일 생겨",
+              "topic": "연예",
+              "summary": "故최진실 18주기…최준희 \"문득 엄마에게 말하고 싶은 일 생겨\" 故최진실 18주기…최준희 \"문득 엄마에게 말하고 싶은 일 생겨\"    세계일보    故최진실 18주기…딸 최준희, 결혼 후 맞은 첫 기일    세계일보    [단독] 故 최진실 18주기…묘소 찾은 아들 환희 \"국민여배우로 오래 기억됐으면\"    뉴스1    고 최진실, 오늘(2일) 18주기…갑자기 떠난 국민 배우    매일경제    최준희, 故 최진실 18주기에 꺼내든 진심 \"엄마가 거기 있는지 자꾸 확인할 것 같아\"    Chosunbiz",
+              "openings": [
+                "故최진실 18주기…최준희 \"문득 엄마에게 말하고 싶은 일 생겨\"."
+              ],
+              "source_name": "세계일보",
+              "source_date": "2026-10-02",
+              "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40R3JqNmNvdC1acjNSQjg0cElVWl9fYXhHOFdveDd5OFhHbHo3RkdfZF9CS0kzaHdtY05TZmp2d05lcG9aeFJ6bEFMUXotcHJyMkFMLWhrTWnSAVRBVV95cUxORjY4V3labFZyZHJHWURjU3BYNDZFLXY3WTNHSDRkVHVhNEV1Y3pBeDdyaXpkM3pQMzJsZkpwSDRXbjdhclVGUWp1ZFZLajE0akpwNWY?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    }
+  ]
+}
