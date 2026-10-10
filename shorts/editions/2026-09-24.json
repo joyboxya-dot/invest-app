@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-24",
+  "built_at": "2026-09-24 09:46",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/24 기준, 후보 3건에서 장면·갈등·기괴 과학 축으로 3건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프 “김정은과 좋은 관계”…시진핑에 北 중재 요청하나",
+          "hook": "트럼프 김정은과 좋은 관계…시진핑에 北 중재 요청하나",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "동아일보",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuUUpkOHlrWEozbHFQMnJ6ZnFEaG8zb1Eyb052cURNbEFZOUwtVW95SGJnQWswanQweVZTMkpXQWVsblFreHkzRWdZRWluZ1BFbkxZc1hHTEVsZWhxbmRYM3FVSTBnOUh2aW5oRUlYbHlhNXl5Z0xn0gFmQVVfeXFMUE9sYWJONDZxSzZHb25HYk1PVlhoeGM2THJQTS0zeHNrR1JsaEJqQ0FkZDRiUHFhQVJZckFlSkJQSDZRcjlqZ0ZMR3FnMzVuMWZ6ejQyaWNFWTJwcXlBdGc0Q005X21R?oc=5",
+          "source_date": "2026-09-23"
+        },
+        {
+          "item": "“명절에도 걱정 마세요”…취약계층 반려동물 돌봄 확대",
+          "hook": "명절에도 걱정 마세요…취약계층 반려동물 돌봄 확대",
+          "topic": "과학",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoam5xeFpodzd1MldkZ3JWMWdTcWVSaFFrNUtNZXh0YTZwdU1sdnhMWEo3ZVhvV3lNX2MxaUg1LXVrdGtpcjB3ejY2Nk1VaTl6LVFOaUs5N0x1enc?oc=5",
+          "source_date": "2026-09-23"
+        },
+        {
+          "item": "수원 도심에 흩날린 법원·검찰 서류 뭉치‥경찰 경위 파악중",
+          "hook": "수원 도심에 흩날린 법원·검찰 서류 뭉치‥경찰 경위 파악중",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UZTZHXzdxZFdnZUdoSXhBaTRCdmFuS0N6ZWcyMGJFU2VZRGFmMW84ZmZkaTZydzI1dm9hV1VTVTBsQnA4ZTBRdVpmcnNySzdtclNXYURsN3lnNUtzWG1vVERJQVlNZkZTRTNfbG1hN2dfdTJTUEsw0gF3QVVfeXFMUEFqbzZjX2lWWlhDdmZpSlVpSjF0MEN1b3dTQ3BWeFVmUmk0WjBueXEyYkJ6RmRNNkFWWWJPamM4ZWFGazltZWdqbGFQYnpMRlh1SGxtdmtUbGJpQWJEbzZMUHVMQ1RBWkZTZFZKSm9ZZ1ZoZ2Z4T1k?oc=5",
+          "source_date": "2026-09-23"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 3
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "`학폭 논란` 김가람, 르세라핌 탈퇴 후 배우 새출발…\"너무 걱정 돼\" [MD이슈]",
+              "hook": "`학폭 논란` 김가람, 르세라핌 탈퇴 후 배우 새출발…너무 걱정 돼",
+              "topic": "연예",
+              "summary": "`학폭 논란` 김가람, 르세라핌 탈퇴 후 배우 새출발…\"너무 걱정 돼\" [MD이슈] `학폭 논란` 김가람, 르세라핌 탈퇴 후 배우 새출발…\"너무 걱정 돼\" [MD이슈]    마이데일리    ‘학폭 논란’ 김가람, 배우 복귀 앞둔 근황 공개 “예쁘게 봐주세요”    스포츠경향    '학폭 5호 처분→르세라핌 탈퇴' 김가람, 심정 고백했다…배우 데뷔 앞두고 \"너무 걱정돼\"    v.daum.net    '르세라핌 탈퇴' 김가람, 성숙해진 근황…배우로 새출발 속 \"너무 걱정돼\"    SPOTV NEWS    '학폭논란' 4년 만…김가람, 아이돌 때와 180도 달라진 분위기 \"너무 걱정",
+              "openings": [
+                "`학폭 논란` 김가람, 르세라핌 탈퇴 후 배우 새출발…\"너무 걱정 돼\" [MD이슈]."
+              ],
+              "source_name": "마이데일리",
+              "source_date": "2026-09-23",
+              "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zZ0lRNVo5UUo5dlBpVXNQc09XTTFUTDBmV3phbEZMQ0wybHkyeXhQblllUC1OZWpXTjdQRng1c1FmMnRWOUItdl9YR3dXR2NWVkUyUVVLMlZsX296eXRxQWZ3RWM2Zw?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    }
+  ]
+}

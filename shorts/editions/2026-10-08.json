@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-08",
+  "built_at": "2026-10-08 11:12",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/08 기준, 후보 1건에서 장면·갈등·기괴 과학 축으로 1건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프 \"이란이 LA 공격하게 둬보라\"…논란에도 또 발언",
+          "hook": "트럼프 이란이 LA 공격하게 둬보라…논란에도 또 발언",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JelI4TjI4Mkc3S0pYaDhiUk5MTk9QZlRlazJWOGhPb0U0akdYNGJXTEhEYXpESWh1NVJqMHhKMXRVTVpNNXBZN2lBNnZDendReFJ6ZXdLc2tsbzZfcEdaX3l0eU5pRDA?oc=5",
+          "source_date": "2026-10-08"
+        }
+      ],
+      "top5": [
+        1
+      ],
+      "buckets": {
+        "domestic": [
+          1
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 1
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "“산부인과 등 병원 수술·환복실 CCTV 영상 100여 건 유출”…경찰 수사",
+              "hook": "산부인과 등 병원 수술·환복실 CCTV 영상 100여 건 유출…경찰 수사",
+              "topic": "사건",
+              "summary": "“산부인과 등 병원 수술·환복실 CCTV 영상 100여 건 유출”…경찰 수사 “산부인과 등 병원 수술·환복실 CCTV 영상 100여 건 유출”…경찰 수사    KBS 뉴스    병원 진료받고 옷 갈아입는 CCTV 영상, 해외 음란물 사이트에 대거 유출    경향신문    복지부 국감서 병원 개인정보보안 도마…응급실뺑뺑이 대책촉구도(종합)    연합뉴스    산부인과 CCTV 털렸다…진료·환복 영상 해외 음란사이트서 유포    주간조선    [2026국감]수술실 CCTV 촬영 동의에 23만원 선납 요구…복지부 \"촬영 단계 비용 청구 불가\"    Daum",
+              "openings": [
+                "“산부인과 등 병원 수술·환복실 CCTV 영상 100여 건 유출”…경찰 수사."
+              ],
+              "source_name": "KBS 뉴스",
+              "source_date": "2026-10-07",
+              "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ycUlUOWlIRGN1a0JGWUF1Q1BQdHBoLVdja0V5MHg1N1ZLSjR2V2lVSm5BN2JtenBWY0JDTUQwWjl6UXpmUTBpbzJ5X2d3VXZfQ2JSVnhYaWh5Y2M?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    }
+  ]
+}

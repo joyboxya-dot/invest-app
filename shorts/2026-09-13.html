@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#0c0c0e">
+<title>쇼츠 재료 · 2026-09-13</title>
+<style>
+:root { --bg:#0c0c0e; --fg:#f4f4f5; --muted:#a1a1aa; --line:#27272a; --ok:#34d399; }
+* { box-sizing:border-box; }
+html, body { height:100%; }
+body {
+  margin:0; display:flex; flex-direction:column; overflow:hidden;
+  font:12.5px/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo",sans-serif;
+  background:var(--bg); color:var(--fg);
+}
+header {
+  flex:0 0 auto; display:flex; align-items:center; gap:.5rem;
+  padding:.28rem .45rem; border-bottom:1px solid var(--line);
+}
+h1 { font-size:.82rem; margin:0; font-weight:700; }
+select {
+  font:inherit; color:var(--fg); background:#18181b;
+  border:1px solid var(--line); border-radius:999px; padding:.08rem .5rem;
+}
+.board {
+  flex:1; min-height:0; display:grid;
+  grid-template-columns:repeat(2, minmax(0, 1fr));
+}
+.col {
+  min-width:0; min-height:0; display:flex; flex-direction:column;
+  border-right:1px solid var(--line);
+}
+.col:last-child { border-right:0; }
+.col h2 {
+  flex:0 0 auto; margin:0; padding:.28rem .45rem;
+  font-size:.78rem; font-weight:700; border-bottom:1px solid var(--line);
+}
+.list { flex:1; min-height:0; display:flex; flex-direction:column; }
+.row {
+  flex:1 1 0; min-height:0; display:flex; align-items:flex-start; gap:.28rem;
+  padding:.12rem .4rem; border-bottom:1px solid var(--line); cursor:pointer;
+  -webkit-tap-highlight-color:transparent;
+}
+.row:last-child { border-bottom:0; }
+.row:active, .row.copied { background:#1c1c1f; }
+.row.empty { cursor:default; }
+.row.empty .n { opacity:.35; }
+.n {
+  flex:0 0 1.05rem; color:var(--muted); font-variant-numeric:tabular-nums;
+  font-size:.7rem; padding-top:.05rem;
+}
+.tag {
+  flex:0 0 auto; color:#111; background:#fbbf24; font-size:.68rem; font-weight:750;
+  line-height:1.2; padding:.08rem .28rem; border-radius:4px; white-space:nowrap;
+  margin-top:.02rem;
+}
+.hook {
+  min-width:0; flex:1; overflow:hidden; font-weight:600; line-height:1.25;
+  word-break:keep-all; overflow-wrap:break-word;
+}
+.toast {
+  position:fixed; left:50%; bottom:.7rem; transform:translateX(-50%) translateY(140%);
+  background:#f4f4f5; color:#111; font-size:.75rem; font-weight:650;
+  padding:.28rem .7rem; border-radius:999px; pointer-events:none; transition:transform .16s;
+}
+.toast.show { transform:translateX(-50%) translateY(0); }
+</style>
+</head>
+<body data-date="2026-09-13">
+<header>
+  <h1>쇼츠 재료</h1>
+  <select id="archive" aria-label="날짜"><option value="2026-09-13" selected>2026-09-13</option><option value="2026-09-12">2026-09-12</option><option value="2026-09-11">2026-09-11</option><option value="2026-09-10">2026-09-10</option><option value="2026-09-09">2026-09-09</option><option value="2026-09-08">2026-09-08</option><option value="2026-09-07">2026-09-07</option><option value="2026-09-06">2026-09-06</option><option value="2026-09-05">2026-09-05</option><option value="2026-09-04">2026-09-04</option><option value="2026-09-03">2026-09-03</option><option value="2026-09-02">2026-09-02</option><option value="2026-09-01">2026-09-01</option><option value="2026-08-31">2026-08-31</option></select>
+</header>
+<div class="board"><section class="col"><h2>군림보</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMid0FVX3lxTFBSTlVGZ0tSSWlPWkE1VS1rbENJNkpzd2toTWI2bzJCa0F3dUc2dmppSnhpSnVlZF9YVWVnZDFCcV9nSE95QkVOeVhUWkJ4QjFSR2k4azFJbGY1R21iaklNN3JQenZ5ekJ3LUMzS0tYRl9fUzlGLUJV0gF3QVVfeXFMTW5lOXdWOEdVZkg0SlhQa1dGdFczQ0N5cTVpTy1nd2xTNHNlTWZSM05IVElRZjlyZjRvdDRZS3U3bkFaWjBpLUJuOEZ2TjBpcERDSC1JVnZnWTZVbWpNUkpQenhtcEJTX183VGFiZUQxYUhEbGo0OTQ?oc=5" role="button"><span class="n">1</span><span class="tag">이슈</span><span class="hook">서울 이태원서 모르는 남성 때려 숨지게 한 30대 남성 구속</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BRWl4OUlpVGMzaUdMeFo5bDBwTFBid0hkRndFT3NIS3dGY3BfVEJVUGRUOVFWVkhiSTBvUVY1c2FTc2NTcWl3QTUxaE13TFhMdTVTODVOVkVYbnFjZkVyU3ZjNEFycEE?oc=5" role="button"><span class="n">2</span><span class="tag">북한</span><span class="hook">김정은, 시진핑 9·9절 축전에 답전…&quot;북중 친선협조 강화 발전&quot;</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2Z3hTZzE4TkY4dWluVm9adDItTG1DWGtBN1ZvTy16ZEVaZ3VUS09UUF9RcHp1eHJLbERUTWs1bkp5QWk3U2ZCRk5KZmJDUEpIWGMyMXo1T05ZSE1YWlhaZG1MejdYUEE?oc=5" role="button"><span class="n">3</span><span class="tag">이슈</span><span class="hook">김승원·용혜인 인사 논란…주말에도 이어지는 해명</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KX0lCbVpPR0RsMkswS1BScUJKZU14WWJYeDhyV3ptN2dqbC1kYjYtWXE1WEU2VEJha3VHQmx4bmFNMFVVNm12TGFoN2dSYUtqcjFTWW11OVFzZ9IBX0FVX3lxTFBHN2FHdXhsVmZnaW52S1R6aE5WUHN0MkhQdEJXQWFZRFYwLVBJQUZGa1pBM0d5NE5PYzl6VUJlMkRNMmtGczBJX3U0aGg1YXhWeF9xcFhZSHk3QWZDeUZV?oc=5" role="button"><span class="n">4</span><span class="tag">이슈</span><span class="hook">민주당 “용혜인 논란에 청년 여론 들끓어”···13일 고위당정서 ‘대응 논의’</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvUzlfNlBoSmJpaHpSR2s0cWh5Zng1NnNBQS1PLS1fZTA4Z1hoMGFRU0VmdjlzWDM1SHpHZUJLYUhfNFhtRVBxazQzTlpiZ2dYMVpTLThZUW5nWUM3d3lHWEd5eXRLRVU?oc=5" role="button"><span class="n">5</span><span class="tag">사건</span><span class="hook">경찰, 수사 착수에 한동훈 반발…&quot;민주당 오빠들 이빨 되려 하나&quot;</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMidEFVX3lxTE5RSXlCRWRxZy1NdktFb3J3MG0yS19ZYzRlc3JSR3RPNFcybFhDNmZUTW15am5GdzNmbWFuUV9vWmdiUjJ6OEZ5aHpweTBiYlE0ME9QSkNuQkZQQTRxX3BUM1QxVjV5VWxMYk10M2F2bWRMV0Rf0gF0QVVfeXFMTUloNl9kbi10dWRFUkpaUWNvQ3JaaE5naV9RUzNfOEJkUXZ5elhiR1FTY2xGaFNPeWVoZDMyd2RaVENOWFNPcTEyU0pZLVNKY2ZSQjVaZEVLV0UzazdwQjEtT05QeUVSalZ5ZUhEM2FqYXM1YVE?oc=5" role="button"><span class="n">6</span><span class="tag">사건</span><span class="hook">이란 대통령 &quot;중동에 &#x27;경찰&#x27; 역할 국가 필요 없어&quot;‥미국 겨냥</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CbDlMbEotSklhaUNiTG9IT1d4SkQwQzBLZENIdHRYUFBHRmw1Z09pcmxXank5ZnNkVEMxMENFR2hObjcxV2l4M09xUVl2SGM?oc=5" role="button"><span class="n">7</span><span class="tag">사건</span><span class="hook">두달새 5차례…경찰서 가면서도 음주운전한 30대 징역 2년</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KVzdKQVZoRkt0Z09acGRJcVF2MURzS1pqalljeE5LcnVVbHJqRnYzeFY2NmRuaVhpOXlVQktoRklkSjhhdnhNNGVxNmZyTEE?oc=5" role="button"><span class="n">8</span><span class="tag">사건</span><span class="hook">숨진 44개월 여아 온몸에 피멍·혈중 캡사이신…경찰은 내사종결</span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section><section class="col"><h2>뇌전구</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JRnFjanpQeTAwb09nMTNYNXFldEh1THdRMXh2V19lMTBBNEhXUlBOLU5NTVEtZG03TE1zUjNwVkhaRU05ZEtiTVZFM3hYaWw0YUUw?oc=5" role="button"><span class="n">1</span><span class="tag">연예</span><span class="hook">박위, 케나 봉사활동 논란…알고보니 비전트립이었다</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiVEFVX3lxTE53STlWVG5lSU82STdvdE01Y1J2VGVEWGxUaUR5UzFfeEVwMV9kb1BubkFUNXNvZkg2SnFVOE4wQkw5ZzBYbE5RYUw3OWh2NVJZS3dSaA?oc=5" role="button"><span class="n">2</span><span class="tag">연예</span><span class="hook">박위 케냐 영상까지 &#x27;민폐&#x27; 비난…봉사 아닌 &#x27;비전트립&#x27;이었다 [엑&#x27;s 이슈]</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HbGtaRkxWZVM3bEdNOGRSdnJxVVN4eTR5V0p4Ul9HTzBFS1d6VlpWaEtucGRyYXR1bnhuRWpqd254ZWppcHN3OV80SDNhMDg?oc=5" role="button"><span class="n">3</span><span class="tag">연예</span><span class="hook">지예은 &quot;충주서 농사짓는 시부모 뵈러..김종국 콘서트 못 가&quot; 예비 며느리 근황 [스타이슈]</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hR0JwcUVkc1hRSUdFNWVhNGk4eWFYTGFqVXh0RC1KakpLUTRydlkteFRVV0FUZmhQcGR1Ylo0MTN6M2daZ0ItTG9hVG8wWFZ6NEttUmdOcVRaRTVqMVHSAWNBVV95cUxNOXNaZE5COVZxNWlmUks3cHFqQkNjMS1RZkFfbk9uSjc1c2l5OWZQZFU4enVpendLYnMzMklMUHd5bWVlRmFoMFBEWWk5SkdtdGFwUEZHWmxCR3NvZHBtcjFFTFk?oc=5" role="button"><span class="n">4</span><span class="tag">연예</span><span class="hook">[단독] 박위 케냐 방문 ‘봉사활동’도 아니었다</span></div><div class="row empty"><span class="n">5</span><span class="hook"></span></div><div class="row empty"><span class="n">6</span><span class="hook"></span></div><div class="row empty"><span class="n">7</span><span class="hook"></span></div><div class="row empty"><span class="n">8</span><span class="hook"></span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section></div>
+<div class="toast" id="toast">링크 복사됨</div>
+<script>
+const DATE = document.body.dataset.date;
+fetch("archive.json").then(r => r.json()).then(dates => {
+  const sel = document.getElementById("archive");
+  const latest = dates[0];
+  sel.innerHTML = dates.map(d => {
+    const selAttr = d === DATE ? " selected" : "";
+    return '<option value="'+d+'"'+selAttr+'>'+d+'</option>';
+  }).join("");
+  sel.onchange = () => {
+    const d = sel.value;
+    location.href = (d === latest) ? "index.html" : (d + ".html");
+  };
+}).catch(() => {});
+const toastEl = document.getElementById("toast");
+let toastTimer;
+function toast() {
+  toastEl.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toastEl.classList.remove("show"), 900);
+}
+document.querySelectorAll(".row[data-url]").forEach(row => {
+  row.addEventListener("click", async () => {
+    const url = row.getAttribute("data-url");
+    if (!url) return;
+    await navigator.clipboard.writeText(url);
+    row.classList.add("copied");
+    setTimeout(() => row.classList.remove("copied"), 500);
+    toast();
+  });
+});
+function linePx(el) {
+  const cs = getComputedStyle(el);
+  if (cs.lineHeight.endsWith("px")) return parseFloat(cs.lineHeight);
+  return parseFloat(cs.fontSize) * 1.25;
+}
+function fitHooks() {
+  document.querySelectorAll(".hook").forEach(el => {
+    el.style.display = "block";
+    el.style.webkitLineClamp = "unset";
+    if (el.scrollHeight <= el.clientHeight + 1) return;
+    const n = Math.max(1, Math.floor(el.clientHeight / linePx(el)));
+    el.style.display = "-webkit-box";
+    el.style.webkitBoxOrient = "vertical";
+    el.style.webkitLineClamp = String(n);
+  });
+}
+window.addEventListener("resize", fitHooks);
+requestAnimationFrame(fitHooks);
+</script>
+</body>
+</html>
