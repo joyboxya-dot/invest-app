@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-16",
+  "asof": "2026-10-16",
+  "built_at": "2026-10-16 23:29",
+  "pinned_id": "mom_only_flat20_buynew_sr_t10_lb15_vix25nb_ss20_stoptopup25_rate_pause_b_sd7_h1neg3_secqqq5_lagm1n42p20_top5_penult_sp500",
+  "universe_n": 500,
+  "pool_n": 500,
+  "lookback_months": 3,
+  "min_lookback_ret": 0.15,
+  "top_n": 10,
+  "rows": [
+    {
+      "rank": 1,
+      "symbol": "MRNA",
+      "name": "Moderna",
+      "mom_ret": 2.664649325194885,
+      "day_ret": -0.07818184140872753,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 2,
+      "symbol": "ACN",
+      "name": "Accenture",
+      "mom_ret": 0.5996858507429694,
+      "day_ret": 0.021163055955836008,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 3,
+      "symbol": "VEEV",
+      "name": "Veeva Systems",
+      "mom_ret": 0.5721593617047918,
+      "day_ret": -0.00852957683974842,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 4,
+      "symbol": "PTC",
+      "name": "PTC Inc.",
+      "mom_ret": 0.545942424872498,
+      "day_ret": -0.000880135512903113,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 5,
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "mom_ret": 0.5203419299457048,
+      "day_ret": 0.0024112930137258903,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 6,
+      "symbol": "CTSH",
+      "name": "Cognizant",
+      "mom_ret": 0.4878397110924091,
+      "day_ret": 0.00395320282045164,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 7,
+      "symbol": "IT",
+      "name": "Gartner",
+      "mom_ret": 0.45576357335620243,
+      "day_ret": -0.009454399103565492,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 8,
+      "symbol": "RVTY",
+      "name": "Revvity",
+      "mom_ret": 0.43404731199320157,
+      "day_ret": -0.013379918779573119,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 9,
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "mom_ret": 0.4248783956379074,
+      "day_ret": 0.0014637524209746289,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 10,
+      "symbol": "APA",
+      "name": "APA Corporation",
+      "mom_ret": 0.42066396780775506,
+      "day_ret": 0.04065217027845991,
+      "in_holdings": false,
+      "live_slot": false
+    }
+  ],
+  "note": "핀 규칙 동일: 매매시점 스냅샷500(시총패널 없음) · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5)"
+}

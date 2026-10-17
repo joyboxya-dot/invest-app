@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-12",
+  "built_at": "2026-10-12 10:38",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/12 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "영화 '암살자(들)' 역사 왜곡 논란 속 관객 300만 돌파",
+          "hook": "영화 암살자(들) 역사 왜곡 논란 속 관객 300만 돌파",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "YTN",
+          "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZOWhMeXQzeXdOVnl6b2J1cEJlQ3VVOUpmZC15S1NmSXBZTjFEbU53VUFZeUpxNF8xQ3A0SU1mNV9GcjRMMWw4OEEtWWoyNXVaU0RydF9tLUdOQTVPUGc?oc=5",
+          "source_date": "2026-10-12"
+        },
+        {
+          "item": "경찰, 두차례 국정원 압수수색…안보실 예산 ‘불법 지원 의혹’ 수사",
+          "hook": "경찰, 두차례 국정원 압수수색…안보실 예산 불법 지원 의혹 수사",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIV1ZPRzVPcTRyVnEyWG1iTDdxRmRTdDl6dnE1enhpcFFubUtwZU05UURXamhnUEFFQ2o2RVEzUEo2ZEZkU2NtcmxIZllTWm9NcHFDLUpibWc3OTh0aVBUdGQ3R3dGMWFWUmU0NFRqSUtWZw?oc=5",
+          "source_date": "2026-10-11"
+        },
+        {
+          "item": "국정감사 2주 차 시작…행안위 경찰청·외통위 주미대사관 국감 쟁점 예상",
+          "hook": "국정감사 2주 차 시작…행안위 경찰청·외통위 주미대사관 국감 쟁점 예상",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrNkozbG1JTXBoVUVVOE1KOXVfdmZ5MEo1bG9ONGE1dk1VOGg4bEphLW04SndzY1NvaGgzLVd0VDhoRjNMSHZDVzc2SnpISVhmTkxoVFBZZmNvakE?oc=5",
+          "source_date": "2026-10-11"
+        },
+        {
+          "item": "‘제멋대로 AI’… 이번엔 경찰에 살인 허위제보, 비자 신청도",
+          "hook": "제멋대로 AI… 이번엔 경찰에 살인 허위제보, 비자 신청도",
+          "topic": "AI",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "동아일보",
+          "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzQ1U1bUpNVmU0UzQyOFY0OUNXQjNpZ1ZCYUhXMjFqNVptWUhlclVyeEZGN2F4MVNGOHYybExOakplUTlTcExMRnYyb0k3bnk3X2xVLU9RVFI3Y0ZpcXpnZjZhWlMydUNKQ2ZrMGk3SC1iNGtTWlHSAWZBVV95cUxNZEIzRUxsSnNPYXpIYlFrSTdkanhZN1l6MjJ5TDhNQUppaEtkaFRDSkQycDIyT1R4M3J2SGVSZFNMa294NE5zTTdGUTVFVElwb1BxV1JVZzB0clpxQXgtckJNT3djQ0E?oc=5",
+          "source_date": "2026-10-11"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3
+        ],
+        "money": [],
+        "tech": [
+          4
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "조세호, 논란에 방송 줄줄이 하차했는데…일상 털렸다",
+              "hook": "조세호, 논란에 방송 줄줄이 하차했는데…일상 털렸다",
+              "topic": "연예",
+              "summary": "조세호, 논란에 방송 줄줄이 하차했는데…일상 털렸다 조세호, 논란에 방송 줄줄이 하차했는데…일상 털렸다    마이데일리    조세호 근황 담긴 SNS 등장 \"조폭이 소개해 줬다는데…\"    뉴시스    \"조세호 동의NO\" 아내 계정 맞아? 몰래 사생활 공개에 SNS 차단 추정 '무슨 일' [핫피플] - 조선비즈    Chosunbiz    '조폭 연루설' 조세호, 사생활 공개한 SNS계정...정체는? - 머니투데이    머니투데이    조세호, 아내 추정 SNS서 눈물 흘리는 모습 공개…조폭 소개설에도 답변    스포츠동아",
+              "openings": [
+                "조세호, 논란에 방송 줄줄이 하차했는데…일상 털렸다."
+              ],
+              "source_name": "마이데일리",
+              "source_date": "2026-10-11",
+              "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45Qk1aT2tBRTBZbE9mYVg3YkR2eng5VERNcEU4bTItM2hoYU9ydWh2T0R1VFV5SWNRdzBiSmd3RUJoUE9tcWhMSUZrQ0MwQ05UVFJrbF9RUGg4M3l4MnJvMlRvd2FTZw?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    }
+  ]
+}
