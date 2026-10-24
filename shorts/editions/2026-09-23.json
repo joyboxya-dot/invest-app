@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-23",
+  "built_at": "2026-09-23 09:52",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/23 기준, 후보 6건에서 장면·갈등·기괴 과학 축으로 6건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "다람쥐 가족 앞다퉈 들어가다 미끄덩~…카메라 찍힌 ‘야생동물 사생활’",
+          "hook": "다람쥐 가족 앞다퉈 들어가다 미끄덩~…카메라 찍힌 야생동물 사생활",
+          "topic": "과학",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JZWFsaUg4c3QzelFUZVBsSXV4RUw2d0V5dExOQTVEZ0lma1dqWWJIQmlueV9zbFg3Z3B2Tm5OVjRkNGY4dXhDNzRmUU9WMFE2UG5MUFBZYXo1MlA1cm5Ia3ozWVR2dWVhVXA0S2hRVE9WYU0?oc=5",
+          "source_date": "2026-09-22"
+        },
+        {
+          "item": "이태원참사 유가족 \"검찰 수사권 폐지로 검경합수팀 공백 우려‥대책 마련 촉구\"",
+          "hook": "이태원참사 유가족 검찰 수사권 폐지로 검경합수팀 공백 우려‥대책 마련 촉구",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fVVNHNFBtZ1VfMDRTU3ZSdXhKcksxVjh3WXVyLThvZ2l1SVdZQlB4ZUdtWFAzT3RPczljR3dwU21ubzd6UDFtYlRvQWNxSThYWm84QVY1akFtX2dlbG9BcXlud0E2aTQyNlk3X3o5TmhTblFXSExF0gF3QVVfeXFMTWYxekRxUGpCSjE5MVluYkNzZ1d3RTFBS2ZLQUFxbW9mS2h6Q3EwcVFPWmsxU1Y1ZkJJckJNdWVWUkcxS3JDcDlpOG5MbW16U2RqdE9mb0MwNTE0ZkpkM1hkLThSc21icWcyN0E0eGI3SW1LVDlwNlU?oc=5",
+          "source_date": "2026-09-22"
+        },
+        {
+          "item": "“돈 못 벌어 유언비어 퍼뜨렸나?”…여수시, 택시기사 ‘입단속’ 논란",
+          "hook": "돈 못 벌어 유언비어 퍼뜨렸나?…여수시, 택시기사 입단속 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MNUVLdWxYbF91MjhTbThyZlBXLXQzZUFvY3VNeGh1WVMwb09lVy1XZDZpd0hoS0ZDUzVqT21JbEd0VnZ2bUxwMUp2SXZqbFlUQldZNA?oc=5",
+          "source_date": "2026-09-22"
+        },
+        {
+          "item": "김승원 인사 논란에, 다시 주목받는 李최측근 정진상-김현지",
+          "hook": "김승원 인사 논란에, 다시 주목받는 李최측근 정진상-김현지",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "동아일보",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vSTEyWFluT3VmbTFTQ1FsQUdWellRTlU4QlFDb25mVWt4YTlRRmhLRW9pUktYMl9mdzBlSU5IRHdtVjlkVVNWakt3QXpHS2x6V1EzdF9SRVdhSVFCYllDUnZyaGo4VHJyY1huXzVpSFR5SkxabUlB0gFmQVVfeXFMTVY1WG1LQ3hILTU5LThsRy10cVUzeEZTXzVUcXZsaGFkRXpkRXdtUUdNTkFHQU5DZnVrbjkwUE9PZk9maGRvZDQwXzMwc1JPQ0hRbDFQeDhVNlNWZkVQTU1kR3V1aTl3?oc=5",
+          "source_date": "2026-09-22"
+        },
+        {
+          "item": "'방플' 논란 지속에 백기 든 크래프톤… \"전적으로 잘못\"",
+          "hook": "방플 논란 지속에 백기 든 크래프톤… 전적으로 잘못",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "뉴스1",
+          "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rUUgzQ0Z1TlJMUXlLRXpseDVyLUliTFpWdEp3Sm9DLXVrOXNibDVhSWliNWJ6ZmFGeU5mczlIbEh6d05BYU1iaTVmLXFmWXN0al9kOFl6REp0ckExQjlVMNIBZkFVX3lxTE1yM3ByNE1JN0h5Sm1wNjJNVDdlSHNLRXl3ZmY2LUF0cjA4TzQ4OWwzNnpCU2dkU2tOU1ZzOUJzUlRuOGh4Z3BPa2xvekxwQ2xYZjJzMXZkWW5rdzZ1M05VdnJQekFhdw?oc=5",
+          "source_date": "2026-09-22"
+        },
+        {
+          "item": "[단독] “보호시설 데려달라” 11살 아동, 사망 전 경찰에 두 번이나 애원했다",
+          "hook": "보호시설 데려달라 11살 아동, 사망 전 경찰에 두 번이나 애원했다",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KOENOb1hNdW56Y250aDVoeFh5M2NPc1VEV1NxZ29wTUtObl8tNzZJZkJYYXd2ZFdPOHFaNXpxX2pZaE9QZGtITW1FbWs2TTd2VGl4djdmdzZ4R3lLeTJEdTd3aEl3TUZH?oc=5",
+          "source_date": "2026-09-22"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "'♥박위 활동중단' 속..송지은 \"서로 용서하고 사랑하며 화합해야\" 소망[핫피플]",
+              "hook": "♥박위 활동중단 속..송지은 서로 용서하고 사랑하며 화합해야 소망",
+              "topic": "연예",
+              "summary": "'♥박위 활동중단' 속..송지은 \"서로 용서하고 사랑하며 화합해야\" 소망[핫피플] '♥박위 활동중단' 속..송지은 \"서로 용서하고 사랑하며 화합해야\" 소망[핫피플] - 조선비즈    Chosunbiz    송지은 \"서로 용서하고 사랑해야\"…박위는 한 달째 침묵 중 - 머니투데이    머니투데이    '박위♥' 송지은, 남편 자숙 중에도 굳건한 신앙심…\"서로를 용서하고, 사랑하고, 화합해야\"[이슈S]    v.daum.net    ‘KTX 논란·기독교인’ 박위에 “오만하고 이기적, 호의를 권리로 착각”…저격한 목사    헤럴드경제    \"100만 구독자 무너졌다\"…박위 잠잠해진 ",
+              "openings": [
+                "'♥박위 활동중단' 속..송지은 \"서로 용서하고 사랑하며 화합해야\" 소망[핫피플]."
+              ],
+              "source_name": "Chosunbiz",
+              "source_date": "2026-09-22",
+              "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGdVdDhYZmFaYkJ4RHh0MjFhZ3gyVUJVRTBhakREeG5IalFLMUdMNE9ZX0doT0VRWmNPaXNIM1Zaci1RUlZ2UEM4ZmdlYmpwdXlrMVZFc2poSXg2UUtmckFFU1N0aHFhbHNsNnBYdHF1M0ZRTVlVd0NHUkNKWklhWlZMQjZpWkZnRmZ2T0N0WTV5ZVHSAacBQVVfeXFMT29URmRxMjliWmpFMFI3VFV6TllmMGowdlRzLU5VTXR6c0FfaWljenVDSmdqVEtObUdwbnlRRE9jWWZ3dnRKMW5RR0JDa283SjVGM3MyaWxHY0l3Qkx3eW9MblFYQVpSLWxHeUhwSlZkckM0cktSdnNjOUY3N1JrSFE5QlBXWDljcFRCZ3BSOVFVOVc1SC1KWTJSZWlvN0plbUVQb2J6cVE?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "\"동물적 감각\" 지창욱에 칭찬받은 나나, '스캔들' 청상과부 어땠나..\"살고 싶다\"",
+              "hook": "동물적 감각 지창욱에 칭찬받은 나나, 스캔들 청상과부 어땠나..살고 싶다",
+              "topic": "과학",
+              "summary": "\"동물적 감각\" 지창욱에 칭찬받은 나나, '스캔들' 청상과부 어땠나..\"살고 싶다\" \"동물적 감각\" 지창욱에 칭찬받은 나나, '스캔들' 청상과부 어땠나..\"살고 싶다\" - 조선비즈    Chosunbiz    ‘스캔들’ 나나 필러 맞은 듯한 입술 논란에 “배우로는 맞지 않는 선택”    스포츠경향    나나, “저는 살고 싶습니다”…‘스캔들’ 첫 사극서 청상과부 희연 연기    톱스타뉴스    세계에서 가장 아름다운 여성의 논란이 된 도톰한 입술.    Vietnam.vn    나나, ‘스캔들’ 입술 혹평에 “보는 사람 불편했다면 내 잘못”    매일경제",
+              "openings": [
+                "\"동물적 감각\" 지창욱에 칭찬받은 나나, '스캔들' 청상과부 어땠나..\"살고 싶다\"."
+              ],
+              "source_name": "Chosunbiz",
+              "source_date": "2026-09-22",
+              "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORWY3M2VJdzIxOGRxZFljUDlSQ0JRMEpIa2dZOU5JOU1YVXctUVZoRkdUUjBCbTN3bEZodld2QkJpaXNSQ3JJZXJnV05ORTdtcjdOV0IyQkJhTXU0NGhnMGdCeE5uTWRVUF9wS3ZCQ292QUlmQzNpMGNIWGpJN1dsVWt2MnV4RmVrZ3l4bHlUQ3Zvd2vSAacBQVVfeXFMTmdBYlg0VFV3Y1NWc3VPbDNXN05iSV9KZk9BUHBPMklxakprYmd3SjZuUDh1NDBOa01laFFxQXZzLWlmRzcxZkRVQmI4T0kxX2l4SlZjVkxuMEowS2RHNmNTcVNQT2FuV1R0ODVBX3JRdGlvTW1aU19jMFBkWmUzS1VZQi1LUG51bXQ1b1dPX0VCYmVDdVc1NnVYTGxRc0dZSlZpM2djc1E?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 9
+    }
+  ]
+}

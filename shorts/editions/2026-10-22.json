@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-22",
+  "built_at": "2026-10-22 09:50",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/22 기준, 후보 8건에서 장면·갈등·기괴 과학 축으로 7건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "장동혁 1년 전 ’사석 욕설 녹취’ 공개 논란…당대표실 “법적 조치“",
+          "hook": "장동혁 1년 전 사석 욕설 녹취 공개 논란…당대표실 법적 조치",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TUFNnQjN1dE01WlJUeUM0ajA3czdjSl9XWEVmV1dXNWV3NmhoSTBlRWZ3NWZfbkxBRXFZb2JDRVc5QVNDUDBTLXRLdTZJd0h6SVk5Vm1sM21tVkFPWnZEeHFiRkxocjA?oc=5",
+          "source_date": "2026-10-21"
+        },
+        {
+          "item": "김여정, MDL 시찰 뒤 “이달 중 대남확성기 전 국경서 가동”",
+          "hook": "김여정, MDL 시찰 뒤 이달 중 대남확성기 전 국경서 가동",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mSkpsSDRtMHhaS1JRWjdfS2ZBdTZFVEhLdExnR2R2cWFoaGMtdTZyNFNsWU5ZU2swSl90dExZMW1hZ1BpSUw5Z0c5RXBrRFBWOHQ1NWtTU29Gb0JfTXBLQlpiTldUaURx?oc=5",
+          "source_date": "2026-10-21"
+        },
+        {
+          "item": "[속보] 김여정 “전국경선 새 대응수단 임무대기…확성기도 수일내 대기”",
+          "hook": "김여정 전국경선 새 대응수단 임무대기…확성기도 수일내 대기",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lVS1qUHUyVTYxdUEzN0dHd3BKM1VvdlFSWEw0R0xTQTZ3WS1TUkR0VWZVZl9YUVpXdDgwdm5DVVJHaWJMTFl4UmYyOGtYeUxFYzJiRmFn?oc=5",
+          "source_date": "2026-10-21"
+        },
+        {
+          "item": "[솔리다임 논란④] 5조 적자 견딘 하이닉스…AI컴퍼니 과실은 누구 몫",
+          "hook": "5조 적자 견딘 하이닉스…AI컴퍼니 과실은 누구 몫",
+          "topic": "반도체",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KB Think",
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oVUpvU3lQY1dZcFZVRXNfVmIzRVlnTGc3NGFSNVp1ZGZYMUJFejE3MHRFVmoxNktEMDJBZmRsX1AteG4zbkZmeGJNcTJhNkI2NHhQLUVkTEF6MENZNUFMZHBScmt6cDFSQU5Za2FGVFRYZw?oc=5",
+          "source_date": "2026-10-22"
+        },
+        {
+          "item": "李 \"유시민 처벌 원치 않아\"... 경찰, 수사 종결할 듯",
+          "hook": "李 유시민 처벌 원치 않아... 경찰, 수사 종결할 듯",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVI3YnpKX0ctN3NkdXlxYTA4VGpBMXhkUUtHNmZjdHd0dE1NbHhVdG5PSXRmcVIzWFZCZG40U1N2TnE3dlNSUGZMM0tKb1VqSjk4TDE1cjN3RWRuVXZnYjhGaDFzSjQzWWtWRmQ1QWp6cWRubkdqLTh2RWF5a01COTBZT0xPdHI1UV85cmpNOEQ?oc=5",
+          "source_date": "2026-10-21"
+        },
+        {
+          "item": "목포 산후조리원서 12일 된 신생아 숨져…경찰 수사 중",
+          "hook": "목포 산후조리원서 12일 된 신생아 숨져…경찰 수사 중",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RUmtoVkxUYjBKMEZzeTNEb2l3ZGV0dnI3VWlGUXFLZW5QWFU1amM3eTN0d25EOWJlX2NBUjQ1aUp1U2lkSjNYZWdzU3lTTUtCZlhZQjB4Si1xYVE?oc=5",
+          "source_date": "2026-10-21"
+        },
+        {
+          "item": "송파 한강 배수로에서 사람 두개골 발견…경찰 수사 착수",
+          "hook": "송파 한강 배수로에서 사람 두개골 발견…경찰 수사 착수",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "JTBC",
+          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCeWF1eTR2S3BpeTRSZXlvSU1wM3d5d240QzZmdWRRNEM5TlFoY3p6aVM3QmRUQy1ESjU2ald5dkpiTklzNmtUMWN2Qk55V3lmTG1lRw?oc=5",
+          "source_date": "2026-10-21"
+        },
+        {
+          "item": "최산, 호텔방 최초 공개..무대 위 ‘북부대공’→현실은 ‘포켓몬 덕후’ ('전참시')",
+          "hook": "최산, 호텔방 최초 공개..무대 위 북부대공→현실은 포켓몬 덕후 (전참시)",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Chosunbiz",
+          "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSktfRkJlOTAwejdmTE80T2tOSGNuMFFvNkl6ZGwtTDFISjNOY1k0WkNEMDlHYU9jc0JtRmVUU2t6bUdLY1pEMnd4SElRVXoyVkRlZGRQWW8yUHMxWlplNjNOZ3dBc2FHdHBzSWEyb3RrR3dWQzMyR1NHRloySEZhQlY4S3ZpOG1SeEpiWmdWT29UeGPSAacBQVVfeXFMUG5tVHhmNE5uTkU3Y2xOYWxPOHcta0ZVZlhpZ3E3dmhMWDhjX2tJa1llNEswdkRxWXF6MnA0d3JSUkRLMTNZeU9NRzFFejJfN3BlV0Q0QUZhT0YtRFdLQTNsVjc4Mml3OWF6aDJOLVNCYUJ5d1o5SThwTG93dHNhUVBRcTZpVVFiOUJOczBfU2tYU1JXYzIyVEhBM3hBLUctcmFDVFRPREk?oc=5",
+          "source_date": "2026-10-21"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "money": [],
+        "tech": [
+          4
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "만취 상태로 ‘플라밍고’ 납치한 관광객…동물학대로 감옥행 위기 [잇슈 SNS]",
+              "hook": "만취 상태로 플라밍고 납치한 관광객…동물학대로 감옥행 위기",
+              "topic": "사건",
+              "summary": "만취 상태로 ‘플라밍고’ 납치한 관광객…동물학대로 감옥행 위기 [잇슈 SNS] 만취 상태로 ‘플라밍고’ 납치한 관광객…동물학대로 감옥행 위기 [잇슈 SNS]    KBS 뉴스    만취 관광객, 美 호텔서 플라밍고 훔쳤다가…동물학대 혐의 유죄 평결    한국경제    美서 만취해 플라밍고 훔친 관광객…동물학대로 감옥행 위기    연합뉴스",
+              "openings": [
+                "만취 상태로 ‘플라밍고’ 납치한 관광객…동물학대로 감옥행 위기 [잇슈 SNS]."
+              ],
+              "source_name": "KBS 뉴스",
+              "source_date": "2026-10-21",
+              "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6aW1xRVFMQ19TZnJzbERmUjlnYzNOZjcyWnI1Q19vRGJiN0pzN2c3OE1XSFdzR01jV1pNZHpXZnZKTE9MMnlIcXJWczRHN19JVnJvSk5UWl9US3hXdjRwLU52YjdoQQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 10
+    }
+  ]
+}

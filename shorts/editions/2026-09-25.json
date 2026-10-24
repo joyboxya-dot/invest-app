@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-25",
+  "built_at": "2026-09-25 09:43",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/25 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "[분석] 김정은, 트럼프 만날 이유 줄었나···북한의 계산 바꾼 중·러 밀착",
+          "hook": "김정은, 트럼프 만날 이유 줄었나···북한의 계산 바꾼 중·러 밀착",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "여성경제신문",
+          "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SX3k2Q3k3ZVNjbzFvMjM2dTBPcFdSaHFURURuX0RzVDY2aVY4eno1cDJXQVJpQ0pOT2gtY19QUVBDNDZMNUlTWFBKY1lhVlVBREhWMk1ncUFBRE5TRVZQOWsxRE5HZnJFUDNaMlV2b3AySWfSAXdBVV95cUxNbmVoUldwRmQ0ZEJrd2plTlpjall3Q0g3Q2tEYVVsdXNfUm16VWhxQWliQ3g4X2ZlWlh1Q3RpNGlXOVN1RTJ4WVNMQ0t3Tk04bk9ibWtsZnhmSHo2bi1GOUJUTUdWMUlTZldaUVZTWkJPX0x1M1dRbw?oc=5",
+          "source_date": "2026-09-24"
+        },
+        {
+          "item": "러 외무차관 \"김정은 초청했다\"…연내 방러 성사 주목",
+          "hook": "러 외무차관 김정은 초청했다…연내 방러 성사 주목",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYm5aaElHRk9WOE1zSHVzNnI1em9WMTZOVWpmWUozXzBWVmE4NEpGcUdERHRJbVZyM196OXVjT3czNF9yRXhDQ0x3SVRlRmJuNFJTYVY4XzBEUQ?oc=5",
+          "source_date": "2026-09-24"
+        },
+        {
+          "item": "‘섬박람회 입단속’ 논란에 서영학 여수시장, 공식 사과...“안이한 행정”",
+          "hook": "섬박람회 입단속 논란에 서영학 여수시장, 공식 사과...안이한 행정",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVG1YeExXTVg1N2QtT0JkeWtZV3RRbTdya2dYWmxUWVVsVHM0OUJOanU1RDZaZ242eXpJZ3MySFVlaDBzb3NVUXd4MndwcFVzbnNCWE9rR2ZDMHZoVng2TFc0VUdPT01JLTFtcFpLUG9UOUxGRFdvb2VYYVc4c05DUmk2MGt4Zw?oc=5",
+          "source_date": "2026-09-24"
+        },
+        {
+          "item": "“8명이나 자살 시도했다”…‘장기배치 논란’ 美 링컨 항모, 충격 서한",
+          "hook": "8명이나 자살 시도했다…장기배치 논란 美 링컨 항모, 충격 서한",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYcHpWUHc3VXk5RjJTVlhlU25Ka3o1RHRoem9ja0c0T21kRTVEY0t2VGlDNHRhRzRQYVZMdng0MUdCTDBwSl9FQTMyYXFja21SU3c?oc=5",
+          "source_date": "2026-09-24"
+        },
+        {
+          "item": "경찰 “추석 일평균 교통량 605만대 예상”…청장대행 현장 순찰",
+          "hook": "경찰 추석 일평균 교통량 605만대 예상…청장대행 현장 순찰",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "news.kbs.co.kr",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kOFNIUS0tajlIamxmUFNNMW1sOF8tcTFQdl9KenM3ZmxTczBKYy1OSS15eXZ3ZXRxRjQ4aTNtX0c3S1ZsZk9DeVItNmdoT0s4ZGt2Z1poaWRJZ3c?oc=5",
+          "source_date": "2026-09-24"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "경찰, 만취해 지인에 흉기 휘두른 60대 체포",
+              "hook": "경찰, 만취해 지인에 흉기 휘두른 60대 체포",
+              "topic": "사건",
+              "summary": "경찰, 만취해 지인에 흉기 휘두른 60대 체포 경찰, 만취해 지인에 흉기 휘두른 60대 체포    news.kbs.co.kr    추석 연휴 첫날 만취해 지인에 흉기 휘두른 60대 남성 체포    MBC 뉴스    정선 신동서 살인 사건 발생… 피해자 1명 원주기독병원 이송    뉴시스    추석 연휴 첫날 만취해 지인에 흉기 휘두른 60대 붙잡혀    v.daum.net    추석 연휴 만취해 지인 살해하려한 60대 검거    강원일보",
+              "openings": [
+                "경찰, 만취해 지인에 흉기 휘두른 60대 체포."
+              ],
+              "source_name": "news.kbs.co.kr",
+              "source_date": "2026-09-24",
+              "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYLVpkdTlaRldQYUN3c3BraE83ZVBtQVFqclFMaFBsdklOdGE1cERDMkFFaEl5NThuV1pxMS1xakZOcmRaenpoRGlZNGRaaklfcm1zU3FZczdiYXc?oc=5",
+              "priority": "A"
+            }
+          ]
+        },
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "배우 지종은, 라이브 커머스 판매원 된 근황‥목발 짚고 발품 홍보(특종세상)",
+              "hook": "배우 지종은, 라이브 커머스 판매원 된 근황‥목발 짚고 발품 홍보(특종세상)",
+              "topic": "연예",
+              "summary": "배우 지종은, 라이브 커머스 판매원 된 근황‥목발 짚고 발품 홍보(특종세상) 배우 지종은, 라이브 커머스 판매원 된 근황‥목발 짚고 발품 홍보(특종세상)    뉴스엔    홍지민, 인성 이 정도라니...뮤지컬 '넌센스' 인연 20년지기 배우 \"은인\"    v.daum.net    \"안면마비 재발 위험\"..‘박보영 닮은꼴’ 지종은, 생계 위해 다시 인생2막 (‘특종세상’) - 조선비즈    Chosunbiz    지종은, 남편 사업 부도로 생계 책임졌다…\"하루하루가 지옥\" (특종세상)    네이트    스타덤 올랐는데..지종은 \"돌연 섭외 끊겨, 신인 때 충격 받았다” (‘",
+              "openings": [
+                "배우 지종은, 라이브 커머스 판매원 된 근황‥목발 짚고 발품 홍보(특종세상)."
+              ],
+              "source_name": "뉴스엔",
+              "source_date": "2026-09-24",
+              "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqY1AwVlpSd05SczNZeURvc2VRYXItazUtc2JoY2xSNVNkeTk3bktNZ21OWWxDUjktY2JUM1JrN0FPbWdSLUJVMWdMa3ZNNThpbkRpWVVvZjR2Sl9TRS15NUtnQTJVdXpw?oc=5",
+              "priority": "A"
+            },
+            {
+              "item": "'46세' 배두나, '급속 노화' 근황 확산..\"시술없는 자연스러움\" 응원 쇄도[핫피플]",
+              "hook": "46세 배두나, 급속 노화 근황 확산..시술없는 자연스러움 응원 쇄도",
+              "topic": "연예",
+              "summary": "'46세' 배두나, '급속 노화' 근황 확산..\"시술없는 자연스러움\" 응원 쇄도[핫피플] '46세' 배두나, '급속 노화' 근황 확산..\"시술없는 자연스러움\" 응원 쇄도[핫피플] - 조선비즈    Chosunbiz    배두나, '급속 노화' 외모 변화에 관심 집중…과거 \"노메이크업 선호\" 소신 재조명 [엑's 이슈]    v.daum.net    '46세' 배두나, '급속 노화' 근황 확산..\"시술없는 자연스러움\" 응원 쇄도[핫피플]    koreadaily.com    “바지·가방 샀어요” 소탈한 쇼핑 자랑했는데… 배두나, 엉뚱한 외모 품평에 ‘씁쓸’    매일경제    '46세'",
+              "openings": [
+                "'46세' 배두나, '급속 노화' 근황 확산..\"시술없는 자연스러움\" 응원 쇄도[핫피플]."
+              ],
+              "source_name": "Chosunbiz",
+              "source_date": "2026-09-24",
+              "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnZkZHhNYmhVYjJZNDRPbDFYa1NKS000ai0wcUQyOTAxY3BhQlhRT0FRYmpEZnRieExNYzR3aHR2T2t2Y2RpQ3hCczl5WGVlZTFRbUpxdFh1NzR2V05OR3ZNYlo3czhUOEE2clVoWko4VGgxWWZySVdVSmdLMmxld18xREpDTGNkclFVY0V0VDdIY0XSAacBQVVfeXFMTjVESFJ4SEVBcW1ZdEVwT1BNNlROWlZhRHZNQ1hkbExCaThlbGhZVlR5NHZVcXVNem9GREV6Y2hrMERfc3Z5SjhwalM0dV9ueFR1SXh1OGZWa0Fwa01LMjhBdUdUVjNBTVY5VXJ4dE5YWXJHOWJtX2I5N1RCQTRVQ2VzOFhRU3d1a1NJWnpwaHBST1Y5eDZybVhiUXZoYU9ndzRpYlRXaW8?oc=5",
+              "priority": "A"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    }
+  ]
+}

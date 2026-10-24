@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-19",
+  "built_at": "2026-10-19 09:23",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/19 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "‘선 넘는’ 브런슨, 영토 주권 침해 논란에 전작권 ‘문턱 높이기’ 자처하는 이유는?",
+          "hook": "선 넘는 브런슨, 영토 주권 침해 논란에 전작권 문턱 높이기 자처하는 이유는?",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OUlFLY1B2Z2FVX3FBb1BPemZKYzdhNFVPaklHak8zNzVaOWk1RzVzQUQxaTZ5b3VPQmVoSEY3Nm5LVUdTSUV0UFJQd1VjLXVqMERxRHo2QWlVUdIBX0FVX3lxTE1YeTdPYWtSZDFwTHFOQW1peV9qN19hNkZseFBURnFkOWNjYWhxN3FGbGlEdEVOdW5qdjAzcllzalBQTjJsd3Mtc05paE1mYmlDWnZTVHhQdWNFUEFCejEw?oc=5",
+          "source_date": "2026-10-18"
+        },
+        {
+          "item": "경찰, 최충락 1인시위 때 뺏은 흉기 시위 후엔 돌려줘",
+          "hook": "경찰, 최충락 1인시위 때 뺏은 흉기 시위 후엔 돌려줘",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jTWt5d1JleVNMOTlhckQ4NUFJMmxzTFJYSDJacGlBVjdiX0RpZDF5WXF3Q0FGeFBQeUFka0EyVHo3XzJvT3FJcVA1WnF4aVJyOTNsT3RFSVF6QknSAWBBVV95cUxPdVZ4UnEyTE82YUV5OVd5akNvS0ZGWHZSUldVTV9nTjRiNGxLeHR4cW5nZm1aYUdIN2ZOYVBNcWNBcEFGUXJlZnhvbTZQS0xsYjZJaXRnNnlhTzlwZVBaY2U?oc=5",
+          "source_date": "2026-10-18"
+        },
+        {
+          "item": "수사부서 키우던 경찰, 인천 흉기난동 뒤 순찰 강화 ‘인력 돌려막기’",
+          "hook": "수사부서 키우던 경찰, 인천 흉기난동 뒤 순찰 강화 인력 돌려막기",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YVTFTelNRcEhjM05MYzJrZXJWWUY0RG9QTjd2cnJ4NGVJbjBTREx3WWlDeEFiZTZTSFMzeVNIYWY3LW1oSUlYZlNYZW5BTFFnWGFPTzdIVV9pN2d1QjFqTGpUa0dfNzlIMzdHM19UdTRoQQ?oc=5",
+          "source_date": "2026-10-18"
+        },
+        {
+          "item": "경찰, '8명 사상' 부천 화재 공장 대표 피의자 입건",
+          "hook": "경찰, 8명 사상 부천 화재 공장 대표 피의자 입건",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfSDN1QUVPalVhNVN1bDdBS2oxMjVQMkxQZVhYS3h2SlBaWlQ1STBhU1dFbGRTYTJJZjJjSWxhdGstcHpSZUZsNTllQ19ZRDZmaVgzMW5oQXRpLU1EcWd6WERzbUtqeHd2VllCOGNSUzRKWFh2UkFN0gF3QVVfeXFMTUgySkRfeG50Q1N3N2dVWVlDMTJFWUNxZVJ2akF2dHRkb0l1ODVoYVNvVkNQY1M3ZDhRYVlPZTNpT3hxSTNYV2xvRGdkOG9YaGdWeE1kanlzU3NyVnBUR01uRjljeV9FQ2lVVl9VRlRyOEd5dUtDTW8?oc=5",
+          "source_date": "2026-10-18"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-02",
+  "built_at": "2026-10-02 10:46",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/02 기준, 후보 7건에서 장면·갈등·기괴 과학 축으로 7건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "‘삼성·SK 주거비 지원’ 논란에… 李 “기업에 수조원은 괜찮고, 직원 주는 건 문제되나”",
+          "hook": "삼성·SK 주거비 지원 논란에… 李 기업에 수조원은 괜찮고, 직원 주는 건 문제되나",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONTI4ZjZFQzYzdGpNOGZCSG5UWm1wSDdZN2praVB0QWtzSk8wS0pZR3doOW9kcWczeHdZS3p0bjJLWTVROUV6UmcwcndGRUVDT3N1UUgtdG5pajJuUzVyMmhrOTNBcFVPQkpFQTBRa0xmTmxGRXRnTFJZUVZuVjZ6SmRzZzZSSVpNMV83TlVkZ1Q?oc=5",
+          "source_date": "2026-10-01"
+        },
+        {
+          "item": "‘JYP신사옥 부지’ 논란에 유현준 공개 저격한 서울시···“어떻게 용산공원과 비교하나”",
+          "hook": "JYP신사옥 부지 논란에 유현준 공개 저격한 서울시···어떻게 용산공원과 비교하나",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZ3FXWkVSOXJ1YXViaUdiblgya2hOZGJwY3VOZjdpdGZlTjdLT1FCVlNoc1BveWVxc3kzTXFIazZfT0NzU1FLQ1F3Sk1xNTEwc2dBcXFWaW94Z9IBX0FVX3lxTE1NcWYzOEVFWkltY3RydWQxRlp6c25OU1VKSXdoV3RGZ1VLOTRJamMtN3VDNWZxZlRzZ3NpVTVDbENNbURUWmpkc250dzNNRldvUVkzeHIxU0VfcUlUeUlJ?oc=5",
+          "source_date": "2026-10-01"
+        },
+        {
+          "item": "팔꿈치 살짝 건드렸다고 폭언·위협…무릎 꿇은 승무원 논란",
+          "hook": "팔꿈치 살짝 건드렸다고 폭언·위협…무릎 꿇은 승무원 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경기일보",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84bVM2SXFSSU5WNm43bFA5Qkk0M0FWb09tQVBQX2hHS3gzZ3kzaFVwQjlRZUtzNmc1U0dPV1RhT2dLZnU2Zi1acC1LLUFRT0U0MlI5SlJHRXVEZHM?oc=5",
+          "source_date": "2026-10-01"
+        },
+        {
+          "item": "경찰 수사 미진하면… 검사 대신 피해자가 직접 이의 제기 나서야",
+          "hook": "경찰 수사 미진하면… 검사 대신 피해자가 직접 이의 제기 나서야",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGdTeURPczNmS3ZoNFpudnlLdnBTNXM0RjJWLTZXOGV6c3Y4bmxtLXJiMEdvYXI0R3prVmpDczVKaWVYeTlubXk3emwxc2IwZnNsZmZaV0wxb1AxMHhUNFdlYTUxaC1mNW16MGhTSnZHUzJLQTU5eDBMeGhjTkhyaDFzb1AxNVE?oc=5",
+          "source_date": "2026-10-01"
+        },
+        {
+          "item": "경찰, 소아응급센터 진료 중 압수수색…학회 ‘의료 혼란’ 반발",
+          "hook": "경찰, 소아응급센터 진료 중 압수수색…학회 의료 혼란 반발",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3h0TWlfb2NHRW0yakdsR2ZYcGdUaktIUDR3a0VQdGRCb1BPMWhPWmpSdnRuVDYxSUhaUEZBX3dha1B0X2dCRVdzdXk1V2NYNXdEemRNakNrVkJ1azN2cFRhT2J3TG9hMl9zNzFTbFFxMmU0ZHFjZ0FjM1EwcjJmNDVHX3g2bWQ1NWVhbzdtSQ?oc=5",
+          "source_date": "2026-10-01"
+        },
+        {
+          "item": "경찰, 동대문구 통일단체 압수수색…국가보안법 위반 혐의",
+          "hook": "경찰, 동대문구 통일단체 압수수색…국가보안법 위반 혐의",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6N3FZVU9ILWQ2dFdMc3JlWEt0cjZ1WjhKdDhQRjg5clNJaGcyTmdfWWFUVWt0MmRFV0pGNG01TG9Ed1oxM2VpS2lnRzdsdUpoc1VfYlFWdU04U0k?oc=5",
+          "source_date": "2026-10-01"
+        },
+        {
+          "item": "양자컴퓨터가 비트코인 무력화?…\"10년 내 현실화 근거 없다\"",
+          "hook": "양자컴퓨터가 비트코인 무력화?…10년 내 현실화 근거 없다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "디지털투데이",
+          "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iZ2FITnM0Mk9CR3Frc3RRMFMxeVBYYko2dUEta2ZkMm5nTm9Rbmd4Mm45YjBDcXk5X01YRV9BUlFrNmExQkxZMGw2dFhHc3hoYThnWU9PNXVOLTBDbFlhT0V4MjI3VlpOeUlwMXltTk93TjA?oc=5",
+          "source_date": "2026-10-02"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "\"오랜만이야, 보고 싶었어\" 차주영, 건강 되찾았다..반가운 '뉴욕' 근황",
+              "hook": "오랜만이야, 보고 싶었어 차주영, 건강 되찾았다..반가운 뉴욕 근황",
+              "topic": "연예",
+              "summary": "\"오랜만이야, 보고 싶었어\" 차주영, 건강 되찾았다..반가운 '뉴욕' 근황 \"오랜만이야, 보고 싶었어\" 차주영, 건강 되찾았다..반가운 '뉴욕' 근황    조선일보    차주영, 수술 후유증? 비틀거리며 위태로운 모습 \"지끈. 힘을 내 주영아\"    v.daum.net    \"장기간 코피로 수술까지\" 차주영, 뉴욕서 전한 근황 [헬스톡]    파이낸셜뉴스    차주영, 웅장한 계단 위에서 여유 포즈…‘Calm me down’ 근황    TopStarNews    [IS하이컷] 차주영, 건강해진 근황...해외서 시크한 데일리룩으로 완성한 분위기    일간스포츠",
+              "openings": [
+                "\"오랜만이야, 보고 싶었어\" 차주영, 건강 되찾았다..반가운 '뉴욕' 근황."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-10-01",
+              "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVzlsblF6LXNQU3NXV1BNLUlVSUdlZ1p5dEVua0Q0bkNyUWJzN2h0bGxEc0F4dGVXc0VoS2prVFhXNFRQU19pY24zeDFHanZxa0JsR3M0R2N6SUV2NTF6Q2ZPcnhWV1Btc3V3dzBPWkxaTDN1c1NNNDZxZ2JTcDRQT1g5MXhZb0Jpc0kyWGxkVQ?oc=5",
+              "priority": "A"
+            }
+          ]
+        },
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "피신고자 있는 오픈채팅방에 신고자 연락처 올린 경찰관, 대기발령 조치",
+              "hook": "피신고자 있는 오픈채팅방에 신고자 연락처 올린 경찰관, 대기발령 조치",
+              "topic": "사건",
+              "summary": "피신고자 있는 오픈채팅방에 신고자 연락처 올린 경찰관, 대기발령 조치 피신고자 있는 오픈채팅방에 신고자 연락처 올린 경찰관, 대기발령 조치    조선일보",
+              "openings": [
+                "피신고자 있는 오픈채팅방에 신고자 연락처 올린 경찰관, 대기발령 조치."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-10-01",
+              "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcV8wQ1dIdUtXVU95N2Vnb3FXb1dyTmJqWjUwWmJtTkgya194WWZCRHVscXU0ekZ5UzhQVUdGRGpMbG1YaFJ3TXhqUWI2dUI4eFk5d0FXbnNCc3ltWTNlNDhySUZ2YXRCVW1hZ2pGZVdESTZqZFZrX25icWJiMl92ejJQUWtaeW9RUjZ3T0p1YVI?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 9
+    }
+  ]
+}

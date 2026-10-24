@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-07",
+  "built_at": "2026-10-07 10:45",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/07 기준, 후보 7건에서 장면·갈등·기괴 과학 축으로 7건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프 \"LA·샌디에이고 파괴하게 놔둬라\"…이란전 발언 논란",
+          "hook": "트럼프 LA·샌디에이고 파괴하게 놔둬라…이란전 발언 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LNExfUG9aUFFNeHRoN0w2WjBJMFBmc1poQkJzVGN5MDhfODZaOTNsbnhxcDhQakR6cmhSVnZFU3Y4VEpUcnBWMGtLdlV6c250ZU9VU2h2VDk4dnPSAWBBVV95cUxQelFkVjlLM0h2NE5JZzVRSUczQWhqWTZoanpWdGJqaEFfS3pnczdVUDk5TEJ2akRPTVRXdDJBU0FnTkRXWVYxT2xkVEdELWZoWXkydVRmWlpBU2RZWUhzUGI?oc=5",
+          "source_date": "2026-10-06"
+        },
+        {
+          "item": "김정은, 푸틴 생일 맞아 축전‥\"동맹관계 발전, 불변한 선택\"",
+          "hook": "김정은, 푸틴 생일 맞아 축전‥동맹관계 발전, 불변한 선택",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kN3czcEZ0dzRqYjBLa3F3RHJ0TEV6OGlUZGg4UlZmbndtWUJJbkhFXzlYX1A2R2d3V2FiMVUyMnFrQTF6eFEyS05LeWZ2ZURZd202NlRiQWhUaUlyS3ZZRTU1cFEzX0wtUmtjZGh5d3VQQ2F20gF0QVVfeXFMTU5NWnVQOEZ3Q2VkSEZJTTlzQ2FMR053ZnNoYzVrcmdmaEdIWGp0ZGgxQTlEZldwcm5Pbi13M0NmQUpqdGt6cWdlQ2ZSS25hUEVGN0lUQktyZ1JRc2Qwek04aEZpQ3l1WHIteURoOG1kMGU2UGI?oc=5",
+          "source_date": "2026-10-06"
+        },
+        {
+          "item": "윤호중, ‘친윤 논란’ 김지용에 “큰 하자 없어…수장 없는 중수청 출범 송구”",
+          "hook": "윤호중, 친윤 논란 김지용에 큰 하자 없어…수장 없는 중수청 출범 송구",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nOHNVR0NNanF4Q2NxbHRCZ1Z6d25fcHRmRFNEQnBMRDB1ZnY5TTV2OTFGNEs0VUtmQVVwWVFKRHZmY2xqM2VPdnBESGxEcXgxSm5saFpkOVVRaFRQWVZ3TndVTnZ2b1ZYbXFWMnA3TlJsUQ?oc=5",
+          "source_date": "2026-10-06"
+        },
+        {
+          "item": "\"군 면제 논란에 청약까지?\"…축구 대표팀 후폭풍 '일파만파'",
+          "hook": "군 면제 논란에 청약까지?…축구 대표팀 후폭풍 일파만파",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52MGYyc0tFSXpXcXd4cV85N3A3N2lRWnNhZUNMZ2xsMEZUZWFRWVJkX3hQSjEzYkRCUXRleVNKN1pXdU1mem83WGMxS2NFRFpvLXF5aTk5Yjc4Zw?oc=5",
+          "source_date": "2026-10-06"
+        },
+        {
+          "item": "‘몸짱 경찰 달력’ 8년째…엄마 경찰관도 “아이들 위해 나섰다”",
+          "hook": "몸짱 경찰 달력 8년째…엄마 경찰관도 아이들 위해 나섰다",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nLUo0QVhNZWYwVFJRV19KQndUSWh3SW1KakUyQm9FdmZBNXN5bWFoYUEzZW5XLVVUZHJJWXZQQlNyUkJvejFmNjRPTHV5VlBCMlkwczUyNFZvYzg?oc=5",
+          "source_date": "2026-10-06"
+        },
+        {
+          "item": "인천 경찰서 유치장서 극단 선택 시도한 피의자 하루 만에 숨져",
+          "hook": "인천 경찰서 유치장서 극단 선택 시도한 피의자 하루 만에 숨져",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rREZJcVJZWjMxUEtlYi1OS1J6aV9HZ3c1enlVeWpzZU9sVTVDUy1xV3BfeFNxM01LNnNoQ3VCQlAwYU1jWDBIQzE4aDBlYjlKM3JIdTV5THlkUHBNSmFLT1Nnc0ZVYmlnWVNQZ285TG9tX0tqYkMw0gF3QVVfeXFMTmluRlh5MVloQjc2c0o3WVF2Z0lyZy1lbkpQaFV3MEYySXdPcklaNnFxSlBsbFFWMl9sZ0h2eHIxS212U3ZGYmQxNnkweGRHTnNyRjdrOEI1RXlWUk1TaVYxeU1sM0cxUkV0R0NFSzN4aTJsV0NoOHc?oc=5",
+          "source_date": "2026-10-06"
+        },
+        {
+          "item": "김재섭 “정치 경찰 표적 수사 응하지 않겠다…체포동의안 보내라”",
+          "hook": "김재섭 정치 경찰 표적 수사 응하지 않겠다…체포동의안 보내라",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYQzNObnhLN09MelNnYVBJZ1BtNHgwQlRTcHVDY0p0NG1BbFVhYllXYlNjVWxmUDhCU3NUNzJBR0xtNmFTeHdndFRDekM1UFVzUnFaQkw3QjEyd9IBX0FVX3lxTE01bmJucDFvU0oybktCakV4MTRZbGhmM19sRzFwZFNuc3M2NXVYMGJkcWplZnI3ZGR5YXZ5cGJ6YU41RThPT3RaenpXVnB4bnUwNUsxMFVsYVBpMGgzN1FN?oc=5",
+          "source_date": "2026-10-06"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "김다현, 논란 딛고 부산국제영화제 참석",
+              "hook": "김다현, 논란 딛고 부산국제영화제 참석",
+              "topic": "연예",
+              "summary": "김다현, 논란 딛고 부산국제영화제 참석 김다현, 논란 딛고 부산국제영화제 참석    뉴스핌    김다현, 역경 딛고 부산국제영화제(BIFF) 참석    Daum    심수봉 실언 논란 털어낸 김다현, 신곡 낸다    뉴시스    순록이의 하트, 김재원 [O! STAR 숏폼] - 조선비즈    Chosunbiz    슈화, 배우로 인사드려요 [포토엔HD]    뉴스엔",
+              "openings": [
+                "김다현, 논란 딛고 부산국제영화제 참석."
+              ],
+              "source_name": "뉴스핌",
+              "source_date": "2026-10-06",
+              "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSjhjbGNRaTMzR1VGRU1mTFhZVVlWVXZ5X2VPT0tnVDdNd0xtbGZaSXZJU2sxWEhXTFhEWlprUDZtbE5LM05oSTQ0R2Jha3hPaF94a1F5aFlxUHlL?oc=5",
+              "priority": "B"
+            }
+          ]
+        },
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "경찰, ’암살자(들)’ 유해진 신변보호 조치…“집중 순찰·스마트워치 지급“",
+              "hook": "경찰, 암살자(들) 유해진 신변보호 조치…집중 순찰·스마트워치 지급",
+              "topic": "사건",
+              "summary": "경찰, ’암살자(들)’ 유해진 신변보호 조치…“집중 순찰·스마트워치 지급“ 경찰, ’암살자(들)’ 유해진 신변보호 조치…“집중 순찰·스마트워치 지급“    연합뉴스TV    유해진, 경찰 신변보호 조치…안전 우려에 공식 일정 잇단 불참    YTN star    \"유해진 대신 나를 모델로\" 극우들, 이번엔 버거킹까지 갔다    JTBC    버거킹, 유해진 광고 단기 종료…SNS 게시물·매장 광고물 정리(종합2보)    Daum    [CEO Effect] 이동형의 버거킹, 그리고 유해진, 그리고 댓글창    녹색경제신문",
+              "openings": [
+                "경찰, ’암살자(들)’ 유해진 신변보호 조치…“집중 순찰·스마트워치 지급“."
+              ],
+              "source_name": "연합뉴스TV",
+              "source_date": "2026-10-06",
+              "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VYVB3S3JYeFUtTzRPYXBVaE00d0p6U1BYc0RkX05qNlR2NGFZOEd6Q3BXY2VMX3MzSjlZQ0lhdjhFSHN1X1RkTUZyQm5QYWYtUDE0WC1UOUNGbHdhUVV5cHNNWGdlanM?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 10
+    }
+  ]
+}
