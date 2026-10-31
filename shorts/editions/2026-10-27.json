@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-27",
+  "built_at": "2026-10-27 10:35",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/27 기준, 후보 7건에서 장면·갈등·기괴 과학 축으로 7건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "홍지선 장관, 12·29 참사 유가족에 사과‥국토부 직원도 징계 착수",
+          "hook": "홍지선 장관, 12·29 참사 유가족에 사과‥국토부 직원도 징계 착수",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HVGFhbm1McHQ1b3VwT2dDUkdqUDNCQ1VHaWxTWUgxN3g4dnZKYURJSDR6cm5iaHp6UlNfOGZpYnZxSTZLU0RObzlfMVBHdEI0T3RTZm04Y3U4N2MwampZQ0FzVWVKX1RPa3dVMnpzUDE4RTVl0gF0QVVfeXFMUFhWdS1lM1g4WlhhOVgtR21mLVhuVV80M194TUdUMGNGNUJQM09aWU5zRUJ1Sk4tcVNiMTd1eTBNYzZqUlRONnZsQ01Xb0h0aTBGYkcydkhXTEpSVlJCRlVOVjhJN0dZRTVFdGFTTG4xbUUwZ1k?oc=5",
+          "source_date": "2026-10-26"
+        },
+        {
+          "item": "네타냐후, 총선 앞두고 이란 타격 군 압박 논란...'공포 정치' 승부수",
+          "hook": "네타냐후, 총선 앞두고 이란 타격 군 압박 논란...공포 정치 승부수",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "뉴스핌",
+          "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40QXJVaUF3Z2d6QlZMazNVbXZSYmNIM2FzanJQaHkwcnlpN0EwM2N2NEtGTXBnMXRVczlIRTBiNERXd21fNF9iVkNERGVQUUg0Nm1Vc2NNUWZ1bS1F?oc=5",
+          "source_date": "2026-10-27"
+        },
+        {
+          "item": "한밤 빗속 무등산에서 길잃은 80대…40분 업고 내려온 경찰들",
+          "hook": "한밤 빗속 무등산에서 길잃은 80대…40분 업고 내려온 경찰들",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zZzJ1OElINFRPd1lkZ0JyMjNyNDNfMUNkMDJNVk42NjYtWHNyQldnRWgycXpoNVRfdWxXQUlyZXE4bFNScXozVnFOcjJPcndXTkZxcEJ3aGxtOWdjdEZqX2hZOG5kRHBZYWdqd1hmdFJ6Zw?oc=5",
+          "source_date": "2026-10-26"
+        },
+        {
+          "item": "경찰, ‘역삼 연쇄방화’ 70대 신상 공개 이번주 중 결정",
+          "hook": "경찰, 역삼 연쇄방화 70대 신상 공개 이번주 중 결정",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkMmlPc3BuMmtaMGt2bU5DcjRvNG0wZFlQQ2c1dTZFdlNaNi0yb1Uwb0hFZFlERXZocjBHZkYydkNkVFhQLUxYbU5qR0F6Mks4S2YyTXJjYWJaU1U?oc=5",
+          "source_date": "2026-10-27"
+        },
+        {
+          "item": "“1년 전 스토킹 신고했지만 살해”…경찰 전수 조사에서도 빠졌다",
+          "hook": "1년 전 스토킹 신고했지만 살해…경찰 전수 조사에서도 빠졌다",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCMUYxbDdYRWdlRFNIQWZYZ3lac01aZ0JZZHJPaEpFcFlVNkFoZXV3bDNqVmJLTnRmMWtRLXl5dUNJbGVBLTlUV19xczRPOGNfRWtvcmE0b0tlYjNOZ1FsWWhHcHQ5dw?oc=5",
+          "source_date": "2026-10-26"
+        },
+        {
+          "item": "경찰청장 대행 “관계성 범죄 보호조치, 경찰이 직접 신청 필요”",
+          "hook": "경찰청장 대행 관계성 범죄 보호조치, 경찰이 직접 신청 필요",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LbkZ2MngzRVRUSDVEeXRFa2hQOEwxanYwX0M1clRBbGtZR2kwY1FPcFZlcDAwb1pGRXhGa2JSX3NGRU1EcjAtZEJmdGhwSnVWb19EdWJKNlhIMW8?oc=5",
+          "source_date": "2026-10-26"
+        },
+        {
+          "item": "경찰, 내일 올림픽공원 투표용지 검증 협조‥48개 기동대 배치",
+          "hook": "경찰, 내일 올림픽공원 투표용지 검증 협조‥48개 기동대 배치",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsMDN1ajdrQzVsZ2o2UzVDVTFsSWg3c0xOWnY4ZElJSmN6QVc5NE5ZY0VQNGV2SElrdFBiaGdLVDdVWXdwSTExR21VQk1oS2QwaXl0dHVibFlXeHltUzA0UGh2ejNFamlGRlJKYkp2NGgwbEhBYUlF0gF3QVVfeXFMTTR3c3p0bi04cmZZdGk1LTJYd1dKMHU5cTlhRXRUdFRtb1NhYnc2UlVpV2VYX2xrT3BlT3BFdklGM3lJeEhKcUN5Y3ZZVDAzeDl0TVI5cnhLNXNIYjdHSGUtZ1dDZFR2bTRDS0QyNFRSX2JtVFRpUlU?oc=5",
+          "source_date": "2026-10-27"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "'CCTV 논란' 박위, 4개월 뒤 수익 정지인데…영상 삭제만 '슬그머니'[이슈S]",
+              "hook": "CCTV 논란 박위, 4개월 뒤 수익 정지인데…영상 삭제만 슬그머니",
+              "topic": "연예",
+              "summary": "'CCTV 논란' 박위, 4개월 뒤 수익 정지인데…영상 삭제만 '슬그머니'[이슈S] 'CCTV 논란' 박위, 4개월 뒤 수익 정지인데…영상 삭제만 '슬그머니'[이슈S]    SPOTV NEWS",
+              "openings": [
+                "'CCTV 논란' 박위, 4개월 뒤 수익 정지인데…영상 삭제만 '슬그머니'[이슈S]."
+              ],
+              "source_name": "SPOTV NEWS",
+              "source_date": "2026-10-26",
+              "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFMHZwV0FhQzczenotWEROYnJuZmxBZHpvYXNyaThnTmltaFlQUmc5QUFaMVNJWE9Lb0p5VDRDMmxKNHZCZFk4TlNqS2pwQlA4aEtEdFMtRV9xdVJlUm1yZDBFcTFCVkFGSzJ4dTgwWWo?oc=5",
+              "priority": "B"
+            }
+          ]
+        },
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "소리지르고 울면서…출근길 강남대로 활보한 만취녀",
+              "hook": "소리지르고 울면서…출근길 강남대로 활보한 만취녀",
+              "topic": "사건",
+              "summary": "소리지르고 울면서…출근길 강남대로 활보한 만취녀 소리지르고 울면서…출근길 강남대로 활보한 만취녀    동아일보    \"위험한 이별, 울면서 차선 하나 점령\"…강남대로 한복판 여성 끌려 나왔다[영상]    뉴스1    출근길 강남대로 ’만취녀 소동’…경찰이 사지 잡아 끌어내    연합뉴스TV    만취한 채 출근길 강남대로 한복판에서 '엉엉' [자막뉴스]    YTN    “소리 지르며 울고 있었다” 강남대로 활보한 만취女, 무슨 일    미주중앙일보",
+              "openings": [
+                "소리지르고 울면서…출근길 강남대로 활보한 만취녀."
+              ],
+              "source_name": "동아일보",
+              "source_date": "2026-10-26",
+              "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1VHh1TXJrYzdMdE9xLW1ibEZsVXpPZzh2clRwQ205RWxQMnhTUFZ5MHhUZFM4VTJmNFk0V0h5NF96OGpsdTNzbE4tR1phRmNjUmdCb211U2JQSVliY2FpOUV5TExBQWd3NEEwYXl4SkZ5Mng3UUHSAWZBVV95cUxQendhaG9lYVNMUFFrbFNFazVPaDRxUkdUd2NMRFFnMDZZc2x3NmxTZWJMWmhKV19BZENaU3BQQ3VmM0xYWnA3eDVYVXhUTUM0amJPNTl6N0FNU2FfcVYtbE5ka3JGekE?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 10
+    }
+  ]
+}

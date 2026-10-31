@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-22",
+  "asof": "2026-10-22",
+  "built_at": "2026-10-24 01:03",
+  "pinned_id": "mom_only_flat20_buynew_sr_t10_lb15_vix25nb_ss20_stoptopup25_rate_pause_b_sd7_h1neg3_secqqq5_lagm1n42p20_top5_penult_sp500",
+  "universe_n": 500,
+  "pool_n": 500,
+  "lookback_months": 3,
+  "min_lookback_ret": 0.15,
+  "top_n": 10,
+  "rows": [
+    {
+      "rank": 1,
+      "symbol": "MRNA",
+      "name": "Moderna",
+      "mom_ret": 2.7475495843623796,
+      "day_ret": -0.1756641027812078,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 2,
+      "symbol": "ACN",
+      "name": "Accenture",
+      "mom_ret": 0.7743766163126693,
+      "day_ret": 0.07691665757951749,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 3,
+      "symbol": "VEEV",
+      "name": "Veeva Systems",
+      "mom_ret": 0.7319049521012173,
+      "day_ret": 0.006239276481556866,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 4,
+      "symbol": "IT",
+      "name": "Gartner",
+      "mom_ret": 0.6686121170206851,
+      "day_ret": 0.06772325281763258,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 5,
+      "symbol": "PTC",
+      "name": "PTC Inc.",
+      "mom_ret": 0.6368545856801564,
+      "day_ret": -0.001954958705971843,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 6,
+      "symbol": "CTSH",
+      "name": "Cognizant",
+      "mom_ret": 0.6315127946055177,
+      "day_ret": 0.059956836606348984,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 7,
+      "symbol": "PLTR",
+      "name": "Palantir Technologies",
+      "mom_ret": 0.596078794044206,
+      "day_ret": -0.02741423133964027,
+      "in_holdings": true,
+      "live_slot": false
+    },
+    {
+      "rank": 8,
+      "symbol": "NOW",
+      "name": "ServiceNow",
+      "mom_ret": 0.5893905845330436,
+      "day_ret": 0.02533963562265673,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 9,
+      "symbol": "WDAY",
+      "name": "Workday, Inc.",
+      "mom_ret": 0.5515738966691102,
+      "day_ret": 0.03463735980856453,
+      "in_holdings": true,
+      "live_slot": false
+    },
+    {
+      "rank": 10,
+      "symbol": "CRM",
+      "name": "Salesforce",
+      "mom_ret": 0.5320195061337736,
+      "day_ret": 0.03519726424766878,
+      "in_holdings": false,
+      "live_slot": false
+    }
+  ],
+  "note": "핀 규칙 동일: 매매시점 스냅샷500(시총패널 없음) · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5)"
+}

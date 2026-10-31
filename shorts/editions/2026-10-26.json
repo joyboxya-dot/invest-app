@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-26",
+  "built_at": "2026-10-26 09:36",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/26 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "김정은 전격 방중으로 ‘사망설’ 또 허위 판명",
+          "hook": "김정은 전격 방중으로 사망설 또 허위 판명",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "동아일보",
+          "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ncjlyc1hjRGhpVHV4UzViX3o1dWJZU1NReEdPVFp5YXZfVmFOYWU4ay1jaXdlRUJ1YTR3QWxTclVvY3BkMEo0SmxTVnFQWTV3RHFqRHRIYklRRndQU0Zxd3J0U3VNbzdxSHh2MGhhTUY3STTSAWZBVV95cUxOMzBHY3BKT0JmOHF3S3dXb0FOUnRKZmt6NkVLUl9od1d2aDNyUURpY1JaaFJlY0ZuTGlLOVBOOUZvTVlFOW56LTlENW83LUxyYldHR2VQcFYtXzlacHNuZzdPcXB6d2c?oc=5",
+          "source_date": "2026-10-25"
+        },
+        {
+          "item": "강원 곳곳 교통사고…1명 숨지고 4명 다쳐",
+          "hook": "강원 곳곳 교통사고…1명 숨지고 4명 다쳐",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2b2FKMEo4RzdKbHJ0d0RzenJXLXlMZVlUZ2p3djY2d1lCRk1vNm1Vc1l4aHBfNGw4Mlpwbmg2SnFRejNuV0t0ZGxVS0NQY09CdUZOQVZUdjBjN2c?oc=5",
+          "source_date": "2026-10-25"
+        },
+        {
+          "item": "알래스카 ’동명이인 투표’ 소송 논란…미 법무 “불복 의도 아냐“",
+          "hook": "알래스카 동명이인 투표 소송 논란…미 법무 불복 의도 아냐",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11RzlEZlJFZWg2SE5zSnVwck4zUmpJX0dHZ201aFcwNjdhZDVhbGpTOG81SEpmd21HQlJnT29CbDkxX0dsQkZ2VlhUWXhSNmFBQVVjblJfbkdxMS1ZV1ptcjhyUXh2dlE?oc=5",
+          "source_date": "2026-10-25"
+        },
+        {
+          "item": "‘닥터X’ 5·18 소재 활용 논란…국회 방영 중단 청원 접수",
+          "hook": "닥터X 5·18 소재 활용 논란…국회 방영 중단 청원 접수",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경기일보",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oVVg0UG1qX1p5Q0piQmxRbkJmdW5DeWpjd2hsTl9mOGhTMlNPMml4U014MXhoMjBjT2QyQ3Y2WVJjUkd3N2V0UFo2RGpHVUVCNW12NTJOZzQtZ3c?oc=5",
+          "source_date": "2026-10-26"
+        },
+        {
+          "item": "프랑스 시위 41만 명 참가…경찰 7만 명 투입·1천 명 체포",
+          "hook": "프랑스 시위 41만 명 참가…경찰 7만 명 투입·1천 명 체포",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "VOA 한국어 홈페이지",
+          "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82c0d5RVNRZE5pQ2tiYlp6M09TTW1WSGVwX2g4QUZZZC1YVXpjQzJrU0tUM0FBd0wxbFFfZG1kZ3VJYjlGNVA3dk82Wm8wTnBz0gFTQVVfeXFMTmhfbU5selRrU2hWaG9TdnpER1JpT0FPYnZ0X1ozUzJOaEdmRzNyb25BUUF2UXZDUEhKRUM0eDdHTk9IUjh0Q1R1LVZhM0l5RGZPZzg?oc=5",
+          "source_date": "2026-10-25"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "'CCTV 논란' 박위, 4개월 뒤 수익 정지인데…영상 삭제만 '슬그머니'[이슈S]",
+              "hook": "CCTV 논란 박위, 4개월 뒤 수익 정지인데…영상 삭제만 슬그머니",
+              "topic": "연예",
+              "summary": "'CCTV 논란' 박위, 4개월 뒤 수익 정지인데…영상 삭제만 '슬그머니'[이슈S] 'CCTV 논란' 박위, 4개월 뒤 수익 정지인데…영상 삭제만 '슬그머니'[이슈S]    SPOTV NEWS",
+              "openings": [
+                "'CCTV 논란' 박위, 4개월 뒤 수익 정지인데…영상 삭제만 '슬그머니'[이슈S]."
+              ],
+              "source_name": "SPOTV NEWS",
+              "source_date": "2026-10-25",
+              "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFMHZwV0FhQzczenotWEROYnJuZmxBZHpvYXNyaThnTmltaFlQUmc5QUFaMVNJWE9Lb0p5VDRDMmxKNHZCZFk4TlNqS2pwQlA4aEtEdFMtRV9xdVJlUm1yZDBFcTFCVkFGSzJ4dTgwWWo?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    }
+  ]
+}

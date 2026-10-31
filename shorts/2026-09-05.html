@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#0c0c0e">
+<title>쇼츠 재료 · 2026-09-05</title>
+<style>
+:root { --bg:#0c0c0e; --fg:#f4f4f5; --muted:#a1a1aa; --line:#27272a; --ok:#34d399; }
+* { box-sizing:border-box; }
+html, body { height:100%; }
+body {
+  margin:0; display:flex; flex-direction:column; overflow:hidden;
+  font:12.5px/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo",sans-serif;
+  background:var(--bg); color:var(--fg);
+}
+header {
+  flex:0 0 auto; display:flex; align-items:center; gap:.5rem;
+  padding:.28rem .45rem; border-bottom:1px solid var(--line);
+}
+h1 { font-size:.82rem; margin:0; font-weight:700; }
+select {
+  font:inherit; color:var(--fg); background:#18181b;
+  border:1px solid var(--line); border-radius:999px; padding:.08rem .5rem;
+}
+.board {
+  flex:1; min-height:0; display:grid;
+  grid-template-columns:repeat(2, minmax(0, 1fr));
+}
+.col {
+  min-width:0; min-height:0; display:flex; flex-direction:column;
+  border-right:1px solid var(--line);
+}
+.col:last-child { border-right:0; }
+.col h2 {
+  flex:0 0 auto; margin:0; padding:.28rem .45rem;
+  font-size:.78rem; font-weight:700; border-bottom:1px solid var(--line);
+}
+.list { flex:1; min-height:0; display:flex; flex-direction:column; }
+.row {
+  flex:1 1 0; min-height:0; display:flex; align-items:flex-start; gap:.28rem;
+  padding:.12rem .4rem; border-bottom:1px solid var(--line); cursor:pointer;
+  -webkit-tap-highlight-color:transparent;
+}
+.row:last-child { border-bottom:0; }
+.row:active, .row.copied { background:#1c1c1f; }
+.row.empty { cursor:default; }
+.row.empty .n { opacity:.35; }
+.n {
+  flex:0 0 1.05rem; color:var(--muted); font-variant-numeric:tabular-nums;
+  font-size:.7rem; padding-top:.05rem;
+}
+.tag {
+  flex:0 0 auto; color:#111; background:#fbbf24; font-size:.68rem; font-weight:750;
+  line-height:1.2; padding:.08rem .28rem; border-radius:4px; white-space:nowrap;
+  margin-top:.02rem;
+}
+.hook {
+  min-width:0; flex:1; overflow:hidden; font-weight:600; line-height:1.25;
+  word-break:keep-all; overflow-wrap:break-word;
+}
+.toast {
+  position:fixed; left:50%; bottom:.7rem; transform:translateX(-50%) translateY(140%);
+  background:#f4f4f5; color:#111; font-size:.75rem; font-weight:650;
+  padding:.28rem .7rem; border-radius:999px; pointer-events:none; transition:transform .16s;
+}
+.toast.show { transform:translateX(-50%) translateY(0); }
+</style>
+</head>
+<body data-date="2026-09-05">
+<header>
+  <h1>쇼츠 재료</h1>
+  <select id="archive" aria-label="날짜"><option value="2026-09-05" selected>2026-09-05</option><option value="2026-09-04">2026-09-04</option><option value="2026-09-03">2026-09-03</option><option value="2026-09-02">2026-09-02</option><option value="2026-09-01">2026-09-01</option><option value="2026-08-31">2026-08-31</option></select>
+</header>
+<div class="board"><section class="col"><h2>군림보</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE93NmxjWXlSWmFPRTJ0Qm43Nkk3UjlBUEVlaHlGYkNPMm03eU9weFNCMVFxbUM4RnZkVFNoaVktbE5KN09ZWEJ0Y3U5VmZ6NFlVLXdHdW9SWHFNYXZTSjRUeHZFSks?oc=5" role="button"><span class="n">1</span><span class="tag">이슈</span><span class="hook">“용혜인, 언더조직서 성차별 고통을 방관”…성평등장관 자격 논란</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMikAFBVV95cUxPT1hRUWhsWTY1bGRqR0NtMVBzRkdXM1c2bHJYeDdiVDBTb2hCSVJSVVpodlEtamp4LTYwWUJWd0FrRk41Tm9lb3dkZlNwR0x2dHF5dzMtTmNzSEMwNVNuOHlqSER2YVptckZwMFVtdGZtRWwzbnd4NEdqTDVnNEhsSjR6c0NsZkJ6R2VmdEJDR2c?oc=5" role="button"><span class="n">2</span><span class="tag">사건</span><span class="hook">피의자 차에 압수물 가방 두고 내린 경찰… 휴대폰 2대 사라졌다</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWkxTHp0Z0luZTY4Y3BrVUI1ZVFVcGVhXzNZUk5RSjNvZFZvYl9YZjBzU0xKaUNOcGVFMnkyWnRWX2JkSUF4TlNFWjNHVFpESnAxTHg1Y0lsV0lFS2tTamVPeVdjOEhQN19NUnluOURQUHNDM2lxdXVKdnhGdHRSWjM1Nng3VjhzSHotQWt3?oc=5" role="button"><span class="n">3</span><span class="tag">사건</span><span class="hook">전북 경찰, 사격 훈련 후 실탄 3발 빼돌려 직위 해제</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiVEFVX3lxTE93bzkxQjhjM1F3REdja1NOY3poSTBYYzZFLTRLTlBqeXNFV3hIemp1QlBWTVhodlB4OEZZdi1sMDRSekNyM2QwQUJNbkhJUnkydGhLVQ?oc=5" role="button"><span class="n">4</span><span class="tag">사건</span><span class="hook">[속보] 경찰, 광역단위 실종수사 감독 전담조직 설치 추진</span></div><div class="row empty"><span class="n">5</span><span class="hook"></span></div><div class="row empty"><span class="n">6</span><span class="hook"></span></div><div class="row empty"><span class="n">7</span><span class="hook"></span></div><div class="row empty"><span class="n">8</span><span class="hook"></span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section><section class="col"><h2>뇌전구</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDYzFCVFl0Q0wzTmpfNzBtRWlHUUdFVUVnbzFyblJCYklOMFQwc1RvMWFKVjZVNzBNTkRDWWVtRnFLcWhGTDJPWUZSSk9IRV8xS0JoajhIYnJrRUNlV1hKUEFSb9IBaEFVX3lxTE04WjVaQUlJN1U5c0ZwbnFPTjNjWmEzOGprOUV0MkhLcDktNmpqRFFYazkxX2xEdE1kNmpaR0ZtUm9qRkcyaWlacTlQci0tcFVIZllwV0wyQzBtb0FTQmVGbDlhZ292N3o1?oc=5" role="button"><span class="n">1</span><span class="tag">연예</span><span class="hook">박위, CCTV 공개 논란 속→’자기 탓 아니라네요’ 제목 도마 위…”남 탓이 몸에 뱄구나”</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1LXU2b29HUVlXNDVzNHNBbXJwZDE5eGpoVUJ3OXd3QjVEb19vTTlRV2RLOHhIT3owSzloTzg3Z1ItYXhEaV9KdjhFQ19nNWozZS1nMFIydWpyaWJ5UkFSQmpDNNIBaEFVX3lxTFBGTDRrMGs2ZHlrWTU4a1A0UkQtSEliVVh4MHdBbG85Nm05dDdEYVJ4Y0ZtU2JyMDJrbkhJTnJzM0lGY040YXdHZHBiRXRCaGhIbGZQRVIwV2RTVnhxUmt2d0dsb1hrUDcw?oc=5" role="button"><span class="n">2</span><span class="tag">연예</span><span class="hook">“호의를 권리로 착각”…박위 ‘공익 저격’ 논란 속→현직 변호사, 날 세웠다 [RE:뷰]</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VOVlTR0JoaVQ3ZlpoNDc1U185bVZ3bW5wRDEyek9YTlhiTm9JYV83czNOeE1nOW5kb0dZWm5NMC05WmJsTHlMdG5YOG41c1o5RGg5OVluc2xnNzdwWTZwT2JtVkg1SXM2?oc=5" role="button"><span class="n">3</span><span class="tag">연예</span><span class="hook">&#x27;마약·체납&#x27; 박유천, 꽃무늬 셔츠 입고 도자기 빚는 근황</span></div><div class="row empty"><span class="n">4</span><span class="hook"></span></div><div class="row empty"><span class="n">5</span><span class="hook"></span></div><div class="row empty"><span class="n">6</span><span class="hook"></span></div><div class="row empty"><span class="n">7</span><span class="hook"></span></div><div class="row empty"><span class="n">8</span><span class="hook"></span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section></div>
+<div class="toast" id="toast">링크 복사됨</div>
+<script>
+const DATE = document.body.dataset.date;
+fetch("archive.json").then(r => r.json()).then(dates => {
+  const sel = document.getElementById("archive");
+  const latest = dates[0];
+  sel.innerHTML = dates.map(d => {
+    const selAttr = d === DATE ? " selected" : "";
+    return '<option value="'+d+'"'+selAttr+'>'+d+'</option>';
+  }).join("");
+  sel.onchange = () => {
+    const d = sel.value;
+    location.href = (d === latest) ? "index.html" : (d + ".html");
+  };
+}).catch(() => {});
+const toastEl = document.getElementById("toast");
+let toastTimer;
+function toast() {
+  toastEl.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toastEl.classList.remove("show"), 900);
+}
+document.querySelectorAll(".row[data-url]").forEach(row => {
+  row.addEventListener("click", async () => {
+    const url = row.getAttribute("data-url");
+    if (!url) return;
+    await navigator.clipboard.writeText(url);
+    row.classList.add("copied");
+    setTimeout(() => row.classList.remove("copied"), 500);
+    toast();
+  });
+});
+function linePx(el) {
+  const cs = getComputedStyle(el);
+  if (cs.lineHeight.endsWith("px")) return parseFloat(cs.lineHeight);
+  return parseFloat(cs.fontSize) * 1.25;
+}
+function fitHooks() {
+  document.querySelectorAll(".hook").forEach(el => {
+    el.style.display = "block";
+    el.style.webkitLineClamp = "unset";
+    if (el.scrollHeight <= el.clientHeight + 1) return;
+    const n = Math.max(1, Math.floor(el.clientHeight / linePx(el)));
+    el.style.display = "-webkit-box";
+    el.style.webkitBoxOrient = "vertical";
+    el.style.webkitLineClamp = String(n);
+  });
+}
+window.addEventListener("resize", fitHooks);
+requestAnimationFrame(fitHooks);
+</script>
+</body>
+</html>

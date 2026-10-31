@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-28",
+  "built_at": "2026-10-28 10:34",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/28 기준, 후보 6건에서 장면·갈등·기괴 과학 축으로 6건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "‘유럽의 트럼프’ 오르반 유엔총장 밀어주기 논란",
+          "hook": "유럽의 트럼프 오르반 유엔총장 밀어주기 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "동아일보",
+          "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NV0tPSkR4SHo1VzZzTUN3NUxzZmlYQkZGc2RiRVo2NHljVHpNM1dldFpKQ0pDUjQyRWdMZmRGdENTdmdGRVpWZ3owS0NidmhLSXFqa1l4bEJUSDBZY0gyNldFelRXQVcxRHQtY1FJVXFCem_SAWZBVV95cUxPUnlBcW1XWDA2ZmNkaE4wM1ctaWRpeG96b0RUaDlvT1VQcHU1Z2tpZ3JacUt3TFlSTTRoYm11bUZjRmpjVXF5enF2WW5MV0NoS3lnN3dQcDZOMkk3Yld2YmVtV0VLV2c?oc=5",
+          "source_date": "2026-10-27"
+        },
+        {
+          "item": "김정은, 중대장대회 참가자와 기념사진…\"만반의 임전태세\" 강조",
+          "hook": "김정은, 중대장대회 참가자와 기념사진…만반의 임전태세 강조",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HbUJybm5aYWlKVE1TMGtzZGQ0ODQxUjRhcXB5WkM5cXRoUEc0cTNoZjZwNmFEYjhoTEJ3Mk5sZGNNajc3TUEteGRKYTA3Tk5xRTFZOUJiRWxxbEnSAWBBVV95cUxPSllHMGQyN2NIX21kNzlrX1pHSTlEU3J6RE43TGs3Mmh3VkE0SWl3UjdDYVluRXFvTFNuUGFfTk94b1dzVUpxdzFESElZcnduaDZkRjFUSVhlRGl3UlpuNXA?oc=5",
+          "source_date": "2026-10-27"
+        },
+        {
+          "item": "[신문은 선생님] [노벨 평화상] 전쟁·인권·환경 두루 다루지만… 논란도 많은 상이래요",
+          "hook": "전쟁·인권·환경 두루 다루지만… 논란도 많은 상이래요",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zRWhjSUVfY21vcEE3MnI2ZzlXb2cyQUd4T2o5aFBuV0h6M21RU1lhb0JXSm95Y24zMDZSMzhYellxUDRCdXVDZ2pkVkZtSjJ0QW9scVpNSk02dnFZOFB6eE14TU51UVRYd2RkREIwVG5rVUFKakFWa2hFbG8wcFU?oc=5",
+          "source_date": "2026-10-27"
+        },
+        {
+          "item": "‘올공’ 찾은 민주 행안위원들 “논란 해소하고, 점거 사태 마무리하는 계기되어야”",
+          "hook": "올공 찾은 민주 행안위원들 논란 해소하고, 점거 사태 마무리하는 계기되어야",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWdlk1UGJYMDZONWJfZmtlSnZkOG1fRjhmZXpFdVhLUmZXWWI0VFdGNktyUm9XNDE4bnlfMUFnOTFNQ0RUY0F3NFVjeXRfV1BvelhOdkV1ZURwMzg?oc=5",
+          "source_date": "2026-10-27"
+        },
+        {
+          "item": "애플 첫 폴더블폰 ‘아이폰 듀오’ 화면 파손 논란…애플, 일부 제품 교체",
+          "hook": "애플 첫 폴더블폰 아이폰 듀오 화면 파손 논란…애플, 일부 제품 교체",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "부산경남대표방송 KNN 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mQUVNbEpCc243Mnl1OHhNTlNET3lQUWZ3bHhOSlZuMUpHcXVjaDdIUEFmNHhhbC1xWGxUWVlVbHltR1VGN1h1TGs5dUdNeDJOTTd4T0Z1Yw?oc=5",
+          "source_date": "2026-10-27"
+        },
+        {
+          "item": "‘올공’ 시위서 경찰에 침 뱉고 욕설…1심 징역 10개월",
+          "hook": "올공 시위서 경찰에 침 뱉고 욕설…1심 징역 10개월",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkVGFVY3hldWpDXy0tUjBmQTBMdHBaVGRnOUFraVlVY0V2dmFhT2FYWWp5N0tsb0VtT1NSYUtkSV9YdVJKUzhrYXQ0ZUVFaW5aYmwwLXQ1SlVwZElSblYtS2I4MXhXZm9UMWlnQkczUC1mZw?oc=5",
+          "source_date": "2026-10-27"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    }
+  ]
+}

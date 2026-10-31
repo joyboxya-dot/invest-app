@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-27",
+  "asof": "2026-10-27",
+  "built_at": "2026-10-28 01:40",
+  "pinned_id": "mom_only_flat20_buynew_sr_t10_lb15_vix25nb_ss20_stoptopup25_rate_pause_b_sd7_h1neg3_secqqq5_lagm1n42p20_top5_penult_sp500",
+  "universe_n": 500,
+  "pool_n": 500,
+  "lookback_months": 3,
+  "min_lookback_ret": 0.15,
+  "top_n": 10,
+  "rows": [
+    {
+      "rank": 1,
+      "symbol": "MRNA",
+      "name": "Moderna",
+      "mom_ret": 2.8166635128383217,
+      "day_ret": 0.045863690406124036,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 2,
+      "symbol": "PLTR",
+      "name": "Palantir Technologies",
+      "mom_ret": 0.6156910221751144,
+      "day_ret": -0.0005532116896875827,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 3,
+      "symbol": "CRL",
+      "name": "Charles River Laboratories",
+      "mom_ret": 0.5282793512519257,
+      "day_ret": 0.004394456216580522,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 4,
+      "symbol": "VEEV",
+      "name": "Veeva Systems",
+      "mom_ret": 0.5076715210130349,
+      "day_ret": -0.014834374660108507,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 5,
+      "symbol": "CRWD",
+      "name": "CrowdStrike",
+      "mom_ret": 0.49414640270952814,
+      "day_ret": 0.02364130450618873,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 6,
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "mom_ret": 0.4909622357721566,
+      "day_ret": 0.04187701512550812,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 7,
+      "symbol": "PTC",
+      "name": "PTC Inc.",
+      "mom_ret": 0.46927363168261715,
+      "day_ret": 0.001904736768018056,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 8,
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "mom_ret": 0.43800120823978195,
+      "day_ret": 0.058770344120115725,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 9,
+      "symbol": "RVTY",
+      "name": "Revvity",
+      "mom_ret": 0.4283499056050746,
+      "day_ret": 0.009165167568408794,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 10,
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "mom_ret": 0.41608510590212844,
+      "day_ret": -0.07364440460507804,
+      "in_holdings": true,
+      "live_slot": false
+    }
+  ],
+  "note": "핀 규칙 동일: 매매시점 스냅샷500(시총패널 없음) · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5)"
+}

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#0c0c0e">
+<title>쇼츠 재료 · 2026-10-25</title>
+<style>
+:root { --bg:#0c0c0e; --fg:#f4f4f5; --muted:#a1a1aa; --line:#27272a; --ok:#34d399; }
+* { box-sizing:border-box; }
+html, body { height:100%; }
+body {
+  margin:0; display:flex; flex-direction:column; overflow:hidden;
+  font:12.5px/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo",sans-serif;
+  background:var(--bg); color:var(--fg);
+}
+header {
+  flex:0 0 auto; display:flex; align-items:center; gap:.5rem;
+  padding:.28rem .45rem; border-bottom:1px solid var(--line);
+}
+h1 { font-size:.82rem; margin:0; font-weight:700; }
+select {
+  font:inherit; color:var(--fg); background:#18181b;
+  border:1px solid var(--line); border-radius:999px; padding:.08rem .5rem;
+}
+.board {
+  flex:1; min-height:0; display:grid;
+  grid-template-columns:repeat(2, minmax(0, 1fr));
+}
+.col {
+  min-width:0; min-height:0; display:flex; flex-direction:column;
+  border-right:1px solid var(--line);
+}
+.col:last-child { border-right:0; }
+.col h2 {
+  flex:0 0 auto; margin:0; padding:.28rem .45rem;
+  font-size:.78rem; font-weight:700; border-bottom:1px solid var(--line);
+}
+.list { flex:1; min-height:0; display:flex; flex-direction:column; }
+.row {
+  flex:1 1 0; min-height:0; display:flex; align-items:flex-start; gap:.28rem;
+  padding:.12rem .4rem; border-bottom:1px solid var(--line); cursor:pointer;
+  -webkit-tap-highlight-color:transparent;
+}
+.row:last-child { border-bottom:0; }
+.row:active, .row.copied { background:#1c1c1f; }
+.row.empty { cursor:default; }
+.row.empty .n { opacity:.35; }
+.n {
+  flex:0 0 1.05rem; color:var(--muted); font-variant-numeric:tabular-nums;
+  font-size:.7rem; padding-top:.05rem;
+}
+.tag {
+  flex:0 0 auto; color:#111; background:#fbbf24; font-size:.68rem; font-weight:750;
+  line-height:1.2; padding:.08rem .28rem; border-radius:4px; white-space:nowrap;
+  margin-top:.02rem;
+}
+.hook {
+  min-width:0; flex:1; overflow:hidden; font-weight:600; line-height:1.25;
+  word-break:keep-all; overflow-wrap:break-word;
+}
+.toast {
+  position:fixed; left:50%; bottom:.7rem; transform:translateX(-50%) translateY(140%);
+  background:#f4f4f5; color:#111; font-size:.75rem; font-weight:650;
+  padding:.28rem .7rem; border-radius:999px; pointer-events:none; transition:transform .16s;
+}
+.toast.show { transform:translateX(-50%) translateY(0); }
+</style>
+</head>
+<body data-date="2026-10-25">
+<header>
+  <h1>쇼츠 재료</h1>
+  <select id="archive" aria-label="날짜"><option value="2026-10-25" selected>2026-10-25</option><option value="2026-10-24">2026-10-24</option><option value="2026-10-23">2026-10-23</option><option value="2026-10-22">2026-10-22</option><option value="2026-10-21">2026-10-21</option><option value="2026-10-20">2026-10-20</option><option value="2026-10-19">2026-10-19</option><option value="2026-10-18">2026-10-18</option><option value="2026-10-17">2026-10-17</option><option value="2026-10-16">2026-10-16</option><option value="2026-10-15">2026-10-15</option><option value="2026-10-14">2026-10-14</option><option value="2026-10-13">2026-10-13</option><option value="2026-10-12">2026-10-12</option><option value="2026-10-11">2026-10-11</option><option value="2026-10-10">2026-10-10</option><option value="2026-10-09">2026-10-09</option><option value="2026-10-08">2026-10-08</option><option value="2026-10-07">2026-10-07</option><option value="2026-10-06">2026-10-06</option><option value="2026-10-05">2026-10-05</option><option value="2026-10-04">2026-10-04</option><option value="2026-10-03">2026-10-03</option><option value="2026-10-02">2026-10-02</option><option value="2026-10-01">2026-10-01</option><option value="2026-09-30">2026-09-30</option><option value="2026-09-29">2026-09-29</option><option value="2026-09-28">2026-09-28</option><option value="2026-09-27">2026-09-27</option><option value="2026-09-26">2026-09-26</option></select>
+</header>
+<div class="board"><section class="col"><h2>군림보</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mNDNIeVo5V2tEc1ZtOWNPRjZ4aFhRTldtMXpYc3FVMVBFdTJVTVl2LV9lM0xlY0JFWm1PYXNHcUFaSU96eUJISUl5dUYwd1VkRk1TSC1QamZNSTR6VGpQX3NoX2U2bTc2?oc=5" role="button"><span class="n">1</span><span class="tag">북한</span><span class="hook">미 전문가 “북한, 김정은 집권 이후 최대 호황…지속 성장은 불투명”</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zUjNFTU9hM2o2SUl6TDN2Y3VRVkFhWXlmaGRRdF9HRHNmcHY0MGVyaVVrWWkxNFI4UGhfcDFYWUY5VUZybi0yREM2ZjlJd3o0LUJsekVObjJmc1k3b19yQktUUFNwUzJS?oc=5" role="button"><span class="n">2</span><span class="tag">북한</span><span class="hook">북 김정은, ‘사망설’ 일축하려는 듯…인민군 중대장대회 지도</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rT0tYVDZwX2hwWTYzbkJRYks5eDdVSXZoZjVOOURwWmxITk9ZYnNuWGlfQ3h5eWRmZG5HY193emZxWEFLeGtWVDgzd1V0dWdQdmJPZmZILUlyUnlTU0pHUVd5SFhtZGhY?oc=5" role="button"><span class="n">3</span><span class="tag">북한</span><span class="hook">김정은, 단둥서 중국 권력서열 4위 만나…“신압록강대교까지 배웅 받아”</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiWkFVX3lxTE15cXNjZG9TMGJkQjRFem83ZG40SVV5dzZWUFIzemFIU0lrMUstczVhM3NLTThXOFdaclhPOTJoMG1rNWdlbGNsVHpxaGZxSVpkMkEzUHluYUpLUQ?oc=5" role="button"><span class="n">4</span><span class="tag">북한</span><span class="hook">김정은 &#x27;당일치기 방중&#x27; 끝났다…&#x27;中 서열 4위&#x27; 왕후닝과 회담</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIWEVmNFJLT0xPNHIybnpXNkx0RS1JSUVpS0FZOUdORVkxQnlESjBqSlJLWEQ0U3JLbDByekJYUVVtLXFWNXQwTlZraFFXVEZaR1pYTU5qaHNZdw?oc=5" role="button"><span class="n">5</span><span class="tag">이슈</span><span class="hook">너도나도 쓰더니…&quot;회사에선 벗으세요&quot; 기업들 난리 난 이유 [김대영의 노무스쿨]</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yV0JZSEsteV81Z3p4VlBMUmFJTFVxdmp6LXh1cVM4WU9xeF8ycVdHWkZtT1plODJsdmxJTzRRSmZlOGxxaVphWUlmbzdnLUFrdHBfeQ?oc=5" role="button"><span class="n">6</span><span class="tag">이슈</span><span class="hook">한성숙 총리 “이태원 참사, 정부 대표해 깊이 사과…진상 명백히 밝혀야”</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XcTM1dl9TM1ZUeDdxZFFDMjhjZ0lfTEZjZWdLWGxFeVFYUjFxenIwZF9xZzJqMXY1TVJDWEJsS0x2bWlVelVXbGRaY1BiZjlJQVVuSFEyS0VtTnZIdHB3?oc=5" role="button"><span class="n">7</span><span class="tag">과학</span><span class="hook">‘동물보호정책에 수의학적 근거 반영돼야’ 대수 동물보호·복지위원회 출범</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiXEFVX3lxTE41cjNNZnBrcFZCOWlNZGNIZmJSSHdxQkYyNUsxUHMxTTRYNVZxc0d3TTNCcm5xcEVTd2dFZU1Bby1zazNDMjZhNjRBZnd5dWR4akZVSnpaelE5ZEd3?oc=5" role="button"><span class="n">8</span><span class="tag">이슈</span><span class="hook">이태원 참사 희생자들을 위한 묵념</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMid0FVX3lxTE92M04zZDNLSHJmM05hRmdsYlNxM2pMU2F2c2piYXNMSG93eVQ5VV9Lbm5JcnUwTU9mUHlaUm1TajRWOElRYTdsLXpIczBkanlHXzYxSHhMaVVyYzJua25zaHRRaWxuQUVESnRCeXdRQm5nRUhjcWxj0gF3QVVfeXFMTXA5N2tycVFOVnpCaHdWRXlYZnFZZFJXenhnWU9UMjl6UFBkOEsxWUhlRmU3V24tMnBjM2I5UzhoMHpJU014R0Ewekd5Mk9wSnZGQVRpekw3WTRrem5zX0JxWEozNHVlTThLVVJkQVMtZ0pKa3VaVXc?oc=5" role="button"><span class="n">9</span><span class="tag">사건</span><span class="hook">김종철 경찰청장 대행 &quot;고속도로 사고수습 중 다친 경찰관 지원 총력&quot;</span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section><section class="col"><h2>뇌전구</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMidkFVX3lxTE1pQjBSNGFqZlZaSUZqWE5RSnliT2xmUGtWRDlEM2ZYNFRFM2NwcDVmVDZMUGlBTnNrNEpTOXVyLVQ1eUdqb0dVcUsyUWhOalhQTEw2dkFvblc0ZUNUT2pIcXhtaWtnYWtfX1dBZzA4Mnl3QlVfZkHSAWZBVV95cUxOZGlpTTRKZUQ2VU1xWURRaFhKcktCUWJuaTBqN1hHZExYajJHLWtJWmgzeWtCaVcxNmpkcHJuQkdTSkF6d1lzT0ZlYm11NEJrOXVEZXNfQTVuUzQzR0EwV2pDUzRkZWc?oc=5" role="button"><span class="n">1</span><span class="tag">연예</span><span class="hook">85세 김혜자, 건강 우려 속 밝은 근황…“나 지금이 제일 예쁘다”</span></div><div class="row empty"><span class="n">2</span><span class="hook"></span></div><div class="row empty"><span class="n">3</span><span class="hook"></span></div><div class="row empty"><span class="n">4</span><span class="hook"></span></div><div class="row empty"><span class="n">5</span><span class="hook"></span></div><div class="row empty"><span class="n">6</span><span class="hook"></span></div><div class="row empty"><span class="n">7</span><span class="hook"></span></div><div class="row empty"><span class="n">8</span><span class="hook"></span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section></div>
+<div class="toast" id="toast">링크 복사됨</div>
+<script>
+const DATE = document.body.dataset.date;
+fetch("archive.json").then(r => r.json()).then(dates => {
+  const sel = document.getElementById("archive");
+  const latest = dates[0];
+  sel.innerHTML = dates.map(d => {
+    const selAttr = d === DATE ? " selected" : "";
+    return '<option value="'+d+'"'+selAttr+'>'+d+'</option>';
+  }).join("");
+  sel.onchange = () => {
+    const d = sel.value;
+    location.href = (d === latest) ? "index.html" : (d + ".html");
+  };
+}).catch(() => {});
+const toastEl = document.getElementById("toast");
+let toastTimer;
+function toast() {
+  toastEl.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toastEl.classList.remove("show"), 900);
+}
+document.querySelectorAll(".row[data-url]").forEach(row => {
+  row.addEventListener("click", async () => {
+    const url = row.getAttribute("data-url");
+    if (!url) return;
+    await navigator.clipboard.writeText(url);
+    row.classList.add("copied");
+    setTimeout(() => row.classList.remove("copied"), 500);
+    toast();
+  });
+});
+function linePx(el) {
+  const cs = getComputedStyle(el);
+  if (cs.lineHeight.endsWith("px")) return parseFloat(cs.lineHeight);
+  return parseFloat(cs.fontSize) * 1.25;
+}
+function fitHooks() {
+  document.querySelectorAll(".hook").forEach(el => {
+    el.style.display = "block";
+    el.style.webkitLineClamp = "unset";
+    if (el.scrollHeight <= el.clientHeight + 1) return;
+    const n = Math.max(1, Math.floor(el.clientHeight / linePx(el)));
+    el.style.display = "-webkit-box";
+    el.style.webkitBoxOrient = "vertical";
+    el.style.webkitLineClamp = String(n);
+  });
+}
+window.addEventListener("resize", fitHooks);
+requestAnimationFrame(fitHooks);
+</script>
+</body>
+</html>

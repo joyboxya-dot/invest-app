@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-15",
+  "built_at": "2026-09-15 09:50",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/15 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "김정은, 北9·9절 푸틴 축전에 답전 \"공동사업 전면적 확대심화\"",
+          "hook": "김정은, 北9·9절 푸틴 축전에 답전 공동사업 전면적 확대심화",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlODVPS0o4V2FLeEdWOEJxZ1pna0N3NTZ5eE90WVducUwwR0F5NkVSaE9QbF81R3FmelVpVTFoZHIwZXNpNnFvaWh1aWk0VkZ6Njh0WFNXRXdpRFnSAWBBVV95cUxQaTdmbGx0RGJZUnVFNXV4dDdPazRNYk40OWgxbWFDSU9CWTgyb2ZhX1g4bndEdndsVUlVdnczdzdPRjAycTduREVvQS1PUHY5OGctZVVUZmpwMklnZFF3UnQ?oc=5",
+          "source_date": "2026-09-14"
+        },
+        {
+          "item": "[단독] 발전소 생존자가 전한 대참사 순간…“5시간 내달렸다”",
+          "hook": "발전소 생존자가 전한 대참사 순간…5시간 내달렸다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTMVF3aG1YV1hyaHNuUlJjRjJ1R05zZnR6YldSVWt6b0I0cGhVcEZBaWpkLUlERkc5VDdjOFRDZEhod3Noa3VQd3FnTm03YVZYeFdENUlzbG5NVDg?oc=5",
+          "source_date": "2026-09-14"
+        },
+        {
+          "item": "[팩트체크] 14만원 탁구채 논란…'환불불가' 표시 있다면 환불 안된다?",
+          "hook": "14만원 탁구채 논란…환불불가 표시 있다면 환불 안된다?",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "v.daum.net",
+          "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyS1EtSGxpNTlpOVZOVnRpZnhKYXZCT0l1Y0pqeC1IYmFWV0Q3TVdYNG9uVnE3dmNNWE1XRnR2RzZNbE9JS3U3cWsyeUFXTVU?oc=5",
+          "source_date": "2026-09-14"
+        },
+        {
+          "item": "‘장윤기 사건’ 경찰관들 첫 공판…“고의성 없었다”",
+          "hook": "장윤기 사건 경찰관들 첫 공판…고의성 없었다",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6TU5Sci1ScW82SkZLYXNoVHZwSWJfdTY2LXZwcTh0Qi1tMG1ad1lBdUZpc1VNWHJza0lDUmxWSVE4NDlFMFVGTjd5US1qeE9HTFo4TlItUWNGUDA?oc=5",
+          "source_date": "2026-09-14"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "박수홍 논란 3주만 컴백→박위는 침묵…김선태는 “일감 없다” 정면돌파[종합]",
+              "hook": "박수홍 논란 3주만 컴백→박위는 침묵…김선태는 일감 없다 정면돌파",
+              "topic": "연예",
+              "summary": "박수홍 논란 3주만 컴백→박위는 침묵…김선태는 “일감 없다” 정면돌파[종합] 박수홍 논란 3주만 컴백→박위는 침묵…김선태는 “일감 없다” 정면돌파[종합]    뉴스엔",
+              "openings": [
+                "박수홍 논란 3주만 컴백→박위는 침묵…김선태는 “일감 없다” 정면돌파[종합]."
+              ],
+              "source_name": "뉴스엔",
+              "source_date": "2026-09-14",
+              "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GckxqNEplVjVzSFRudW1YaVViemhBYWxGQ2xBVDlGSXBlaVZXazY1clJETVNDcTNDdGdvVXMwd2Z2S3E2b0ptTzRLS2k0Ym9yWWw1Yl9EdjNnQzhEWnc3ZXdsbFBNRTI0U1YyMVdpR1BCLU1JXy1jaEwtRQ?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "‘100만 붕괴’ 박위, 구독자 이탈 가속…원샷한솔·케냐 영상까지 줄줄이 ‘파묘’",
+              "hook": "100만 붕괴 박위, 구독자 이탈 가속…원샷한솔·케냐 영상까지 줄줄이 파묘",
+              "topic": "연예",
+              "summary": "‘100만 붕괴’ 박위, 구독자 이탈 가속…원샷한솔·케냐 영상까지 줄줄이 ‘파묘’ ‘100만 붕괴’ 박위, 구독자 이탈 가속…원샷한솔·케냐 영상까지 줄줄이 ‘파묘’    조선일보    '공익 저격' 박위, 방송가도 손절 시작..'세바시' 비공개에도 4주째 '침묵' [단독]    v.daum.net    박위, 시각장애인 유튜버에 \"너 다 보이잖아\"…4년 전 영상 갑론을박    뉴시스    [미디어 비평] \"유튜버 박위 사과에도, 꼬리 물고 이어지는 도 넘는 비난\"    YTN    \"무례함에 보는 내내 불편\" 박위, 시각장애인 대하는 태도 '재조명' - 머니투데이    머니투데",
+              "openings": [
+                "‘100만 붕괴’ 박위, 구독자 이탈 가속…원샷한솔·케냐 영상까지 줄줄이 ‘파묘’."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-09-14",
+              "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDVZSTVFQUlrTWcyTmdDUV96TUs4SzItUzJ3aTAzckp4ZDh0aDQ0UXUwSC1EUG5PWlFmRTh1WkUtT0JvdGRVSEZmX1VLX013U2lSaW1qQlA4WVdwSmpqdmJCNlhlRjBpTHBwbHkzNUdNdG9IRzBYMXlLZTB2Q0ZPclhWYjdZbHBSaHFTX1ByaE0zcnBH?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    }
+  ]
+}

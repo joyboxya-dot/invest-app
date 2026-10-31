@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-20",
+  "built_at": "2026-10-20 10:10",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/20 기준, 후보 6건에서 장면·갈등·기괴 과학 축으로 6건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프, 김정은과의 APEC 회담 가능성 낮아지는 이유는?",
+          "hook": "트럼프, 김정은과의 APEC 회담 가능성 낮아지는 이유는?",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "공감신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vX0RLVlBhemJEamFrb3FMYXJ6MS12dFpodGhHR29LSUxpbVBURDQyODVVWUt4cFFEX2VXQWp3MDZsTGdIR19oY0lwT1BUVEFaM3VyYzc3b2g3d3gtb2VyRVFlNURRUE5w?oc=5",
+          "source_date": "2026-10-19"
+        },
+        {
+          "item": "서울시, 동물보호의 날 맞아 3주간 주말마다 서울동물행복위크 진행",
+          "hook": "서울시, 동물보호의 날 맞아 3주간 주말마다 서울동물행복위크 진행",
+          "topic": "과학",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "데일리벳",
+          "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KTVRYc00zdU5HTk9RWUFvSWdndzVhekswdFdETjc5M0pTUUNCd2hpT1JnTzBndjJrb0UtaXRzQ0kwUVQzcU5TRmNMWkRMTjFHR3BoSXVaRQ?oc=5",
+          "source_date": "2026-10-19"
+        },
+        {
+          "item": "김여정 “남부 국경 상황 불안정…대남 확성기 방송 재개 검토”",
+          "hook": "김여정 남부 국경 상황 불안정…대남 확성기 방송 재개 검토",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yYTlWcHBJNzdDd2U1UXoxcmRidm80QWhvWlN4My1XOTRfSHl2UVZ2MWhjMW9VT1RUVS11cVlTMjZfNXhHMWFxTi1xWTJkZ0F2dWZXRGotVzRiU1V2Q19GUmo0SG9HSlFoc3hpVzRTVm9UbzFI?oc=5",
+          "source_date": "2026-10-19"
+        },
+        {
+          "item": "\"원산지 물었더니 차단\"…유명 개그맨 게장 판매 방송 논란",
+          "hook": "원산지 물었더니 차단…유명 개그맨 게장 판매 방송 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82MHNmbWR5dmNudmM4YjR5ZDBxSDN4QlVXMWtwVFFKYURFcGNDTkdpVFh1VkF4Y04wbVVIRG1FWU5sR3BKeXVvRGdjMlhrekpyQWRNUnBxd0Eydw?oc=5",
+          "source_date": "2026-10-19"
+        },
+        {
+          "item": "“내가 북한군 병사”... 북한 내부로 들어간 ‘콜 오브 듀티’ 현실 반영",
+          "hook": "내가 북한군 병사... 북한 내부로 들어간 콜 오브 듀티 현실 반영",
+          "topic": "북한",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Radio Free Asia",
+          "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelM1ZW1HV0Y1aDk0Y3lKVmR0U0ZvdHl4T2szNjFva0NzOWgxZVZFSUU5aTZhMXlLcWVlX3dQRWJSVVJXekN2RHhrdndpc0QtYWE0ODRxRmJSR0ozWmNWVVhqUlUwX3lpUFZnVGl1aUg4RC1NeW1RZ2EwMkh6cWJCTUpKMlI5a2p6aDhyT29MRWpBQTA?oc=5",
+          "source_date": "2026-10-19"
+        },
+        {
+          "item": "‘李 국민속였다’ 유시민 고발인조사 진행…경찰 “수사 중인 사안”",
+          "hook": "李 국민속였다 유시민 고발인조사 진행…경찰 수사 중인 사안",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "미디어오늘",
+          "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zWWd1cnFGRTZmYlFNem1oS0Q2MG1TNXVGRHlueGhCWmZ1dEQ1eGpXYzNfUTF6Tmlfb1NnU25jSWRIRExQeXBmUDNTQ1RYVzQ4ajhBNXRlYk53YzVlRjZvV05LSXJ4TWlRVnpHT05vZFE?oc=5",
+          "source_date": "2026-10-19"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    }
+  ]
+}

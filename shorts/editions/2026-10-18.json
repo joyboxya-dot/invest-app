@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-18",
+  "built_at": "2026-10-18 09:12",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/18 기준, 후보 2건에서 장면·갈등·기괴 과학 축으로 2건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "김정은 별장 앞에 나타난 80m 선박, 위성사진으로 추적해보니",
+          "hook": "김정은 별장 앞에 나타난 80m 선박, 위성사진으로 추적해보니",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "BBC",
+          "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2eVVyNERKVzV3cWpNclBJMkUwWUthUVVmVWxjSzByT2x0SkpHRGozb09sVW5yWlhjbGtQWDdzdExlZk5yYXBPdTltMjJQamN4d0xjRDNRcXJoSHM40gFiQVVfeXFMTmI3bEY2Tk1tanUxeWtTN0RtWk5YQlo4RFk5MU04YW5FMHFCal9YZDdwbzg1SFZnOWFBNWU5bFBKMDR5OFMtX0pjSDU3Q0ZFZ1lWS2NlZWZBaGpkYkd3ajgxT0E?oc=5",
+          "source_date": "2026-10-17"
+        },
+        {
+          "item": "취임 사흘 만에 해임된 백악관 대변인… 논란의 인터뷰 누가 주선했나",
+          "hook": "취임 사흘 만에 해임된 백악관 대변인… 논란의 인터뷰 누가 주선했나",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Chosunbiz",
+          "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRW9sOU95ZlM1ZkJRbnB5VmVicjJlRjhubGdtQXBtNE9PXzY3WWg0NVZsUkNETmQyQ2tlS0RaT1NsTm9UYjFPSVJwU0lPYTFnUGVzRjNzMzhFbktPX2J0UDJhTk5xeXo5Y09aa18wRHlOcVNiSVJlSVU4V3pQM1ZVZXRLM0NqaHhUcF9BaEJySG1wcEpWZnpLNmtaOVpHd9IBsgFBVV95cUxPaHRPRHRGMllWTlkwWjlyS1R4V21DNmNsWUJ3T3Q2M0JTa1Zscm9DMXNobnZrTFJ1SldsNWNhaV9YMVJieEkwZ2R2eUlMN2dYbDZmdDVqTlR6N2FDWG5PcjJyOWdlQ3Q5VWd4bmRBaGRQTFZVLXZkX0U0ZFBpVnpta2pIb092b2ZwMDhTZ3BDdExIclJ2dFZYazBhTGlITC12OFJKdFROcmVtTGVYOEhZblNn?oc=5",
+          "source_date": "2026-10-17"
+        }
+      ],
+      "top5": [
+        1,
+        2
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 2
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 2
+    }
+  ]
+}
