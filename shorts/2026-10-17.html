@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#0c0c0e">
+<title>쇼츠 재료 · 2026-10-17</title>
+<style>
+:root { --bg:#0c0c0e; --fg:#f4f4f5; --muted:#a1a1aa; --line:#27272a; --ok:#34d399; }
+* { box-sizing:border-box; }
+html, body { height:100%; }
+body {
+  margin:0; display:flex; flex-direction:column; overflow:hidden;
+  font:12.5px/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo",sans-serif;
+  background:var(--bg); color:var(--fg);
+}
+header {
+  flex:0 0 auto; display:flex; align-items:center; gap:.5rem;
+  padding:.28rem .45rem; border-bottom:1px solid var(--line);
+}
+h1 { font-size:.82rem; margin:0; font-weight:700; }
+select {
+  font:inherit; color:var(--fg); background:#18181b;
+  border:1px solid var(--line); border-radius:999px; padding:.08rem .5rem;
+}
+.board {
+  flex:1; min-height:0; display:grid;
+  grid-template-columns:repeat(2, minmax(0, 1fr));
+}
+.col {
+  min-width:0; min-height:0; display:flex; flex-direction:column;
+  border-right:1px solid var(--line);
+}
+.col:last-child { border-right:0; }
+.col h2 {
+  flex:0 0 auto; margin:0; padding:.28rem .45rem;
+  font-size:.78rem; font-weight:700; border-bottom:1px solid var(--line);
+}
+.list { flex:1; min-height:0; display:flex; flex-direction:column; }
+.row {
+  flex:1 1 0; min-height:0; display:flex; align-items:flex-start; gap:.28rem;
+  padding:.12rem .4rem; border-bottom:1px solid var(--line); cursor:pointer;
+  -webkit-tap-highlight-color:transparent;
+}
+.row:last-child { border-bottom:0; }
+.row:active, .row.copied { background:#1c1c1f; }
+.row.empty { cursor:default; }
+.row.empty .n { opacity:.35; }
+.n {
+  flex:0 0 1.05rem; color:var(--muted); font-variant-numeric:tabular-nums;
+  font-size:.7rem; padding-top:.05rem;
+}
+.tag {
+  flex:0 0 auto; color:#111; background:#fbbf24; font-size:.68rem; font-weight:750;
+  line-height:1.2; padding:.08rem .28rem; border-radius:4px; white-space:nowrap;
+  margin-top:.02rem;
+}
+.hook {
+  min-width:0; flex:1; overflow:hidden; font-weight:600; line-height:1.25;
+  word-break:keep-all; overflow-wrap:break-word;
+}
+.toast {
+  position:fixed; left:50%; bottom:.7rem; transform:translateX(-50%) translateY(140%);
+  background:#f4f4f5; color:#111; font-size:.75rem; font-weight:650;
+  padding:.28rem .7rem; border-radius:999px; pointer-events:none; transition:transform .16s;
+}
+.toast.show { transform:translateX(-50%) translateY(0); }
+</style>
+</head>
+<body data-date="2026-10-17">
+<header>
+  <h1>쇼츠 재료</h1>
+  <select id="archive" aria-label="날짜"><option value="2026-10-17" selected>2026-10-17</option><option value="2026-10-16">2026-10-16</option><option value="2026-10-15">2026-10-15</option><option value="2026-10-14">2026-10-14</option><option value="2026-10-13">2026-10-13</option><option value="2026-10-12">2026-10-12</option><option value="2026-10-11">2026-10-11</option><option value="2026-10-10">2026-10-10</option><option value="2026-10-09">2026-10-09</option><option value="2026-10-08">2026-10-08</option><option value="2026-10-07">2026-10-07</option><option value="2026-10-06">2026-10-06</option><option value="2026-10-05">2026-10-05</option><option value="2026-10-04">2026-10-04</option><option value="2026-10-03">2026-10-03</option><option value="2026-10-02">2026-10-02</option><option value="2026-10-01">2026-10-01</option><option value="2026-09-30">2026-09-30</option><option value="2026-09-29">2026-09-29</option><option value="2026-09-28">2026-09-28</option><option value="2026-09-27">2026-09-27</option><option value="2026-09-26">2026-09-26</option><option value="2026-09-25">2026-09-25</option><option value="2026-09-24">2026-09-24</option><option value="2026-09-23">2026-09-23</option><option value="2026-09-22">2026-09-22</option><option value="2026-09-21">2026-09-21</option><option value="2026-09-20">2026-09-20</option><option value="2026-09-19">2026-09-19</option><option value="2026-09-18">2026-09-18</option></select>
+</header>
+<div class="board"><section class="col"><h2>군림보</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMie0FVX3lxTE9vbFozcHdHWTBlT0NXTndOWHF3UG0wdVlaeFFQaHVEbmk0Sm8yeHVxMVMxMlhjTHBwYVFfdTB4UXIwUmFUaGxJZG1DYWU3ajk3d2NTVmVSM1dsQ1RqV2VMbkx6UVgzMjBPemdQMXJ5bmd2WWtMb3pxZ2t1NA?oc=5" role="button"><span class="n">1</span><span class="tag">북한</span><span class="hook">러 비상사태부 장관, 김정은에 ‘세상에 하나뿐인’ 소화기 선물</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTGtuWVNrTlA5R1AwdDdvZUxfSVVvajdEektua0FZaWE5d2NGOXFVeENPNmVGQ2JRMEFUOGFCZG5zYjcwdEYwUHl0VjNxbDlkdHczRGFRMXBlUdIBX0FVX3lxTE5ZdHo4cXoxTHRhdVh0a0JNdmRqejZidThBN0tHamZ4djRlS0NGYXR1dnIxQmhJN1JqY05ybTZKVzJCc3o4VWJRbkc0ZElqNFVMcmxzN0kxR2xLRWJ0SkhN?oc=5" role="button"><span class="n">2</span><span class="tag">이슈</span><span class="hook">경고에도 쌓인 폐박스, 멈춰둔 소방시설···7명 숨진 대전 현대아울렛 참사 책임자 ‘실형’</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93NE1Ca0JNRFhVOUVMN0FnN0p0cUJMLWdDTkpfYkliX0R1ZFVGQWxyNHZVSjhBTUhpMUdaWkRrTTE3OFlhdmpjTUtWaFpoMElGdVdrRzJzSGVtS045VmVUQV9ERlQ1R3c?oc=5" role="button"><span class="n">3</span><span class="tag">이슈</span><span class="hook">’변호사 사칭 논란’ 백악관 대변인 나흘 만에 경질…역대 최단명</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTM2X0xNS09hZTRxOW9VOFhYNGota2ItV1ZTOVNVcDRFWndsTDZzN3JnZkNTaDlPZXE4SmdOWkRzTnVndWt6ZXloYUowekF3SnVZTUoxMm1vRlN6ZWNXM2QwUW5CbEZqRktCQzhrSFgzaUlXUnpWNWNSR3Z4dUtsRTNRQnVuQVNr?oc=5" role="button"><span class="n">4</span><span class="tag">이슈</span><span class="hook">추미애 ‘소방 재정 빨대’ 논란 속... 李대통령 “소방관에 천금을 준들 아깝겠나”</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuTzVkUkoydnlqSl9RMjVueWhqbnNNcmIyYlk3TWdVLWhrZVRHdTZBNHdMOGFpN2hYNFlaWk5RV3hZMU40dE52U3Awa3k1VzYwMW9PQ3Q1dmlGdXdpakRaaV93TEVIX2fSAWxBVV95cUxNSUxpY3VGanJlclFqRkktd1NoMnlCbWVXTWZNZkVJTXNPaDR3ak5XSDlSd3NlZmJ3TmFpRklnd0hPbjdBR2ZWemdHUVQyOGsySlNjSW84WlMyb3FIaU5OMWR1dnJ2YU85bmhtZ0I?oc=5" role="button"><span class="n">5</span><span class="tag">이슈</span><span class="hook">[단독]&quot;머리 나빠서 노벨상 못 타&quot; SNS 논란에 靑비서관 &quot;도덕성 잣대 아냐&quot;</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMickFVX3lxTE0ySEg3ckYxRklRVk5jQkt4d2hKVlN2cXc0OEJIaV95MW05Rl9rTzFqdUV0UVR3ZkUtZkpkRndaa08wRW0yRnBxbVdId0ZsWGxET3UtandDSkFIMTJYX3QzQmFkaVF2RmMtd3FwQUJWamFUQQ?oc=5" role="button"><span class="n">6</span><span class="tag">사건</span><span class="hook">한동훈 자녀 부실 수사 의혹에…서울경찰청장 “재점검할 것”</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBycVVLUkI2dld1ZnNXZ01hdWMzLWZBdXVNOWNmTW9rTm50Rl9pV0J0b3lDVXhCLThuMnBiVFhKemtNNVRTRDYwUUdhMDhJS21FcVR0UUlqZ0M0RmM?oc=5" role="button"><span class="n">7</span><span class="tag">사건</span><span class="hook">경찰, ‘인천 흉기 난동’ 최충락 자택 압수수색</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ySjBTN3JPWll4ckZEalBoQ2tuVnVPaVZBcjdmUnBJTW8zNlhkck45ZEdVRklSQTdtT1VObUs4NVJ2SzNSVWhWWjJlNExlSVVKZkdtTnktb1gwZ9IBX0FVX3lxTFBmazhnc2VXVXNyazdVZGt2bnotaFRKUUFyaWtHR25VVEhHM1NjLThfd0tLbV9tdGtOeEVGc2JZbDBaSmt5WjdDWXgwQXE0UjN1aTJHTEduTnBWMmd6ai1Z?oc=5" role="button"><span class="n">8</span><span class="tag">사건</span><span class="hook">한화 이글스 홈구장 스카이박스 ‘공짜 관람’ 의혹···경찰 간부 입건</span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section><section class="col"><h2>뇌전구</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMikwFBVV95cUxPdzZMYXJuWl9lNmFOcDRvWmR4VUhEUXNVMzNveFYzYjEtR2pGVER1S09ISDZxclRxUGlMNGJuaUF5Rm53b2FZX29ONTg3YXpBUWtIY1VvclVsZXpNbE96LWFVQmw0eVRiTUQ0N3ZIZUJUcXU3N29RSlE2Z21VVjdxV2FFejFxa3NYQll6SENZcXZ6TkHSAacBQVVfeXFMUENrVVBxaUdUYVh0OHJqNjROZERiRzVpMTZrdUtxZUVTUTJxa2JWNUxoNF9ReDR5VXM4ZW1ScVZmeHNFU1U5TWdabjlZcDlyV0ZrcXAzLVVTd2IyMjNuNC1Idy1meXI3MlFGZFZhZm0zVXd5VzlTYjY2Y0dKRllJSGR5SHZMUUJ4UkJ2M2tiamhsSE5qRm5ySkxydWtoRW5rZWFrU0lRaVE?oc=5" role="button"><span class="n">1</span><span class="tag">사건</span><span class="hook">배기성, ‘4개월만 이혼’ 이선정 만취 폭로..“흑역사 많아”(선정하기)</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiakFVX3lxTFB4b3RPN3JiRkN1UC1sYko1LTRfbFhtNGtBa3p5RlgtYjRTb0lxdGFFMDBDNjBDUDFNSUl6d1VuV1kxU2k5QWx0ZGxnRHcyUzR5Y2p4dmpfcWRqNHROcXJSVXZYVHJfTkk5Umc?oc=5" role="button"><span class="n">2</span><span class="tag">사건</span><span class="hook">&quot;배우라서 특별대우 아냐&quot;…경찰, 유해진 신변보호 해제</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHhhcjFkWFk4UGhuM0lDQU9LNHp0a0kwSGFHY3VxQkZkUjlDbkZ1djBnbXZWUkFxZzN4TE93ZmdjMHBMQUxwZTVVcGZ0VWo4WVVMV3hTRzVPVnBrck9ieE1vbDIwalAzQjkwOHJESVJqV1dYZ0JXY01YbGJSbHgyc2JkNWRHbDZfMTh2VTV4bw?oc=5" role="button"><span class="n">3</span><span class="tag">연예</span><span class="hook">송중기♥케이티, 이탈리아서 전한 근황…직접 만든 올리브오일 선물</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWtrcGNDV0t0MnplamUwZ0NXaW1FQldkeFowTVozb1NhSGtza3MtRmFxSGNzbXpxY2gyeWZxb2NsMS0ycDVpMFdnazd5SGJSVmltVWNMRU1aWjBzZ1pld0YzRTFMTUE0RzV1UndueUV3STk4YUE4RTRQUnNMcEpKOEl0STI?oc=5" role="button"><span class="n">4</span><span class="tag">연예</span><span class="hook">17살 연상 아내 두고 홀로 미국行…류필립, 현지서 &#x27;캐셔 알바&#x27; 시작한 근황</span></div><div class="row empty"><span class="n">5</span><span class="hook"></span></div><div class="row empty"><span class="n">6</span><span class="hook"></span></div><div class="row empty"><span class="n">7</span><span class="hook"></span></div><div class="row empty"><span class="n">8</span><span class="hook"></span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section></div>
+<div class="toast" id="toast">링크 복사됨</div>
+<script>
+const DATE = document.body.dataset.date;
+fetch("archive.json").then(r => r.json()).then(dates => {
+  const sel = document.getElementById("archive");
+  const latest = dates[0];
+  sel.innerHTML = dates.map(d => {
+    const selAttr = d === DATE ? " selected" : "";
+    return '<option value="'+d+'"'+selAttr+'>'+d+'</option>';
+  }).join("");
+  sel.onchange = () => {
+    const d = sel.value;
+    location.href = (d === latest) ? "index.html" : (d + ".html");
+  };
+}).catch(() => {});
+const toastEl = document.getElementById("toast");
+let toastTimer;
+function toast() {
+  toastEl.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toastEl.classList.remove("show"), 900);
+}
+document.querySelectorAll(".row[data-url]").forEach(row => {
+  row.addEventListener("click", async () => {
+    const url = row.getAttribute("data-url");
+    if (!url) return;
+    await navigator.clipboard.writeText(url);
+    row.classList.add("copied");
+    setTimeout(() => row.classList.remove("copied"), 500);
+    toast();
+  });
+});
+function linePx(el) {
+  const cs = getComputedStyle(el);
+  if (cs.lineHeight.endsWith("px")) return parseFloat(cs.lineHeight);
+  return parseFloat(cs.fontSize) * 1.25;
+}
+function fitHooks() {
+  document.querySelectorAll(".hook").forEach(el => {
+    el.style.display = "block";
+    el.style.webkitLineClamp = "unset";
+    if (el.scrollHeight <= el.clientHeight + 1) return;
+    const n = Math.max(1, Math.floor(el.clientHeight / linePx(el)));
+    el.style.display = "-webkit-box";
+    el.style.webkitBoxOrient = "vertical";
+    el.style.webkitLineClamp = String(n);
+  });
+}
+window.addEventListener("resize", fitHooks);
+requestAnimationFrame(fitHooks);
+</script>
+</body>
+</html>

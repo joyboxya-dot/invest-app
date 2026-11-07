@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-29",
+  "asof": "2026-10-29",
+  "built_at": "2026-10-30 02:10",
+  "pinned_id": "mom_only_flat20_buynew_sr_t10_lb15_vix25nb_ss20_stoptopup25_rate_pause_b_sd7_h1neg3_secqqq5_lagm1n42p20_top5_penult_sp500",
+  "universe_n": 500,
+  "pool_n": 500,
+  "lookback_months": 3,
+  "min_lookback_ret": 0.15,
+  "top_n": 10,
+  "rows": [
+    {
+      "rank": 1,
+      "symbol": "MRNA",
+      "name": "Moderna",
+      "mom_ret": 3.0634804039932826,
+      "day_ret": 0.040132614993804605,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 2,
+      "symbol": "CRL",
+      "name": "Charles River Laboratories",
+      "mom_ret": 0.6175649003873598,
+      "day_ret": 0.005668739116821309,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 3,
+      "symbol": "PLTR",
+      "name": "Palantir Technologies",
+      "mom_ret": 0.5961319849321625,
+      "day_ret": -0.0019816035490388684,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 4,
+      "symbol": "VEEV",
+      "name": "Veeva Systems",
+      "mom_ret": 0.5229168622873688,
+      "day_ret": -0.023535368491441555,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 5,
+      "symbol": "ACN",
+      "name": "Accenture",
+      "mom_ret": 0.5019480964332068,
+      "day_ret": 0.015694360805297958,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 6,
+      "symbol": "IT",
+      "name": "Gartner",
+      "mom_ret": 0.49026613158184285,
+      "day_ret": 0.02692094268067602,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 7,
+      "symbol": "RVTY",
+      "name": "Revvity",
+      "mom_ret": 0.47399373788340404,
+      "day_ret": 0.002721810580405215,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 8,
+      "symbol": "SWKS",
+      "name": "Skyworks Solutions",
+      "mom_ret": 0.4359345224474236,
+      "day_ret": 0.02522064500261556,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 9,
+      "symbol": "PTC",
+      "name": "PTC Inc.",
+      "mom_ret": 0.41982512671078887,
+      "day_ret": -0.0008719196177923161,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 10,
+      "symbol": "APA",
+      "name": "APA Corporation",
+      "mom_ret": 0.38721271379074484,
+      "day_ret": 0.007826212216883288,
+      "in_holdings": false,
+      "live_slot": false
+    }
+  ],
+  "note": "핀 규칙 동일: 매매시점 스냅샷500(시총패널 없음) · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5)"
+}

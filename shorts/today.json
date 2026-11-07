@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-07",
+  "built_at": "2026-11-07 11:15",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/07 기준, 후보 6건에서 장면·갈등·기괴 과학 축으로 6건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "“美 중간선거 후폭풍, 데이터센터 제동에”…13.6조 원전 ‘선급금’ 논란",
+          "hook": "美 중간선거 후폭풍, 데이터센터 제동에…13.6조 원전 선급금 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZY0RJYUpyNE1zV3B6Rk1ZWXhwR1VrUFNPSmFOR2loY3k2RGxPMk5BWlZZSFdFQmwyQzhSNldaQy1VSmNmc0IwbU5GQnJFZVhRWkgyYg?oc=5",
+          "source_date": "2026-11-07"
+        },
+        {
+          "item": "연일 ‘집값 하락’ 얘기하는 대통령…진실은?",
+          "hook": "연일 집값 하락 얘기하는 대통령…진실은?",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Wb1FRZDVtUG5janlPUnQ1c0Uzb3BDRXRraEU3NlhsLTVjUUlWMkpUbTVvOXl5Z2dEYzJHXzRHMGZUdGdXVkVZMENQZmh4ZWpZM0NBRXpDWEpPTWUtYXhONTFHQlVKQQ?oc=5",
+          "source_date": "2026-11-06"
+        },
+        {
+          "item": "‘뉴진스’ 계약 불공정 논란…“가혹하다” vs “사실아냐”",
+          "hook": "뉴진스 계약 불공정 논란…가혹하다 vs 사실아냐",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UY3lkeXlWSy13bkZnMnZsNnpfdjlNWC1OaFIwa2t1c1pFRURNTzFyXzhpd05Db1dhX284V3ozVzZTMFE3TkNKOHlIa2JTMktQYkQ3SVVOZFF1cHM?oc=5",
+          "source_date": "2026-11-06"
+        },
+        {
+          "item": "이 대통령, 한국전 민간 희생자 애도‥\"국가가 은폐한 진실 밝혀야\"",
+          "hook": "이 대통령, 한국전 민간 희생자 애도‥국가가 은폐한 진실 밝혀야",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xQ1cxOW15ZUpuVXVJRWkwLXNXTVU1Y2puczVyOVVORXYwNjAySDVnX1pBbkprMUF2bFdlMkxBSG5FTFFraTRtQTgyZTdnN1M4dVVncGVleVZNZVJhVnUtRzNBTGhmQllteTBrWG5xZjB0VXJoM254NNIBeEFVX3lxTFA3OU9saGRfZ2JMbFFpWmRYNWpxWEhOamhRcGtLcjgzLUNsUGVYT0UwbVg4U3VZVTBNUEpxdmN3ZDVrVzRydVFsNVRfaHBpNHZyMDdWd0pYSXl0Yk1oWGNPLVBUdHZUYzFOSWpHX2kwaGJrQkVqc3FXMA?oc=5",
+          "source_date": "2026-11-06"
+        },
+        {
+          "item": "김용태 “한동훈 국힘 복당, 현실적으론 어렵지만 해야 되지 않을까”",
+          "hook": "김용태 한동훈 국힘 복당, 현실적으론 어렵지만 해야 되지 않을까",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJbmpnSGg0M3Z0NzRWNnJQaDM1MVF5aTlMVVBMZ0RqQUd6d2xlRVBuZHZjTjlKZmJNdndSeGhOcjBFTFhzLUxhX0FoRE1HUjJybUVVRXMzcFRTbnd0ek5VZDdpNUh2Zk5lMm9rZG1OMnRIT1Z5?oc=5",
+          "source_date": "2026-11-06"
+        },
+        {
+          "item": "경찰까지 출동하더니…결국 경호원 고용한 '스카프 아저씨'",
+          "hook": "경찰까지 출동하더니…결국 경호원 고용한 스카프 아저씨",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OeWc1dlNfajRaYXNscnBmWnBYUHpYaWxlY1g2bVRITzFMNEhiMERJOUNCY01aLUlTekZqVXVROWNIY256X2l3WjBBRm9GekRGekt4TnlmSlAyZw?oc=5",
+          "source_date": "2026-11-06"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "[AI연예가] 차예련, 학폭·태도 논란부터 '두번째 시그널', 조진웅 논란 속 편성 확정까지",
+              "hook": "차예련, 학폭·태도 논란부터 두번째 시그널, 조진웅 논란 속 편성 확정까지",
+              "topic": "AI",
+              "summary": "[AI연예가] 차예련, 학폭·태도 논란부터 '두번째 시그널', 조진웅 논란 속 편성 확정까지 [AI연예가] 차예련, 학폭·태도 논란부터 '두번째 시그널', 조진웅 논란 속 편성 확정까지    뉴스핌    ‘학폭 의혹’ 차예련, 이번엔 식당 목격담…“옆 테이블 의자에 다리 턱”    스포츠경향    '학폭 의혹' 차예련, 미담 나왔는데..슬그머니 SNS 물밑작업 '의구심' [핫피플]    미주중앙일보    '학폭 부인' 차예련, 갑질 폭로까지 확산..현직 변호사 \"일진 무리 가능성도\" [★FOCUS]    스타뉴스    \"학폭 사실 아냐\" 차예련 근황...공동구매 다시 오픈 - 머니투데이 ",
+              "openings": [
+                "[AI연예가] 차예련, 학폭·태도 논란부터 '두번째 시그널', 조진웅 논란 속 편성 확정까지."
+              ],
+              "source_name": "뉴스핌",
+              "source_date": "2026-11-06",
+              "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zTVlXUzNkeDE1M0JOX3A1cnh4MURvYjlrYldMSE9reFlmaGgzb0ZZZ2RqZjJkLXNkclNFRXV6aXlCOUlhNWNxeXNQRjA4Rno4QzNqem43QzVydw?oc=5",
+              "priority": "B"
+            }
+          ]
+        },
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "[속보]신임 경찰청장에 김종철 경찰청 차장 내정…“엄중한 시기 막중한 책임감”",
+              "hook": "신임 경찰청장에 김종철 경찰청 차장 내정…엄중한 시기 막중한 책임감",
+              "topic": "사건",
+              "summary": "[속보]신임 경찰청장에 김종철 경찰청 차장 내정…“엄중한 시기 막중한 책임감” [속보]신임 경찰청장에 김종철 경찰청 차장 내정…“엄중한 시기 막중한 책임감”    경향신문    2년 만에 ‘청장 공백’ 끝나나…신임 경찰청장의 과제는?    KBS 뉴스    경찰청장 후보자 김종철 국가경찰위 참석‥\"막중한 책임감 느껴\"    MBC 뉴스    한·동티모르 치안협력을 위한 기술약정 체결식 참석한 김종철 경찰청장 직무대행    연합뉴스    윤호중 장관 \"김종철, 경찰개혁 강력한 의지 보여…리더십도 평가\" - 머니투데이    머니투데이",
+              "openings": [
+                "[속보]신임 경찰청장에 김종철 경찰청 차장 내정…“엄중한 시기 막중한 책임감”."
+              ],
+              "source_name": "경향신문",
+              "source_date": "2026-11-06",
+              "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02cXgwdkJucEVDS1FORmZCd1hxa2o5T1dwWDVqa1VieUJwV2ZobWpaVWg0cGNCeFJzUWs5b0F2dFM5cEVaZmp5cDkyOFlHaE5EZkFsajdDbHptUdIBX0FVX3lxTFBqM1Q3V1dpQUxpbm9ERlExV0xJY2FXVDNaeFR2d3dabWdtTGp2dXRIcWk0Q0ppZFN3eFBwSUVnWG0zZ2ZTNVBoRjdJU0VwalNKVWN1c08wYktyc3JId1pZ?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 10
+    }
+  ]
+}

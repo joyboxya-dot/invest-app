@@ -1,0 +1,120 @@
+{
+  "date": "2026-09-18",
+  "built_at": "2026-09-18 09:42",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/18 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "비건 전 대북대표 “트럼프, 평양서 김정은 만나자 제안할 수도”",
+          "hook": "비건 전 대북대표 트럼프, 평양서 김정은 만나자 제안할 수도",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVZVkxSGw1WGp1ck8zTVByYXhNNXhpUmlCSTUzY2pNbTBMVDRJc1dhVHlWWU9oR0N4eW0zVDdZbS1GRGJQd1lVRTcwUVRXMWNlUUZUOUNIOUFtRXhNWHh0QVdMcVFQUmNxV1dYN2hrRQ?oc=5",
+          "source_date": "2026-09-17"
+        },
+        {
+          "item": "김여정, 미국 주도 훈련에 반발해 강력 대응 시사…“적대성 신기록”",
+          "hook": "김여정, 미국 주도 훈련에 반발해 강력 대응 시사…적대성 신기록",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "news.kbs.co.kr",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GaXplM29Jcl9lOGoxbkl6VTRLQTRGTmRXSVBkUXJKTFVIM2QybjZGVzFMZk9HQlhUWGNRSDlhbmRZVkQ4a0pNRUdxbWlnRGxSUllwODJDU1A3NU0?oc=5",
+          "source_date": "2026-09-17"
+        },
+        {
+          "item": "온도 파이낸스 창업자 사망 후 경영권 분쟁…1100만달러 보수안 논란",
+          "hook": "온도 파이낸스 창업자 사망 후 경영권 분쟁…1100만달러 보수안 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "토큰포스트",
+          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10WEVkaTltSXZBUkNJLW9lR2QwVndHVnFJSk9udFJhS3FTQklLaEU5TDBHTGRCc1FLaF83Q2EzaE9WOEp2WWRHOHkxR2RrUkEzLUJ3SFNoUDA?oc=5",
+          "source_date": "2026-09-17"
+        },
+        {
+          "item": "[TGS 2026] 현실에 강림한 ‘타소가레관’…넥슨게임즈 ‘파레이돌리아’ 부스 가보니",
+          "hook": "현실에 강림한 타소가레관…넥슨게임즈 파레이돌리아 부스 가보니",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향게임스",
+          "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xb3FUMHdWTGZZNk5VckFOekotM05SMDFEZlZndFdlMEt0SXZxYXZQUWU2MmxQeEpmczBTc3ZReFN6WEZ1bnhldGxtclVLYS1HVTNranNnaW5CYUhtMlA3Vlg0MExXY2xhQlAtQg?oc=5",
+          "source_date": "2026-09-18"
+        },
+        {
+          "item": "서울서남부농협·금천경찰서, 보이스피싱 예방 ‘맞손’",
+          "hook": "서울서남부농협·금천경찰서, 보이스피싱 예방 맞손",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "농민신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FNFJ1Y244V2FwTVJra0ZweXU3RG1uYmFKc25QcU8yTmF6ZHZUaUFOQVE0eG1DVVIyX1E5RTBpai1ScEVSVVZIQ0w4c1g2Z3RMVUMwNUxTbzhGZw?oc=5",
+          "source_date": "2026-09-17"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "\"택배 상하차로 月 340만원\" 최철호, 7년 만에…깜짝 근황 공개",
+              "hook": "택배 상하차로 月 340만원 최철호, 7년 만에…깜짝 근황 공개",
+              "topic": "연예",
+              "summary": "\"택배 상하차로 月 340만원\" 최철호, 7년 만에…깜짝 근황 공개 \"택배 상하차로 月 340만원\" 최철호, 7년 만에…깜짝 근황 공개    한국경제    최철호, 음주 폭행으로 4년 공백…\"택배 상하차 중 150만원 출연료에 '특종세상' 촬영\" (요즘 뭐해)    v.daum.net    최철호 \"음주 난동→사업 실패…택배 일하다 '150만원'에 방송 출연\" - 머니투데이    머니투데이    최철호 \"'특종세상' 3회차 촬영에 150만원…택배 열흘 일해야\"    newsis.com    “심는 대로 거둔다”…후배 폭행 논란·사업 실패 겪은 최철호의 고백    ",
+              "openings": [
+                "\"택배 상하차로 月 340만원\" 최철호, 7년 만에…깜짝 근황 공개."
+              ],
+              "source_name": "한국경제",
+              "source_date": "2026-09-17",
+              "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84VlF3a2dGOEFhZi1MWWNxeVhodmd2WHNZem5OZlNQWG9SYWw5ZWhfQjg0aTFXWmlsLTR2WkVPLXhGX3NWQklJVmFweWx1MThvYmJVS1BQa3J3dw?oc=5",
+              "priority": "A"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#0c0c0e">
+<title>쇼츠 재료 · 2026-09-10</title>
+<style>
+:root { --bg:#0c0c0e; --fg:#f4f4f5; --muted:#a1a1aa; --line:#27272a; --ok:#34d399; }
+* { box-sizing:border-box; }
+html, body { height:100%; }
+body {
+  margin:0; display:flex; flex-direction:column; overflow:hidden;
+  font:12.5px/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo",sans-serif;
+  background:var(--bg); color:var(--fg);
+}
+header {
+  flex:0 0 auto; display:flex; align-items:center; gap:.5rem;
+  padding:.28rem .45rem; border-bottom:1px solid var(--line);
+}
+h1 { font-size:.82rem; margin:0; font-weight:700; }
+select {
+  font:inherit; color:var(--fg); background:#18181b;
+  border:1px solid var(--line); border-radius:999px; padding:.08rem .5rem;
+}
+.board {
+  flex:1; min-height:0; display:grid;
+  grid-template-columns:repeat(2, minmax(0, 1fr));
+}
+.col {
+  min-width:0; min-height:0; display:flex; flex-direction:column;
+  border-right:1px solid var(--line);
+}
+.col:last-child { border-right:0; }
+.col h2 {
+  flex:0 0 auto; margin:0; padding:.28rem .45rem;
+  font-size:.78rem; font-weight:700; border-bottom:1px solid var(--line);
+}
+.list { flex:1; min-height:0; display:flex; flex-direction:column; }
+.row {
+  flex:1 1 0; min-height:0; display:flex; align-items:flex-start; gap:.28rem;
+  padding:.12rem .4rem; border-bottom:1px solid var(--line); cursor:pointer;
+  -webkit-tap-highlight-color:transparent;
+}
+.row:last-child { border-bottom:0; }
+.row:active, .row.copied { background:#1c1c1f; }
+.row.empty { cursor:default; }
+.row.empty .n { opacity:.35; }
+.n {
+  flex:0 0 1.05rem; color:var(--muted); font-variant-numeric:tabular-nums;
+  font-size:.7rem; padding-top:.05rem;
+}
+.tag {
+  flex:0 0 auto; color:#111; background:#fbbf24; font-size:.68rem; font-weight:750;
+  line-height:1.2; padding:.08rem .28rem; border-radius:4px; white-space:nowrap;
+  margin-top:.02rem;
+}
+.hook {
+  min-width:0; flex:1; overflow:hidden; font-weight:600; line-height:1.25;
+  word-break:keep-all; overflow-wrap:break-word;
+}
+.toast {
+  position:fixed; left:50%; bottom:.7rem; transform:translateX(-50%) translateY(140%);
+  background:#f4f4f5; color:#111; font-size:.75rem; font-weight:650;
+  padding:.28rem .7rem; border-radius:999px; pointer-events:none; transition:transform .16s;
+}
+.toast.show { transform:translateX(-50%) translateY(0); }
+</style>
+</head>
+<body data-date="2026-09-10">
+<header>
+  <h1>쇼츠 재료</h1>
+  <select id="archive" aria-label="날짜"><option value="2026-09-10" selected>2026-09-10</option><option value="2026-09-09">2026-09-09</option><option value="2026-09-08">2026-09-08</option><option value="2026-09-07">2026-09-07</option><option value="2026-09-06">2026-09-06</option><option value="2026-09-05">2026-09-05</option><option value="2026-09-04">2026-09-04</option><option value="2026-09-03">2026-09-03</option><option value="2026-09-02">2026-09-02</option><option value="2026-09-01">2026-09-01</option><option value="2026-08-31">2026-08-31</option></select>
+</header>
+<div class="board"><section class="col"><h2>군림보</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MjZ1aHVFY1JrYlV4Q0ZwWXFZU1k5SnM5S05MNkJNZ2xnTF9CSUg4MlFSbTd4bDVaRElWU0llR1g5ZC1rYm1pczlwdnExQ1gxZ0dUallHTVVYbkHSAWBBVV95cUxNVC1Za0xhOV9QU2pEZlBwV1U0ZnAwaGp0NnBhalhJZ0ZRbS1PdWM0amVYNmZ5d0lhdi1POEMxMFNselJ3SVJFemFLdWhXdkN2N3pFTEEyRVhwSFNRb1lNcUI?oc=5" role="button"><span class="n">1</span><span class="tag">북한</span><span class="hook">北 정권수립일 기념행사…김정은 &quot;애국심과 헌신적 기여로 전진&quot;</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xX29uQURxeEQyRUVyWjB1dW5VX1M0TlN4Y2JlOG4wN1J6U3RxVkNTX0tET2N4OHRESF90aEROdlFuQjZxMTEtRVhEY05FMF8zR21XLWZuWFJwQ0s4MElndVFPeVNqUlk?oc=5" role="button"><span class="n">2</span><span class="tag">이슈</span><span class="hook">대형견에 물려 소형견 숨지자…견주가 스쿠터로 돌진 ’복수’</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMigwFBVV95cUxNblBFSHd0NHlUT25xc3FqYXZEQ1ZlSlpUZml3V1V2ekhxYzF4YjM2UVBKdFlDYmt2SXk5UE5iYVJPRGNQbHRZMHlwVXZVajExbGg0d3pIWFpiUnhDdDJHSWJCMGd6c2RWN2dFRnJVOHRCdnJrRkI5cXBWTmFzVmNBbEE2TQ?oc=5" role="button"><span class="n">3</span><span class="tag">우주</span><span class="hook">로먼 망원경, 허블 시야 100배… &quot;외계행성 10만개 찾아라&quot;</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMibEFVX3lxTE9lWjJjNUJLVzlZWUFBdmEzb3V2RlYxVlFfQjBjMFJvMm9vTEU3WlA5RmVUTTVCQXpuMkhXRW5sekRENDZJMVdSSkFDakd3cjlyaDI3aW9TN01paVRCRllfbG51bVBWajRVZkF0d9IBckFVX3lxTFAyUWhkZXVHY1U3YnJlQXJOcmV3dUVYOUQ1WnkwZ19iOElNQVVUNFRoMW9rbWpJZ2pwdlA5eVlyalJaQjluT292dGdtdWdja243WnU3MEFOQU05eDRxMmotT3JGNGt3YlVRdFNyYWdxZHVUdw?oc=5" role="button"><span class="n">4</span><span class="tag">이슈</span><span class="hook">&quot;장인한테 조끼 발주&quot; 특혜 논란에 불신임 투표까지…삼성 노조 균열</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3BWWnhIUmNWTVA4OHVkczB5cG1GRklOZWh6X2E0UWFvcUxvcVI0dEpCdFBkenllT3FKTFhpcTFNOE9wcHRZMmFqaE1Gd3V4dlRIeWNJUi0xU09PbWd1elBZWVo2U0R6ZWNLTktWXzJ1aTYwNkFnRmpXMkEtMTRLX3F3?oc=5" role="button"><span class="n">5</span><span class="tag">이슈</span><span class="hook">[비즈톡톡] ‘역대급 흥행’ 갤럭시Z8 ‘모서리 눌림’ 논란 뭐길래</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iT2hYcVh1RkljODFySk84YU9GeEllaVZKYUl6dGVvWWtfczNES1IyQ1BWc3ljazZQcS1TQlo3NFU0dmc2VDNuX2Z5clZZS3BxWE9qVg?oc=5" role="button"><span class="n">6</span><span class="tag">사건</span><span class="hook">경찰 제복, 10년만에 바뀌는데…헌 경찰복 13만명분, 가방·새 옷 변신</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMid0FVX3lxTE5NSXlHS0tCYVh2d3JtSmo3c2xZTE5hd0dzNjZtMW9RUVdlX0h2ZjNUcjlHMFRkS2REVjJtNGNaekRCRVkxMlhkdmxKVmhaWFcxc3BQNDZ0eTRfTG9sZVh6YU9NRHl0a0llTm5ydzVzU0ZMVDNGYTB30gF3QVVfeXFMUHZHVmRNa1RpdklxTmpFM0hVdENfNEJVSUp4WnJOdlpMS3d0LWtXUHEyQUxvdEt1bXVjWUwxVjI4aGdDdEJjdVVfYkFYNXhhbHBsNEt0bkRwUW9YalkzdnYxYi1jZkUtN21Zd3poc1lnSE4xTy1HMXc?oc=5" role="button"><span class="n">7</span><span class="tag">사건</span><span class="hook">올림픽공원 개표소 경찰 폭행 60대 1심 징역형 집행유예</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5WnpsSktzTGtmYlNoZFpDbnNwWTYtSFd4NFZVZ2xjZ0dkTURKTGhQU1ZLXzRZbkpWUUJIUjBoeE1fd1o2LWRDLXlFenZhTEU?oc=5" role="button"><span class="n">8</span><span class="tag">사건</span><span class="hook">강도범이 몸싸움 중 떨어진 권총 주워 경찰관 향해 방아쇠 당겨</span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section><section class="col"><h2>뇌전구</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyTUhfWlk0a21sNk0xZ3I0aXh2aGYya21QY3k0VzhNekdBR3d2MVhJWXY2cnM4V1d6WkxEaW9sSF9xM0lMZ0ZqVHdlWl82UkE?oc=5" role="button"><span class="n">1</span><span class="tag">연예</span><span class="hook">돈스파이크, 출소 후 근황 공개…바다 앞 식당 오픈 예고 “거의 다 됐다”</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EZWNCUGtqd0JlYXhZZXJZSXB3Slh1Nk84MG5oRUxuZi0tVjVqZGYxNF91bG9GbnR6d1hGR0tjYlJsNGVTQlpSaFhadFpkbkQ3MTFtZjVBcjljZGZsVmRVbHJhMzFkQQ?oc=5" role="button"><span class="n">2</span><span class="tag">AI</span><span class="hook">논란의 AI 배우, 미 언론과 첫 화상 인터뷰…“인간의 적 아닙니다” [잇슈 SNS]</span></div><div class="row empty"><span class="n">3</span><span class="hook"></span></div><div class="row empty"><span class="n">4</span><span class="hook"></span></div><div class="row empty"><span class="n">5</span><span class="hook"></span></div><div class="row empty"><span class="n">6</span><span class="hook"></span></div><div class="row empty"><span class="n">7</span><span class="hook"></span></div><div class="row empty"><span class="n">8</span><span class="hook"></span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section></div>
+<div class="toast" id="toast">링크 복사됨</div>
+<script>
+const DATE = document.body.dataset.date;
+fetch("archive.json").then(r => r.json()).then(dates => {
+  const sel = document.getElementById("archive");
+  const latest = dates[0];
+  sel.innerHTML = dates.map(d => {
+    const selAttr = d === DATE ? " selected" : "";
+    return '<option value="'+d+'"'+selAttr+'>'+d+'</option>';
+  }).join("");
+  sel.onchange = () => {
+    const d = sel.value;
+    location.href = (d === latest) ? "index.html" : (d + ".html");
+  };
+}).catch(() => {});
+const toastEl = document.getElementById("toast");
+let toastTimer;
+function toast() {
+  toastEl.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toastEl.classList.remove("show"), 900);
+}
+document.querySelectorAll(".row[data-url]").forEach(row => {
+  row.addEventListener("click", async () => {
+    const url = row.getAttribute("data-url");
+    if (!url) return;
+    await navigator.clipboard.writeText(url);
+    row.classList.add("copied");
+    setTimeout(() => row.classList.remove("copied"), 500);
+    toast();
+  });
+});
+function linePx(el) {
+  const cs = getComputedStyle(el);
+  if (cs.lineHeight.endsWith("px")) return parseFloat(cs.lineHeight);
+  return parseFloat(cs.fontSize) * 1.25;
+}
+function fitHooks() {
+  document.querySelectorAll(".hook").forEach(el => {
+    el.style.display = "block";
+    el.style.webkitLineClamp = "unset";
+    if (el.scrollHeight <= el.clientHeight + 1) return;
+    const n = Math.max(1, Math.floor(el.clientHeight / linePx(el)));
+    el.style.display = "-webkit-box";
+    el.style.webkitBoxOrient = "vertical";
+    el.style.webkitLineClamp = String(n);
+  });
+}
+window.addEventListener("resize", fitHooks);
+requestAnimationFrame(fitHooks);
+</script>
+</body>
+</html>

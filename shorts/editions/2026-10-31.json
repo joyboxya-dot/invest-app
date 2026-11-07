@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-31",
+  "built_at": "2026-10-31 10:44",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/31 기준, 후보 6건에서 장면·갈등·기괴 과학 축으로 6건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "소아응급실 압수수색 논란…의료계 “진료 방해” vs 경찰 “적법 집행”",
+          "hook": "소아응급실 압수수색 논란…의료계 진료 방해 vs 경찰 적법 집행",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VejFRV1dGbGJVYTRrbXV6bEV6bUFlbTYwOGVQQmhvaHV3RmVXTjZwUFVzYTJTc05iT2c2Yi04NDR0OFNRU3VhU1BJck9sb3JJdW1VOUVOSVpBWGlMTWRRazVEcWxmZw?oc=5",
+          "source_date": "2026-10-30"
+        },
+        {
+          "item": "김정은의 ‘드론 협박’… 스텔스 무인기 등 30종 공개",
+          "hook": "김정은의 드론 협박… 스텔스 무인기 등 30종 공개",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX0N3UnNwLVAxb0ctZkRpMkZrdFdEQ0VfbWwxeTFhdHR5WDJseHVaN3RlMno3U3dsSnNZcHhLTEVxZ2pSR2JHS2NhdkYyNTZuaFYwNzg3LS1oR21PVWlKU2p4SWtQaUVCM2tWY0dvckFlaVVTTTRwWFd0S2w3dE5TeE9MQjhIbEpyOFYteTdRcWlSUQ?oc=5",
+          "source_date": "2026-10-30"
+        },
+        {
+          "item": "\"소문 안 좋았다\" 차예련, 새 증언 터졌다..학폭 의혹 새국면 [Oh!쎈 이슈]",
+          "hook": "소문 안 좋았다 차예련, 새 증언 터졌다..학폭 의혹 새국면",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUXJUcnVuZG5Cb2hKbDBWaERkelFnZHpIYUZLanhsNXdzT1E5TTFIVDc0UTNPVGZpTmI2UGdXNkZ3bDQya1J4SXJJMmpUYjRfaVZsWVJZNVZ6Rk9CQWM5S3RoQlYzQjFRSkdwNmRTaHJDN2lzREhOazUwUGJsSmZXTlJlbFN3YTNrWC1PSXBScw?oc=5",
+          "source_date": "2026-10-31"
+        },
+        {
+          "item": "\"궁주 아들이 학폭?\" 분노한 시민‥당국 총동원한 대만 '참교육'",
+          "hook": "궁주 아들이 학폭? 분노한 시민‥당국 총동원한 대만 참교육",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40ZXlhUXJZQUU1bkZFVC1leS0wTFR1ZUdhMEQyRHBfVWRfelVwYmVtUWZmN1p0aGNCbGNxbEt5bVNUeHp2Zk4zY21xS0hGSEhQdmpGQ3hmSkdUeE50b1hqcl9NbjF1Nk0tVk9JbVIwa2hhbWRp0gF0QVVfeXFMTlRlN05rRXA1cGZrY003OHBpNTUycFdjQW5lMGMtakZqelcxQW16Y2lITUp6ZzFSV1QxSGtqSWNtbld3VTN5Z3hGZmNYS1NlaXRxa2tMMzlZTV9IR2NSdjJXc09Wa2RjMjZvYndUSmZLVjFZLU8?oc=5",
+          "source_date": "2026-10-30"
+        },
+        {
+          "item": "고개 숙인 '헬로키티'…산리오, '역사 왜곡 논란' 日드라마와 협업 중단[이런일이]",
+          "hook": "고개 숙인 헬로키티…산리오, 역사 왜곡 논란 日드라마와 협업 중단",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "노컷뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BSFlDMUR4RTBNdEJHWkNmdXpfVEtLX05UbElHdVRMMlIyd2JRWUdIcjNpUm5RYjhhd0xmVkpkZm1tUWozRmxHVjJKemVGSGZHMUE?oc=5",
+          "source_date": "2026-10-30"
+        },
+        {
+          "item": "\"中, 조만간 우주 레이저·핵무기 실전 배치\"… 스타워즈 현실화되나",
+          "hook": "中, 조만간 우주 레이저·핵무기 실전 배치… 스타워즈 현실화되나",
+          "topic": "우주",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObU5RbUI0UFZpZXMyOGNFZ1ZqTzlWUUkxQkFpdHlKWW5CX09tc1VkY19Ia0tNeVI2d0p5cl9scEdQXy1RYlE5djExT0UtZ2FPQ1VxU1B6ZlJFZEQ4RDlGNmhJT09jU3Y4QTFOUTR1M21vc01fYUlKcUk4WGE3X2Vrd0t1RHc?oc=5",
+          "source_date": "2026-10-30"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": [
+          2,
+          6
+        ]
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    }
+  ]
+}

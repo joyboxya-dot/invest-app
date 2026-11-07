@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-04",
+  "built_at": "2026-10-04 10:55",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/04 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프, 김정은과 다시 마주 앉나…美 \"대화 자체는 양보 아냐\"",
+          "hook": "트럼프, 김정은과 다시 마주 앉나…美 대화 자체는 양보 아냐",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1ZDNGcnNHOVFUWEFubk9sNGRhVkJZUVVrNVNrdlRaaWVZcHJsdE9jWTRGdE1XT0ZYV1Z0QW5mOGFrSW5fMURURE16WUx5N0dTUjgtdGdMSzJIZw?oc=5",
+          "source_date": "2026-10-03"
+        },
+        {
+          "item": "’인권 논란’ 中신장에 스타벅스 첫 매장…美의원 “폐점하라“",
+          "hook": "인권 논란 中신장에 스타벅스 첫 매장…美의원 폐점하라",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwamVISVBBRzRkbTVhU20xdzdWTFVxWmtUTEhhU1NPdk5YSEJaUTRxTHFxRTBlaXNWRWM1UGlEQkNsazNpZmxrb3dmMEE4bGFrOEJVSFUzdFcyMzJNTGNXRHlFZk5kbE0?oc=5",
+          "source_date": "2026-10-03"
+        },
+        {
+          "item": "김여정 “우리 AI 미사일 타격 못 피해”…한·일 탐지 한계 주장",
+          "hook": "김여정 우리 AI 미사일 타격 못 피해…한·일 탐지 한계 주장",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9la0ZraWlpUG5kX3M3NklaY09YTC04RzZfQVpDRm8wLTM0OFVzSHRyZXhmc0tveGQtcm40alhwb2cxX0xwZjVQNWh0al9IN1JVVHpGMVoyZjlGbWRVUzN1VHVkaTZlaU41?oc=5",
+          "source_date": "2026-10-03"
+        },
+        {
+          "item": "韓·우크라, 北포로 진실공방... 800조 재건사업에 불똥 튈까",
+          "hook": "韓·우크라, 北포로 진실공방... 800조 재건사업에 불똥 튈까",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRHY0SVdLMHhYeVpNN3FzeGVvTmZxd05Ra29fQmpidDdzdVZKU1hvY0JPV0pMVDdZQUtsU0hmcm5iUVJIU2dIZWZra21rR21RTVhMRkZObG5YZzZVcHBRa1VpTTlFYmxoU2FfakswUnp2ZkRxRXZNeGxpWm5aTXRlcVpfdHNVVDgyMkE?oc=5",
+          "source_date": "2026-10-03"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    }
+  ]
+}

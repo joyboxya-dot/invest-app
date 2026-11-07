@@ -1,0 +1,120 @@
+{
+  "date": "2026-09-26",
+  "built_at": "2026-09-26 09:48",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/26 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "전반 15분 선제골 넣고 방심했나…'이민성호' 베트남 상대로 대참사 위기→\"전반 버린 것 아니다\" 해명에도 '경기력 논란'",
+          "hook": "전반 15분 선제골 넣고 방심했나…이민성호 베트남 상대로 대참사 위기→전반 버린 것 아니다 해명에도 경기력 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcGxhbHdOb2FDRm9qLWlRdV9udVZqUU1ZN2Y4OTRMNHZFcVlaYkpjeWRzQ2hOcFJNSUdSOTFpSXlkSEJjYzd5TkdxX0pQYjNMWXJ2YXQ0SEhNQU5PUVAzeHVpYzBER1gzeTJxZWlSX0pZMmVIazBEd095bl9fcEE4eXB6NA?oc=5",
+          "source_date": "2026-09-25"
+        },
+        {
+          "item": "[미중 정상회담] 시진핑 취재 거부했나 차단했나…트럼프-CNN 진실게임",
+          "hook": "시진핑 취재 거부했나 차단했나…트럼프-CNN 진실게임",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Q0lRWW4yY1V1MFBLREZpN0lJeW9YMS1kU1V5STIxMFFXSjkwOXhDbUJTelhzQTd2SUQ5SWpGaEdUajF3RkdRMWNPNkppenJhY1RLT1l1emNOdFXSAWBBVV95cUxOTHRQZUdGelZoQXQxUHAwTkY1S1ExY1NsdEhDX05CTVkySkQ0UkJOSjZjVmg4bUVYSW1vcjNnSkdPcjM3TmlKYWoxYWpUX2FEU25RUFphdUI5YkpwbC1NN00?oc=5",
+          "source_date": "2026-09-25"
+        },
+        {
+          "item": "할머니가 준 추석 용돈 1000만원…세금 63만원 나온 까닭 [숫자 뒤의 진실]",
+          "hook": "할머니가 준 추석 용돈 1000만원…세금 63만원 나온 까닭",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "v.daum.net",
+          "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45RDJfOGpnUm1sQ25zX29kSDU5SVF4RkY3NHRUdWVJZWJBZ3BJRWU2RUxSbWdNUXFCWFBGODRZTnNISS1DRkRaRTBMcTYzdWs?oc=5",
+          "source_date": "2026-09-25"
+        },
+        {
+          "item": "서랜던·아인빈더 수갑 채운 뉴욕경찰…네타냐후 규탄 시위대 30여명 체포",
+          "hook": "서랜던·아인빈더 수갑 채운 뉴욕경찰…네타냐후 규탄 시위대 30여명 체포",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXNHeHlSdUNQVHNJZV9oMFp4N0FjdHh5VndfbkRTZEhHWUM1NkFyY002aUpuR1RGNHhSMVNpQnpweVVkdDM0ZDNULWhydm1ELWNyWVB4dm9tM2NJQXVodW1EakhLVGNnWUdEemtab25CVE1pTU1HOFA3UzhtUUdxTlBn?oc=5",
+          "source_date": "2026-09-25"
+        },
+        {
+          "item": "양주 빌라서 방화 추정 불‥1명 사망·경찰 등 6명 병원이송",
+          "hook": "양주 빌라서 방화 추정 불‥1명 사망·경찰 등 6명 병원이송",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Jdnk1enNZYlVKZ2lNenc2R0tXdzlVTkExelB5Mkc1T1phNTNnbDBIak5lRXpTVVU2NHo2VEdTRUp0ODZNT1dxOENBTDdYdXZZakhmZ3k4SnRWMmItbnh0N0RReDZ0WXV3OHVlenZOVUc4ekYyUGR30gF3QVVfeXFMTW1hQmxwaGwzdWtlMEdEbVNJVzNTcUFNTnI3OTZDc1FZRTI5Z3ltTVpIR3RFbE5JbzM1bXJZX2pIeHl1a3phQ0VjYms4YXJZR3JTRUtNZmgyUFNDRjZTNTlrTTNMN05mYmpyNENBLUNjaUtMYXZuSW8?oc=5",
+          "source_date": "2026-09-25"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "'이승기 처형' 이유비, AI와 사랑 빠진 근황..최종 커플 탄생 \"죽을 때까지 사랑하고파\" [기이안 연애]",
+              "hook": "이승기 처형 이유비, AI와 사랑 빠진 근황..최종 커플 탄생 죽을 때까지 사랑하고파",
+              "topic": "AI",
+              "summary": "'이승기 처형' 이유비, AI와 사랑 빠진 근황..최종 커플 탄생 \"죽을 때까지 사랑하고파\" [기이안 연애] '이승기 처형' 이유비, AI와 사랑 빠진 근황..최종 커플 탄생 \"죽을 때까지 사랑하고파\" [기이안 연애]    starnewskorea.com    이유비, 결국 AI 남친 사훈과 최종 커플…“영구 삭제 못해” (기이안 연애)    스포츠동아    0%대 시청률까지 추락, 결국 막 내린다…기안84 \"이상한 감정이 들어\" ('기이안연애')    v.daum.net    기안84♥나희 최커 탄생→장도연 이별 선택 (기이안 연애)    iMBC 연예    'AI 남친 선택' 이유비, 사랑이 준 상처",
+              "openings": [
+                "'이승기 처형' 이유비, AI와 사랑 빠진 근황..최종 커플 탄생 \"죽을 때까지 사랑하고파\" [기이안 연애]."
+              ],
+              "source_name": "starnewskorea.com",
+              "source_date": "2026-09-25",
+              "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRcDVfVTRra25FUDVCeXRXVTk2eXFiSmFvbndfTGZDUVNHOWF6dmxReDJwRURHY2x2MFRiVGI4NUs0dEhSLS1pdjdSYkZjTDVuYWpfdzhuazJNRGhZMXJCVVlvYkNyazJoVUk5dFpIdVdnQ3c?oc=5",
+              "priority": "A"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    }
+  ]
+}

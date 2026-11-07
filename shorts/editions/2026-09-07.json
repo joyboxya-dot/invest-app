@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-07",
+  "built_at": "2026-09-07 09:14",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/07 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "경기도 ’재정 비상’ 선언한 추미애…12억 전세 관사 논란",
+          "hook": "경기도 재정 비상 선언한 추미애…12억 전세 관사 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XUElBeTVfREN2Nlh5WXMzZXAyTl84aVozTmVnNnhjVno1U2MxV3ROZ3gyN3p2LWE5MV9MM0Q1VEdETTBlSXhNY2xNSXh2OGs5ZzZZMlN1bE1WZkhuWlpXeEs5Y1A3UWs?oc=5",
+          "source_date": "2026-09-06"
+        },
+        {
+          "item": "몰랐나, 눈감았나… 靑 인사 검증 또 논란",
+          "hook": "몰랐나, 눈감았나… 靑 인사 검증 또 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTWZnbXhqVEp4UzFxVzJoR3BmbHl0ZVVSX25sdEMyNmJiSXZjbkduVFNGTG4zcjFmZ0RIX1ZYb2M4eFlmWGpDOXZsTVlCZlpHNXVMczhxdUNuUzE3bUFyTVJCeHpLTzZUMHhyVVU0S1NBOFI3VjB5V0NhcnBJWmZYX3UtR3ZjZw?oc=5",
+          "source_date": "2026-09-06"
+        },
+        {
+          "item": "[단독] 경찰·천안시, ‘교회 학대 신고 11살’ 사망 전 이틀간 안전확인 안 해",
+          "hook": "경찰·천안시, 교회 학대 신고 11살 사망 전 이틀간 안전확인 안 해",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mMjdGTGt3VUN0c2lpMFpIN0JDYVV5RFdUSDVESF9jTlpfZHF1WkptaFVRVGRfYmtJczRJT0FSM1JLMURNRlF6TXBUV29XdHdGdC1pYl9pZkpsS2c1eEhLT1dBblBNdVpB?oc=5",
+          "source_date": "2026-09-06"
+        },
+        {
+          "item": "파주시 운정4동 실버경찰대, 건강한 노후를 위한 감염병 예방 교육 실시",
+          "hook": "파주시 운정4동 실버경찰대, 건강한 노후를 위한 감염병 예방 교육 실시",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "서프라이즈뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvWXZYSldkektQb2ZOSWZQcFQ1NjJYMTEyVkxzQ3RORmkxSE1ESUhJa18zN3Q3VUctMUlZWVlldmUybTR1M2VfZGF4SENFa3V5dElteVhka29pWVNsOERsUWZ2N3IzUHhmVmk5Snl3?oc=5",
+          "source_date": "2026-09-06"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "\"박위야 고맙다\" 이수지, 은근슬쩍 유튜브 복귀…논란된 영상은 '삭제'",
+              "hook": "박위야 고맙다 이수지, 은근슬쩍 유튜브 복귀…논란된 영상은 삭제",
+              "topic": "연예",
+              "summary": "\"박위야 고맙다\" 이수지, 은근슬쩍 유튜브 복귀…논란된 영상은 '삭제' \"박위야 고맙다\" 이수지, 은근슬쩍 유튜브 복귀…논란된 영상은 '삭제'    네이트",
+              "openings": [
+                "\"박위야 고맙다\" 이수지, 은근슬쩍 유튜브 복귀…논란된 영상은 '삭제'."
+              ],
+              "source_name": "네이트",
+              "source_date": "2026-09-06",
+              "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEaUE5VzRTalhfbzNGVlBSUFdXbmFPb0loajQ4MldhZi1DNWJ3TlJtUUNPbE5BbW5kZHlfREJUU3lDRk11bzdudXNYWW52SXViYWpnOXIyTS1DOGFtR2NNVjBiYjRPYTRoZ2kzclcwN0dmY08tU3Zz?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "[강일홍의 클로즈업] 박위 논란, '배려의 품격'을 묻다",
+              "hook": "박위 논란, 배려의 품격을 묻다",
+              "topic": "연예",
+              "summary": "[강일홍의 클로즈업] 박위 논란, '배려의 품격'을 묻다 [강일홍의 클로즈업] 박위 논란, '배려의 품격'을 묻다    네이트",
+              "openings": [
+                "[강일홍의 클로즈업] 박위 논란, '배려의 품격'을 묻다."
+              ],
+              "source_name": "네이트",
+              "source_date": "2026-09-06",
+              "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EZDZNcUY0bWdEUXBfaFBkc1lXREZIQWJuLWY2dERIbjlOdEk4eExDWlNlZ1ptUVBpazJySHRiUjBBREY3VlBTWkU1b283MWtiYUNMOUM3M0hiMERBRFB5eHR1Wno5SnpsRWduS2ZzQVZ3dG5tWEJWMQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    }
+  ]
+}

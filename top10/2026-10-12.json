@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-12",
+  "asof": "2026-10-12",
+  "built_at": "2026-10-14 01:28",
+  "pinned_id": "mom_only_flat20_buynew_sr_t10_lb15_vix25nb_ss20_stoptopup25_rate_pause_b_sd7_h1neg3_secqqq5_lagm1n42p20_top5_penult_sp500",
+  "universe_n": 500,
+  "pool_n": 500,
+  "lookback_months": 3,
+  "min_lookback_ret": 0.15,
+  "top_n": 10,
+  "rows": [
+    {
+      "rank": 1,
+      "symbol": "MRNA",
+      "name": "Moderna",
+      "mom_ret": 2.169335672531556,
+      "day_ret": -0.0500444200303819,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 2,
+      "symbol": "ACN",
+      "name": "Accenture",
+      "mom_ret": 0.5968341187255373,
+      "day_ret": 0.027791053412623112,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 3,
+      "symbol": "PTC",
+      "name": "PTC Inc.",
+      "mom_ret": 0.5867275814221911,
+      "day_ret": -0.00030855006189445255,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 4,
+      "symbol": "PLTR",
+      "name": "Palantir Technologies",
+      "mom_ret": 0.5629673802877717,
+      "day_ret": -0.00023919182505549585,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 5,
+      "symbol": "VEEV",
+      "name": "Veeva Systems",
+      "mom_ret": 0.5321871236964755,
+      "day_ret": -0.0009455265413165215,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 6,
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "mom_ret": 0.5163688367421062,
+      "day_ret": 0.008307141923471928,
+      "in_holdings": true,
+      "live_slot": false
+    },
+    {
+      "rank": 7,
+      "symbol": "ZBRA",
+      "name": "Zebra Technologies",
+      "mom_ret": 0.4921380068996879,
+      "day_ret": 0.002427817705429325,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 8,
+      "symbol": "IT",
+      "name": "Gartner",
+      "mom_ret": 0.4597277906416586,
+      "day_ret": 0.015432970448478356,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 9,
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "mom_ret": 0.4520286286542863,
+      "day_ret": 0.005187319884726316,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 10,
+      "symbol": "SMCI",
+      "name": "Supermicro",
+      "mom_ret": 0.4459312872989274,
+      "day_ret": -0.04491163499052431,
+      "in_holdings": false,
+      "live_slot": false
+    }
+  ],
+  "note": "핀 규칙 동일: 매매시점 스냅샷500(시총패널 없음) · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5)"
+}
