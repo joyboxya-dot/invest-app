@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-25",
+  "built_at": "2026-10-25 09:28",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/25 기준, 후보 9건에서 장면·갈등·기괴 과학 축으로 9건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "미 전문가 “북한, 김정은 집권 이후 최대 호황…지속 성장은 불투명”",
+          "hook": "미 전문가 북한, 김정은 집권 이후 최대 호황…지속 성장은 불투명",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mNDNIeVo5V2tEc1ZtOWNPRjZ4aFhRTldtMXpYc3FVMVBFdTJVTVl2LV9lM0xlY0JFWm1PYXNHcUFaSU96eUJISUl5dUYwd1VkRk1TSC1QamZNSTR6VGpQX3NoX2U2bTc2?oc=5",
+          "source_date": "2026-10-24"
+        },
+        {
+          "item": "북 김정은, ‘사망설’ 일축하려는 듯…인민군 중대장대회 지도",
+          "hook": "북 김정은, 사망설 일축하려는 듯…인민군 중대장대회 지도",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zUjNFTU9hM2o2SUl6TDN2Y3VRVkFhWXlmaGRRdF9HRHNmcHY0MGVyaVVrWWkxNFI4UGhfcDFYWUY5VUZybi0yREM2ZjlJd3o0LUJsekVObjJmc1k3b19yQktUUFNwUzJS?oc=5",
+          "source_date": "2026-10-24"
+        },
+        {
+          "item": "김정은, 단둥서 중국 권력서열 4위 만나…“신압록강대교까지 배웅 받아”",
+          "hook": "김정은, 단둥서 중국 권력서열 4위 만나…신압록강대교까지 배웅 받아",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rT0tYVDZwX2hwWTYzbkJRYks5eDdVSXZoZjVOOURwWmxITk9ZYnNuWGlfQ3h5eWRmZG5HY193emZxWEFLeGtWVDgzd1V0dWdQdmJPZmZILUlyUnlTU0pHUVd5SFhtZGhY?oc=5",
+          "source_date": "2026-10-24"
+        },
+        {
+          "item": "김정은 '당일치기 방중' 끝났다…'中 서열 4위' 왕후닝과 회담",
+          "hook": "김정은 당일치기 방중 끝났다…中 서열 4위 왕후닝과 회담",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15cXNjZG9TMGJkQjRFem83ZG40SVV5dzZWUFIzemFIU0lrMUstczVhM3NLTThXOFdaclhPOTJoMG1rNWdlbGNsVHpxaGZxSVpkMkEzUHluYUpLUQ?oc=5",
+          "source_date": "2026-10-24"
+        },
+        {
+          "item": "너도나도 쓰더니…\"회사에선 벗으세요\" 기업들 난리 난 이유 [김대영의 노무스쿨]",
+          "hook": "너도나도 쓰더니…회사에선 벗으세요 기업들 난리 난 이유",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIWEVmNFJLT0xPNHIybnpXNkx0RS1JSUVpS0FZOUdORVkxQnlESjBqSlJLWEQ0U3JLbDByekJYUVVtLXFWNXQwTlZraFFXVEZaR1pYTU5qaHNZdw?oc=5",
+          "source_date": "2026-10-24"
+        },
+        {
+          "item": "한성숙 총리 “이태원 참사, 정부 대표해 깊이 사과…진상 명백히 밝혀야”",
+          "hook": "한성숙 총리 이태원 참사, 정부 대표해 깊이 사과…진상 명백히 밝혀야",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yV0JZSEsteV81Z3p4VlBMUmFJTFVxdmp6LXh1cVM4WU9xeF8ycVdHWkZtT1plODJsdmxJTzRRSmZlOGxxaVphWUlmbzdnLUFrdHBfeQ?oc=5",
+          "source_date": "2026-10-24"
+        },
+        {
+          "item": "‘동물보호정책에 수의학적 근거 반영돼야’ 대수 동물보호·복지위원회 출범",
+          "hook": "동물보호정책에 수의학적 근거 반영돼야 대수 동물보호·복지위원회 출범",
+          "topic": "과학",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "데일리벳",
+          "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XcTM1dl9TM1ZUeDdxZFFDMjhjZ0lfTEZjZWdLWGxFeVFYUjFxenIwZF9xZzJqMXY1TVJDWEJsS0x2bWlVelVXbGRaY1BiZjlJQVVuSFEyS0VtTnZIdHB3?oc=5",
+          "source_date": "2026-10-24"
+        },
+        {
+          "item": "이태원 참사 희생자들을 위한 묵념",
+          "hook": "이태원 참사 희생자들을 위한 묵념",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "뉴스핌",
+          "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41cjNNZnBrcFZCOWlNZGNIZmJSSHdxQkYyNUsxUHMxTTRYNVZxc0d3TTNCcm5xcEVTd2dFZU1Bby1zazNDMjZhNjRBZnd5dWR4akZVSnpaelE5ZEd3?oc=5",
+          "source_date": "2026-10-24"
+        },
+        {
+          "item": "김종철 경찰청장 대행 \"고속도로 사고수습 중 다친 경찰관 지원 총력\"",
+          "hook": "김종철 경찰청장 대행 고속도로 사고수습 중 다친 경찰관 지원 총력",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92M04zZDNLSHJmM05hRmdsYlNxM2pMU2F2c2piYXNMSG93eVQ5VV9Lbm5JcnUwTU9mUHlaUm1TajRWOElRYTdsLXpIczBkanlHXzYxSHhMaVVyYzJua25zaHRRaWxuQUVESnRCeXdRQm5nRUhjcWxj0gF3QVVfeXFMTXA5N2tycVFOVnpCaHdWRXlYZnFZZFJXenhnWU9UMjl6UFBkOEsxWUhlRmU3V24tMnBjM2I5UzhoMHpJU014R0Ewekd5Mk9wSnZGQVRpekw3WTRrem5zX0JxWEozNHVlTThLVVJkQVMtZ0pKa3VaVXc?oc=5",
+          "source_date": "2026-10-24"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 9
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "85세 김혜자, 건강 우려 속 밝은 근황…“나 지금이 제일 예쁘다”",
+              "hook": "85세 김혜자, 건강 우려 속 밝은 근황…나 지금이 제일 예쁘다",
+              "topic": "연예",
+              "summary": "85세 김혜자, 건강 우려 속 밝은 근황…“나 지금이 제일 예쁘다” 85세 김혜자, 건강 우려 속 밝은 근황…“나 지금이 제일 예쁘다”    동아일보    \"눈이 가장 예뻐\"…84세 배우 김혜자, 건강이상설 불식 - 머니투데이    머니투데이    \"여전히 찬란한 이름, 김혜자\"...9년 만에 스크린으로    YTN    '여전히 찬란하게' 문성현, 순애보부터 강인함까지…다채로운 얼굴    더팩트    \"무서워서\" 6번 제안 끝에 승낙… 85세 김혜자는 왜 마음을 돌렸을까    한국일보",
+              "openings": [
+                "85세 김혜자, 건강 우려 속 밝은 근황…“나 지금이 제일 예쁘다”."
+              ],
+              "source_name": "동아일보",
+              "source_date": "2026-10-24",
+              "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pQjBSNGFqZlZaSUZqWE5RSnliT2xmUGtWRDlEM2ZYNFRFM2NwcDVmVDZMUGlBTnNrNEpTOXVyLVQ1eUdqb0dVcUsyUWhOalhQTEw2dkFvblc0ZUNUT2pIcXhtaWtnYWtfX1dBZzA4Mnl3QlVfZkHSAWZBVV95cUxOZGlpTTRKZUQ2VU1xWURRaFhKcktCUWJuaTBqN1hHZExYajJHLWtJWmgzeWtCaVcxNmpkcHJuQkdTSkF6d1lzT0ZlYm11NEJrOXVEZXNfQTVuUzQzR0EwV2pDUzRkZWc?oc=5",
+              "priority": "A"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 10
+    }
+  ]
+}

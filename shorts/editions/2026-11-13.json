@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-13",
+  "built_at": "2026-11-13 11:51",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/13 기준, 후보 6건에서 장면·갈등·기괴 과학 축으로 6건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "경찰 '세브란스 정신과 칼부림' 50대 여성 구속 송치‥임세원법 적용",
+          "hook": "경찰 세브란스 정신과 칼부림 50대 여성 구속 송치‥임세원법 적용",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VLU1RbWtIRmV6MmhMQ2xtenczdTVGaDdSYjNaaUdWWWNIMTBXaFhnNVpQeXNVcGRER25uUFl0Njh5MEx5d3EtZjZiRFRWY3hNVE82aThoMDVKRWlvVmJfOUpzUDRFbXJKVUppRE5vRVJsZ1J3MTVv0gF3QVVfeXFMT05naFJBU1dOMDRfY0FYcFFEQzhpRHR5anVhNi1TZl9HOXRNYnp5eExsWXNzUzJ2LUpVYnpRd2c4RGlVMHU1MjIyZWZBRVlycklkQTd1SVZ0d3U2RDRKNGtObDBKbTZnNDhMb2dBanBULUVWVUJIc0U?oc=5",
+          "source_date": "2026-11-12"
+        },
+        {
+          "item": "인도네시아서 6m 비단뱀 올라탄 아이들…’미끄럼틀 놀이’ 논란",
+          "hook": "인도네시아서 6m 비단뱀 올라탄 아이들…미끄럼틀 놀이 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tMHBTM1FtbUdCbG5Ea1o3WlRMX1JkODBGN3VyZTFLVlpIR0lvTjVHY2drYWxzSUVneEVNdHoxR1pVeDlXUGJoRWYyeVB0U2YwOTcydEUtQlgyV0tvRFZGVjVUdmlJRGM?oc=5",
+          "source_date": "2026-11-12"
+        },
+        {
+          "item": "반포현대 2.2억, 은마 4.6억…‘재초환 부담금’ 통지에 논란 재점화",
+          "hook": "반포현대 2.2억, 은마 4.6억…재초환 부담금 통지에 논란 재점화",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DeTc5UFNYTnJZRjhBb2tjZjU4b2RyeE9vb0dfcEtMd1h0cTZYdUJWUmFhZllFMUtobTh6UXp2WVh3VzVPR3JsV3FneExRRGZLSWtSdjJGTmxWMjVCX1htTXcwQlFwS3I3?oc=5",
+          "source_date": "2026-11-12"
+        },
+        {
+          "item": "'유조선 무덤' 된 호르무즈…기름 범벅 환경재앙 현실화",
+          "hook": "유조선 무덤 된 호르무즈…기름 범벅 환경재앙 현실화",
+          "topic": "전쟁",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01cmVZU01vcU9Ba2pjam5KOVlmYWhxc1huNmtzaDRweDhYcURNUkNKenRLeDlyMHV3UEcyWnFhZWF4UkRRM195eEhHTjVrTGZoZlhOdkxIZDZsdEHSAWBBVV95cUxOd2NBQjBVR1FYQnJNWFY0NG5QRVAzelFRYzB0c0FPVi0ycjV1MWFwWUV3eHA4RG9PLVBZMW5uaGwzNFB3VFoteXR2U3Y0ZEVqV1ppalZoeTc2bHFpVkcyako?oc=5",
+          "source_date": "2026-11-12"
+        },
+        {
+          "item": "배우 김승우, 절도 혐의로 고소당해…강남경찰서가 수사",
+          "hook": "배우 김승우, 절도 혐의로 고소당해…강남경찰서가 수사",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FOTMwcUd2aVhldWdFUVVTajJUeklFd19YX1VOSlNlb05vV2Q4d2ZQSmNKWTIyejgtQkJBd2RlM3h5eUhDR0xCaV9PWW45UXRxYWR3OTdVdHZSOE9Ga2s5enNIbHZ2Zw?oc=5",
+          "source_date": "2026-11-13"
+        },
+        {
+          "item": "서울 양천구 빌라 80대 남편이 아내 살해 후 자수‥경찰 체포",
+          "hook": "서울 양천구 빌라 80대 남편이 아내 살해 후 자수‥경찰 체포",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBta2NnS2k1NXNxN1F2MUF0bHQ2TFp2RlE2dDJya2N4RExQdmNQQjRHME4tbk4zVzMxdUNLNW94YzlkN0VGWEpRcFh0bnVBd1BKTWlyTzhyb3RBV3NmTlFzUlFhV2VuNkJ0N1JQVzJFUVJCUXpZcndJ0gF3QVVfeXFMTmNiTEZtZUlteUpnYVg4d0U1V2R2SnF2T2E3VUlaWXhRdDZWQTR4Z25weXZ1aDNsdVlIVlNZLWRqVTNzTzFqVXBpREZHRXFkQnVBV1NRaWt3cGhZWkpRcEYtNnl2WTRZVk9FSnJKQk9TbmxKWTBJRWM?oc=5",
+          "source_date": "2026-11-13"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "헬기 타고 행사 누볐던 개그맨 최성훈, 20년 공백 깬 근황",
+              "hook": "헬기 타고 행사 누볐던 개그맨 최성훈, 20년 공백 깬 근황",
+              "topic": "연예",
+              "summary": "헬기 타고 행사 누볐던 개그맨 최성훈, 20년 공백 깬 근황 헬기 타고 행사 누볐던 개그맨 최성훈, 20년 공백 깬 근황    국제뉴스    20년 잠적 코미디언 최성훈 \"뇌경색 쓰러져…당뇨·천식까지\"    뉴시스    '타잔송' 최성훈, 26년 만 근황…\"10년 전 뇌경색, 사업 실패\" - 머니투데이    머니투데이    개그맨 최성훈, 잘나가다 잠적한 이유 \"노래방 사업 때문..자연스럽게 못 한 것\" [특종세상] [별별TV]    스타뉴스    “돈 무서운 줄 몰랐다”던 ‘타잔송’ 최성훈, 26년 만에 다시 선다    매일경제",
+              "openings": [
+                "헬기 타고 행사 누볐던 개그맨 최성훈, 20년 공백 깬 근황."
+              ],
+              "source_name": "국제뉴스",
+              "source_date": "2026-11-12",
+              "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84N3VnTFRRTkg2bWY5Q1htcDhieVVHOHRMNXFPM0RRT2tudDBubEw5aVN1QUhMbjdoTGtDdmdHSUhOSU1uWFZLYlBPdHZLd3pBQUpLSXREaFc4QW5TWDc3U2YweUR4ZUp6MWJJTDZB?oc=5",
+              "priority": "A"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    }
+  ]
+}

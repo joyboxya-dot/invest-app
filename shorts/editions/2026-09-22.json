@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-22",
+  "built_at": "2026-09-22 10:03",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/22 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "이혼 소송 중 아내 살해한 전직 경찰관 구속기소",
+          "hook": "이혼 소송 중 아내 살해한 전직 경찰관 구속기소",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TV2lLRFZzRHJKNml2aGZ3ZjRRaUhBaFFTV19adGZBUkUyb1pDYU5PalF2UzhfNWU5Y3RTWm1RN2w4NXZMNmlKX1JWa2JtNVBPVzYxeXhJSHdxNk0?oc=5",
+          "source_date": "2026-09-21"
+        },
+        {
+          "item": "“김정은 보고 웃어라”…남북 경기에 나타난 ‘짝퉁 김정은’ [아시안게임]",
+          "hook": "김정은 보고 웃어라…남북 경기에 나타난 짝퉁 김정은",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "경기일보",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01ZkxDZVUyUHRmY0VrNzMzS00tYi1UaE1EOV9SQ0VhdkFHQkUwVE5uUnBFMHlPUkQyY2VFQlJsYkdqM2VkWlBjejg1aGRHTHk4anAteW9Ddm5fSHM?oc=5",
+          "source_date": "2026-09-22"
+        },
+        {
+          "item": "“훈련만으로 해결할 수 없다” 마음을 치료하는 반려동물 행동의학",
+          "hook": "훈련만으로 해결할 수 없다 마음을 치료하는 반려동물 행동의학",
+          "topic": "과학",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "데일리벳",
+          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGZDBsbDVJUGI1ZmdrWlVJN1RPT0RFLXpvQzhhRXRrLVhNX1E5SEJWTDBUMG50Z3NwTjFJNVNaRlJJTjBUWkRtNmRudmRfcUVwX2x2RXI5cGg?oc=5",
+          "source_date": "2026-09-21"
+        },
+        {
+          "item": "범여권서 ‘김지용 카드’ 부적격 논란…내부 갈등 분수령 될까",
+          "hook": "범여권서 김지용 카드 부적격 논란…내부 갈등 분수령 될까",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qQVB0dVY3aTJicU4zbVk2WWhkZkJMUDZEUlRJZ1dJZzBHRGtON2c3dXpuaU1TY0otd2toQ1ptdzRnbXJtUk9PVkRnRDRyNUpJMEozQ19sSlQwSFBvWTViN3AxVWJFbEF2NjZ3S0w2SG4tOGxU?oc=5",
+          "source_date": "2026-09-21"
+        },
+        {
+          "item": "한동훈 ‘검찰 캐비닛 유출’ 경찰 수사 착수…유출 경로 밝힐 수 있을까",
+          "hook": "한동훈 검찰 캐비닛 유출 경찰 수사 착수…유출 경로 밝힐 수 있을까",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ma1FRVlFOcGQzY1F2LVVhT3FZNEtoUDFmQnl4czRxRXdSRlhpY0lSRkQ4RmRWWThZOXota2R2cG85T05sNjRZckMwRjlPVFBISS1RaUFoY0tQQdIBX0FVX3lxTE5CRllxZGd1aWdTRE1pbFFQY3FEOXRFeXd2Skdfc3BMemp1d0NRTlVSMnNGRFRfODRwZmhDRHdPeDg3UFRhY1BWV0tJQ3JXVHo5ZW9FYXFIVFpTMFlOb0Rr?oc=5",
+          "source_date": "2026-09-21"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "이하이, 도끼랑 다정한 어깨동무…행복한 연애 근황",
+              "hook": "이하이, 도끼랑 다정한 어깨동무…행복한 연애 근황",
+              "topic": "연예",
+              "summary": "이하이, 도끼랑 다정한 어깨동무…행복한 연애 근황 이하이, 도끼랑 다정한 어깨동무…행복한 연애 근황    조선일보   Google 뉴스에서 헤드라인 및 의견 더보기",
+              "openings": [
+                "이하이, 도끼랑 다정한 어깨동무…행복한 연애 근황."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-09-21",
+              "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjFVTU05T2hYWHNwNUpPMlNjLUU4aHRSanRDWW5IS0VMMXlGMW10dy15VDNwT2V5OUdjaGR6OHUtOG1ab2lJT0hWbUJ1blJMOVpyT3JHSEsyelVwOGV0Z2JHcm50MmdhU09iNTdNWDYzeFVCVE03VUJFMHA3QkVDRmxn?oc=5",
+              "priority": "A"
+            },
+            {
+              "item": "이기찬, 창고형 약국서 ‘감기’ 부르는 근황 [포착]",
+              "hook": "이기찬, 창고형 약국서 감기 부르는 근황",
+              "topic": "연예",
+              "summary": "이기찬, 창고형 약국서 ‘감기’ 부르는 근황 [포착] 이기찬, 창고형 약국서 ‘감기’ 부르는 근황 [포착]    서울신문    이기찬, 창고형 약국 한복판서 ‘감기’ 열창…독특 버스킹에 “이게 맞나요”    조선일보    창고형 약국에서 '감기' 부르는 이기찬 실존...아예 '약국 버스킹' 스케쥴 떴다    v.daum.net    24년 전 자신의 노래를 다시 부른 이기찬…‘감기(2026)’    jnmnews.com    “감기 조심하세요”...가수 이기찬, 24년 만의 리메이크 ‘감기’ 들고 약국 출격    sportsseoul.com",
+              "openings": [
+                "이기찬, 창고형 약국서 ‘감기’ 부르는 근황 [포착]."
+              ],
+              "source_name": "서울신문",
+              "source_date": "2026-09-21",
+              "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTHpwX000N3llVFdjNks0N0NqM0dmU1VCa19IR1dEanduMlowQzEyRVEyX2RpUWNXQlY2TmhxZHdsN1VKNlNsOHItN1N4YVZvMUNYb2E5ZUkybFV3NnpBNDdYbzVzZE5tVWstd1BJUUlpQUM4VjJ4THlFVjBybU5hd0VtbzV3dw?oc=5",
+              "priority": "A"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    }
+  ]
+}

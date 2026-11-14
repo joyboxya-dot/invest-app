@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-01",
+  "built_at": "2026-11-01 10:23",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/01 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "미 국무장관 \"트럼프, 김정은과 대화 준비돼‥아직 회담 일정 없어\"",
+          "hook": "미 국무장관 트럼프, 김정은과 대화 준비돼‥아직 회담 일정 없어",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QZnhWb0dVdkhPeHpUOC1QTjdTLUVuYUlJcGVYODNTMkJ1QXo4THpyQmRkYjBKYWhONUxhbEtPaGxXSmFvMG5KYXlzMGIxbW1KaTJROGhhNzd6aWxPcjZLOGkxdjR0eXhNRVNlVlFVT0tVS2F50gF0QVVfeXFMT2VOSldUWjZxWU56S3FjOGdxYXNpU2gzNVJGaXdyXzQzUG1sZTJlZjJ2WlhrVU9KanhqN1RYVEdCcENOUHFVbzA2WWs3QUU4T1FHeXV5Z09hT2dEOWhleVhhWEJrTHQxb2p6c2FQU2RGdFNTemQ?oc=5",
+          "source_date": "2026-10-31"
+        },
+        {
+          "item": "\"사실무근? 간 크다 일진 여왕벌\" 차예련, 입장문 역풍 불렀다..학폭 추가 폭로 [Oh!쎈 이슈]",
+          "hook": "사실무근? 간 크다 일진 여왕벌 차예련, 입장문 역풍 불렀다..학폭 추가 폭로",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd2E0R0ExeVlYblFiRHVEY1hsTThsVTlFWFplSUI2UjZMRTFXOUYyQ055bWN6MFNRQzNHNmd0QTFEUmJLbE53d2ZKY2lwMlZ5MVlFdm1hY1VlN2Z6M3RZX1pRVTA3N1QzQ0VuQnZkUFRBZHVyUHIxRzdCOXVnSElId1BjUWhDYmxLRDFtak5ZMA?oc=5",
+          "source_date": "2026-11-01"
+        },
+        {
+          "item": "김지원 어쩌나 ‘닥터X’, 연이은 논란에 결국 시청률 대폭 하락…20% 돌파 급제동[Oh!쎈 이슈]",
+          "hook": "김지원 어쩌나 닥터X, 연이은 논란에 결국 시청률 대폭 하락…20% 돌파 급제동",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Chosunbiz",
+          "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1ZS1hHeVpLME9CajlsSGJjQTRSSkhMWGZuVEJISnBNSjF3OE01RXRXOW1POE84Uk1Mam9fU3BXY01rWUM2Sl96ekNnanV5T21KSWRzYzZwT29CTTVKakxPeTM1ak5yQi1WRHhmSkJfTEI5WUVmd1NDRy1OenIyZmtteFlFUXhvVzRZWndKVEp6SVHSAacBQVVfeXFMUFhURDhHQVdwbEo2TWc3RDVpc0c4V3Njdm9xZnFfMXlzOFBraVp5RWQwM2I2cG5PQ0lTVUgxTDgtTWRJdk9EVnIwYWxQY3FyN3VmS2NMY2tmUG52c3dXaVlaOG0tVHFaRXRwWUxfRTdxc2ZkLUFWQmtyVUVJcENiQUlBVEFuRVpyWDZ1bW1oZGhKUlZRbkFsWEF3MDZvRFBlbUdjVmhraFE?oc=5",
+          "source_date": "2026-10-31"
+        },
+        {
+          "item": "핼러윈 홍대서 '마약 사탕' 나눠줬다?…경찰 \"오인신고로 확인\"",
+          "hook": "핼러윈 홍대서 마약 사탕 나눠줬다?…경찰 오인신고로 확인",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZQXNWWGVSY2NJbHY4ZVRTTGNaQWhXak5vZjd0dHhZLU9WUEc0ZFBGTlRHSG5GcUhhbHRvWnpYcVd1SERsMnVScThNTF9rajRNdS1mNVljR1kwa03SAWBBVV95cUxPMUFXcGZSVkxwQUlscV9tQXpfNEZKSEdTbGtsNC1OVE14WWVHR0JoWmFUeU1YTzRwcHVYbjdiNFJ5dmdMNEJWaHFxbzhxRlBrbnU0SzNucGtmaVlZcW83Sjg?oc=5",
+          "source_date": "2026-10-31"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "tech",
+          "title": "🤖 IT·과학",
+          "items": [
+            {
+              "item": "깨지기 쉬운 꿈, 그럼에도 놓지 못하는 사랑…연극 ‘유리동물원’",
+              "hook": "깨지기 쉬운 꿈, 그럼에도 놓지 못하는 사랑…연극 유리동물원",
+              "topic": "과학",
+              "summary": "깨지기 쉬운 꿈, 그럼에도 놓지 못하는 사랑…연극 ‘유리동물원’ 깨지기 쉬운 꿈, 그럼에도 놓지 못하는 사랑…연극 ‘유리동물원’    KBS 뉴스    “무조건적 절제는 금물! 먹는 즐거움 누리며 유연하게 관리해요”    신동아    [표권향의 컬처판타지아] 깨진 유리 너머, 서로의 마음이 보였다…연극 ‘유리동물원’, 아름답지만 깨지기 쉬운 ‘우리’    스포츠서울    김성령, 연극 ‘유리동물원’ 속 섬세한 시선…가족 향한 대사로 공감    톱스타뉴스    [AK초점] 기억 속에 갇힌 가족의 초상 ... 80년의 시간을 건너온 '유리동물원'    아트코리아방",
+              "openings": [
+                "깨지기 쉬운 꿈, 그럼에도 놓지 못하는 사랑…연극 ‘유리동물원’."
+              ],
+              "source_name": "KBS 뉴스",
+              "source_date": "2026-10-31",
+              "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JX3VGcUtJVjBoRmJkWHBGb0g4U3o0dnd0SktVUXlrNmt3Nl9HRm54bHdYWkxwY3pZc05yM2hhX3dRcUk4YTloY3lGUDRpbDFzYXlIdjZFMjVva2ttZlhsT1czQ2YxZw?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    }
+  ]
+}

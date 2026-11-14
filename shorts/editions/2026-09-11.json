@@ -1,0 +1,89 @@
+{
+  "date": "2026-09-11",
+  "built_at": "2026-09-11 09:25",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/11 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "노모 숨지자 암매장하고 연금까지 타낸 60대 구속기소",
+          "hook": "노모 숨지자 암매장하고 연금까지 타낸 60대 구속기소",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqZ2pYMHV1bG9ZakV3dWNfbzI5Y2FuOU9KWEdTbExJY29RbWJKZGNkd0lNNnZWSDZCOTF1YWdvalF6U1NWczlrNEs3V2JaaTUtRTlLaUYzTDUycnc?oc=5",
+          "source_date": "2026-09-10"
+        },
+        {
+          "item": "北 정권수립일 기념행사…김정은 \"애국심과 헌신적 기여로 전진\"(종합2보)",
+          "hook": "北 정권수립일 기념행사…김정은 애국심과 헌신적 기여로 전진(2보)",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sc1k4b1JENGREQzRFQm14alZmVWxad0ZwR2RISHAxYnduZGR3N2pIWEhVVVk3UlJ5cmVZNzM4ZHZUTUotT19nRTAxbFM3UWNPRl81TF9YaDZKeGREZUF4M9IBYEFVX3lxTE1sc1k4b1JENGREQzRFQm14alZmVWxad0ZwR2RISHAxYnduZGR3N2pIWEhVVVk3UlJ5cmVZNzM4ZHZUTUotT19nRTAxbFM3UWNPRl81TF9YaDZKeGREZUF4Mw?oc=5",
+          "source_date": "2026-09-10"
+        },
+        {
+          "item": "[성명서] 규제만 앞세운 동물의료 말살정책을 즉각 중단하라 : 대수 시도지부장협의회",
+          "hook": "규제만 앞세운 동물의료 말살정책을 즉각 중단하라 : 대수 시도지부장협의회",
+          "topic": "과학",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "데일리벳",
+          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PcW9Ed0hfOC1LYjdDVTJZeVZJWDlVbDdsdXl6VmxibkdZSG9oX2F2ZzFtWE9SZllfZWxwRFdPTzNKVWthVFJ0V3ZYR2NPWVJlZFpTblJVRWw?oc=5",
+          "source_date": "2026-09-10"
+        },
+        {
+          "item": "검찰개혁추진단 前자문위원장 \"경찰 수사 점검도 색안경 끼고 막나\"",
+          "hook": "검찰개혁추진단 前자문위원장 경찰 수사 점검도 색안경 끼고 막나",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05YnJPaGhDejNEWC03ZEYtVmNycTNVYWtiOG1BVHg1UkR6MDRYRVRxdDEzY3ZCWmJpVlo2d0s4VHVvLUo4d3BCYmFxU3BOZVdYOXpnSWJfbFB6M3RubzdEeWhiTUlRWVhFUnhnZWJNbGpwTTZfeTI00gF3QVVfeXFMT3dtOHE1eXZMX0c3ZUJSSTJxR3JVODF2Y3VURl9uYnJrQ0JyNGhaM2xKZUt6Zjd3SWJrUUxXU0lOVmpqWkxlWHJJck9xMkptVGtjR09nMUdNNHdod01welNzdDBINDV6MVZZRzlkZVZJMVNIZzdLbWs?oc=5",
+          "source_date": "2026-09-10"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    }
+  ]
+}

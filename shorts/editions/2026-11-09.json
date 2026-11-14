@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-09",
+  "built_at": "2026-11-09 10:52",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/09 기준, 후보 7건에서 장면·갈등·기괴 과학 축으로 7건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "107조 벌고도 20만원 깨졌다…삼성전자 이틀 새 폭락한 이유 [숫자 뒤의 진실]",
+          "hook": "107조 벌고도 20만원 깨졌다…삼성전자 이틀 새 폭락한 이유",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "세계일보",
+          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SQTdTSU5PSDZZeXZYRTd1OWpVazBzeURERVJsc0dvcVFxZjJfSS1oSk5vYjhJUkRTSUY2NkRkV0hkMVpiTUtiVzBnemVSU0tnTzZvZ2VnWHPSAVRBVV95cUxPaHlUbUg4YU9aTUNydFFoamFDUE9xQjA2NWtUeklnUmstLTJjUmhNZ3JDZEpnZE1qQm1kNVd2a0VFSzN6bkZtNDB5aGJ1VDVWT3Q3QjA?oc=5",
+          "source_date": "2026-11-08"
+        },
+        {
+          "item": "\"UFC 선수들이 기자들 제압\"…트럼프 SNS 애니메이션 논란",
+          "hook": "UFC 선수들이 기자들 제압…트럼프 SNS 애니메이션 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZnB0ZDhld0dObEIzNURvb1cyNXBkYjF0ekI3ZEpNMUUxel83dWNEOWk4YWFPVFFyLTdXZWZtMXhVNEJPRGdfOTlUZTlRb21FRlkxUXhuSGYtbkHSAWBBVV95cUxOcS1EbjZucTI0dkR1V3RrV3RNZjJwYkF0V1piSHVjVmZKejlidllJZFNGeDdUX3EwYnFOYk9Qb3BGTGpyT1ptc1IyTkFEZFQ5TEJVVEJtT0FEaDltZVgtR0k?oc=5",
+          "source_date": "2026-11-08"
+        },
+        {
+          "item": "시진핑 비서실장 만난 北 김성남… 김정은 정상회담 조율 가능성",
+          "hook": "시진핑 비서실장 만난 北 김성남… 김정은 정상회담 조율 가능성",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "동아일보",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wVnhZT0diNGVlaldUbVpfeDVZbGxreUpGYlJYNUZqVlp3NlhIU2FWTEg0NGRSMi14VEN6S2lpckhTNkM4Ym1CaXdQRHlCdnBrOTdSazZyckdPS2Fma2dJM3R5N1lpdEE4UnpFd0NldVFKakhfd2lj?oc=5",
+          "source_date": "2026-11-08"
+        },
+        {
+          "item": "\"아이폰 듀오 후속작 벌써 윤곽\"…내구성 논란 의식했나 [IT썰]",
+          "hook": "아이폰 듀오 후속작 벌써 윤곽…내구성 논란 의식했나",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "머니투데이",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yM3RtbGpRX3F1LVI5X0ZvaVNlUjdHYnpySDJuQ2NvT1VlSkhnRG55aGN3elJhc1BmbTJrdjVsN1FSUzNvM0NRaGUxS2Q3S1VDQ2lpSEF4QW4zeWpQMlZQSjVRcnlMZUHSAWxBVV95cUxObmlFNmkxa3VMX1gtOVd1eWQxcVF4Slo4RFl1Wmk0cWMyeEpCeHZzSFhHQzZLckpSRWZLMi1tX1Y4SGh1QW5FOVFYWXBjX1Q4TFBqWTQ1d2dhRkNmZnhmb0ZIb3QxOHpVZzJZeks?oc=5",
+          "source_date": "2026-11-08"
+        },
+        {
+          "item": "한반도 땅속에 숨겨진 거대 단층의 진실, 우리나라는 정말 안전할까?",
+          "hook": "한반도 땅속에 숨겨진 거대 단층의 진실, 우리나라는 정말 안전할까?",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "대한민국 정책브리핑",
+          "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTFwZU54U2pENlFwQW8ySFVQSU5yc3ExdkU1WmRQLTcwY1hUY0UyWTh1b2lBYnU5ZUQ2Y3RoT2NCdFY0WV8wS0tOWkF2X1F6RDYzT3VBbE9NTnNkZU4za3N2ZFFDTmF6U0JVdE5fR3BZTVdCeWRMX1NNSnlDOVFXc2t3M2hWVllGeGc?oc=5",
+          "source_date": "2026-11-09"
+        },
+        {
+          "item": "‘빚투’ 청산 막고자 담보 비율 의무 면제해준 정부...시장 개입 실효성 논란, 빚투 증가 우려도",
+          "hook": "빚투 청산 막고자 담보 비율 의무 면제해준 정부...시장 개입 실효성 논란, 빚투 증가 우려도",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Chosunbiz",
+          "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamxEN3MzM2lBaU1MSGp1aTc2Nk5nUTRBcnc4NWVTb3lab19GdUdlVm1VUVR3ZGR2RExrSGpwa3pJYjNGY3dtaFpkY29xdVhNUDdLTXNfSmxXNFpWNy1ub0VIMVF4MVdWRHBibW9LY3BFREZyckdZVXd6Y1cwUDBaQWI3dTloNHhf0gGcAUFVX3lxTE50OVkwTEpjVWt5cXVtSUxJVl9WTGV5d0ZNUktlSXZicmdXeV9sU2FPU1B4QWEtM2tMMFp4bUFPM2lqOU9KMmJNNFVvVjRNNXhpRjRYbjFMVDdmeUljX3RFYVlITFFJQnpFQktRWUduOGgxQ3c0ZHNsQ0FTT0llQTFNUFNVSlRZb2tEWHZvMS0ycXd0b2JGNUdoUVQyaQ?oc=5",
+          "source_date": "2026-11-08"
+        },
+        {
+          "item": "“제가 여자친구를 살해했습니다”···20대, 청주서 경찰에 신고 후 체포당해",
+          "hook": "제가 여자친구를 살해했습니다···20대, 청주서 경찰에 신고 후 체포당해",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ESzZoRnFDWWVIZ2lWTnloN0pOUkJEaEdUYkVrV0stUV9uNS1ENWRFVUUwb0ZaOXluN3AtcUM3bUdDU05GNHJJRVROTWl1Z2FCaTlvWFdfZkJrUdIBX0FVX3lxTFBzMThjVFgtOXd0UE45d0hHVVRzYlQ1YktrQnVsaUVhTnRBM3lfbHhKUm43TXhaWmpRa2RiWmpzRnl4NGNBSGRDOGRlNEtpMmQyS29wN19yMVp6RkRjQVJB?oc=5",
+          "source_date": "2026-11-08"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "박진영, 사이비 이단 논란에 재차 해명 “한 번 들어보시면 좋겠다”",
+              "hook": "박진영, 사이비 이단 논란에 재차 해명 한 번 들어보시면 좋겠다",
+              "topic": "연예",
+              "summary": "박진영, 사이비 이단 논란에 재차 해명 “한 번 들어보시면 좋겠다” 박진영, 사이비 이단 논란에 재차 해명 “한 번 들어보시면 좋겠다”    채널A    \"목사들이 위험하다고\"...박진영 종교 '사이비 논란'에 입 열었다 - 머니투데이    머니투데이    \"족보 없는 교회 아냐\"…박진영, '이단 논란'에 또 입 열었다    한국경제    박진영, '첫열매들' 이단·사이비 의혹에… 반박 대신 신앙으로 대응    금강일보    박진영과 톰 크루즈, 유명인의 ‘종교와 책임’[배우근의 롤리팝]    스포츠서울",
+              "openings": [
+                "박진영, 사이비 이단 논란에 재차 해명 “한 번 들어보시면 좋겠다”."
+              ],
+              "source_name": "채널A",
+              "source_date": "2026-11-08",
+              "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BRGxDVVozRnFEdUhDU25lc3RFZUkzREF4OHRVWEpkdEhrVmtaa0E1WXREM2NrNHZndVJPc1FteHZWcUNFU28weVV4SDY4NkZLdy03Zk1SVXZyQVg5OVHSAWNBVV95cUxNRVh2Tm9BWW82cDFTNnV4eDNBSklHNDRJUVlmc1JNRDJ3cWx4YXkxQ2Ffa1VDaUs5UnBNQnl0SUN0Zm9KTzdUcENPVEtpbU1NRVpDOFVibDMxelhjZlREeFVXLWc?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 9
+    }
+  ]
+}

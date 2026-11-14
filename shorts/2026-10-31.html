@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#0c0c0e">
+<title>쇼츠 재료 · 2026-10-31</title>
+<style>
+:root { --bg:#0c0c0e; --fg:#f4f4f5; --muted:#a1a1aa; --line:#27272a; --ok:#34d399; }
+* { box-sizing:border-box; }
+html, body { height:100%; }
+body {
+  margin:0; display:flex; flex-direction:column; overflow:hidden;
+  font:12.5px/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo",sans-serif;
+  background:var(--bg); color:var(--fg);
+}
+header {
+  flex:0 0 auto; display:flex; align-items:center; gap:.5rem;
+  padding:.28rem .45rem; border-bottom:1px solid var(--line);
+}
+h1 { font-size:.82rem; margin:0; font-weight:700; }
+select {
+  font:inherit; color:var(--fg); background:#18181b;
+  border:1px solid var(--line); border-radius:999px; padding:.08rem .5rem;
+}
+.board {
+  flex:1; min-height:0; display:grid;
+  grid-template-columns:repeat(2, minmax(0, 1fr));
+}
+.col {
+  min-width:0; min-height:0; display:flex; flex-direction:column;
+  border-right:1px solid var(--line);
+}
+.col:last-child { border-right:0; }
+.col h2 {
+  flex:0 0 auto; margin:0; padding:.28rem .45rem;
+  font-size:.78rem; font-weight:700; border-bottom:1px solid var(--line);
+}
+.list { flex:1; min-height:0; display:flex; flex-direction:column; }
+.row {
+  flex:1 1 0; min-height:0; display:flex; align-items:flex-start; gap:.28rem;
+  padding:.12rem .4rem; border-bottom:1px solid var(--line); cursor:pointer;
+  -webkit-tap-highlight-color:transparent;
+}
+.row:last-child { border-bottom:0; }
+.row:active, .row.copied { background:#1c1c1f; }
+.row.empty { cursor:default; }
+.row.empty .n { opacity:.35; }
+.n {
+  flex:0 0 1.05rem; color:var(--muted); font-variant-numeric:tabular-nums;
+  font-size:.7rem; padding-top:.05rem;
+}
+.tag {
+  flex:0 0 auto; color:#111; background:#fbbf24; font-size:.68rem; font-weight:750;
+  line-height:1.2; padding:.08rem .28rem; border-radius:4px; white-space:nowrap;
+  margin-top:.02rem;
+}
+.hook {
+  min-width:0; flex:1; overflow:hidden; font-weight:600; line-height:1.25;
+  word-break:keep-all; overflow-wrap:break-word;
+}
+.toast {
+  position:fixed; left:50%; bottom:.7rem; transform:translateX(-50%) translateY(140%);
+  background:#f4f4f5; color:#111; font-size:.75rem; font-weight:650;
+  padding:.28rem .7rem; border-radius:999px; pointer-events:none; transition:transform .16s;
+}
+.toast.show { transform:translateX(-50%) translateY(0); }
+</style>
+</head>
+<body data-date="2026-10-31">
+<header>
+  <h1>쇼츠 재료</h1>
+  <select id="archive" aria-label="날짜"><option value="2026-10-31" selected>2026-10-31</option><option value="2026-10-30">2026-10-30</option><option value="2026-10-29">2026-10-29</option><option value="2026-10-28">2026-10-28</option><option value="2026-10-27">2026-10-27</option><option value="2026-10-26">2026-10-26</option><option value="2026-10-25">2026-10-25</option><option value="2026-10-24">2026-10-24</option><option value="2026-10-23">2026-10-23</option><option value="2026-10-22">2026-10-22</option><option value="2026-10-21">2026-10-21</option><option value="2026-10-20">2026-10-20</option><option value="2026-10-19">2026-10-19</option><option value="2026-10-18">2026-10-18</option><option value="2026-10-17">2026-10-17</option><option value="2026-10-16">2026-10-16</option><option value="2026-10-15">2026-10-15</option><option value="2026-10-14">2026-10-14</option><option value="2026-10-13">2026-10-13</option><option value="2026-10-12">2026-10-12</option><option value="2026-10-11">2026-10-11</option><option value="2026-10-10">2026-10-10</option><option value="2026-10-09">2026-10-09</option><option value="2026-10-08">2026-10-08</option><option value="2026-10-07">2026-10-07</option><option value="2026-10-06">2026-10-06</option><option value="2026-10-05">2026-10-05</option><option value="2026-10-04">2026-10-04</option><option value="2026-10-03">2026-10-03</option><option value="2026-10-02">2026-10-02</option></select>
+</header>
+<div class="board"><section class="col"><h2>군림보</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VejFRV1dGbGJVYTRrbXV6bEV6bUFlbTYwOGVQQmhvaHV3RmVXTjZwUFVzYTJTc05iT2c2Yi04NDR0OFNRU3VhU1BJck9sb3JJdW1VOUVOSVpBWGlMTWRRazVEcWxmZw?oc=5" role="button"><span class="n">1</span><span class="tag">사건</span><span class="hook">소아응급실 압수수색 논란…의료계 “진료 방해” vs 경찰 “적법 집행”</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMikgFBVV95cUxNX0N3UnNwLVAxb0ctZkRpMkZrdFdEQ0VfbWwxeTFhdHR5WDJseHVaN3RlMno3U3dsSnNZcHhLTEVxZ2pSR2JHS2NhdkYyNTZuaFYwNzg3LS1oR21PVWlKU2p4SWtQaUVCM2tWY0dvckFlaVVTTTRwWFd0S2w3dE5TeE9MQjhIbEpyOFYteTdRcWlSUQ?oc=5" role="button"><span class="n">2</span><span class="tag">북한</span><span class="hook">김정은의 ‘드론 협박’… 스텔스 무인기 등 30종 공개</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMijwFBVV95cUxPUXJUcnVuZG5Cb2hKbDBWaERkelFnZHpIYUZLanhsNXdzT1E5TTFIVDc0UTNPVGZpTmI2UGdXNkZ3bDQya1J4SXJJMmpUYjRfaVZsWVJZNVZ6Rk9CQWM5S3RoQlYzQjFRSkdwNmRTaHJDN2lzREhOazUwUGJsSmZXTlJlbFN3YTNrWC1PSXBScw?oc=5" role="button"><span class="n">3</span><span class="tag">이슈</span><span class="hook">&quot;소문 안 좋았다&quot; 차예련, 새 증언 터졌다..학폭 의혹 새국면 [Oh!쎈 이슈]</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMidEFVX3lxTE40ZXlhUXJZQUU1bkZFVC1leS0wTFR1ZUdhMEQyRHBfVWRfelVwYmVtUWZmN1p0aGNCbGNxbEt5bVNUeHp2Zk4zY21xS0hGSEhQdmpGQ3hmSkdUeE50b1hqcl9NbjF1Nk0tVk9JbVIwa2hhbWRp0gF0QVVfeXFMTlRlN05rRXA1cGZrY003OHBpNTUycFdjQW5lMGMtakZqelcxQW16Y2lITUp6ZzFSV1QxSGtqSWNtbld3VTN5Z3hGZmNYS1NlaXRxa2tMMzlZTV9IR2NSdjJXc09Wa2RjMjZvYndUSmZLVjFZLU8?oc=5" role="button"><span class="n">4</span><span class="tag">이슈</span><span class="hook">&quot;궁주 아들이 학폭?&quot; 분노한 시민‥당국 총동원한 대만 &#x27;참교육&#x27;</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BSFlDMUR4RTBNdEJHWkNmdXpfVEtLX05UbElHdVRMMlIyd2JRWUdIcjNpUm5RYjhhd0xmVkpkZm1tUWozRmxHVjJKemVGSGZHMUE?oc=5" role="button"><span class="n">5</span><span class="tag">이슈</span><span class="hook">고개 숙인 &#x27;헬로키티&#x27;…산리오, &#x27;역사 왜곡 논란&#x27; 日드라마와 협업 중단[이런일이]</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMihAFBVV95cUxObU5RbUI0UFZpZXMyOGNFZ1ZqTzlWUUkxQkFpdHlKWW5CX09tc1VkY19Ia0tNeVI2d0p5cl9scEdQXy1RYlE5djExT0UtZ2FPQ1VxU1B6ZlJFZEQ4RDlGNmhJT09jU3Y4QTFOUTR1M21vc01fYUlKcUk4WGE3X2Vrd0t1RHc?oc=5" role="button"><span class="n">6</span><span class="tag">우주</span><span class="hook">&quot;中, 조만간 우주 레이저·핵무기 실전 배치&quot;… 스타워즈 현실화되나</span></div><div class="row empty"><span class="n">7</span><span class="hook"></span></div><div class="row empty"><span class="n">8</span><span class="hook"></span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section><section class="col"><h2>뇌전구</h2><div class="list"><div class="row empty"><span class="n">1</span><span class="hook"></span></div><div class="row empty"><span class="n">2</span><span class="hook"></span></div><div class="row empty"><span class="n">3</span><span class="hook"></span></div><div class="row empty"><span class="n">4</span><span class="hook"></span></div><div class="row empty"><span class="n">5</span><span class="hook"></span></div><div class="row empty"><span class="n">6</span><span class="hook"></span></div><div class="row empty"><span class="n">7</span><span class="hook"></span></div><div class="row empty"><span class="n">8</span><span class="hook"></span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section></div>
+<div class="toast" id="toast">링크 복사됨</div>
+<script>
+const DATE = document.body.dataset.date;
+fetch("archive.json").then(r => r.json()).then(dates => {
+  const sel = document.getElementById("archive");
+  const latest = dates[0];
+  sel.innerHTML = dates.map(d => {
+    const selAttr = d === DATE ? " selected" : "";
+    return '<option value="'+d+'"'+selAttr+'>'+d+'</option>';
+  }).join("");
+  sel.onchange = () => {
+    const d = sel.value;
+    location.href = (d === latest) ? "index.html" : (d + ".html");
+  };
+}).catch(() => {});
+const toastEl = document.getElementById("toast");
+let toastTimer;
+function toast() {
+  toastEl.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toastEl.classList.remove("show"), 900);
+}
+document.querySelectorAll(".row[data-url]").forEach(row => {
+  row.addEventListener("click", async () => {
+    const url = row.getAttribute("data-url");
+    if (!url) return;
+    await navigator.clipboard.writeText(url);
+    row.classList.add("copied");
+    setTimeout(() => row.classList.remove("copied"), 500);
+    toast();
+  });
+});
+function linePx(el) {
+  const cs = getComputedStyle(el);
+  if (cs.lineHeight.endsWith("px")) return parseFloat(cs.lineHeight);
+  return parseFloat(cs.fontSize) * 1.25;
+}
+function fitHooks() {
+  document.querySelectorAll(".hook").forEach(el => {
+    el.style.display = "block";
+    el.style.webkitLineClamp = "unset";
+    if (el.scrollHeight <= el.clientHeight + 1) return;
+    const n = Math.max(1, Math.floor(el.clientHeight / linePx(el)));
+    el.style.display = "-webkit-box";
+    el.style.webkitBoxOrient = "vertical";
+    el.style.webkitLineClamp = String(n);
+  });
+}
+window.addEventListener("resize", fitHooks);
+requestAnimationFrame(fitHooks);
+</script>
+</body>
+</html>

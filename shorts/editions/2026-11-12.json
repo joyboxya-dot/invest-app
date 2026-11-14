@@ -1,0 +1,179 @@
+{
+  "date": "2026-11-12",
+  "built_at": "2026-11-12 12:17",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/12 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "개별 동물병원 진료비 전수공개, 11개 항목부터 단계적으로..공시제 조사 재개 가닥",
+          "hook": "개별 동물병원 진료비 전수공개, 11개 항목부터 단계적으로..공시제 조사 재개 가닥",
+          "topic": "과학",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "데일리벳",
+          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XWVJMaXgyN1daZHpydEk3b1N6aW9nUXZVRnhKcXdvWnZ2ZmV3VVlpam1pbHFNdDhQbU1EcWh5Y0JEbjBmbWVqOHY1ck5VZGRCaGE3T293bHg?oc=5",
+          "source_date": "2026-11-11"
+        },
+        {
+          "item": "김민석, 종부세 논란에 “부동산 정책 기본, 일관되는 게 좋다 정리”",
+          "hook": "김민석, 종부세 논란에 부동산 정책 기본, 일관되는 게 좋다 정리",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IWUZjWFpGU3ZWUjhXdjBPejQ0bEVoaHJjSGxqZ25EdE9JdHdVZ21GeXR6cTF5V2RGbmszTHF0Mm9EOExYVC1nYU9QUzgyLTAxQmZxNEc4cnBkeGQ3akxlazZkVnY3VnVaWG5LcExKUmNJRjct?oc=5",
+          "source_date": "2026-11-11"
+        },
+        {
+          "item": "[단독] \"AI에 자리 뺏긴다고? 누가 풀든 중요한 건 진실\"",
+          "hook": "AI에 자리 뺏긴다고? 누가 풀든 중요한 건 진실",
+          "topic": "AI",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNF93VEpzT3lwbHh3NGZueEc4cm1OR2wwWXUzQnl2QVo2ZXFlR1cwZUwxX2hqZ3RGZUV2SFZ2Z0VQWThPZENld2tSRWdiYjJFdnI2NXhGTEN4X2ZLVElyeU5LLUIycXBKd3FYQVQ4ZTNpdDhpcFp2TVlTUTFzT1RELWlJRQ?oc=5",
+          "source_date": "2026-11-11"
+        },
+        {
+          "item": "조정식, 조작기소 특검법 논란에 “법적문제 없다”",
+          "hook": "조정식, 조작기소 특검법 논란에 법적문제 없다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "동아일보",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jNTRDZGVnYnBGM1k1LXo2Wm9MSjQ1STNZeVNRSmZCZm1tdXEyTXVUNm82MXJzVm1hSjcwUV9QS3I1bWg2emFPSjNTV3J1UjRMVVhnaGhBMmFxLVpQdkpreER4QzZBMjVqVzhiWmtRak9EVGlVVWpv0gFmQVVfeXFMTU1PS3JsY1FTNzJGV1k3U09nZi1Pd0NybEk3QWF0Q3MtWkZpTkFQYlhRQVYzc0kwS2pQSklqeFNQOHhjUkRGZnExWldvVTROQ0xwVGg0UDhBZjFCTGRsWHIyWXlhal9R?oc=5",
+          "source_date": "2026-11-11"
+        },
+        {
+          "item": "시흥 아파트 단지서 일가족 숨진채 발견…경찰 조사 중",
+          "hook": "시흥 아파트 단지서 일가족 숨진채 발견…경찰 조사 중",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qS0dGdWZfLVhxYXhrdHdEbVVHQzNLUXcyeDJjaHBFZ1lQRW9RNmlEU2hQVlo3QXN2VzRua2dGUU93eHZ2UWphcjMyejVySGQzdWc3dlM0YjUtR3M?oc=5",
+          "source_date": "2026-11-12"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [
+          3
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "김기리, ‘박위 논란 불똥’ 3개월만에 근황…♥문지인과 다정한 투샷",
+              "hook": "김기리, 박위 논란 불똥 3개월만에 근황…♥문지인과 다정한 투샷",
+              "topic": "연예",
+              "summary": "김기리, ‘박위 논란 불똥’ 3개월만에 근황…♥문지인과 다정한 투샷 김기리, ‘박위 논란 불똥’ 3개월만에 근황…♥문지인과 다정한 투샷    동아일보",
+              "openings": [
+                "김기리, ‘박위 논란 불똥’ 3개월만에 근황…♥문지인과 다정한 투샷."
+              ],
+              "source_name": "동아일보",
+              "source_date": "2026-11-11",
+              "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mZXRwZjlUa1ppMUdKTjFXZ1FtVndzYmVsVTJLYk5NU0hBSUV3RlYwTWNrTHZodnZFTW9tVWlTUGRFQkpHRmtzaVQ1STJWTTRDcVhZWFJWRF80dVl0OExNMm12NFRIUdIBZkFVX3lxTE5mZXRwZjlUa1ppMUdKTjFXZ1FtVndzYmVsVTJLYk5NU0hBSUV3RlYwTWNrTHZodnZFTW9tVWlTUGRFQkpHRmtzaVQ1STJWTTRDcVhZWFJWRF80dVl0OExNMm12NFRIUQ?oc=5",
+              "priority": "A"
+            },
+            {
+              "item": "‘돌싱’ 클라라, ‘솔로라서2’로 10년만에 국내 예능…중국서 근황 공개",
+              "hook": "돌싱 클라라, 솔로라서2로 10년만에 국내 예능…중국서 근황 공개",
+              "topic": "연예",
+              "summary": "‘돌싱’ 클라라, ‘솔로라서2’로 10년만에 국내 예능…중국서 근황 공개 ‘돌싱’ 클라라, ‘솔로라서2’로 10년만에 국내 예능…중국서 근황 공개    동아일보    [공식] ‘돌싱’ 클라라, 10년 만에 국내 예능…‘솔로라서2’ 출연    스포츠동아    [공식] 클라라, 사무엘 황과 이혼 1년만에 예능 복귀..신동엽과 손 잡았다(솔로라서2)    조선일보    이동건은 ‘이숙캠’, 조윤희는 ‘솔로라서2’…이혼 후 나란히 예능 행보    서울경제    클라라, 10년 만에 국내 예능 복귀…'솔로라서2' MC 합류    뉴시스",
+              "openings": [
+                "‘돌싱’ 클라라, ‘솔로라서2’로 10년만에 국내 예능…중국서 근황 공개."
+              ],
+              "source_name": "동아일보",
+              "source_date": "2026-11-12",
+              "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4cWFHWmpPdmpELVVjMERTQzFtLVczMl9RMTJMZ2trQXo0LVpWaHBOY0NYX3pJaHB5bWN2VXhpaEx1MXNyX3BuUkNKRzlYUHE5RGkweGdnbjdKWlN0c2N2QXYtSXUtWmlwSEVxRnktS1NjZ0ZXQWY0UDRoOWlxZ9IBZkFVX3lxTE56V3M2eUlNanY5cVRGeXNBMDhlSzlGSjcteWJtZG13SE44MmlnaVhQRm8yZTdGempKMHZCNl9Lalg5V2Z2Ulo2eThUa2JHZjBUVXM1WmNKWjcxT1p3YTllMzRBTDZPdw?oc=5",
+              "priority": "A"
+            },
+            {
+              "item": "여진구, 카투사 입대 11개월만에 몸집 2배 근황..'강호동보다 커졌네'[핫피플]",
+              "hook": "여진구, 카투사 입대 11개월만에 몸집 2배 근황..강호동보다 커졌네",
+              "topic": "연예",
+              "summary": "여진구, 카투사 입대 11개월만에 몸집 2배 근황..'강호동보다 커졌네'[핫피플] 여진구, 카투사 입대 11개월만에 몸집 2배 근황..'강호동보다 커졌네'[핫피플]    OSEN    \"강호동보다 커졌다\"…'카투사 입대' 여진구 뜻밖의 근황    한국경제    “정말 좋아했다”…카투사 복무 '벌크업 여진구' 근황 알린 의외의 인물    전자신문    '카투사' 여진구, 군복 입은 근황 공개…\"대단하다\" - 머니투데이    머니투데이    여진구, 카투사 입대 11개월 만 근황…한층 늠름해졌네    스포츠경향",
+              "openings": [
+                "여진구, 카투사 입대 11개월만에 몸집 2배 근황..'강호동보다 커졌네'[핫피플]."
+              ],
+              "source_name": "OSEN",
+              "source_date": "2026-11-11",
+              "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fVGdVeU5RdWxFSVh1X3YwY253REdXMzk1cjljWGtjNW5XWUp3aHVwRnJ1bllnMWVHT0gxMGE3dzRkNnBWaUtnbWk0aW04YmVzU2VmNA?oc=5",
+              "priority": "A"
+            }
+          ]
+        },
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "경기 파주서 달리던 화물차에 불…주택가서 만취 운전하다 ‘쾅’",
+              "hook": "경기 파주서 달리던 화물차에 불…주택가서 만취 운전하다 쾅",
+              "topic": "사건",
+              "summary": "경기 파주서 달리던 화물차에 불…주택가서 만취 운전하다 ‘쾅’ 경기 파주서 달리던 화물차에 불…주택가서 만취 운전하다 ‘쾅’    KBS 뉴스    경기 파주서 달리던 5톤 화물차에 불    MBC 뉴스    술 취한 채 주차하다 주택가 담벼락 들이받은 벤츠 운전자 적발    KBS 뉴스    서울 금천구 주택가서 '쾅'…만취운전 40대 검거    SBS 뉴스    파주 도로서 5t 화물차 화재…일대 극심한 정체    뉴시스",
+              "openings": [
+                "경기 파주서 달리던 화물차에 불…주택가서 만취 운전하다 ‘쾅’."
+              ],
+              "source_name": "KBS 뉴스",
+              "source_date": "2026-11-11",
+              "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NQUpWUUZoQmpwQ29uNjRnc3YyNDhxUWRPSzFVc3d6ZEtvUEFxbUUtWDVNX2VqRVlSX21oeE1sS1JVOXpLQ21jYlRVSnFwV0tLM2pXR1JONmVtYjA?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "잘려나간 장면 뒤 진실…언론재단 창작 연극 '점프X컷' 정식초연",
+              "hook": "잘려나간 장면 뒤 진실…언론재단 창작 연극 점프X컷 정식초연",
+              "topic": "사건",
+              "summary": "잘려나간 장면 뒤 진실…언론재단 창작 연극 '점프X컷' 정식초연 잘려나간 장면 뒤 진실…언론재단 창작 연극 '점프X컷' 정식초연    연합뉴스    같은 뉴스, 다른 해석? 미디어의 시선을 바꾼다 '2026 미리위크'    대한민국 정책브리핑    “우리가 본 영상은 진짜일까”⋯ 연극으로 배우는 미디어 분별력    국민일보    같은 사고, 여섯 개의 진실…미디어 리터러시 연극 ‘점프x컷’    이데일리    \"내가 보는 사실이 전부일까\"…연극 '점프X컷'    뉴시스",
+              "openings": [
+                "잘려나간 장면 뒤 진실…언론재단 창작 연극 '점프X컷' 정식초연."
+              ],
+              "source_name": "연합뉴스",
+              "source_date": "2026-11-11",
+              "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FN1Jfb01WZEVlZTVNdGhnekRmZUE5OVJFR0ZGamsyT3VRemlwREtOVTlUSjUyYndZaFVoR3YyRGdDVVNSSVV3Wl9LTGVIQ29xWlp6X3NSQXZQSXPSAWBBVV95cUxPSHZzbHZ0dk5xQ25JX3p5NVlZSGFuaEVSNmNuVnNJcUNKZ01GNnRDbTdtR29oUUsteUN3WVE1SUFNU1lXb1FJVVVJaGpyODNURGs1aWl5bk5ZUm01LTZwTXU?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 10
+    }
+  ]
+}

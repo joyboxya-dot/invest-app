@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-06",
+  "asof": "2026-11-06",
+  "built_at": "2026-11-07 02:18",
+  "pinned_id": "mom_only_flat20_buynew_sr_t10_lb15_vix25nb_ss20_stoptopup25_rate_pause_b_sd7_h1neg3_secqqq5_lagm1n42p20_top5_penult_sp500",
+  "universe_n": 500,
+  "pool_n": 500,
+  "lookback_months": 3,
+  "min_lookback_ret": 0.15,
+  "top_n": 10,
+  "rows": [
+    {
+      "rank": 1,
+      "symbol": "MRNA",
+      "name": "Moderna",
+      "mom_ret": 3.0371175584305288,
+      "day_ret": 0.0,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 2,
+      "symbol": "ACN",
+      "name": "Accenture",
+      "mom_ret": 0.4731543534396283,
+      "day_ret": -0.017574308333648925,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 3,
+      "symbol": "RVTY",
+      "name": "Revvity",
+      "mom_ret": 0.33751972341431125,
+      "day_ret": 0.028376309270956135,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 4,
+      "symbol": "VEEV",
+      "name": "Veeva Systems",
+      "mom_ret": 0.321317494898133,
+      "day_ret": 0.0,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 5,
+      "symbol": "TYL",
+      "name": "Tyler Technologies",
+      "mom_ret": 0.31990079751989975,
+      "day_ret": -0.02279433433997302,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 6,
+      "symbol": "GDDY",
+      "name": "GoDaddy",
+      "mom_ret": 0.3129304355809819,
+      "day_ret": 0.0,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 7,
+      "symbol": "PTC",
+      "name": "PTC Inc.",
+      "mom_ret": 0.29168323272118,
+      "day_ret": 0.002415216885723659,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 8,
+      "symbol": "HAS",
+      "name": "Hasbro",
+      "mom_ret": 0.2678827488223754,
+      "day_ret": -0.0052701794260747725,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 9,
+      "symbol": "EL",
+      "name": "Estée Lauder Companies (The)",
+      "mom_ret": 0.26658835464056696,
+      "day_ret": 0.02238732929451448,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 10,
+      "symbol": "GILD",
+      "name": "Gilead Sciences",
+      "mom_ret": 0.2613103956567011,
+      "day_ret": -0.004058052783005639,
+      "in_holdings": false,
+      "live_slot": false
+    }
+  ],
+  "note": "핀 규칙 동일: 매매시점 스냅샷500(시총패널 없음) · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5)"
+}

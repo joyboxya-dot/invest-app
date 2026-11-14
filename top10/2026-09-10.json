@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-10",
+  "asof": "2026-09-10",
+  "built_at": "2026-09-11 00:30",
+  "pinned_id": "mom_only_flat20_buynew_sr_t10_lb15_vix25nb_ss20_stoptopup25_top5_penult_sp500",
+  "universe_n": 500,
+  "pool_n": 500,
+  "lookback_months": 3,
+  "min_lookback_ret": 0.15,
+  "top_n": 10,
+  "rows": [
+    {
+      "rank": 1,
+      "symbol": "MRNA",
+      "name": "Moderna",
+      "mom_ret": 1.9486844022849032,
+      "day_ret": 0.0,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 2,
+      "symbol": "VEEV",
+      "name": "Veeva Systems",
+      "mom_ret": 0.5925744781463216,
+      "day_ret": 0.0,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 3,
+      "symbol": "ZBRA",
+      "name": "Zebra Technologies",
+      "mom_ret": 0.5906176357371704,
+      "day_ret": 0.0,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 4,
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "mom_ret": 0.5213222928399399,
+      "day_ret": 0.0,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 5,
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "mom_ret": 0.5134430420301164,
+      "day_ret": 0.0,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 6,
+      "symbol": "CRL",
+      "name": "Charles River Laboratories",
+      "mom_ret": 0.49417583410389043,
+      "day_ret": 0.0,
+      "in_holdings": true,
+      "live_slot": false
+    },
+    {
+      "rank": 7,
+      "symbol": "DELL",
+      "name": "Dell Technologies",
+      "mom_ret": 0.44967817342787764,
+      "day_ret": 0.0,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 8,
+      "symbol": "PSX",
+      "name": "Phillips 66",
+      "mom_ret": 0.4426816008033545,
+      "day_ret": 0.0,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 9,
+      "symbol": "CRM",
+      "name": "Salesforce",
+      "mom_ret": 0.43219151678256496,
+      "day_ret": 0.0,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 10,
+      "symbol": "IQV",
+      "name": "IQVIA",
+      "mom_ret": 0.4106604466669843,
+      "day_ret": 0.0,
+      "in_holdings": false,
+      "live_slot": false
+    }
+  ],
+  "note": "핀 규칙 동일: 매매시점 스냅샷500(시총패널 없음) · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5)"
+}

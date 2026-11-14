@@ -1,0 +1,195 @@
+{
+  "date": "2026-09-13",
+  "built_at": "2026-09-13 09:10",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/13 기준, 후보 8건에서 장면·갈등·기괴 과학 축으로 8건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "서울 이태원서 모르는 남성 때려 숨지게 한 30대 남성 구속",
+          "hook": "서울 이태원서 모르는 남성 때려 숨지게 한 30대 남성 구속",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSTlVGZ0tSSWlPWkE1VS1rbENJNkpzd2toTWI2bzJCa0F3dUc2dmppSnhpSnVlZF9YVWVnZDFCcV9nSE95QkVOeVhUWkJ4QjFSR2k4azFJbGY1R21iaklNN3JQenZ5ekJ3LUMzS0tYRl9fUzlGLUJV0gF3QVVfeXFMTW5lOXdWOEdVZkg0SlhQa1dGdFczQ0N5cTVpTy1nd2xTNHNlTWZSM05IVElRZjlyZjRvdDRZS3U3bkFaWjBpLUJuOEZ2TjBpcERDSC1JVnZnWTZVbWpNUkpQenhtcEJTX183VGFiZUQxYUhEbGo0OTQ?oc=5",
+          "source_date": "2026-09-12"
+        },
+        {
+          "item": "김정은, 시진핑 9·9절 축전에 답전…\"북중 친선협조 강화 발전\"",
+          "hook": "김정은, 시진핑 9·9절 축전에 답전…북중 친선협조 강화 발전",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BRWl4OUlpVGMzaUdMeFo5bDBwTFBid0hkRndFT3NIS3dGY3BfVEJVUGRUOVFWVkhiSTBvUVY1c2FTc2NTcWl3QTUxaE13TFhMdTVTODVOVkVYbnFjZkVyU3ZjNEFycEE?oc=5",
+          "source_date": "2026-09-12"
+        },
+        {
+          "item": "김승원·용혜인 인사 논란…주말에도 이어지는 해명",
+          "hook": "김승원·용혜인 인사 논란…주말에도 이어지는 해명",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2Z3hTZzE4TkY4dWluVm9adDItTG1DWGtBN1ZvTy16ZEVaZ3VUS09UUF9RcHp1eHJLbERUTWs1bkp5QWk3U2ZCRk5KZmJDUEpIWGMyMXo1T05ZSE1YWlhaZG1MejdYUEE?oc=5",
+          "source_date": "2026-09-12"
+        },
+        {
+          "item": "민주당 “용혜인 논란에 청년 여론 들끓어”···13일 고위당정서 ‘대응 논의’",
+          "hook": "민주당 용혜인 논란에 청년 여론 들끓어···13일 고위당정서 대응 논의",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KX0lCbVpPR0RsMkswS1BScUJKZU14WWJYeDhyV3ptN2dqbC1kYjYtWXE1WEU2VEJha3VHQmx4bmFNMFVVNm12TGFoN2dSYUtqcjFTWW11OVFzZ9IBX0FVX3lxTFBHN2FHdXhsVmZnaW52S1R6aE5WUHN0MkhQdEJXQWFZRFYwLVBJQUZGa1pBM0d5NE5PYzl6VUJlMkRNMmtGczBJX3U0aGg1YXhWeF9xcFhZSHk3QWZDeUZV?oc=5",
+          "source_date": "2026-09-12"
+        },
+        {
+          "item": "경찰, 수사 착수에 한동훈 반발…\"민주당 오빠들 이빨 되려 하나\"",
+          "hook": "경찰, 수사 착수에 한동훈 반발…민주당 오빠들 이빨 되려 하나",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvUzlfNlBoSmJpaHpSR2s0cWh5Zng1NnNBQS1PLS1fZTA4Z1hoMGFRU0VmdjlzWDM1SHpHZUJLYUhfNFhtRVBxazQzTlpiZ2dYMVpTLThZUW5nWUM3d3lHWEd5eXRLRVU?oc=5",
+          "source_date": "2026-09-12"
+        },
+        {
+          "item": "이란 대통령 \"중동에 '경찰' 역할 국가 필요 없어\"‥미국 겨냥",
+          "hook": "이란 대통령 중동에 경찰 역할 국가 필요 없어‥미국 겨냥",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RSXlCRWRxZy1NdktFb3J3MG0yS19ZYzRlc3JSR3RPNFcybFhDNmZUTW15am5GdzNmbWFuUV9vWmdiUjJ6OEZ5aHpweTBiYlE0ME9QSkNuQkZQQTRxX3BUM1QxVjV5VWxMYk10M2F2bWRMV0Rf0gF0QVVfeXFMTUloNl9kbi10dWRFUkpaUWNvQ3JaaE5naV9RUzNfOEJkUXZ5elhiR1FTY2xGaFNPeWVoZDMyd2RaVENOWFNPcTEyU0pZLVNKY2ZSQjVaZEVLV0UzazdwQjEtT05QeUVSalZ5ZUhEM2FqYXM1YVE?oc=5",
+          "source_date": "2026-09-12"
+        },
+        {
+          "item": "두달새 5차례…경찰서 가면서도 음주운전한 30대 징역 2년",
+          "hook": "두달새 5차례…경찰서 가면서도 음주운전한 30대 징역 2년",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "v.daum.net",
+          "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CbDlMbEotSklhaUNiTG9IT1d4SkQwQzBLZENIdHRYUFBHRmw1Z09pcmxXank5ZnNkVEMxMENFR2hObjcxV2l4M09xUVl2SGM?oc=5",
+          "source_date": "2026-09-12"
+        },
+        {
+          "item": "숨진 44개월 여아 온몸에 피멍·혈중 캡사이신…경찰은 내사종결",
+          "hook": "숨진 44개월 여아 온몸에 피멍·혈중 캡사이신…경찰은 내사종결",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "v.daum.net",
+          "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KVzdKQVZoRkt0Z09acGRJcVF2MURzS1pqalljeE5LcnVVbHJqRnYzeFY2NmRuaVhpOXlVQktoRklkSjhhdnhNNGVxNmZyTEE?oc=5",
+          "source_date": "2026-09-12"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "박위, 케나 봉사활동 논란…알고보니 비전트립이었다",
+              "hook": "박위, 케나 봉사활동 논란…알고보니 비전트립이었다",
+              "topic": "연예",
+              "summary": "박위, 케나 봉사활동 논란…알고보니 비전트립이었다 박위, 케나 봉사활동 논란…알고보니 비전트립이었다    네이트",
+              "openings": [
+                "박위, 케나 봉사활동 논란…알고보니 비전트립이었다."
+              ],
+              "source_name": "네이트",
+              "source_date": "2026-09-12",
+              "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JRnFjanpQeTAwb09nMTNYNXFldEh1THdRMXh2V19lMTBBNEhXUlBOLU5NTVEtZG03TE1zUjNwVkhaRU05ZEtiTVZFM3hYaWw0YUUw?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "박위 케냐 영상까지 '민폐' 비난…봉사 아닌 '비전트립'이었다 [엑's 이슈]",
+              "hook": "박위 케냐 영상까지 민폐 비난…봉사 아닌 비전트립이었다",
+              "topic": "연예",
+              "summary": "박위 케냐 영상까지 '민폐' 비난…봉사 아닌 '비전트립'이었다 [엑's 이슈] 박위 케냐 영상까지 '민폐' 비난…봉사 아닌 '비전트립'이었다 [엑's 이슈]    xportsnews.com",
+              "openings": [
+                "박위 케냐 영상까지 '민폐' 비난…봉사 아닌 '비전트립'이었다 [엑's 이슈]."
+              ],
+              "source_name": "xportsnews.com",
+              "source_date": "2026-09-12",
+              "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53STlWVG5lSU82STdvdE01Y1J2VGVEWGxUaUR5UzFfeEVwMV9kb1BubkFUNXNvZkg2SnFVOE4wQkw5ZzBYbE5RYUw3OWh2NVJZS3dSaA?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "지예은 \"충주서 농사짓는 시부모 뵈러..김종국 콘서트 못 가\" 예비 며느리 근황 [스타이슈]",
+              "hook": "지예은 충주서 농사짓는 시부모 뵈러..김종국 콘서트 못 가 예비 며느리 근황",
+              "topic": "연예",
+              "summary": "지예은 \"충주서 농사짓는 시부모 뵈러..김종국 콘서트 못 가\" 예비 며느리 근황 [스타이슈] 지예은 \"충주서 농사짓는 시부모 뵈러..김종국 콘서트 못 가\" 예비 며느리 근황 [스타이슈]    v.daum.net    지예은, 결혼 소감 밝힌다…양가 첫 만남부터 프로포즈까지    뉴시스    '12월 결혼' 지예은, ♥바타 상견례→프러포즈 싹 밝힌다..결혼 축하 파티 ('런닝맨')[방송 프리뷰] - 조선비즈    Chosunbiz    지예은, ♥바타와 초고속 결혼에 혼전임신설 “억울한 게 저는 애가 없다” [SD톡톡]    스포츠동아    ‘바타♥’ 지예은, 혼전임신설 부인 “애 없어…신",
+              "openings": [
+                "지예은 \"충주서 농사짓는 시부모 뵈러..김종국 콘서트 못 가\" 예비 며느리 근황 [스타이슈]."
+              ],
+              "source_name": "v.daum.net",
+              "source_date": "2026-09-12",
+              "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HbGtaRkxWZVM3bEdNOGRSdnJxVVN4eTR5V0p4Ul9HTzBFS1d6VlpWaEtucGRyYXR1bnhuRWpqd254ZWppcHN3OV80SDNhMDg?oc=5",
+              "priority": "A"
+            }
+          ]
+        },
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "[단독] 박위 케냐 방문 ‘봉사활동’도 아니었다",
+              "hook": "박위 케냐 방문 봉사활동도 아니었다",
+              "topic": "연예",
+              "summary": "[단독] 박위 케냐 방문 ‘봉사활동’도 아니었다 [단독] 박위 케냐 방문 ‘봉사활동’도 아니었다    스포츠경향    'KTX 사고 CCTV' 박위, 케냐 방문 성격 두고도 갑론을박    뉴시스    조롱받은 박위 케냐행, 반전 있었다…그 여행 뒤 1600명 모아 '1억'    네이트    박위, 케냐 비전트립 '봉사'라고 안 했다…억측에 여론 반전될까 [Oh!쎈 이슈]    미주중앙일보    현지인 고생='웃긴 장면' 희화화, 또 걸렸다..박위, 해외서도 도움받고 착한 이미지만 쏙 [스타이슈]    v.daum.net",
+              "openings": [
+                "[단독] 박위 케냐 방문 ‘봉사활동’도 아니었다."
+              ],
+              "source_name": "스포츠경향",
+              "source_date": "2026-09-12",
+              "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hR0JwcUVkc1hRSUdFNWVhNGk4eWFYTGFqVXh0RC1KakpLUTRydlkteFRVV0FUZmhQcGR1Ylo0MTN6M2daZ0ItTG9hVG8wWFZ6NEttUmdOcVRaRTVqMVHSAWNBVV95cUxNOXNaZE5COVZxNWlmUks3cHFqQkNjMS1RZkFfbk9uSjc1c2l5OWZQZFU4enVpendLYnMzMklMUHd5bWVlRmFoMFBEWWk5SkdtdGFwUEZHWmxCR3NvZHBtcjFFTFk?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 11
+    }
+  ]
+}

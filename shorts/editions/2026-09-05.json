@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-05",
+  "built_at": "2026-09-05 09:18",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/05 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "“용혜인, 언더조직서 성차별 고통을 방관”…성평등장관 자격 논란",
+          "hook": "용혜인, 언더조직서 성차별 고통을 방관…성평등장관 자격 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93NmxjWXlSWmFPRTJ0Qm43Nkk3UjlBUEVlaHlGYkNPMm03eU9weFNCMVFxbUM4RnZkVFNoaVktbE5KN09ZWEJ0Y3U5VmZ6NFlVLXdHdW9SWHFNYXZTSjRUeHZFSks?oc=5",
+          "source_date": "2026-09-04"
+        },
+        {
+          "item": "피의자 차에 압수물 가방 두고 내린 경찰… 휴대폰 2대 사라졌다",
+          "hook": "피의자 차에 압수물 가방 두고 내린 경찰… 휴대폰 2대 사라졌다",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT1hRUWhsWTY1bGRqR0NtMVBzRkdXM1c2bHJYeDdiVDBTb2hCSVJSVVpodlEtamp4LTYwWUJWd0FrRk41Tm9lb3dkZlNwR0x2dHF5dzMtTmNzSEMwNVNuOHlqSER2YVptckZwMFVtdGZtRWwzbnd4NEdqTDVnNEhsSjR6c0NsZkJ6R2VmdEJDR2c?oc=5",
+          "source_date": "2026-09-04"
+        },
+        {
+          "item": "전북 경찰, 사격 훈련 후 실탄 3발 빼돌려 직위 해제",
+          "hook": "전북 경찰, 사격 훈련 후 실탄 3발 빼돌려 직위 해제",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWkxTHp0Z0luZTY4Y3BrVUI1ZVFVcGVhXzNZUk5RSjNvZFZvYl9YZjBzU0xKaUNOcGVFMnkyWnRWX2JkSUF4TlNFWjNHVFpESnAxTHg1Y0lsV0lFS2tTamVPeVdjOEhQN19NUnluOURQUHNDM2lxdXVKdnhGdHRSWjM1Nng3VjhzSHotQWt3?oc=5",
+          "source_date": "2026-09-04"
+        },
+        {
+          "item": "[속보] 경찰, 광역단위 실종수사 감독 전담조직 설치 추진",
+          "hook": "경찰, 광역단위 실종수사 감독 전담조직 설치 추진",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93bzkxQjhjM1F3REdja1NOY3poSTBYYzZFLTRLTlBqeXNFV3hIemp1QlBWTVhodlB4OEZZdi1sMDRSekNyM2QwQUJNbkhJUnkydGhLVQ?oc=5",
+          "source_date": "2026-09-04"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "박위, CCTV 공개 논란 속→’자기 탓 아니라네요’ 제목 도마 위…”남 탓이 몸에 뱄구나”",
+              "hook": "박위, CCTV 공개 논란 속→자기 탓 아니라네요 제목 도마 위…남 탓이 몸에 뱄구나",
+              "topic": "연예",
+              "summary": "박위, CCTV 공개 논란 속→’자기 탓 아니라네요’ 제목 도마 위…”남 탓이 몸에 뱄구나” 박위, CCTV 공개 논란 속→’자기 탓 아니라네요’ 제목 도마 위…”남 탓이 몸에 뱄구나”    TV리포트",
+              "openings": [
+                "박위, CCTV 공개 논란 속→’자기 탓 아니라네요’ 제목 도마 위…”남 탓이 몸에 뱄구나”."
+              ],
+              "source_name": "TV리포트",
+              "source_date": "2026-09-04",
+              "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDYzFCVFl0Q0wzTmpfNzBtRWlHUUdFVUVnbzFyblJCYklOMFQwc1RvMWFKVjZVNzBNTkRDWWVtRnFLcWhGTDJPWUZSSk9IRV8xS0JoajhIYnJrRUNlV1hKUEFSb9IBaEFVX3lxTE04WjVaQUlJN1U5c0ZwbnFPTjNjWmEzOGprOUV0MkhLcDktNmpqRFFYazkxX2xEdE1kNmpaR0ZtUm9qRkcyaWlacTlQci0tcFVIZllwV0wyQzBtb0FTQmVGbDlhZ292N3o1?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "“호의를 권리로 착각”…박위 ‘공익 저격’ 논란 속→현직 변호사, 날 세웠다 [RE:뷰]",
+              "hook": "호의를 권리로 착각…박위 공익 저격 논란 속→현직 변호사, 날 세웠다",
+              "topic": "연예",
+              "summary": "“호의를 권리로 착각”…박위 ‘공익 저격’ 논란 속→현직 변호사, 날 세웠다 [RE:뷰] “호의를 권리로 착각”…박위 ‘공익 저격’ 논란 속→현직 변호사, 날 세웠다 [RE:뷰]    TV리포트",
+              "openings": [
+                "“호의를 권리로 착각”…박위 ‘공익 저격’ 논란 속→현직 변호사, 날 세웠다 [RE:뷰]."
+              ],
+              "source_name": "TV리포트",
+              "source_date": "2026-09-04",
+              "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1LXU2b29HUVlXNDVzNHNBbXJwZDE5eGpoVUJ3OXd3QjVEb19vTTlRV2RLOHhIT3owSzloTzg3Z1ItYXhEaV9KdjhFQ19nNWozZS1nMFIydWpyaWJ5UkFSQmpDNNIBaEFVX3lxTFBGTDRrMGs2ZHlrWTU4a1A0UkQtSEliVVh4MHdBbG85Nm05dDdEYVJ4Y0ZtU2JyMDJrbkhJTnJzM0lGY040YXdHZHBiRXRCaGhIbGZQRVIwV2RTVnhxUmt2d0dsb1hrUDcw?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "'마약·체납' 박유천, 꽃무늬 셔츠 입고 도자기 빚는 근황",
+              "hook": "마약·체납 박유천, 꽃무늬 셔츠 입고 도자기 빚는 근황",
+              "topic": "연예",
+              "summary": "'마약·체납' 박유천, 꽃무늬 셔츠 입고 도자기 빚는 근황 '마약·체납' 박유천, 꽃무늬 셔츠 입고 도자기 빚는 근황    네이트",
+              "openings": [
+                "'마약·체납' 박유천, 꽃무늬 셔츠 입고 도자기 빚는 근황."
+              ],
+              "source_name": "네이트",
+              "source_date": "2026-09-04",
+              "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VOVlTR0JoaVQ3ZlpoNDc1U185bVZ3bW5wRDEyek9YTlhiTm9JYV83czNOeE1nOW5kb0dZWm5NMC05WmJsTHlMdG5YOG41c1o5RGg5OVluc2xnNzdwWTZwT2JtVkg1SXM2?oc=5",
+              "priority": "A"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    }
+  ]
+}

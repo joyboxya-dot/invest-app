@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-30",
+  "built_at": "2026-10-30 11:06",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/30 기준, 후보 7건에서 장면·갈등·기괴 과학 축으로 7건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "美, 진성준·정청래 비자 논란에 \"트럼프 정부는 미 국익이 최우선\"",
+          "hook": "美, 진성준·정청래 비자 논란에 트럼프 정부는 미 국익이 최우선",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWnVnVkpGRTR6VFJrUzg4NVNkRW5EMXhTQ0Y2LU0wQWFVR3NmeC1zYjBJX1pCZnIwbm0wX2x5Szl0SjE4M2UzRUJOX0wwOTJqazl0NDN3MVA2b1lKcm0wTzJVbHNLZElUYS1HbzZzSkVuVjdydEYxQ2hTMS13eDRLUDJweHI?oc=5",
+          "source_date": "2026-10-29"
+        },
+        {
+          "item": "北, 초정밀 600㎜ 방사포 사격 공개‥김정은 \"힘이 곧 평화\"",
+          "hook": "北, 초정밀 600㎜ 방사포 사격 공개‥김정은 힘이 곧 평화",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mZFdBZUxUNjlBakZYck5VQWlHeTRYZEY4X1c2MFJXanFzLVlZMFNUR2ZINmI3T3VHRHdQNmlmbm9PbzVFWFN0ZHJBMlJJR0ZHZUJjZU1CQXVaZTlyNDRaWHhhOUN0NWVKTXE4cEktQ3VNUTN40gF0QVVfeXFMUHktZ2hnZU9RM2NRcVR1cm5YYzFTUmE2QWpQYVBKcFZ5WUppeXJtTWtxbzdnc255VXlfemd4OGxod1prMmhlUV9NZTB2U3BpemJJbkd1bHV1VFdjSXEzYmpuLWIzWjV6S0dfdDRWaWZZSXhPenY?oc=5",
+          "source_date": "2026-10-29"
+        },
+        {
+          "item": "김정은 방중 계기 북미대화 논의 가능성…靑 \"확인해 줄 사항 없어\"",
+          "hook": "김정은 방중 계기 북미대화 논의 가능성…靑 확인해 줄 사항 없어",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "뉴스핌",
+          "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGUWlfVGQ2YTIxVk4zYUVYQ09feFNzcnl5NDVCSUhVcmFXTFlXaDUyaXZUNGh1Vmw5MWY3TzYwS0NCeC1pY3hrdkFqMWZsUWtLUUlZb2l5UUZnZFln?oc=5",
+          "source_date": "2026-10-30"
+        },
+        {
+          "item": "다문화·이주노동자, 대통령이 키운 논란…참모진·장관들 수습 ‘급급’",
+          "hook": "다문화·이주노동자, 대통령이 키운 논란…참모진·장관들 수습 급급",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hWlVNMGlXcGJzWDNSYzltalFtM1VidUhERkdhVzJEZHhhQTdHbDJqNm9oWkw5STF3ZlRyYmI4dlc2NVh5VGtEeUpzQlFTQ0NNeTZfN0I4emF4dkMtVWJONVdfZXJpRDhURW1R?oc=5",
+          "source_date": "2026-10-29"
+        },
+        {
+          "item": "\"장염 걸리는 건 결국\"…서울대 교수가 밝힌 '불편한 진실' [건강!톡]",
+          "hook": "장염 걸리는 건 결국…서울대 교수가 밝힌 불편한 진실",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UGNXeEtPSUpQMXRSTDNsbFVYdWtmbUpHMmthWnpFNUhscDF4UmFjd3ZjaWRkQUhSUXVCODhXS2lWbGI0WFpfUVJ2M0xrYmotRTlCSjRyRWFjZw?oc=5",
+          "source_date": "2026-10-30"
+        },
+        {
+          "item": "임광현, 이 대통령 차남 관저 거주 논란에‥\"경호 문제 감안\"",
+          "hook": "임광현, 이 대통령 차남 관저 거주 논란에‥경호 문제 감안",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Xa2U0ckFDRThCZ00xelhZS1BaZmVLQnRvSWxrcmp1Y2lWNjdCNnJqTTdndVdUbE9kZmZ0a0trMU9lOEY5SFNhaEpOM0hYbExtaUhWd0pxUFZHUU1PSEY0djZEYjJJNEw5NUhvRWhwZEt0aGJqeWVkMdIBeEFVX3lxTE1nMnUtX01DcGZkN25rWjVKeFBRek4tTzZYVmJYRVhIN2I0MXYtTE1hOVY4RkZLRHVhOE9wVmZSVHdMRnR0Vm80Yi1pcmpGTkZNYUl2VWNFRTRIRXh0eVA4cFNTQ0hBT1JLdkk5bGl4ZFJKalBZNWRSQg?oc=5",
+          "source_date": "2026-10-29"
+        },
+        {
+          "item": "[속보] ‘암살자(들)’, 논란에도 손익분기점 넘겼다…340만 관객 돌파",
+          "hook": "암살자(들), 논란에도 손익분기점 넘겼다…340만 관객 돌파",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "서울신문",
+          "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qWVlNbms0OExMSmMxSUNrZTFESERNS3dYMnlPbGVXaDNyUzJfS05jdXppclBoalZTQUdoZmx0YUNWSGlqcW4tMHR6ZDBTQS1fSGZySEdyRDQ2VWNtUFk0a3lnYURQNlAyVmFJ?oc=5",
+          "source_date": "2026-10-30"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 9
+    }
+  ]
+}

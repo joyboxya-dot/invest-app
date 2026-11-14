@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-28",
+  "built_at": "2026-09-28 10:04",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/28 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "[글로컬] 푸바오·늑구에 부캉이까지…이유 있는 '동물 팬덤'",
+          "hook": "푸바오·늑구에 부캉이까지…이유 있는 동물 팬덤",
+          "topic": "과학",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHUjhQV0lqWU10RXJGV2JCLWRVUDc3RmYxUlE2TFdXU0VSRXFrbTR2UkNEakxTM2pLcU1KOTBNZjZuUXZxb2Y2aENWWXNFYmZ5dlJEV3VuU1ZmU2_SAWBBVV95cUxNRzdCRTUzckVEZ015VmJLTEhqc1pTVThmVnBYS0xkd0xaWWhZbkg5aUxUOFU3OTNjc0tHelN3RzllM1d0YlNqWWRBTVJHR1ZLYkoxeEo3aWVaOGVPblcwemw?oc=5",
+          "source_date": "2026-09-27"
+        },
+        {
+          "item": "트럼프, 정부 돈으로 TV 광고 논란…“마지막 전투” 음성 담겨",
+          "hook": "트럼프, 정부 돈으로 TV 광고 논란…마지막 전투 음성 담겨",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XUzhZWUU5MFpKamNSMzBCN1l5MUk1Snpsbm1fbDJCXzBsb2dMbk1HMlpkd3VINnRWMzNfNjlNazA1d2tiMVp4TlA1N2wyWHRVd3FDZEd6MDZhNlU?oc=5",
+          "source_date": "2026-09-27"
+        },
+        {
+          "item": "경찰, '남양주 별장 흉기 공격' 50대 운전기사에 구속영장",
+          "hook": "경찰, 남양주 별장 흉기 공격 50대 운전기사에 구속영장",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEaXNWdjQzNmxYY1Y1RU1lT3lKYVZsMVRwcW5PenNSQTBmeEZPOHFYNHhDaWgzRkt5bENFN3NVemdaUzF5YzkxWS1EYjJ5dkNhazNPQXkyZE1XUkN6c3M3TjBDYjk4OXZMbWFFZnJxSzRsUmhIbXhz0gF3QVVfeXFMTW1DcHhmc0JWWEZudXpHazBIRHNKQk1OQWlxSXBtQkxrSUl3MmNjQnhKaW54Qi1hNjA3UGV4RTVfMXo3TVpDY3BGN2VQc3dsbGM0QkplbkJKV3dEY1JlQ2c2OXc5X0NMSWtNa3F6TWhRNkhMZjZ3Ums?oc=5",
+          "source_date": "2026-09-27"
+        },
+        {
+          "item": "[뉴스AS] ‘연소득 1억 부부’ 이미 공공임대 가능한데…‘보편형 임대’ 형평성 논란",
+          "hook": "연소득 1억 부부 이미 공공임대 가능한데…보편형 임대 형평성 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GUWttREdlb1ZnczZTZE5UREZaM00wNk9OMmxiWldEU0RkN1dUMjdCdWNFaVJmOTcxT214OC04OHNabWRLeEpEZTRqN2p2UXBhcGhNem9lQlNzMkRydm9qTllqQlJHV2c1dXVjTFI0aTBydw?oc=5",
+          "source_date": "2026-09-27"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "박신혜, 둘째 딸 출산 5일차 근황..산후조리원서 한일전 응원 [스타이슈]",
+              "hook": "박신혜, 둘째 딸 출산 5일차 근황..산후조리원서 한일전 응원",
+              "topic": "연예",
+              "summary": "박신혜, 둘째 딸 출산 5일차 근황..산후조리원서 한일전 응원 [스타이슈] 박신혜, 둘째 딸 출산 5일차 근황..산후조리원서 한일전 응원 [스타이슈]    v.daum.net    ‘최태준♥’ 박신혜, 둘째 출산 후 받은 선물 인증 “모든 아픔 잊게 만들어”    조선일보    ‘야구 찐팬’ 박신혜, 출산 5일 만에 산후조리원서 한일전 응원 “이겨보자”    스포츠경향    조리원에서도 한일전은 못 참지… 박신혜, 둘째 출산 '5일 만'에 야구 결승전 시청    OSEN    최태준, 이제 딸바보 아빠…\"박신혜, 둘째 출산\"    한국경제",
+              "openings": [
+                "박신혜, 둘째 딸 출산 5일차 근황..산후조리원서 한일전 응원 [스타이슈]."
+              ],
+              "source_name": "v.daum.net",
+              "source_date": "2026-09-27",
+              "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MVBBTlNHRklGZEpFb3ZHQlJkUEpVel94VnkybTdoWHZXcTZ2QWFuOWx1UkJGUmItLXNJd2lNVW9uZElzaFlzQ245UWlkVzA?oc=5",
+              "priority": "A"
+            },
+            {
+              "item": "“합법적 바람” SNS 사진까지…男배우 아내, 조인성 품에 안겨 ‘활짝’",
+              "hook": "합법적 바람 SNS 사진까지…男배우 아내, 조인성 품에 안겨 활짝",
+              "topic": "연예",
+              "summary": "“합법적 바람” SNS 사진까지…男배우 아내, 조인성 품에 안겨 ‘활짝’ “합법적 바람” SNS 사진까지…男배우 아내, 조인성 품에 안겨 ‘활짝’    seoul.co.kr    조인성 허리 껴안고 환하게 웃는 여성은 김기방 아내 \"불가능한 사랑\"    뉴스1    조인성, 김기방 아내와 밀착 스킨십 처음 아니었네…남편은 “합법적 바람”    스포츠경향    조인성 품에 안긴 김기방 아내…김기방 \"합법적 바람\"    뉴시스    \"조인성 얼굴이 문제인가\"..김기방 아내, 조인성 품 너무 쏙 안겨 갑론을박 '유쾌' [Oh!쎈 이슈]    조선일보",
+              "openings": [
+                "“합법적 바람” SNS 사진까지…男배우 아내, 조인성 품에 안겨 ‘활짝’."
+              ],
+              "source_name": "seoul.co.kr",
+              "source_date": "2026-09-27",
+              "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOGQxdEl5N3VaUmhrVWhqZk9aaERTeGRhLThVOXhwWXhUZDNLOXhqbW9KX2EyTy0yMzhFMHlJSHVEX2duc2lZYTdCanczZTlIWTR1MWtDWTNQbnpGX1RmV1ItX2JJSTlrNHB5RURaZy1IZWxXNjhpOGMwZkltdjlXV00yczZGUQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    }
+  ]
+}
