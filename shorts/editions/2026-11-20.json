@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-20",
+  "built_at": "2026-11-20 12:40",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/20 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프 대통령이 김정은과 만나지 않은 이유를 설명했다.",
+          "hook": "트럼프 대통령이 김정은과 만나지 않은 이유를 설명했다.",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "Vietnam.vn",
+          "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15b2NaNWJEbUt3RWpKYkFWdWFkNkxORnpMU2drNHRUTnlvV3BVczRwRjZ4alF5OWNuSUxCc0ZtMWJHekUyYVlpUmpZTXdHRjdnbGZLd0hzakVwc19fd1Nza3hIVFBjZFZHbW4td0tpN2E2MVlOamJaVU1fRQ?oc=5",
+          "source_date": "2026-11-20"
+        },
+        {
+          "item": "美동물원 하마, 관광객 모자 삼켜 폐사…“수술 불가능했다”",
+          "hook": "美동물원 하마, 관광객 모자 삼켜 폐사…수술 불가능했다",
+          "topic": "과학",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "동아일보",
+          "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yN2NrU0k0eTcyckN4YnZmbnUzcFpmVHAtanJIT2xzQU5iZWVRRGtGdno2MkNmTWFlUDZPVmxlVDJBblphZTFTNktOYU5zUVBoWVV6UmhBc3IwMFEtT1lXQmtqemk5WFhNWGlyOUlGWkp1MTDSAWZBVV95cUxObUpFT19zcENDV1QxX1pCZHVXQXRvOHBTWkJWMHZ2M0d6QjNNUmxmcVJULWVXU3FMS0owZlprR2dCdk5Zem1zN3VWNHNKYlRsTDZNTkQyTHZieExYRXM4bms0OEp3S3c?oc=5",
+          "source_date": "2026-11-20"
+        },
+        {
+          "item": "'손흥민 리더십 논란'에 '96라인 은퇴설'까지 터졌는데 스페인은 한국 대표팀 극찬...\"모레노의 한국은 날고 있다\"",
+          "hook": "손흥민 리더십 논란에 96라인 은퇴설까지 터졌는데 스페인은 한국 대표팀 극찬...모레노의 한국은 날고 있다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "머니투데이",
+          "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HUGg4Z3VpS25uUXhjck1LZ1hBUUpZVTdyYVlwZ0x3bEI2N1RrR3l1TVlNNUdmLTVvZW96U0V4bUwtSzZSaE9GbWVpbTlBWWtEZlBfa2xGWjJmdDZZc3NrR28wSmJub29zQWfSAW9BVV95cUxQbmdDZ19yU2lDZ3M1d1RhaF9rNHp3b054cmx2NFBYNk9UaVlNdVJlWEhEcDRYQ1ZEcnAtSGFOZnNveGVCeS1sdTlJSE5EVi1BWmthbmNNMnFRNEN0b3FHX0Y2aEJjdGpVUERGTmJCRVE?oc=5",
+          "source_date": "2026-11-19"
+        },
+        {
+          "item": "'성범죄 유죄' 강지환, 7년 만에 직접 전한 근황…뜨개질 하며 틱톡서 소통",
+          "hook": "성범죄 유죄 강지환, 7년 만에 직접 전한 근황…뜨개질 하며 틱톡서 소통",
+          "topic": "연예",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "뉴스1",
+          "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3bUVkMTllUVNCS1hpM1JuY2NEMmh3VWxiSWpYNzVKSTJwZVpkQ254UXBrUXcyQlBkSHIwbFgxckw0Y3dZaFU2ZmlDRnYxRnFtMEM2S1BvQXpvNHBGeTlfWHBiZEs?oc=5",
+          "source_date": "2026-11-19"
+        },
+        {
+          "item": "[속보] 경찰, 10대 소녀 살해한 50대 男 공소청 송치",
+          "hook": "경찰, 10대 소녀 살해한 50대 男 공소청 송치",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95Tlo1Ynk4dDRPN0FSZHFXZnJOSGhVbFRaOFVvbmdTeUk2MkdyRTZELVYxMFY4QUVsaXIyRHBlekNqODlaZ0ZhVXFoZHVIZVJEeFNYOFhpV2V4UQ?oc=5",
+          "source_date": "2026-11-19"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "경찰 \"실체적 진실 확인 위해 '리트 만점자' 수사 이어 나가겠다\"",
+              "hook": "경찰 실체적 진실 확인 위해 리트 만점자 수사 이어 나가겠다",
+              "topic": "사건",
+              "summary": "경찰 \"실체적 진실 확인 위해 '리트 만점자' 수사 이어 나가겠다\" 경찰 \"실체적 진실 확인 위해 '리트 만점자' 수사 이어 나가겠다\"    MBC 뉴스    “우롱당하는 느낌”…리트 만점자 ‘노쇼’에 울먹인 강사 [현장영상]    KBS 뉴스    “동기들에겐 좋은 형이었는데”…故이진우씨 서울대 치대 동기들 애도    경기일보    이진우에게 ‘수능 생중계’란…전문가들은 이렇게 봤다    JTBC    “리트 만점자에 밀려 고대 탈락, 고소 준비했는데”…고대 예비 1번? “재수비 물어내라”    전자신문",
+              "openings": [
+                "경찰 \"실체적 진실 확인 위해 '리트 만점자' 수사 이어 나가겠다\"."
+              ],
+              "source_name": "MBC 뉴스",
+              "source_date": "2026-11-19",
+              "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uNWFJMFVTT1VXd0kzdm5BLW1rbkVCYXBLZWxvak1NMWxCZVZWNUZjcDVKNHhTbnJnejB0eVJza2RqWV8tWHlWSlQ1SEdaeU04OTMxVU1xeU9VRFdXOVVMRFBzVFNnSk5iNFlLdHhFSlRRWUN1dGtn?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    }
+  ]
+}

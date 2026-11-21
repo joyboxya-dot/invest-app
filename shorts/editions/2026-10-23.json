@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-23",
+  "built_at": "2026-10-23 09:51",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/23 기준, 후보 6건에서 장면·갈등·기괴 과학 축으로 6건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "미 전문가 “내달 APEC 계기 트럼프-김정은 회담 가능성 10% 미만”",
+          "hook": "미 전문가 내달 APEC 계기 트럼프-김정은 회담 가능성 10% 미만",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc3pFYTVfS0pmOUtwWjlHR2tDbWt1NkVkY1pnUmlXdWVxaU0xOXdjQ3llYVA5TnRZWEM1aFZDRVExUmVmOFluMlY4SDZ3SmJOcU9ETmoxZlNFMDktZHZscG1NYkVzeU5rMl9rMnRELW1rOFZOUkRvQVQ5NnUtbF9nQ0dn?oc=5",
+          "source_date": "2026-10-23"
+        },
+        {
+          "item": "끊이지 않는 김정은 사망설…北서 잇따라 벌어진 일",
+          "hook": "끊이지 않는 김정은 사망설…北서 잇따라 벌어진 일",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "아주경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMXE1X1F3a2R5OU8xaC1lNzdrRzZyM1BrcjdQVDU5SzRFX1VsMlpZR2lwOWFjd0x6eVVLZjlycmZDSl8yX3JTc08zZ3pGMjhmblJ3Q3hFd2FmQdIBWEFVX3lxTE1YS0hvWXJIR2pDVXl3MEJBM0hXZnlnWVYzSHdKRnBfcGxJZnhsdmEwOHlOV0gzQjZjMDlmdXEydDc0OGNFd3g5emRDR2pCTk11a2xaazNEdmw?oc=5",
+          "source_date": "2026-10-22"
+        },
+        {
+          "item": "김여정 “국경선 새 대응수단 대기”…커지는 우발충돌 위험 [뉴스분석]",
+          "hook": "김여정 국경선 새 대응수단 대기…커지는 우발충돌 위험",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OWl9lOGlQODVPRmJ0Qnc5OWhuT0hqV0MtYkQwU0h5NU5Lem5aTzlqSW9YY21mVmZROGU1TEt3dW96dHFZLVQ5eVU5U1o5c0YyWF8tNjBtb1F6cTBkaHVyLTVUdFpUYzk0?oc=5",
+          "source_date": "2026-10-22"
+        },
+        {
+          "item": "수능도 ‘AI 안경’ 비상인데…‘육안 판별’ 논란",
+          "hook": "수능도 AI 안경 비상인데…육안 판별 논란",
+          "topic": "AI",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wa1d5TGM5bkFDWmdhbzBzclppb0VuVXJvNXVPOGJZT0g4UHJENFMwVTNNdElDUmx6NG9GUl9CQ3llZ01XeEFIZHVRTWVJbjNtcjBVMU02UTlseEgyTGxELWNUdGd6QQ?oc=5",
+          "source_date": "2026-10-22"
+        },
+        {
+          "item": "‘병역 혜택’ 경솔 언행으로 논란된 박승수·양민혁·이기혁 결국 징계받는다…유승민 회장, 국정감사서 징계 요구에 “그렇게 하겠다”",
+          "hook": "병역 혜택 경솔 언행으로 논란된 박승수·양민혁·이기혁 결국 징계받는다…유승민 회장, 국정감사서 징계 요구에 그렇게 하겠다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Goal.com",
+          "source_url": "https://news.google.com/rss/articles/CBMinw1BVV95cUxNVnpIMFZvTVk5NDRMNExyeTVHUHNVZUtPVW0yOHkzUzNYZU56Z1N5UzV4aUpSVFkwdW5XMG9LMHZjZkk0aTVPZWFfLXZzVngzc0FBMTZ5ZFcyMWVNc0F4MjFDYm0xSHY5U2JGS1FZWU5iV1RyQVJGcUZBMnBkQ0g1ZmIwSlVfVzd0QWJrVEN0Zy1TMGtzNGM5VnJRbHN5UFhOQmtxaGtZVTQ0VGk2NXFlVDNfYXdLd2lCWnFzU3JldWI3dHBza0N6RW1xN2Voa25EXzU5Y3ExNkcwRi1IZkM5UVVuUjNHN2lUVDV1SGhUREgxckJiakpCdXJuVXdjUVFpVEozXzlGTkRWdExzNTVCV0xIcUt6SGhPOVpJVkp0QlJUWnRsWlBnT20yX1I4N0g0VmU1MjFEdzVBUkxuMlQtNTRzS2U2U1hwV3BrQVpUZ1ZrSmhiamJ1b0V1Zlg1cVZsVm9XVGk1Wnp6SklHTXFRVlF4OWQ4eGUtbUNYeEpMQ251N1plSHkwZE50Q3RPVHBJYmZ2czJUaExMdno4UGZjZlVMdnhURGt1SFd6VnFjS0VZcktxOHVnOTMyM0kyZWdoQzNWbV9WLXd1YURUX1V4MVFvbUkzWTNDbjJyaHp0TjgwNnlBVkhTOUpibk9nZTBHYm9BSE1ESmdZb3RBOWRXU0NBUGpHT1IxY3NwNTU5elVuTFFKdkh3MmhyUTBNd2NHRHRqOG5sVEJ3dEZiRW5pQXNwcXppS0YtSEJTRTZ5ZzRVY3dWNUxUWUgweVVCLXBOTjJVbkJ3bElqazBhVW16SllWLVRuTVY5SGFXb2ZOU3d5RDNvUjk5Tl9XSm1uQXpWaEZPOU1zN1JVMC1raGd3OWpad3RoNjRlRktJTlNrcXdxWUcwNy1BU3A4TFMwM3phbFFzSFJhbndGOGtKclByR0hJek85TWZ2WEs2SXpDQ3Z5WW83YS1wU0xlbW5oQnB0OWNIUTZ2TE1MMUNQTkxSVEZ1NlFtLVdpUTFyeS0tUmpCYWFKZGdFM1RlYy1BZXBJZ1REN2tQZVFEXzJhRXd6QTl1VzRWU0k5cWpGMml0V0hTYUlzYWFualRBUEUwSHE2czc1T3p4RVZvMmU2VWk1YTFmdndoQXR5YXRDMzFsUTRYSW1lUkl6RmNLQVlUNEJiem1qeHlXYkNRZjEydm00bGtUcGUyOEIwVDA2LWpfdHZwS2ljaXRfUEFYdF9vNXR0M08tNGl5MmJKYzdOQ1FFX1lDa2p2c2QzRE5DUGNsMVBMdGVsVkw1NkRsbkxEZHpnSk5nSnRJa1hzYnNTTElrR3hBMEZQSVp5YjZBWHVLazJSR3RyZU5tb2phcm05VXBkeWl4cDBhY2hyRUdaUjFWUFZYQ2pDNmNwWTNoOFZ1dnFTLXQzWnN6bDBZOC1jcjFpU3R6bnZtODFNQlA4bmtKOWctLXlvVWRaT2QwR1FBVjU1aHJoVlpvX1NmczNDcndLTDdNNS1GMEhpaHdfU1c2M3JHVW1ldDFHSGhOVFVZYTd1Y0I3QjF0MlpEV1NhSkVfLTNkRkJudERLWEF6TEdIamhtWVdNVjdWcXRtc0lkUW5JTjNlYlpDcWc3S2o0MTI1Sjg0LTJMNUl1OExzUWgtRjRfRERMR29CeDVXcHV0eHUyMFB6ODNfaVJLam5MWHZERlEtdjdnZWtkek83NktZV2NoUUhZbzVpYzAtUmNRNDUzVXlZX3FvYmI1eGRLN29QNVZyc1pjdkFuNlRIY2Q0RWw2MWtZYmZrOExQLXpXLUJmNExVWTZCYTdEV0lrSEJEYUo1a1VZTWdWWFFqZFhIZVgtRnF6N0hoZjF0c2JuT2JVYnVZTmlqbG9WTm9UTE1qLXJVV1U0WGFadUlZQXlnLVZORDlmNTdiMnZpdTd5TTVIWEJMbDVqWGs1N3BXdTFzOFJDNy13SUhPcURwRXJCRW5IcDVidmtLbVFzbVk3cmFvNFZ4bnVfV3RtVU1iX1dmUHlZQmNmV3dkUVY5eWlQbGc2NVZZWjdoTXowQXNNcS0zY1BvZDdSeU1rYWY5VzNPRHZGR1ROZXNyRE1QNUFIQ2FGZXFreUhLQUZXUVMxQm12RDdyM2tiM19iU1JGRE1PNGFHWTlQeG9USjJOOTJGN2hhbTZsTGNwYmc0YTNhSXNkZ0pTREFqcWpHUFpfaEIzeGVza0ZLR3FhZVYtUEVVSEFZMGFSb0t3OHZ0N0RxaVhSQk9wM3lUbk9wTUJOSjA?oc=5",
+          "source_date": "2026-10-22"
+        },
+        {
+          "item": "북한 IT 인력, 국내 민간업체 위장 취업 정황 첫 포착…경찰 수사 착수",
+          "hook": "북한 IT 인력, 국내 민간업체 위장 취업 정황 첫 포착…경찰 수사 착수",
+          "topic": "북한",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5VklQZ2hZZlN5ZDhCYTlxaTFGbGtIRHBTd01BYkFuczItUU5iTHdMY21sakFJQ3p5WW1jVlVkRmlrQjIwVEwtVUt4MkVqcXgwSXZTOU1JTklqdjNKRmVubC04N1k1aGFUb2FBZ1NjYnJaZw?oc=5",
+          "source_date": "2026-10-22"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "money": [],
+        "tech": [
+          4
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "해양경찰교육원, 신임 해양경찰관 289명 입교훈련 중",
+              "hook": "해양경찰교육원, 신임 해양경찰관 289명 입교훈련 중",
+              "topic": "사건",
+              "summary": "해양경찰교육원, 신임 해양경찰관 289명 입교훈련 중 해양경찰교육원, 신임 해양경찰관 289명 입교훈련 중    내외뉴스통신",
+              "openings": [
+                "해양경찰교육원, 신임 해양경찰관 289명 입교훈련 중."
+              ],
+              "source_name": "내외뉴스통신",
+              "source_date": "2026-10-22",
+              "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wdnAwMGgydEhWSWtxUWhYZ3pSTFB3Smd6TkVVY0tpZ3N3d2ZZeDdaeV9GNlZnaHdUOXZfMlNPbFpxN09QVkRiVmx0blFPc2ZxWFZyZ2pPREFKOWRoekEtVHlsdkNQVWdXaDRoWm930gFwQVVfeXFMTUptdHltSkx5NDk2WjRqaE04ZjNXNGVFS0QxZmdWTEp5US1LQ3dRX2tabmZhd3loV2l4Q1dhOHVqLXJEU3kwRjBGeXVxVHVmN2hSQWVRaDljeWtudzg4TGpyalk3MkhydmZYbkRlMGcxZQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    }
+  ]
+}

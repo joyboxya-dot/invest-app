@@ -1,0 +1,78 @@
+{
+  "date": "2026-09-30",
+  "built_at": "2026-09-30 10:27",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/30 기준, 후보 3건에서 장면·갈등·기괴 과학 축으로 3건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프 \"내가 있는한 김정은 괜찮아…상당한 핵능력 가진 내 친구\"(종합)",
+          "hook": "트럼프 내가 있는한 김정은 괜찮아…상당한 핵능력 가진 내 친구()",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZmpNU2pUaUhxN3ZNbnhTd0lMbTkxZ2UySGpvWkY4UVNTQW0xNkJLWHVWOXYwM05ueVkyNTE2QlVsODFOT0J5QlFqc0JHb0plVExzRnp6RHphVjDSAWBBVV95cUxPZzdYRmZUNkliZ24zanppU3EyN0xBLTVJZEpoaDhhSXQxNGV4MWRXT19mX0tWcHdNY01hWThXb1kwWVp5QzFUMlZUUVBBT1dlLUticm9sVl9QT0ltbzJIZTc?oc=5",
+          "source_date": "2026-09-29"
+        },
+        {
+          "item": "김여정, 'DMZ 北지뢰' 軍 발표 전면부인…\"반격수단 증강\"",
+          "hook": "김여정, DMZ 北지뢰 軍 발표 전면부인…반격수단 증강",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2VUYxRTVsQ1Y0SHZZRngxTzRpSFhMbGNXRTJncGMzallTMmJnbmo2UEs0dV95NjljUTUwZkVCT1RnWWRmbnRqNWo2WnRldGEwZWJTNzN6eVNvMFXSAWBBVV95cUxPZ3ZoTTNmXzc1ZkJ6czRYajhqckNLUnQ3eG42T3FKa3dKR0tfTVJsMzgxN3BuX3dHUFhOM1djX0Raa2JHQUNnemxNM1hDSHhJLTAtNXNsSFIybG9iR2E3cHY?oc=5",
+          "source_date": "2026-09-29"
+        },
+        {
+          "item": "전국 259명뿐인 피해자 전담 경찰…“골라서 도우라는 말인가” 자책만",
+          "hook": "전국 259명뿐인 피해자 전담 경찰…골라서 도우라는 말인가 자책만",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00b01DMEx4elhMSEx5N0pJckl1TVhLcDNwTGloZ1E5Rkl1aXhfMmZsdUdOcnpmVjl4VWN6U09WN0JxUGMzNFkyWHc0VHp6TDJvV043c1RIZjNSb0IyblJ0N0JEUkY4TWptRndCZTlENE5YUQ?oc=5",
+          "source_date": "2026-09-29"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 3
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 3
+    }
+  ]
+}

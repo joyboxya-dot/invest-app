@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#0c0c0e">
+<title>쇼츠 재료 · 2026-11-15</title>
+<style>
+:root { --bg:#0c0c0e; --fg:#f4f4f5; --muted:#a1a1aa; --line:#27272a; --ok:#34d399; }
+* { box-sizing:border-box; }
+html, body { height:100%; }
+body {
+  margin:0; display:flex; flex-direction:column; overflow:hidden;
+  font:12.5px/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo",sans-serif;
+  background:var(--bg); color:var(--fg);
+}
+header {
+  flex:0 0 auto; display:flex; align-items:center; gap:.5rem;
+  padding:.28rem .45rem; border-bottom:1px solid var(--line);
+}
+h1 { font-size:.82rem; margin:0; font-weight:700; }
+select {
+  font:inherit; color:var(--fg); background:#18181b;
+  border:1px solid var(--line); border-radius:999px; padding:.08rem .5rem;
+}
+.board {
+  flex:1; min-height:0; display:grid;
+  grid-template-columns:repeat(2, minmax(0, 1fr));
+}
+.col {
+  min-width:0; min-height:0; display:flex; flex-direction:column;
+  border-right:1px solid var(--line);
+}
+.col:last-child { border-right:0; }
+.col h2 {
+  flex:0 0 auto; margin:0; padding:.28rem .45rem;
+  font-size:.78rem; font-weight:700; border-bottom:1px solid var(--line);
+}
+.list { flex:1; min-height:0; display:flex; flex-direction:column; }
+.row {
+  flex:1 1 0; min-height:0; display:flex; align-items:flex-start; gap:.28rem;
+  padding:.12rem .4rem; border-bottom:1px solid var(--line); cursor:pointer;
+  -webkit-tap-highlight-color:transparent;
+}
+.row:last-child { border-bottom:0; }
+.row:active, .row.copied { background:#1c1c1f; }
+.row.empty { cursor:default; }
+.row.empty .n { opacity:.35; }
+.n {
+  flex:0 0 1.05rem; color:var(--muted); font-variant-numeric:tabular-nums;
+  font-size:.7rem; padding-top:.05rem;
+}
+.tag {
+  flex:0 0 auto; color:#111; background:#fbbf24; font-size:.68rem; font-weight:750;
+  line-height:1.2; padding:.08rem .28rem; border-radius:4px; white-space:nowrap;
+  margin-top:.02rem;
+}
+.hook {
+  min-width:0; flex:1; overflow:hidden; font-weight:600; line-height:1.25;
+  word-break:keep-all; overflow-wrap:break-word;
+}
+.toast {
+  position:fixed; left:50%; bottom:.7rem; transform:translateX(-50%) translateY(140%);
+  background:#f4f4f5; color:#111; font-size:.75rem; font-weight:650;
+  padding:.28rem .7rem; border-radius:999px; pointer-events:none; transition:transform .16s;
+}
+.toast.show { transform:translateX(-50%) translateY(0); }
+</style>
+</head>
+<body data-date="2026-11-15">
+<header>
+  <h1>쇼츠 재료</h1>
+  <select id="archive" aria-label="날짜"><option value="2026-11-15" selected>2026-11-15</option><option value="2026-11-14">2026-11-14</option><option value="2026-11-13">2026-11-13</option><option value="2026-11-12">2026-11-12</option><option value="2026-11-11">2026-11-11</option><option value="2026-11-10">2026-11-10</option><option value="2026-11-09">2026-11-09</option><option value="2026-11-08">2026-11-08</option><option value="2026-11-07">2026-11-07</option><option value="2026-11-06">2026-11-06</option><option value="2026-11-05">2026-11-05</option><option value="2026-11-04">2026-11-04</option><option value="2026-11-03">2026-11-03</option><option value="2026-11-02">2026-11-02</option><option value="2026-11-01">2026-11-01</option><option value="2026-10-31">2026-10-31</option><option value="2026-10-30">2026-10-30</option><option value="2026-10-29">2026-10-29</option><option value="2026-10-28">2026-10-28</option><option value="2026-10-27">2026-10-27</option><option value="2026-10-26">2026-10-26</option><option value="2026-10-25">2026-10-25</option><option value="2026-10-24">2026-10-24</option><option value="2026-10-23">2026-10-23</option><option value="2026-10-22">2026-10-22</option><option value="2026-10-21">2026-10-21</option><option value="2026-10-20">2026-10-20</option><option value="2026-10-19">2026-10-19</option><option value="2026-10-18">2026-10-18</option><option value="2026-10-17">2026-10-17</option></select>
+</header>
+<div class="board"><section class="col"><h2>군림보</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkJyWFdXazVWY2ZPcVVEYjlpM3NNQUpVdEpBdnI5RkI3UmJyOS0tZ19VNzVLV05QZXk1Sk1qTlJjdWtQaDJaYi1sS1A1Ymdnd1N3ejU4Ykt4WmlEM0VXYVY2aFlzbjc2UjB5U2Ezc0dhby1za2xuQ21CY2U0ZDUxdHllLW9PQQ?oc=5" role="button"><span class="n">1</span><span class="tag">이슈</span><span class="hook">“내가 한 거 아냐” 발뺌하는 트럼프 vs 머스크… 백악관·스페이스X의 우크라이나 ‘진실공방’ [밀리터리노트]</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aYm1XWF9EaE1vczU4ck1CV2VRc2sxUEN1THVlRWpkdTh4V25nZzdaWHh6UFBVUlFmckh0TUtOWEJmdjZKQUg4cnRVbkhRbkpyQ0tWSGNheEVMWW9iWlIwLVFCN3hac2s?oc=5" role="button"><span class="n">2</span><span class="tag">북한</span><span class="hook">&quot;北김정은 최측근 조용원 당비서, 러시아행…러 메드베데프 초청&quot;</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiekFVX3lxTE1qV0UyUHhKRXdhTFk0cGllQXhab1dKYWdVVkh3SS1JWEphbm5IWDg0RG9EQTFsN1F5NTlNQko4c2pwRlA1LW9WdDlSUlFBekc1aFNVTC02Y0lRRXk5MzJ5d21SNEZvN3UtTy1xMHZ1VHpoX1hTNG9rSldB?oc=5" role="button"><span class="n">3</span><span class="tag">이슈</span><span class="hook">빈총 경계·北지뢰 무대응 논란 속... 후반기 장성 인사도 ‘육사’ 배제?</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QX3A2MHAxQjEyV3I5Q21NMVJMYWJ1VTc3VnlFcnlzN2MxUVFHM3dORW9xZ3Y0OHhhSXBtNnUxclJjMjNYREgxU3RMLUc0YlpmM3BrMGlqQ2padkN1cTNPVEo3alB3QQ?oc=5" role="button"><span class="n">4</span><span class="tag">사건</span><span class="hook">강원도 원주 아파트 화재…경찰, 방화 혐의 40대 입건</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMieEFVX3lxTFAyM2NvTDBJbU5zQzVUTHlZZHMwdXQ5QTNHOEtENmpKclJUelJpdTQzTEVPT2ZES3VxcUd4cXRrNmVsWGsxOHRRTUJtbzdXakREeG9jd3QxN3ZIUjRFODdnNnBsLVpuMEFpaXdSS1Zsa2tteFhKQThvVNIBeEFVX3lxTE10d1dVT09hMmdIeDlQWXQtSlY3bVcxNWVzZjA4c1VaM3ZGd3JKRnhLc3Z0YXhQUnV4MVRpQzk3dUNHN2dHMjU4b0xnNU5aNU4zdVpUYXpfOHJUU0JaTzRHbUF1alEtdHBZWVBiV05vTGtXWlFsTzlENQ?oc=5" role="button"><span class="n">5</span><span class="tag">사건</span><span class="hook">국힘, 김종철 경찰청장 후보자에 &quot;치안총수 아니라 재테크 달인&quot;</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TY3pLNTUycVFzNnN4SE9DTnhiT0VkcTEwZWVkUXd4bWZlTTdYY3A3TVhUWFUyRUV5TURlekJVRVlpdnJac0R3LVM0bEp0Z1p5aFBGaW5VQ0RrQdIBX0FVX3lxTFB3dTVtbmhzZHRVV0JQOGc1bFN0WnYwa3lwWHFpVzZPZUx6OVhVN1AwM294R1BaMlRjZkh3eWtlYW5KZ1NGY3F4X3BlUXJMU3FSem8wNzh6Wlp3UFBEZTQw?oc=5" role="button"><span class="n">6</span><span class="tag">AI</span><span class="hook">세무사 시험 수석, 경찰에 ‘AI 부정행위’ 자수…“초소형 카메라 이용했다”</span></div><div class="row empty"><span class="n">7</span><span class="hook"></span></div><div class="row empty"><span class="n">8</span><span class="hook"></span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section><section class="col"><h2>뇌전구</h2><div class="list"><div class="row" data-url="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jcEhIMWpPNnI4MkFXbi1XMVo0TzhiZzRabGtnWV8xbnRzbUxScGV3TGxTdEdhY3ozWmY4QTk4S3J5UUlaR25sdU1WakVJaDF4c1RUTXdyWF9vQlFqWFFCLW5xeUYxdw?oc=5" role="button"><span class="n">1</span><span class="tag">사건</span><span class="hook">만취 여성에 접근해 가방 훔친 50대 긴급 체포</span></div><div class="row" data-url="https://news.google.com/rss/articles/CBMihAFBVV95cUxPNF80UnFKVmpMLUNFWkEtRnFPcUlIOHhGNFBRUXhPN2I4aHVBLTRvVXV5X2UzNUpLaXo3Mm9qY2l2RUt4MFBna1g5WVBfZVEyaXQtSHFTQ0hpUGJDdnJYV1Jhd0lFN0dGcW5PbnBQRXFGYjdGTm9jZG9iMkxjM0NsLTBWM2E?oc=5" role="button"><span class="n">2</span><span class="tag">사건</span><span class="hook">김승우, 코로나 시국 유흥주점 80차례? 방역수칙 위반 논란</span></div><div class="row empty"><span class="n">3</span><span class="hook"></span></div><div class="row empty"><span class="n">4</span><span class="hook"></span></div><div class="row empty"><span class="n">5</span><span class="hook"></span></div><div class="row empty"><span class="n">6</span><span class="hook"></span></div><div class="row empty"><span class="n">7</span><span class="hook"></span></div><div class="row empty"><span class="n">8</span><span class="hook"></span></div><div class="row empty"><span class="n">9</span><span class="hook"></span></div><div class="row empty"><span class="n">10</span><span class="hook"></span></div><div class="row empty"><span class="n">11</span><span class="hook"></span></div><div class="row empty"><span class="n">12</span><span class="hook"></span></div></div></section></div>
+<div class="toast" id="toast">링크 복사됨</div>
+<script>
+const DATE = document.body.dataset.date;
+fetch("archive.json").then(r => r.json()).then(dates => {
+  const sel = document.getElementById("archive");
+  const latest = dates[0];
+  sel.innerHTML = dates.map(d => {
+    const selAttr = d === DATE ? " selected" : "";
+    return '<option value="'+d+'"'+selAttr+'>'+d+'</option>';
+  }).join("");
+  sel.onchange = () => {
+    const d = sel.value;
+    location.href = (d === latest) ? "index.html" : (d + ".html");
+  };
+}).catch(() => {});
+const toastEl = document.getElementById("toast");
+let toastTimer;
+function toast() {
+  toastEl.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toastEl.classList.remove("show"), 900);
+}
+document.querySelectorAll(".row[data-url]").forEach(row => {
+  row.addEventListener("click", async () => {
+    const url = row.getAttribute("data-url");
+    if (!url) return;
+    await navigator.clipboard.writeText(url);
+    row.classList.add("copied");
+    setTimeout(() => row.classList.remove("copied"), 500);
+    toast();
+  });
+});
+function linePx(el) {
+  const cs = getComputedStyle(el);
+  if (cs.lineHeight.endsWith("px")) return parseFloat(cs.lineHeight);
+  return parseFloat(cs.fontSize) * 1.25;
+}
+function fitHooks() {
+  document.querySelectorAll(".hook").forEach(el => {
+    el.style.display = "block";
+    el.style.webkitLineClamp = "unset";
+    if (el.scrollHeight <= el.clientHeight + 1) return;
+    const n = Math.max(1, Math.floor(el.clientHeight / linePx(el)));
+    el.style.display = "-webkit-box";
+    el.style.webkitBoxOrient = "vertical";
+    el.style.webkitLineClamp = String(n);
+  });
+}
+window.addEventListener("resize", fitHooks);
+requestAnimationFrame(fitHooks);
+</script>
+</body>
+</html>

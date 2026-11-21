@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-06",
+  "built_at": "2026-09-06 09:09",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/06 기준, 후보 2건에서 장면·갈등·기괴 과학 축으로 2건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "학폭 논란 후 한국 떠난 이재영·이다영 “예스 땡큐” “사랑해요” 새 소속팀서 인사 전해",
+          "hook": "학폭 논란 후 한국 떠난 이재영·이다영 예스 땡큐 사랑해요 새 소속팀서 인사 전해",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "서울신문",
+          "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XN1VvdXQyeWtlMFF1MUlNb1NEeFE4Wjh2ZEw0V3FZUHNJck1rczBNOHB6YjRLeWhYX29ibU5EVkwyRG5CM2Vnd0Rxc25aa0hZM2ZDaEFxTHBCTmJlcDkxY0FUbzVTVXl2d2dzTll4UFZVQmU0dlFrRjdfcw?oc=5",
+          "source_date": "2026-09-05"
+        },
+        {
+          "item": "'이흥구도 퇴임' 대법관 2명 공백 현실화…재제청 입장 곧 예상",
+          "hook": "이흥구도 퇴임 대법관 2명 공백 현실화…재제청 입장 곧 예상",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "v.daum.net",
+          "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lRVNOVHRhbHdia0FfQ1FGMXdBa0pzRUtGUjdDYl9fWUhLYS1UX0tKcThPUE1wUkVVMWlqdC1VVTJDaFRwNVc0NWZqSXRoMVE?oc=5",
+          "source_date": "2026-09-05"
+        }
+      ],
+      "top5": [
+        1,
+        2
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 2
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 2
+    }
+  ]
+}

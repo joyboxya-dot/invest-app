@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-19",
+  "built_at": "2026-11-19 12:46",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/19 기준, 후보 8건에서 장면·갈등·기괴 과학 축으로 8건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "국빈 대통령에 ‘패스트푸드’ 보냈다…외교참사인줄 알았더니 “판타스틱” 감탄",
+          "hook": "국빈 대통령에 패스트푸드 보냈다…외교참사인줄 알았더니 판타스틱 감탄",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pNnBPWV9fR0FJYm9XZkNsclFsNFg1Y0lwUUZncHlxaldvSU0wM1RTWWxwOHBwcWJoRUlpSHdDczBfSUJTcVlLUnd5QUZSS2ZBSXc?oc=5",
+          "source_date": "2026-11-19"
+        },
+        {
+          "item": "동물복지 위한 어미돼지 군사 의무화, 돼지수의사는 ‘교관이자 군의관’",
+          "hook": "동물복지 위한 어미돼지 군사 의무화, 돼지수의사는 교관이자 군의관",
+          "topic": "과학",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "데일리벳",
+          "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSckRzXzBJT2t4UWdGOUkyY1pHOFZ5QmtsMmZ3M0o5US15M0dYYkZFTEZhempEQnh1NjNlcFU2RXEtREtTWUdxdlZhbHZEWVFfdlk5SE9vTjV5V09WajdR?oc=5",
+          "source_date": "2026-11-18"
+        },
+        {
+          "item": "“이진우가 푼 작년 시험지, 오늘 폐기될 수도”…박정훈, 정부에 진실 공개요구",
+          "hook": "이진우가 푼 작년 시험지, 오늘 폐기될 수도…박정훈, 정부에 진실 공개요구",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JaVVRWjlCb1UwZElHbFZBR0dRemdsbUlfUlhSWDhEM2wyVTEyLVR1cjNnMFFfSFQ1dTNlM3RlOFN2clp1TFVTdmlZRWZkVmt4Q1ctUU1R?oc=5",
+          "source_date": "2026-11-19"
+        },
+        {
+          "item": "'일타강사' 정승제, AI 부정행위 논란 속 \"참 시끌시끌한 시험…세상이 야속해\"",
+          "hook": "일타강사 정승제, AI 부정행위 논란 속 참 시끌시끌한 시험…세상이 야속해",
+          "topic": "AI",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "뉴스1",
+          "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HN3RnVmZ0NGVmRTRlcHRkQXhHckEyRXdvVVZPTmRlM3BMWmNZODl2OXdsN0RPUDBzTmtXcXZidFo0WDAzeFQ2bEp0ZGFrWlc2OGxxU0dqejlmYURmNjdyZ05yZ18?oc=5",
+          "source_date": "2026-11-19"
+        },
+        {
+          "item": "속보 경찰 \"'리트 만점' 이진우 관련 112 신고 접수\"",
+          "hook": "속보 경찰 리트 만점 이진우 관련 112 신고 접수",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "YTN",
+          "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tekdCd2JfejcydUN0VXh2VXZZMEowV0dZbU5MMFdpaTdQaVhhTkJNMWJrSEVpX0NnSkl2OTVnU0lnQlZkd0tpc1JHNy1XSmlDbHB3dVNqeTdHVnFRamc?oc=5",
+          "source_date": "2026-11-19"
+        },
+        {
+          "item": "[단독] \"세무사 수석도 우리 작품\"‥중국어 텔레그램 등 3건 경찰 수사 의뢰",
+          "hook": "세무사 수석도 우리 작품‥중국어 텔레그램 등 3건 경찰 수사 의뢰",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IYU9NMDhUVm1XR3NBUU9paWItQ0Nkc0M4QzRLZDhVZ1l1Ym5ldnhTQWxXMTFRbWFaelVwVHZlZEdtZVBDWVdST0EzSlR1VnI1ZWt4dnI1ZUtHQkdDeW5yNjliOVhDTDFRT2ZYX280RmRjdnZxWG1v0gF3QVVfeXFMTU5sMHNteUl2amt6YjNLa1F3NlhSVmJUZG5YVV9JQnJnRzN3SUNwSl9Ba1NPZ2hXcURZMFBIYkVrRG10eGpZR2xUX1VOdnZFNjVVY2E2WlQ4X0k1dS1xOU9lWjFTQ2txYVpqcktPM3BIZnhiS1hLcVU?oc=5",
+          "source_date": "2026-11-19"
+        },
+        {
+          "item": "전국 곳곳서 경찰차 타고 시험장 도착‥경찰, 수능 날 121건 지원",
+          "hook": "전국 곳곳서 경찰차 타고 시험장 도착‥경찰, 수능 날 121건 지원",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0VHROTEFRQ3NOUE1VSGhjX09NR1JWSnB3UGFWeHFtRDBJRG9lUlVXS2tzVUFydlVpMUNsdHRndWxXMmlGekhPZjZiNGJIankxWHhvQ012R21ISllwTzNfOTgzQ05BZlc4WUNLSU9OdWNSbVBYMW1n0gF3QVVfeXFMUHhJX2dVVVp3LUJ0bVRlVTlrR3BoM19wZ1E2UE9zWFpNWFdwbll1MFEtTk1zb2k2TFlreGlwcXJXUkUxOXV6Q2hueEtlZno3NmN3aWFhckRWNWxqUnUzQW1CRnVoQnlHbzBnM3JpbkM1Mk85RHQxRkU?oc=5",
+          "source_date": "2026-11-19"
+        },
+        {
+          "item": "[단독]하남시 아파트 헌옷수거함에서 신생아 시신 발견···경찰 수사",
+          "hook": "하남시 아파트 헌옷수거함에서 신생아 시신 발견···경찰 수사",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMDhCLUxMWDRJQUxyU1hoOFBUYnBPRGg2c2laOE9WdDNxTVdJUmJ5Y1Z1STh6X0pWbDF0YnlIbDhhN3FVakFuTU44dzc5WUZxVjlOeFVZMVRhZ9IBX0FVX3lxTE1ULXVPWmJ5QkVkUkRDNkk2bzBrM29mWExWM05NOVhwWWhvOG9JU3d6VFFPQUZKRDI3cHl6eml1SG9fLW9jRnNxaXViRGZlZlJwZ180Um9LbTZkQ2xaUkpv?oc=5",
+          "source_date": "2026-11-18"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "money": [],
+        "tech": [
+          4
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "\"이놈 봐라?\" 김명민, 경찰서장에 끌려가 '즉결심판'...왜?",
+              "hook": "이놈 봐라? 김명민, 경찰서장에 끌려가 즉결심판...왜?",
+              "topic": "사건",
+              "summary": "\"이놈 봐라?\" 김명민, 경찰서장에 끌려가 '즉결심판'...왜? \"이놈 봐라?\" 김명민, 경찰서장에 끌려가 '즉결심판'...왜? - 머니투데이    머니투데이    김명민, 배우 포기하고 이민 직전 ‘이순신’ 제안…“태어난 아들이 준 선물”    동아일보    ‘명민좌’ 김명민, 30년만에 첫 예능 ‘유퀴즈’ 출연 통했다…동시간대 1위[美친 시청률]    조선일보    김명민 \"뉴질랜드 이민 준비 중 '불멸의 이순신' 캐스팅\"    뉴시스    “故 이순재 질문에 부끄러웠다”…‘연기 본좌’ 김명민이 쩔쩔맨 사연    매일경제",
+              "openings": [
+                "\"이놈 봐라?\" 김명민, 경찰서장에 끌려가 '즉결심판'...왜?."
+              ],
+              "source_name": "머니투데이",
+              "source_date": "2026-11-18",
+              "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jNTVGanRPT1hBT2FWbWJrd2Zsdk9sTVdiVUFUYzctVVRsVnc0ajhsZnl6NzQ0MUthU1Y3Z0w2UGNrLTQyV2FrMlp4cl9ReXp2X202VHFKODd5MFpaUU1FNDlraWhjOGtsUEpkT2dzdUVzTHPSAXhBVV95cUxQOC1sZm14VzVMQi1NdEtKbndnR2QxTW12MkQxcnJHQW9VOVUxb3dXMG5YZW80Yy1NbHRnVVdqU0RVZTZwYWVqN1ZxY2xnd0VKbGppX2xLMzNiUEctTm1lSTFLMDJhT1cyMS11N1RJaS04RHByTVRTTjM?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 10
+    }
+  ]
+}

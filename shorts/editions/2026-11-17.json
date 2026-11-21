@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-17",
+  "built_at": "2026-11-17 13:42",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/17 기준, 후보 8건에서 장면·갈등·기괴 과학 축으로 8건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "APEC 앞두고 북미회담설만 무성…트럼프·김정은 만나기 어려운 이유",
+          "hook": "APEC 앞두고 북미회담설만 무성…트럼프·김정은 만나기 어려운 이유",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "BBC",
+          "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDZzU5U2FJNll0MThzWnpmOVJwRkdhS01Cbk1ZREQ3blRNNWsxa2xNYVJHMldBeHBDU3o4YzVxX3VNZ2lYSTV2Sy01aGp6RUczeERZclZYa01uX2pqOFHSAWNBVV95cUxQSlhzS2xyUkZyUVpKR2FyZDhDVXExUExDeDV5WmxWbXFUeDdIN0hHTjRrN2NUTnY5NXBOQ3lWcTZQc3VyWXYtbmRUV3JOVzlwNTdZbUZ4RXZjWjROMEZtNkhFOGc?oc=5",
+          "source_date": "2026-11-16"
+        },
+        {
+          "item": "\"절대 만지지 마세요\"… 도심 곳곳에 출몰한 기괴한 동물의 충격적 정체",
+          "hook": "절대 만지지 마세요… 도심 곳곳에 출몰한 기괴한 동물의 충격적 정체",
+          "topic": "과학",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "리포테라",
+          "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1FnSFVNZ3FFUjVVRlhsc2MtdS1fbnNVaWhrdTZkTmlQMkNYclliMU9ScmxoZV9HQkJVVmNTVUh3bnhNTXBjU29nT3RrWXl4UF9mUlRQV2ZreEk0YV9QbU9iVzQ0SHV3ejdLa2UwbjFoay1rZGt2bTAxOHpIOV9oVWZZUUxrSDBSV1oxSWt5Uk1WNWd1VXdjY1RhZFd1UdIBngFBVV95cUxNY1FnSFVNZ3FFUjVVRlhsc2MtdS1fbnNVaWhrdTZkTmlQMkNYclliMU9ScmxoZV9HQkJVVmNTVUh3bnhNTXBjU29nT3RrWXl4UF9mUlRQV2ZreEk0YV9QbU9iVzQ0SHV3ejdLa2UwbjFoay1rZGt2bTAxOHpIOV9oVWZZUUxrSDBSV1oxSWt5Uk1WNWd1VXdjY1RhZFd1UQ?oc=5",
+          "source_date": "2026-11-15"
+        },
+        {
+          "item": "김정은, 북·중 접경지역 방문…삼지연 관광지구 건설현장 시찰",
+          "hook": "김정은, 북·중 접경지역 방문…삼지연 관광지구 건설현장 시찰",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80dVR2NnY4YzNHYkwyVXhWZUpVVFk1TUdwS2VmbU1CMk94eEpRVWVnMVYxWkhuR3ZiOW1WUkRPN1ZmZkRNWk1KeWRReElabVp2LWxWby13OU5ZdlowYkl6RXpOUDZvZE0?oc=5",
+          "source_date": "2026-11-17"
+        },
+        {
+          "item": "'MZ 무당' 노슬비, 김정은 생사에 1000만원 걸었다…\"맥시멈 2년 본다\"",
+          "hook": "MZ 무당 노슬비, 김정은 생사에 1000만원 걸었다…맥시멈 2년 본다",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObUc2bEl6eFB3X1F6d2gyU2N2YWVnM1pyMXR1MDVDYXV2OEtUSWd6VFB4UWhqN2hxUWVJX2tKT1BOUVdteFZWSHdfSWpfSi1uQVpmYnJjcHdTWFpyWGNZSHMwREE0VjExc3hFTXBwOUpIRWF6UjJUZXZzZ1hPcVhmMXJ2NFl3R2VvUlhXbXl6OA?oc=5",
+          "source_date": "2026-11-16"
+        },
+        {
+          "item": "미 국무, 김정은 거론하며 \"정권 생존 원할 뿐 팽창주의자 아냐\"",
+          "hook": "미 국무, 김정은 거론하며 정권 생존 원할 뿐 팽창주의자 아냐",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52TTNZdFFoNHUyUURuRHBNLVAwejZRR2tsRGQyQlVmR2tWMW9FSjR6TXUxZm5zVW1JOTJHcXBuSTVGU0x4em1yOUNzY2h5WlhFWlNlNFZabHljZVJuWExDdzZrcDBkeXVMcGhaQlRpbEU3V2FM0gF0QVVfeXFMUFVtNGRZRzkwT3RXdGhkbFdEODZuMGNFT0kwdkF0NEQ2VDRqSTdVOHRiZHM2aWc0LWpyTVkxU01MXzFubVFFczFrSTQzTDJ1T2hlMkRlaUtlc0IyY05TS2tqQTBERVFJYUJVbzJlZkV4WmRMVko?oc=5",
+          "source_date": "2026-11-15"
+        },
+        {
+          "item": "푸틴, `김정은 최측근` 조용원 만나…\"양국 군사적 형제애로 연결\"",
+          "hook": "푸틴, `김정은 최측근` 조용원 만나…양국 군사적 형제애로 연결",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "TBS 서울",
+          "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaGpUX1pBZ0VTektyckhMbGZyU3kycV9veVA0X1lBSlVXRnhJVFRLeFo1UldjdjZ2WFZqX0U1WU9RTmwwUUhZV1ctU2hyVHBlS3NBTEdUdXdfejdWSUtmWGExZFJ1cU5QVUtPamoxOG9VU1pabDZDSFMtc2cwWUcwOHVQTDhCQQ?oc=5",
+          "source_date": "2026-11-17"
+        },
+        {
+          "item": "임현주, 육아휴직 후 퇴사 논란에 \"내 자리에서 최선 다해\"",
+          "hook": "임현주, 육아휴직 후 퇴사 논란에 내 자리에서 최선 다해",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "YTN",
+          "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuenQzNUQ4bjJrd0xJdGpFZGlLbUtxcFF3RDA2cXFzZmN1SWJKWmc3NG1qS1RsYUFpQlNidTl2ajdUR2RrNEw0M2txZ1JidVRKSTQ4ZW54VmRFMExfd0E?oc=5",
+          "source_date": "2026-11-17"
+        },
+        {
+          "item": "숲속서 ‘260억’ 현금다발 발견에 ‘발칵’…충격 진실 드러났다 [월드픽]",
+          "hook": "숲속서 260억 현금다발 발견에 발칵…충격 진실 드러났다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "TWIG",
+          "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XOFhsWW5JWXBNdTYwd2VKdmpVVGdneEdsd21zU1NtX0J2bVRMOWxucjFaRnRMRjJ0NHlBLUFGU2dOTUFrYlNSTU9fNXR2ajN0RVh6LXdyV184d3NVQS00MHRpZmtnOE9ZX3NEZ2RPWFBUcHJXT2pYYUxUMG8?oc=5",
+          "source_date": "2026-11-16"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    }
+  ]
+}

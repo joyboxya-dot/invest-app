@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-21",
+  "built_at": "2026-11-21 12:23",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/21 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프, 김정은 언급 없이 “미중러, 한반도 위험 맞서는 문제 논의”",
+          "hook": "트럼프, 김정은 언급 없이 미중러, 한반도 위험 맞서는 문제 논의",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CZ1N6VWxWOTRwVk1qLWFIbXFEUC1kazBuQ1NIOVhYVTRtX1VEaG9wZE9zbGxFdkh6MVBOR2ZJWUx6X2p2NDZ1MnpXdE9SS0xIdXhyRUdFRzF2VGJ2UTRKSUtQYnREZkE1MVlFN2huMA?oc=5",
+          "source_date": "2026-11-20"
+        },
+        {
+          "item": "사형수에 주삿바늘 꽂는 데만 34분…미 텍사스주 “고문 같은 사형 집행” 논란",
+          "hook": "사형수에 주삿바늘 꽂는 데만 34분…미 텍사스주 고문 같은 사형 집행 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMUFwbjhFRjR4RUZ0UjVyYlpuaWV1clhqRUFWWEhpTEp1WU9meFJMaUpJUDNCTktWMTA3TEw3amZlSU45cVZsVE5YM2ZrMFZxalBORnFTNF9Wd9IBX0FVX3lxTE9mMWJ0SWdWb2IzX2NVcFBxT0w5c19VMjZKRE1FZWtZRlJVYkhNWi1hQVg1M1hrQnVQMUtJZWVNYzlEZXVVNTl5T2padjFqLUlMakdZUzVzZWppSlIxU2ZN?oc=5",
+          "source_date": "2026-11-21"
+        },
+        {
+          "item": "겹겹이 쌓인 보유세 인상 압박에… 공시가 현실화율 동결",
+          "hook": "겹겹이 쌓인 보유세 인상 압박에… 공시가 현실화율 동결",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ09oczBURFhVVmU5WWVhRXQ3Rmx3eDZvM2ZCNUxEaDhOUEhMQzhMTXBzVTlTV0JzTzY3akNzQWxnWTJCRUtIRGVoN2xhcFU1SzdoMUo2SDNMX2NwMVlzQWJCTVZwaHA1MXoxdEVVYWxpTG9sYkswYXZveFpzaHg0Z3ZRdTlFamRl?oc=5",
+          "source_date": "2026-11-20"
+        },
+        {
+          "item": "이 대통령, 김종철 경찰청장 후보자 임명안 재가",
+          "hook": "이 대통령, 김종철 경찰청장 후보자 임명안 재가",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0SjA5Q2o1WE9XcnhLcEZoV0pOeWtFdTdTYlpZWDViNnZ5M2tHVWpKMVI0enJFa1VUUU14NDhSUEt0YXk3bjI0NGp3SXJsUFlPZXdhTUNSS3NBQQ?oc=5",
+          "source_date": "2026-11-20"
+        },
+        {
+          "item": "경찰, ‘자사주 출연 의혹’ 조원태 한진그룹 회장 휴대전화 압수(종합)",
+          "hook": "경찰, 자사주 출연 의혹 조원태 한진그룹 회장 휴대전화 압수()",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Chosunbiz",
+          "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRmY0bWdzQnRkTTFPZk1hZ2tmZkREZ3JDRWl0cDAtaG00WmZFT204VGFZZGRqcEl4Q2pNUERTYU5IZmMzRHBKSDI3eDNjN0FOYlJQajBGa0tTeWZSbUJPb2xnS2dFWjgzT0xWMnlxSlQ2cDBQSm9ZT01iOWZXWHZ6UkVpeW40Z3ZVUXfSAZ4BQVVfeXFMT3IxQlBuLWJNY0FCSlFub1V5WlJ3YUZMSXhPaEt1TTZ4em1DcU5uQ3IwTks3YzZqT0NXODdsWkktSDBUQ2tTck91YVpfUlVUaDZDdmNNZ2JvOXZoZVJVcHRGQ01LbzA0X3VSeHNSRHFBczRtLWVMbG9HSzZ1bHRxYU13cGNoNmhfZmoxanptRllqei01aC1pcTlHcE92S2c?oc=5",
+          "source_date": "2026-11-20"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 3
+    }
+  ]
+}

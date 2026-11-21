@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-18",
+  "built_at": "2026-11-18 12:48",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/18 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프 \"김정은, 회담 오고 싶을 것...지켜보자\"",
+          "hook": "트럼프 김정은, 회담 오고 싶을 것...지켜보자",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFk1MnNOV3lRME1SNHVhT1RNNjBxeENjaXpBT1B3TEVnMXMzZmVOVHNOYnE2bWVqRHl0V3dPb1ZoQmh6SWFDY1ZaN1V3TE1xemdEcWNVMjFJanVWU0RDc3dxY2Z3dDhYSFk0UWl6cUVNdlZKOEwxbVNyTjNaMGFRSHVHd3k?oc=5",
+          "source_date": "2026-11-17"
+        },
+        {
+          "item": "'은퇴설' 쏙 들어갈 근황…보아, 日서 연일 무대 출격 \"너무 즐거워\" [핫피플]",
+          "hook": "은퇴설 쏙 들어갈 근황…보아, 日서 연일 무대 출격 너무 즐거워",
+          "topic": "연예",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Chosunbiz",
+          "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWRxN0o5RnpEeDVYVTNBV041aXp0NzYzd1Zha0lsVlpiWm5vVUVXM3V3UjRtZTQ5OEIyU28zTEdtV1J5Tl9abm9rX3Z5cHRGdnFlZUsyUURidXhUTkN5MDlCb191SnBRRENPbVVjN1AyTEdpOHlXYjV1cTd2RUttVmxjZ1lQbVpjX0RwMWNCUVlaZG_SAacBQVVfeXFMUEhZMkVwMTYycXBObjY0UE9xaTJsUWt1UDVfczBWaUdQb1djdXZqR1BsWmJaLXE3S0hFUFQ4SzJyNlZrcTI3ZWxhVFY3eWQyUVBGLXhCcU9MaHdNckJac0lQWDktZm1KNlFQWVRvdHJZMkVoOXBPTnFwZUJUYzl5MHhOSkZEemtWQUlYaHlkbkFLUjZzd3NmQmh3ck5uOUZLd1lUczVteFE?oc=5",
+          "source_date": "2026-11-17"
+        },
+        {
+          "item": "\"왜 이렇게 아이폰이 많아요?\" 농담했던 이재용…현실은 달랐다 [트렌드시그널]",
+          "hook": "왜 이렇게 아이폰이 많아요? 농담했던 이재용…현실은 달랐다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwMl9tMnRUSlFrY0x6cjZuRlVPekRCMGFFS2h2VzZSaWhnTUpwX25fSS13WnpURE9mZ3ZETDV1UUgyZ3VqYVRWN1VzalhMeXE0dWdVZ1k5OC13Zw?oc=5",
+          "source_date": "2026-11-17"
+        },
+        {
+          "item": "[속보] ‘부정행위 의혹’ 리트 만점자 경찰 고발",
+          "hook": "부정행위 의혹 리트 만점자 경찰 고발",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrRVFlaTItQ2tiS3FIZThqdWtucmdOczRnRkZZNmUyRzVVX3pnTVNGejRROVBYUjYzREx3ZVo2bzdnZGVCcFdUYjQzdWhiRVByMkhrSmJ1X2l3Z9IBX0FVX3lxTE5qaVFxV3lXR2FGUlk1UTBwLVZjNURXeXR1U3lfbW9Vc1E4NHN1X2tyNlE1a1M1UDBMN0o0bEk0bTZhV0dROW03ZS1CbjFOSTJvTGpvcGRVYmlZWk5vYzdn?oc=5",
+          "source_date": "2026-11-18"
+        },
+        {
+          "item": "AI 커닝 우려에 경찰 비상…내일 수능 이례적 '경계강화' 발령(종합)",
+          "hook": "AI 커닝 우려에 경찰 비상…내일 수능 이례적 경계강화 발령()",
+          "topic": "AI",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "뉴스1",
+          "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94aXRtSkJENTFxamY1eHVnb2swekZMSDhudUFmWVQtcS1NVzU0VWpFS01tQVAwaXduX2dubzh4VmN4YnNCdnBOcjBFZlpUNGUyZWYxaE5uMHNwc1Ryb3Joei1zVmc?oc=5",
+          "source_date": "2026-11-18"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [
+          5
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "'크래시2', 아내X내연남에 죽음으로 복수 설계한 남편 충격 진실...자체 최고 3.7%[종합]",
+              "hook": "크래시2, 아내X내연남에 죽음으로 복수 설계한 남편 충격 진실...자체 최고 3.7%",
+              "topic": "사건",
+              "summary": "'크래시2', 아내X내연남에 죽음으로 복수 설계한 남편 충격 진실...자체 최고 3.7%[종합] '크래시2', 아내X내연남에 죽음으로 복수 설계한 남편 충격 진실...자체 최고 3.7%[종합] - 머니투데이    머니투데이    '크래시2' 이민기X곽선영, 폭발 엔딩 그 후...급발진 의심 사고에 숨겨진 진실은? - 머니투데이    머니투데이    교통범죄수사팀 T.C.I의 귀환…'크래시2' 2.8% 출발    연합뉴스    [ET포토] '크래시2에 막내 역으로 합류한 NCT 드림 지성'    전자신문    백현진, '크래시2'서 구서장 변신…현실감·능청미로 극에 활력    뉴스핌",
+              "openings": [
+                "'크래시2', 아내X내연남에 죽음으로 복수 설계한 남편 충격 진실...자체 최고 3.7%[종합]."
+              ],
+              "source_name": "머니투데이",
+              "source_date": "2026-11-17",
+              "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PWGxMMlp2Q1kwVWsyOEhwaFJ2UzlvX0xhc3gzNXdnUnU3LWNUSmxTd1FpWTdvd2w2MlVhaWsxdng2ODE1TFFEMTZKVlhfY0c0WFpvQlAxeEtQcGh2LWUzN2J1OEhybXROaU1yaUxXa2dIRW_SAXhBVV95cUxOUEZHTy11TjdWeGc4dnV0NjlqSlVSX19SVHJRUXRsSk5KWXNpYlRsdkpBa21MZW5xQmVjLTQ1Q3ItaFNhcWI4dlVGQ0hCbk9qNFF2SjlvM2x5SHZhdW01RW1GSkpTUmRvby1FOXg2X0V5akhONW44WUQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    }
+  ]
+}

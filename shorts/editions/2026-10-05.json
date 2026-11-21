@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-05",
+  "built_at": "2026-10-05 10:09",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/05 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "북핵 112개로 2배 폭증 이유?..트럼프 \"김정은과 잘 지내야 좋아\"",
+          "hook": "북핵 112개로 2배 폭증 이유?..트럼프 김정은과 잘 지내야 좋아",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "v.daum.net",
+          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yOUNIdkdkMmlzVUtDS0ZodU5jS3hxMWxMdkRzUXZDX0lHMnphejFxZ242TFBSMldGZXd6OTZIdEUwVEpxczlDaDdlTzBuYklneUZfXw?oc=5",
+          "source_date": "2026-10-04"
+        },
+        {
+          "item": "유승민, '아시안게임 군면제 논란'에 \"제도 문제, 폐지 옳다\"",
+          "hook": "유승민, 아시안게임 군면제 논란에 제도 문제, 폐지 옳다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZWXFERVNabF9lc0YtVnNOSk4zSjZJaDBrNXNUa3Q4RlFVdDNGa2dIVHlVYzRSTTRZb2hYcHVJRW5mbjh6SVJsb1ZzSENpOU1ob1VqUXRHRmtldw?oc=5",
+          "source_date": "2026-10-04"
+        },
+        {
+          "item": "“나치 수용소 복장 닮아” 자라 핼러윈 아동복 논란 [잇슈 SNS]",
+          "hook": "나치 수용소 복장 닮아 자라 핼러윈 아동복 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iaEpwRnlLTFF6Vk9aeDVqTTkwWGx0cDFGWFFPbWpLZkw2SlpkeWhpcXU3cTFNYjhGMG1zdjBZT3ZRaklFdkhhUWZJSVdwb3h4cG5PbW5JbXJVWUoyOW1EN3VDajRnUQ?oc=5",
+          "source_date": "2026-10-04"
+        },
+        {
+          "item": "김상욱 울산시장, 피의자 신분 경찰 조사…선거법 위반·성매매 혐의로 고발",
+          "hook": "김상욱 울산시장, 피의자 신분 경찰 조사…선거법 위반·성매매 혐의로 고발",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOM3ZXMnlyeE1xX2ZDZmNGYXB5RXFPUk9Ob0NjdTVxdVNqWG43N21xczJYcmJLYU44bEhMSEFZZGJGQVJESDNpdURyeWlacF9YQ0FNMmRLeDJSd9IBX0FVX3lxTE9qVU9WOWJ1RW1HVV9fTnl1Y29SRGtmcHdRTldhNlh6b2dMd0pfbnFKb1piZlFFVnIyRjluSkFjdnRCQjFKTlV3RWVBREVUdG5QVlFVelliY3FjcDNsNTIw?oc=5",
+          "source_date": "2026-10-04"
+        },
+        {
+          "item": "8700조 쏟아붓는데… AI데이터센터, 전력·인력 부족에 ‘공급 병목’ 현실화",
+          "hook": "8700조 쏟아붓는데… AI데이터센터, 전력·인력 부족에 공급 병목 현실화",
+          "topic": "AI",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "v.daum.net",
+          "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wNVhoTXNPVXJZVFFtV2dXY0VnODVFcG5zbWh6TE42V0tXSkp5Mk1hdXlGc2MzSXFiSFRSTzFNWmZnWDBiZXVoSVZrejFlcmM?oc=5",
+          "source_date": "2026-10-04"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [
+          5
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "“한 달에 촬영 하나뿐” 조세호, 6년 만에 ‘유지어터’ 끝… ‘배툭튀’ 근황 공개",
+              "hook": "한 달에 촬영 하나뿐 조세호, 6년 만에 유지어터 끝… 배툭튀 근황 공개",
+              "topic": "연예",
+              "summary": "“한 달에 촬영 하나뿐” 조세호, 6년 만에 ‘유지어터’ 끝… ‘배툭튀’ 근황 공개 “한 달에 촬영 하나뿐” 조세호, 6년 만에 ‘유지어터’ 끝… ‘배툭튀’ 근황 공개    sports.khan.co.kr    아직도 자숙 중인 조세호…살 너무 많이 쪘네    세계일보    \"한 달에 스케줄 하나\" 조세호, 몰라보게 후덕해진 근황…6년 만 요요 왔나 [엑's 이슈]    v.daum.net    '조폭 연루설 부인' 조세호, '투턱' 근황…살 붙었네    뉴스1    99㎏→70㎏ 뺐던 조세호, 밀착 조끼 입고 드러난 후덕 비주얼 - 머니투데이    머니투데이",
+              "openings": [
+                "“한 달에 촬영 하나뿐” 조세호, 6년 만에 ‘유지어터’ 끝… ‘배툭튀’ 근황 공개."
+              ],
+              "source_name": "sports.khan.co.kr",
+              "source_date": "2026-10-04",
+              "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrT1NPc2pTTzRtM2dFWTlLMzZ4bzNvREJKUHRHaC1jNVhUTFdaT2EzazdzSi1oVlptQ2JBNEVOUzhYdTktXzF6MHg1bEYwQ2N2cEduWFlOakxFSVFRdXfSAWNBVV95cUxOTE9CenhXblNyNHdYMU9nenVuMjVQZGlDdGtBc242ZDRXSmpDcmo4NXoxRG90M1VXM21hTmxPWkRnRmQyNWdqMFoxandNS0o5RzRKRUJEc3NHYW1VZlE0enZ5QlE?oc=5",
+              "priority": "A"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-08",
+  "built_at": "2026-11-08 10:44",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/08 기준, 후보 3건에서 장면·갈등·기괴 과학 축으로 3건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "“우주 데이터 센터, 지구보다 최대 100배 비싸다”… 구글 에너지 책임자의 현실론",
+          "hook": "우주 데이터 센터, 지구보다 최대 100배 비싸다… 구글 에너지 책임자의 현실론",
+          "topic": "우주",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "AI넷",
+          "source_url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE50TnZUc3pVQW5MdzU1Qk5wSkpqdnFCMzc1UXNidG93UWNxUFZ2ZjNRZEVHY2VHZ3hhSktDYkVRREs?oc=5",
+          "source_date": "2026-11-08"
+        },
+        {
+          "item": "“정부 대체 뭐했나”…태권도 유네스코 등재 참사에 불거진 ‘책임론’",
+          "hook": "정부 대체 뭐했나…태권도 유네스코 등재 참사에 불거진 책임론",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52NEpJWVh5Z19tSU1ENk1iNWFkQmxqc0pVWU1RM2Q2bkMxMTV1cjVQekFOM196bzFUNVlFOEpud0ZoVjd3LTdxcFNITmtxc20zRUdsTWxB?oc=5",
+          "source_date": "2026-11-07"
+        },
+        {
+          "item": "“예쁘던데…아들 여자친구야?” 반전의 진실[아하동남아]",
+          "hook": "예쁘던데…아들 여자친구야? 반전의 진실",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "문화일보",
+          "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNLWtpXzdYQ1lIa0NoQXdLUnNpcXU1alU5NnI2SzJGNGdsaUZLblVzc2NRSW43WE5oMEQyTm9hSFFhMXNhRnpmTG9wY0pOYVBn?oc=5",
+          "source_date": "2026-11-07"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3
+      ],
+      "buckets": {
+        "domestic": [
+          2,
+          3
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": [
+          1
+        ]
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 3
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "김용건 '故최불암 조문 불참 논란' 속 하정우..♥차정원 결혼 앞두고 망중한",
+              "hook": "김용건 故최불암 조문 불참 논란 속 하정우..♥차정원 결혼 앞두고 망중한",
+              "topic": "연예",
+              "summary": "김용건 '故최불암 조문 불참 논란' 속 하정우..♥차정원 결혼 앞두고 망중한 김용건 '故최불암 조문 불참 논란' 속 하정우..♥차정원 결혼 앞두고 망중한    OSEN    ‘배우 시인’ 최불암이 남긴 문자詩…남은 이들에게 살아갈 힘을 준다    문화일보    [오마주]술잔 기울이며 다시 만나는 ‘국민 아버지’ 최불암…그리운 마음에 한잔    경향신문    임형주, 故 최불암 생전 당부 끝내 못 지켰다… \"2절부터 눈물 조절 힘들어\"    조선일보    [OBITUARY] 최불암의 영화 대표    씨네21",
+              "openings": [
+                "김용건 '故최불암 조문 불참 논란' 속 하정우..♥차정원 결혼 앞두고 망중한."
+              ],
+              "source_name": "OSEN",
+              "source_date": "2026-11-07",
+              "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wLW5mMkwzRktHcUxHSzZZd1laNTczMnEzSlZvcTZ1ZzFXMzZHaDVYR3ZVTlpDdGNwQXJUX1JkSWxPbDdVN2Qyd2g5MmFWa2N0TGRwcg?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    }
+  ]
+}

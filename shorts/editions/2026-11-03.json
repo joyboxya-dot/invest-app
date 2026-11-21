@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-03",
+  "built_at": "2026-11-03 12:39",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/03 기준, 후보 3건에서 장면·갈등·기괴 과학 축으로 3건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "[잇슈 컬처] 차예련 ‘학폭 의혹’에 유튜브 댓글창 폐쇄",
+          "hook": "차예련 학폭 의혹에 유튜브 댓글창 폐쇄",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkMmttYjRGRC12QnlzSUFVdHhPdGpPNUUtU0U1SmtPRUJyTWhBd1M2QUF1cGJVMlpSZU9TcWsxZzdvNzh6OTRtS2M4MTBid0QzRW1DYlh5NjBQTXhraGEwaG5CVVNUdw?oc=5",
+          "source_date": "2026-11-02"
+        },
+        {
+          "item": "김여정, 바이낸스 사태에 “미국의 상투적 도발…예의주시”",
+          "hook": "김여정, 바이낸스 사태에 미국의 상투적 도발…예의주시",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtMGNjbTZYY2xlUXRGZS1QOTZ3TE1YNDNiRmxFZFBYTFR5NGY1VVNNRUJUQ19ELTZmWFZGTUEtWFA4Ump6UmRKQ3I3Ul94cmJ3aHlDZ1JMa3R2aUVkWDNoektWaHFJNDRHMzdhRGJ6bmdsaWU4?oc=5",
+          "source_date": "2026-11-03"
+        },
+        {
+          "item": "[심층] ’연기금 61조 구원투수론’의 역설…데이터와 증권가가 짚어낸 국민연금 수급의 진실 By 알파경제 alphabiz",
+          "hook": "연기금 61조 구원투수론의 역설…데이터와 증권가가 짚어낸 국민연금 수급의 진실 By 알파경제 alphabiz",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Investing.com 한국어",
+          "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QMnR2VE5zSGU2MnJQZDJpaDBQR1R1bGIwSXBjR1g0bFFyVlZVcURna19oOTk1ek84UVNOd0hjRGNGdXVMS0M3OUFqdXVYMnBLUXhKZ1ZwU3dBTjY2a2p5T2hTa2JDZ2s4dmpJV3JBR0Q?oc=5",
+          "source_date": "2026-11-03"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 3
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "\"술 따라 개 XX야, 귓방망이 후리기 전에\" 만취 폭언·폭행남, 여친 울어야 끝난다 [연애전쟁]",
+              "hook": "술 따라 개 XX야, 귓방망이 후리기 전에 만취 폭언·폭행남, 여친 울어야 끝난다",
+              "topic": "사건",
+              "summary": "\"술 따라 개 XX야, 귓방망이 후리기 전에\" 만취 폭언·폭행남, 여친 울어야 끝난다 [연애전쟁] \"술 따라 개 XX야, 귓방망이 후리기 전에\" 만취 폭언·폭행남, 여친 울어야 끝난다 [연애전쟁]    마이데일리    이효리 \"정신과, 검진받듯 간다\"…'술 갈등' 커플 조언 중 고백 - 머니투데이    머니투데이    이효리 “나도 정신과 간다” 고백… 술 문제 커플에 치료 권유    Chosunbiz    서장훈 “그러다 죽어”… 음주 폭행남에 경고 (연애전쟁)    스포츠동아    이효리 \"정신과 다닌다…건강검진 하듯 한 번 씩 가봐\"    뉴시스",
+              "openings": [
+                "\"술 따라 개 XX야, 귓방망이 후리기 전에\" 만취 폭언·폭행남, 여친 울어야 끝난다 [연애전쟁]."
+              ],
+              "source_name": "마이데일리",
+              "source_date": "2026-11-02",
+              "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SclRHXy1UdDBMWjc1TE5kOFBDSXNYbXNodGo3ZWotOHZJdU95RndkM3czaEJNWXF2aHA1REpzLUVGRFV6NnlWMmRuamZhODhrV0hQbENMVXNWbkRYR1dOU013dFVZQQ?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "비위로 물갈이 잦았던 강남서, 경찰청장 대행이 직접 갔다는데...",
+              "hook": "비위로 물갈이 잦았던 강남서, 경찰청장 대행이 직접 갔다는데",
+              "topic": "사건",
+              "summary": "비위로 물갈이 잦았던 강남서, 경찰청장 대행이 직접 갔다는데... 비위로 물갈이 잦았던 강남서, 경찰청장 대행이 직접 갔다는데...    조선일보",
+              "openings": [
+                "비위로 물갈이 잦았던 강남서, 경찰청장 대행이 직접 갔다는데."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-11-02",
+              "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUkFpdVRsM0dMM0Zzdmd1N1FFNkdwT0VsUkZFREVZdldCbGRIMmdublZMa2FvUlVhS0owZUtHVWtUYU9Rdk0yd2J6al9YS0ozbGYyRTl6QWdweWhrQm9QaUNqS05KZ2pKZGh5UThhNDNjaTVDODFwV0ctLVJNcVY5NXpsV29CYzBrOHhQamRCYVQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        },
+        {
+          "id": "tech",
+          "title": "🤖 IT·과학",
+          "items": [
+            {
+              "item": "100년 전이나 지금이나… 환상은 달콤, 현실은 씁쓸",
+              "hook": "100년 전이나 지금이나… 환상은 달콤, 현실은 씁쓸",
+              "topic": "IT",
+              "summary": "100년 전이나 지금이나… 환상은 달콤, 현실은 씁쓸 100년 전이나 지금이나… 환상은 달콤, 현실은 씁쓸    조선일보    깨지기 쉬운 꿈, 그럼에도 놓지 못하는 사랑…연극 ‘유리동물원’    KBS 뉴스    [리뷰] 떠났지만 떠나지 못한 사람의 기억, 연극 ‘유리동물원’    Queen 이코노미퀸    [AK초점] 기억 속에 갇힌 가족의 초상 ... 80년의 시간을 건너온 '유리동물원'    아트코리아방송    연극 《유리동물원》에서 본 스타트업, 유니콘이 뿔을 꺾고 달릴 때    중소기업신문",
+              "openings": [
+                "100년 전이나 지금이나… 환상은 달콤, 현실은 씁쓸."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-11-02",
+              "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQUExRi0yYktadlZ5OENYbVlDRl9kNm1LWFFHVjltS3RDSS1KV3VROTFOQWNvVk9DSnNFQVc4ZVJPS0xYZ3NlNU0xYWZDa0dwNmktNC0tZmNPWlE5VnMzRDdDSTRPdVF2N2xoQWxIUTJLMGpvSUR4MDVfU0xNOXZzbXdpbmFhR1FKcTc5aDNhTzBSTWlqQUE?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    }
+  ]
+}
