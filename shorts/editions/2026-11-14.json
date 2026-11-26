@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-14",
+  "built_at": "2026-11-14 11:38",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/14 기준, 후보 8건에서 장면·갈등·기괴 과학 축으로 8건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "美, 19일 미중러 정상회담 발표…\"트럼프-김정은 회담예정 없어\"",
+          "hook": "美, 19일 미중러 정상회담 발표…트럼프-김정은 회담예정 없어",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GQ2pRb2llbzI0QXAwMjhiU3kxSjFrbFBXSXNDSFZaYmRGTlAybjctNmlyWTlGUVVITTVER0M1R0RLU2pjcUYyM005UDhDTGQzUnZrZlpqWFhUd1XSAWBBVV95cUxQbzM0LWpNUXRmRjVja2RHVWtTSHktaFpJREYwYm0yZU85WjMtRk44QmZoWDhyd09aZVUzQXJaMnlUem5rN2ZKZ3NIWmd6TEoweERkaFM4OWFfaGQxZzJUdEc?oc=5",
+          "source_date": "2026-11-14"
+        },
+        {
+          "item": "“사망자 빠르게 늘고 있다”…26명 대참사, 트럭과 충돌한 버스 ‘인도 발칵’",
+          "hook": "사망자 빠르게 늘고 있다…26명 대참사, 트럭과 충돌한 버스 인도 발칵",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxcFhlaG1CZ2UxRlJQeXZwaVRNS0ltV3czdFlHdVY3cm0xakNKUkJoc20tSHZhZVYzbW83TWhEd0JNcXFHZWRKMFBiQVJWckFXcVE?oc=5",
+          "source_date": "2026-11-14"
+        },
+        {
+          "item": "유홍준, 문화재청장 시절 행보 ’구설’…아내 명의 자택 국가문화재 ’셀프 추천’ 논란",
+          "hook": "유홍준, 문화재청장 시절 행보 구설…아내 명의 자택 국가문화재 셀프 추천 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEN2w3bkZNMTVCOWw2RTZFaE9Ra1pBck92VERiNmRtbEROTUtTem1COWtjaDdOS09BRkVvbUFsQzNTY04yT01MLUxLUU9ndFduclFMOG05eVBoUjY4V19RYVhNTUQzS0U?oc=5",
+          "source_date": "2026-11-13"
+        },
+        {
+          "item": "르네상스펀드, 젠슨 황 논란 전 엔비디아 대부분 매도…마이크론 담아",
+          "hook": "르네상스펀드, 젠슨 황 논란 전 엔비디아 대부분 매도…마이크론 담아",
+          "topic": "AI",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합인포맥스",
+          "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DdEF6Z2NqTTEyT1lraTVhd2lLU192M25GR0JLRjVRYUM2MEgwdXNiUS1wYTczd0lLYXFKNEpwWExYT3lJbGxIRUhESTQ2MU8xUGFPaldGdVFBQWR4NTNOclg3NmZCUUVMNEhsVXlKQmw?oc=5",
+          "source_date": "2026-11-13"
+        },
+        {
+          "item": "경찰 ‘반포 아파트 부정청약 의혹’ 이혜훈 송치",
+          "hook": "경찰 반포 아파트 부정청약 의혹 이혜훈 송치",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVk5RDQtVC0zVEpISEo0OHVhWFNPazdQQnFNVGVGUUZodFVibzAzTUtRaVM1TmpGSEd5QUE5bVZzUWYxdzQxenBWcEQweWlJR094ZjR4dk1fVTFpZndycl9jTmZONEJfTzR0bVlhNjU1Zmd4eURFY1R2NEthM19PUVpiQVJ3OXU0MWtFVEtvQ2U?oc=5",
+          "source_date": "2026-11-13"
+        },
+        {
+          "item": "경찰, ‘불법 당원 모집’ 신안군수 동생 집 압수수색",
+          "hook": "경찰, 불법 당원 모집 신안군수 동생 집 압수수색",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Fck4wVHBMeE5XamJreGp2bUR4bWVqQ213SnFoSi01cHdjcnVPdV9KYUF1TlNydHRtV0NOZzdELXN6SlVOYnlmeDIwb0RFRzdZLXFRa3ZsNi1rQ3VZdFI2ZF91elktUQ?oc=5",
+          "source_date": "2026-11-13"
+        },
+        {
+          "item": "국힘, 김종철 경찰청장 후보자에 \"치안총수 아니라 재테크 달인\"",
+          "hook": "국힘, 김종철 경찰청장 후보자에 치안총수 아니라 재테크 달인",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyM2NvTDBJbU5zQzVUTHlZZHMwdXQ5QTNHOEtENmpKclJUelJpdTQzTEVPT2ZES3VxcUd4cXRrNmVsWGsxOHRRTUJtbzdXakREeG9jd3QxN3ZIUjRFODdnNnBsLVpuMEFpaXdSS1Zsa2tteFhKQThvVNIBeEFVX3lxTE10d1dVT09hMmdIeDlQWXQtSlY3bVcxNWVzZjA4c1VaM3ZGd3JKRnhLc3Z0YXhQUnV4MVRpQzk3dUNHN2dHMjU4b0xnNU5aNU4zdVpUYXpfOHJUU0JaTzRHbUF1alEtdHBZWVBiV05vTGtXWlFsTzlENQ?oc=5",
+          "source_date": "2026-11-14"
+        },
+        {
+          "item": "하노이발 항공기서 '케이블타이' 체포‥양손 묶인 20대 경찰 보더니",
+          "hook": "하노이발 항공기서 케이블타이 체포‥양손 묶인 20대 경찰 보더니",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tb19fbURJUGl5Z0NuQjR0dHZla18yand5OVZWQXdyYzE5MVVmSDJSRUlSeGZIeGJIdkVHM2JYVjJDb0J5Y25fejFTS0I1d1Q4OXNtMjM1UXhMdjhDQTlNQ0Y5VE9yS09xcER2cWVxdi1QUE9va19z0gF3QVVfeXFMTzBBSnlfMS0zQ2hHbHgzVDlMVVZxYl9LUkJCVzZwMEYzYVRpUkViZlZyUmFSdEMtU2dMU3pYWmhaUWItRUE3QWhvMlk4UlhnelVuenFud1ZWdmFVcC1MR19FUFFIMk1FczVTYjhMOWJFb1ZrdmVKcEE?oc=5",
+          "source_date": "2026-11-13"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "money": [],
+        "tech": [
+          4
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "‘만취’ 러시아 선원, 지하철 멈추고 훔친 차로 14km 질주",
+              "hook": "만취 러시아 선원, 지하철 멈추고 훔친 차로 14km 질주",
+              "topic": "사건",
+              "summary": "‘만취’ 러시아 선원, 지하철 멈추고 훔친 차로 14km 질주 ‘만취’ 러시아 선원, 지하철 멈추고 훔친 차로 14km 질주    조선일보   Google 뉴스에서 헤드라인 및 의견 더보기",
+              "openings": [
+                "‘만취’ 러시아 선원, 지하철 멈추고 훔친 차로 14km 질주."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-11-13",
+              "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPby1MbVZIamNBMW1wZ1J4MWpUMnJWUTVZd0w0d05BSlNlb1JESXkxamVjT0tBN2F5bm4tRm9PNE1JbGV3bzVHbDBEb2pGNzRNZHRsWko2cUhlbVZyS016WThvQ1V1azdaVWNzbUhjb3dDTklEeHdoSjU1YVFWUDZqQ3Jkam5HQQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 9
+    }
+  ]
+}

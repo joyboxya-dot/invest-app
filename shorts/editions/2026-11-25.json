@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-25",
+  "built_at": "2026-11-25 13:59",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/25 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프 “김정은과의 ‘러브 레터’ 당장이라도 시작 가능”",
+          "hook": "트럼프 김정은과의 러브 레터 당장이라도 시작 가능",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VUXRiWVJ5SzFLSmVMT3RpNDFqcFl6WXB4NnRlZ0xWU21VTmVxWnVkM1dnNHRjRWZJeTNqYWJTWUVtU2dxQW1UWmV0cllGRWR5YTNmSkZmUVJpd9IBX0FVX3lxTFA4QllEVUxZbDU1RWk0WV9ORGdpQVNuWE5uREt1bFBEZldqV0lkOWRFQzZjbXg3VlZsTkZMRFRJWERfLXk5RGsxTzFBTUY3MEdkOFMzUDNBQ2Q4MFJUT1ln?oc=5",
+          "source_date": "2026-11-25"
+        },
+        {
+          "item": "\"리트 만점자 근황 떴다\"…AI로 만든 조롱성 게시물 논란",
+          "hook": "리트 만점자 근황 떴다…AI로 만든 조롱성 게시물 논란",
+          "topic": "AI",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lLUlNVU5aYXJIbi1CZDFjYW9aZjlTMmh2RktndXhUdXdIR3hIeXhLbHpDRkthcEdUUkRyUWl1ZU9DeURWRk9MWTVNanNXNXZoaUwxRnZEdzNkQQ?oc=5",
+          "source_date": "2026-11-24"
+        },
+        {
+          "item": "북 김여정, 스위스 제재에 \"평양 외교사무소 철수 검토\"...스위스 \"외교는 별개\"",
+          "hook": "북 김여정, 스위스 제재에 평양 외교사무소 철수 검토...스위스 외교는 별개",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "VOA 한국어 홈페이지",
+          "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6YkV3UUZOOUxmUDlmUEdlX2ZiNU8zUE9aZV9wNWRvVW9GcjM4VVpWT3NHR05CNjlobzgzaExxRFZoeXVlQVlUVEVmcWliZWJF0gFTQVVfeXFMTWhidmJmMi1vRWJaNjNJcURITFc0ZGdpblU4UlM1Q1VjcGktUVZXSzliSENseHczT25EU1EybW9YelpVX2lmU0tubWZkTXhFZlE2Qkk?oc=5",
+          "source_date": "2026-11-24"
+        },
+        {
+          "item": "현금차 탈취 실패하자 대형마트 침입 인질극 “27억 달라”··· 콜롬비아 무장강도들 경찰 특공대와 대치 중",
+          "hook": "현금차 탈취 실패하자 대형마트 침입 인질극 27억 달라··· 콜롬비아 무장강도들 경찰 특공대와 대치 중",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FOWxjSXdqZ0tjd2oxR3Y0OC03dTJ5b21YcWhHQ3dZcXFFMEhiSUJ2SXNramFOVnFxZ3VSSlNoMTZPa250MktzN0QxeFBKRzNEV0ZjU21GOUZNZ9IBX0FVX3lxTE94ekZHX0R3U0kwQnI1UmhRQXRIUi03NFlxNzV5WU9NTHp3Ynl5UkZhOXljTWx4R1JVMlVwUjFiYVRQWFBadlBMMEQ2eWU2S2s1cm5kQ0gwUVFYa3lhSG5V?oc=5",
+          "source_date": "2026-11-24"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [
+          2
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "'만취 음주운전' 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2)",
+              "hook": "만취 음주운전 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2)",
+              "topic": "사건",
+              "summary": "'만취 음주운전' 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2) '만취 음주운전' 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2)    조선일보    고경표 빼고 조진웅 못 빼고...방송가 고육지책    YTN    박보검 이번엔 통영 바닷가로…‘보검 매직컬2’ 촬영지 관심    스포츠동아    '보검 매직컬2', 고경표 예고편서 통편집…박보검·이상이만 등장 - 머니투데이    머니투데이    '보검 매직컬2' 측 \"고경표 음주운전 유감…시청 불편 최소화\"    파이낸셜뉴스",
+              "openings": [
+                "'만취 음주운전' 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2)."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-11-25",
+              "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGMwNE45UWYxekFqRGRCQ1ZfQ19kWkYzczFpaWFBUTViYldYdk1HTmRDWHNid1NkVHZIUDNycXVPSzE2Qk05Z2k2Szk4UE5oamc0b3B1dXpFY0xpVDR2Ym1HaTIyalRJbEdnSG1YLXJxMzk3SmNTVUp1Uzk3U1UwQXpnaHdUT1plVEJkWVItcw?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    }
+  ]
+}

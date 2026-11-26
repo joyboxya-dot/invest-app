@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-11",
+  "built_at": "2026-10-11 10:11",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/11 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "'BTS도 군대 갔는데 축구선수는 왜?' 英도 금메달 '군 면제' 논란, 집중조명...\"자랑했다가 역풍→새로운 손흥민·이강인 될지도 불확실\"",
+          "hook": "BTS도 군대 갔는데 축구선수는 왜? 英도 금메달 군 면제 논란, 집중조명...자랑했다가 역풍→새로운 손흥민·이강인 될지도 불확실",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "OSEN",
+          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02a29zQ2ZYRXVJYkxRV2lBczRibWhZWUU5YndIUXhfRVAydDJCdi15dTAtT3c1bWx1ZEZGc21HM05veXZCdC13Z2FUTURwLWlBTm5RdQ?oc=5",
+          "source_date": "2026-10-10"
+        },
+        {
+          "item": "부천 발전소 공사장서 크레인 무게추 사고... 1명 숨지고 1명 다쳐",
+          "hook": "부천 발전소 공사장서 크레인 무게추 사고... 1명 숨지고 1명 다쳐",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN3dxb21GM0FSLW1pN3dLMDRwSk5PcW8yQ0pQakZPSzFDNnh1UHRubnE5OG5mT0dzWjFWdmROZGV3dFp4SHJBOEdrZXdFSEVwSVFuRHFWY1pDNW1iTDFZc2FHcnpmQmVQd3RtZHZTc1h3VzNqNzZCMzFoZWNsYUItMkpn?oc=5",
+          "source_date": "2026-10-10"
+        },
+        {
+          "item": "미국 총살형 생중계 논란 속 교황 \"사형은 인간 존엄성 공격\"",
+          "hook": "미국 총살형 생중계 논란 속 교황 사형은 인간 존엄성 공격",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LZjRORURONTJPMWI2TlFDVHd5UWlnSWt0U2xxT2lidW1FRDZrdnpHbUtlTVhmU2ZOOXJSZDhDR2VhMFdGeTI4U0lnTHkwbWw3VndoYTI2OFdGSjJ5aDd0WnYwaFYwLW8?oc=5",
+          "source_date": "2026-10-10"
+        },
+        {
+          "item": "’탱크데이’ 논란 5개월 만에…스타벅스, 투썸 제치고 1위 탈환",
+          "hook": "탱크데이 논란 5개월 만에…스타벅스, 투썸 제치고 1위 탈환",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JdnQxWS1wb3NVeGJnNUNoM0NqOVgwVktxcXZqTWdNNGFwei1obWJYNl9aY0lVSDZPT2F5bDBQeGVENE1xMW5jaUNjY1E0Wm5vbnZyeUJYcG5ySFJZTVlfUVh0MmI3UlE?oc=5",
+          "source_date": "2026-10-10"
+        },
+        {
+          "item": "명예훼손 조사가 16시간? 알고보니 경찰담당자가 청와대 측근",
+          "hook": "명예훼손 조사가 16시간? 알고보니 경찰담당자가 청와대 측근",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10NVZ5aFlQQndlUWd2b1NiLXlrU0VVb2p4SVNOaE5jaWF4RzNYcjBhVkpVTHNZYTFTV0h5S0lFNFBjSTBZZnJuME9GQ3lZNnNmSWF2ZGVtTV9GdVZDLXVQRFhR?oc=5",
+          "source_date": "2026-10-10"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "‘재혼’ 오윤아, 제주서 행복한 가족 여행..살 쏙 빠진 子 건강 근황까지 “배 터짐주의”",
+              "hook": "재혼 오윤아, 제주서 행복한 가족 여행..살 쏙 빠진 子 건강 근황까지 배 터짐주의",
+              "topic": "연예",
+              "summary": "‘재혼’ 오윤아, 제주서 행복한 가족 여행..살 쏙 빠진 子 건강 근황까지 “배 터짐주의” ‘재혼’ 오윤아, 제주서 행복한 가족 여행..살 쏙 빠진 子 건강 근황까지 “배 터짐주의” - 조선비즈    Chosunbiz    ‘재혼’ 오윤아, 제주서 행복한 가족 여행..살 쏙 빠진 子 건강 근황까지 “배 터짐주의”    조선일보    '비연예인과 재혼♥'오윤아, 자폐 아들 민이 취업까지 '겹경사'..행복한 모자 여행    스포츠조선    오윤아, 발달장애 子와 떠났다‥재혼하고 더 예뻐진 미모    뉴스엔    \"턱선이 살아났다\"…오윤아, 취업 이어 폭풍 감량까지 성공한 아들 민이 '반쪽 ",
+              "openings": [
+                "‘재혼’ 오윤아, 제주서 행복한 가족 여행..살 쏙 빠진 子 건강 근황까지 “배 터짐주의”."
+              ],
+              "source_name": "Chosunbiz",
+              "source_date": "2026-10-10",
+              "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakFuU0F1Qm44VzNJQlZ2OG02bXpUNnI2eHg2c1kzWG1XVzd1ejZPRzY5cnZJS1RPVXVQUXBFS3U3aktpdkdwcFRQcjhvSmhQaEEyQktCNHhwTF9Bb09PcUJvUndVRVBxcWZkQV9RV0FnZzFBejREUHR1OHRnYXV5clZJSWV1d3Y3T1pDNXZxekFkSEHSAacBQVVfeXFMTmRnaU51S2hyVDRjOHJVcU16RlRybmpSajl3MnJjS3o1NjF3SWliSWd1cU5lSHZwOVJ1d05oc0N1YkVLenJzdU55eFA5bDdSMjRxd2dkYUlmR25CRFVDX0FKNE5fUE1RRTN4V0pic0U3Xzc2Q1hJUVlqYnZ2dWZiN2NydmU3dVhXNTM4dFFjSW5mQ2Rra3dzMVdIeFVEWEtfMWFzbHJERms?oc=5",
+              "priority": "A"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    }
+  ]
+}

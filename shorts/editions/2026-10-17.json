@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-17",
+  "built_at": "2026-10-17 09:43",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/17 기준, 후보 8건에서 장면·갈등·기괴 과학 축으로 8건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "러 비상사태부 장관, 김정은에 ‘세상에 하나뿐인’ 소화기 선물",
+          "hook": "러 비상사태부 장관, 김정은에 세상에 하나뿐인 소화기 선물",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "Radio Free Asia",
+          "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vbFozcHdHWTBlT0NXTndOWHF3UG0wdVlaeFFQaHVEbmk0Sm8yeHVxMVMxMlhjTHBwYVFfdTB4UXIwUmFUaGxJZG1DYWU3ajk3d2NTVmVSM1dsQ1RqV2VMbkx6UVgzMjBPemdQMXJ5bmd2WWtMb3pxZ2t1NA?oc=5",
+          "source_date": "2026-10-16"
+        },
+        {
+          "item": "경고에도 쌓인 폐박스, 멈춰둔 소방시설···7명 숨진 대전 현대아울렛 참사 책임자 ‘실형’",
+          "hook": "경고에도 쌓인 폐박스, 멈춰둔 소방시설···7명 숨진 대전 현대아울렛 참사 책임자 실형",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTGtuWVNrTlA5R1AwdDdvZUxfSVVvajdEektua0FZaWE5d2NGOXFVeENPNmVGQ2JRMEFUOGFCZG5zYjcwdEYwUHl0VjNxbDlkdHczRGFRMXBlUdIBX0FVX3lxTE5ZdHo4cXoxTHRhdVh0a0JNdmRqejZidThBN0tHamZ4djRlS0NGYXR1dnIxQmhJN1JqY05ybTZKVzJCc3o4VWJRbkc0ZElqNFVMcmxzN0kxR2xLRWJ0SkhN?oc=5",
+          "source_date": "2026-10-16"
+        },
+        {
+          "item": "’변호사 사칭 논란’ 백악관 대변인 나흘 만에 경질…역대 최단명",
+          "hook": "변호사 사칭 논란 백악관 대변인 나흘 만에 경질…역대 최단명",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93NE1Ca0JNRFhVOUVMN0FnN0p0cUJMLWdDTkpfYkliX0R1ZFVGQWxyNHZVSjhBTUhpMUdaWkRrTTE3OFlhdmpjTUtWaFpoMElGdVdrRzJzSGVtS045VmVUQV9ERlQ1R3c?oc=5",
+          "source_date": "2026-10-16"
+        },
+        {
+          "item": "추미애 ‘소방 재정 빨대’ 논란 속... 李대통령 “소방관에 천금을 준들 아깝겠나”",
+          "hook": "추미애 소방 재정 빨대 논란 속... 李대통령 소방관에 천금을 준들 아깝겠나",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTM2X0xNS09hZTRxOW9VOFhYNGota2ItV1ZTOVNVcDRFWndsTDZzN3JnZkNTaDlPZXE4SmdOWkRzTnVndWt6ZXloYUowekF3SnVZTUoxMm1vRlN6ZWNXM2QwUW5CbEZqRktCQzhrSFgzaUlXUnpWNWNSR3Z4dUtsRTNRQnVuQVNr?oc=5",
+          "source_date": "2026-10-16"
+        },
+        {
+          "item": "[단독]\"머리 나빠서 노벨상 못 타\" SNS 논란에 靑비서관 \"도덕성 잣대 아냐\"",
+          "hook": "머리 나빠서 노벨상 못 타 SNS 논란에 靑비서관 도덕성 잣대 아냐",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "머니투데이",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuTzVkUkoydnlqSl9RMjVueWhqbnNNcmIyYlk3TWdVLWhrZVRHdTZBNHdMOGFpN2hYNFlaWk5RV3hZMU40dE52U3Awa3k1VzYwMW9PQ3Q1dmlGdXdpakRaaV93TEVIX2fSAWxBVV95cUxNSUxpY3VGanJlclFqRkktd1NoMnlCbWVXTWZNZkVJTXNPaDR3ak5XSDlSd3NlZmJ3TmFpRklnd0hPbjdBR2ZWemdHUVQyOGsySlNjSW84WlMyb3FIaU5OMWR1dnJ2YU85bmhtZ0I?oc=5",
+          "source_date": "2026-10-16"
+        },
+        {
+          "item": "한동훈 자녀 부실 수사 의혹에…서울경찰청장 “재점검할 것”",
+          "hook": "한동훈 자녀 부실 수사 의혹에…서울경찰청장 재점검할 것",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySEg3ckYxRklRVk5jQkt4d2hKVlN2cXc0OEJIaV95MW05Rl9rTzFqdUV0UVR3ZkUtZkpkRndaa08wRW0yRnBxbVdId0ZsWGxET3UtandDSkFIMTJYX3QzQmFkaVF2RmMtd3FwQUJWamFUQQ?oc=5",
+          "source_date": "2026-10-16"
+        },
+        {
+          "item": "경찰, ‘인천 흉기 난동’ 최충락 자택 압수수색",
+          "hook": "경찰, 인천 흉기 난동 최충락 자택 압수수색",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBycVVLUkI2dld1ZnNXZ01hdWMzLWZBdXVNOWNmTW9rTm50Rl9pV0J0b3lDVXhCLThuMnBiVFhKemtNNVRTRDYwUUdhMDhJS21FcVR0UUlqZ0M0RmM?oc=5",
+          "source_date": "2026-10-16"
+        },
+        {
+          "item": "한화 이글스 홈구장 스카이박스 ‘공짜 관람’ 의혹···경찰 간부 입건",
+          "hook": "한화 이글스 홈구장 스카이박스 공짜 관람 의혹···경찰 간부 입건",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ySjBTN3JPWll4ckZEalBoQ2tuVnVPaVZBcjdmUnBJTW8zNlhkck45ZEdVRklSQTdtT1VObUs4NVJ2SzNSVWhWWjJlNExlSVVKZkdtTnktb1gwZ9IBX0FVX3lxTFBmazhnc2VXVXNyazdVZGt2bnotaFRKUUFyaWtHR25VVEhHM1NjLThfd0tLbV9tdGtOeEVGc2JZbDBaSmt5WjdDWXgwQXE0UjN1aTJHTEduTnBWMmd6ai1Z?oc=5",
+          "source_date": "2026-10-16"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 8
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "배기성, ‘4개월만 이혼’ 이선정 만취 폭로..“흑역사 많아”(선정하기)",
+              "hook": "배기성, 4개월만 이혼 이선정 만취 폭로..흑역사 많아(선정하기)",
+              "topic": "사건",
+              "summary": "배기성, ‘4개월만 이혼’ 이선정 만취 폭로..“흑역사 많아”(선정하기) 배기성, ‘4개월만 이혼’ 이선정 만취 폭로..“흑역사 많아”(선정하기) - 조선비즈    Chosunbiz",
+              "openings": [
+                "배기성, ‘4개월만 이혼’ 이선정 만취 폭로..“흑역사 많아”(선정하기)."
+              ],
+              "source_name": "Chosunbiz",
+              "source_date": "2026-10-16",
+              "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdzZMYXJuWl9lNmFOcDRvWmR4VUhEUXNVMzNveFYzYjEtR2pGVER1S09ISDZxclRxUGlMNGJuaUF5Rm53b2FZX29ONTg3YXpBUWtIY1VvclVsZXpNbE96LWFVQmw0eVRiTUQ0N3ZIZUJUcXU3N29RSlE2Z21VVjdxV2FFejFxa3NYQll6SENZcXZ6TkHSAacBQVVfeXFMUENrVVBxaUdUYVh0OHJqNjROZERiRzVpMTZrdUtxZUVTUTJxa2JWNUxoNF9ReDR5VXM4ZW1ScVZmeHNFU1U5TWdabjlZcDlyV0ZrcXAzLVVTd2IyMjNuNC1Idy1meXI3MlFGZFZhZm0zVXd5VzlTYjY2Y0dKRllJSGR5SHZMUUJ4UkJ2M2tiamhsSE5qRm5ySkxydWtoRW5rZWFrU0lRaVE?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "\"배우라서 특별대우 아냐\"…경찰, 유해진 신변보호 해제",
+              "hook": "배우라서 특별대우 아냐…경찰, 유해진 신변보호 해제",
+              "topic": "사건",
+              "summary": "\"배우라서 특별대우 아냐\"…경찰, 유해진 신변보호 해제 \"배우라서 특별대우 아냐\"…경찰, 유해진 신변보호 해제    SBS 뉴스    경찰, 배우 유해진 신변보호 해제‥\"유해진 측 요청\"    MBC 뉴스    '암살자(들)' 역사 왜곡 논란에 신변 보호받던 유해진…최근 해제 - 머니투데이    머니투데이    고범석 서울청장 \"김재섭·김병기 편파 수사 아냐…유해진 신변 보호 해제\"    뉴스1    경찰, `암살자(들)` 유해진 `신변보호` 일주일 만에 해제…무슨 일    매일신문",
+              "openings": [
+                "\"배우라서 특별대우 아냐\"…경찰, 유해진 신변보호 해제."
+              ],
+              "source_name": "SBS 뉴스",
+              "source_date": "2026-10-16",
+              "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4b3RPN3JiRkN1UC1sYko1LTRfbFhtNGtBa3p5RlgtYjRTb0lxdGFFMDBDNjBDUDFNSUl6d1VuV1kxU2k5QWx0ZGxnRHcyUzR5Y2p4dmpfcWRqNHROcXJSVXZYVHJfTkk5Umc?oc=5",
+              "priority": "B"
+            }
+          ]
+        },
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "송중기♥케이티, 이탈리아서 전한 근황…직접 만든 올리브오일 선물",
+              "hook": "송중기♥케이티, 이탈리아서 전한 근황…직접 만든 올리브오일 선물",
+              "topic": "연예",
+              "summary": "송중기♥케이티, 이탈리아서 전한 근황…직접 만든 올리브오일 선물 송중기♥케이티, 이탈리아서 전한 근황…직접 만든 올리브오일 선물    조선일보   Google 뉴스에서 헤드라인 및 의견 더보기",
+              "openings": [
+                "송중기♥케이티, 이탈리아서 전한 근황…직접 만든 올리브오일 선물."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-10-16",
+              "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHhhcjFkWFk4UGhuM0lDQU9LNHp0a0kwSGFHY3VxQkZkUjlDbkZ1djBnbXZWUkFxZzN4TE93ZmdjMHBMQUxwZTVVcGZ0VWo4WVVMV3hTRzVPVnBrck9ieE1vbDIwalAzQjkwOHJESVJqV1dYZ0JXY01YbGJSbHgyc2JkNWRHbDZfMTh2VTV4bw?oc=5",
+              "priority": "A"
+            },
+            {
+              "item": "17살 연상 아내 두고 홀로 미국行…류필립, 현지서 '캐셔 알바' 시작한 근황",
+              "hook": "17살 연상 아내 두고 홀로 미국行…류필립, 현지서 캐셔 알바 시작한 근황",
+              "topic": "연예",
+              "summary": "17살 연상 아내 두고 홀로 미국行…류필립, 현지서 '캐셔 알바' 시작한 근황 17살 연상 아내 두고 홀로 미국行…류필립, 현지서 '캐셔 알바' 시작한 근황    스포츠조선    '17세 연상 아내' 미나 두고 미국 간 류필립…\"살려주세요\" - 머니투데이    머니투데이    '미나♥' 류필립, 17살 연상 아내 떠나 美서 알바 중..\"울렁증 생겨\"[핫피플]    조선일보    류필립, '17살 연상♥' 미나와 별거 심경 \"불안정한 미래…아내에게 미안\"    SPOTV NEWS    시댁 빚 다 갚아줬는데…미나, 17세 연하 남편 미국 뒷바라지? ‘호화 저택’ 눈길    스",
+              "openings": [
+                "17살 연상 아내 두고 홀로 미국行…류필립, 현지서 '캐셔 알바' 시작한 근황."
+              ],
+              "source_name": "스포츠조선",
+              "source_date": "2026-10-16",
+              "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWtrcGNDV0t0MnplamUwZ0NXaW1FQldkeFowTVozb1NhSGtza3MtRmFxSGNzbXpxY2gyeWZxb2NsMS0ycDVpMFdnazd5SGJSVmltVWNMRU1aWjBzZ1pld0YzRTFMTUE0RzV1UndueUV3STk4YUE4RTRQUnNMcEpKOEl0STI?oc=5",
+              "priority": "A"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 13
+    }
+  ]
+}

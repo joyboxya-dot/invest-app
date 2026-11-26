@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-22",
+  "built_at": "2026-11-22 11:33",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/22 기준, 후보 1건에서 장면·갈등·기괴 과학 축으로 1건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프, 김정은 언급 없이 “미중러, 한반도 위험 맞서는 문제 논의”",
+          "hook": "트럼프, 김정은 언급 없이 미중러, 한반도 위험 맞서는 문제 논의",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CZ1N6VWxWOTRwVk1qLWFIbXFEUC1kazBuQ1NIOVhYVTRtX1VEaG9wZE9zbGxFdkh6MVBOR2ZJWUx6X2p2NDZ1MnpXdE9SS0xIdXhyRUdFRzF2VGJ2UTRKSUtQYnREZkE1MVlFN2huMA?oc=5",
+          "source_date": "2026-11-21"
+        }
+      ],
+      "top5": [
+        1
+      ],
+      "buckets": {
+        "domestic": [
+          1
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 1
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "국민 여배우가 노후 대비로 산 제주 땅, 5000만원→82만원 폭락 진실",
+              "hook": "국민 여배우가 노후 대비로 산 제주 땅, 5000만원→82만원 폭락 진실",
+              "topic": "연예",
+              "summary": "국민 여배우가 노후 대비로 산 제주 땅, 5000만원→82만원 폭락 진실 국민 여배우가 노후 대비로 산 제주 땅, 5000만원→82만원 폭락 진실    땅집고    [브라보 문화 이슈] “제주 땅 사기당했다” 임예진의 좌충우돌 홀로서기    이투데이    배우 임예진, 5천만 원 투자한 제주 땅에 소유주 178명…기획부동산 피해 우려    뉴스21일간    제주땅 5000만원→82만원, 포르쉐는 곰팡이…임예진의 씁쓸한 ‘자산 성적표’    스포츠서울",
+              "openings": [
+                "국민 여배우가 노후 대비로 산 제주 땅, 5000만원→82만원 폭락 진실."
+              ],
+              "source_name": "땅집고",
+              "source_date": "2026-11-21",
+              "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiMmVkNXBrMTJNaEV2U1BsSGl2OW01bHRsWVJaNzM3RVhJNkdXWjRJSHFZZ2FraDMtdTJuWmI5MzVCNmFIbnl1cHZmMFZQblFwbXkxanlmZ1VUZ1pvamRGbTVqQXF0bmxuTnpaMElVNTRHYlVOVVlVYjFLc3h5X1HSAXNBVV95cUxNUjBWNkpuQlhjTEdQbjFxdmJhTENHN0JwcHBIcU1DcTJ4V0J6S3JSbW5MR1l2TjZYX2RoQ1hwcXREZTh5Tmh1X1FUeWd2ZUhIdGNVa04yd0VtVFBRcUtadElzQVczczFpNGt4c01SWVE0Mkdz?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 2
+    }
+  ]
+}

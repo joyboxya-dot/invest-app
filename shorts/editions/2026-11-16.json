@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-16",
+  "built_at": "2026-11-16 11:20",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/16 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "루비오 “김정은은 팽창주의자 아냐, 정권 생존만 원해”…이란과 구분",
+          "hook": "루비오 김정은은 팽창주의자 아냐, 정권 생존만 원해…이란과 구분",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZbmN0YTVWQnZwZHBURlA0MFozcHBsTnd4cEpVSktkSlJNWmRUOENJaGtlNnQ0Yk12anIwOWJ2V2dwX1JodERGRG1lQmJWZ0JJRmwyR2E2MGtvUdIBX0FVX3lxTE9PaWQ5dDAwZkx5cEZEb3VlS0pNREhMdHc1NVR6VDNiN1g2ejJrNTUzem00UmVWam5xYnowVEVDaHBXTS1TbUpTM1ZkbHgtQ3hRZUluaHFocHFGZk1nSEUw?oc=5",
+          "source_date": "2026-11-15"
+        },
+        {
+          "item": "AI로 친구 놀리는 노래 만든 중학생...\"학폭 처분 정당\"",
+          "hook": "AI로 친구 놀리는 노래 만든 중학생...학폭 처분 정당",
+          "topic": "AI",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBC광주방송",
+          "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fSDNaRUl1WGpfd2o4WVI3TVVDa2xlQUNPTGtYbDYyWEtJc2pFaTFnaWRxMHB4RFVQTC1YVTVIX1hBY0VLLWxDSENwdGVKYVA3VGZvYWtkOTIzbGF1UGNvcmhB?oc=5",
+          "source_date": "2026-11-16"
+        },
+        {
+          "item": "김민석, ‘발언 논란’ 최민희 징계 속도…중징계 땐 친명-친청 전면전",
+          "hook": "김민석, 발언 논란 최민희 징계 속도…중징계 땐 친명-친청 전면전",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsN1JMcklvMHhyM01lbWZldERKRzNVekdFRFA2d2NhQU50MENZRS1uckEyWDlLd2pZNVgwcmprN2I0UU1rVDNKZ1lSWW5BQzQ5OEh1Q25MYnNYYUdEamtIN2JuZEZ6SXBXeE9VZURJcWpLV1dI?oc=5",
+          "source_date": "2026-11-15"
+        },
+        {
+          "item": "\"의사 선생님 자제들은 특별\"...임종명 전북도의원 발언 '논란'",
+          "hook": "의사 선생님 자제들은 특별...임종명 전북도의원 발언 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBC광주방송",
+          "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4V0YxV1RBTG5OWld4cWJvLXE5dktGMWc4V1lGREVtU2NQYUhkVkRfZUcxWjZEak9mOGZDdjFvWW43UF9lQWV5ZmxPVjV1SVJ1eDJ6eHMyMndrdmZGcXNhazRn?oc=5",
+          "source_date": "2026-11-16"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [
+          2
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-10",
+  "built_at": "2026-11-10 13:15",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/10 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "[단독] 몰카에 딱 걸린 탈의실 간식 도둑…카메라 설치 ‘학폭’ 처분 법원서 뒤집혔다 [세상&]",
+          "hook": "몰카에 딱 걸린 탈의실 간식 도둑…카메라 설치 학폭 처분 법원서 뒤집혔다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "헤럴드경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nUTVvOEhFdDdmWkFseXE5RVlnaG81N3VDcE1VbDRldmZUTUZQSzBzODUxQk9lM2JrSWYwLVE1QU45SmdKZm1XX2V3el9tN1lDdU9LWHhB?oc=5",
+          "source_date": "2026-11-09"
+        },
+        {
+          "item": "\"50대 배달원 사망\" 박신영, 벌금 1500만원 이후 5년만에..'틱톡' 복귀 '논란'[★FOCUS]",
+          "hook": "50대 배달원 사망 박신영, 벌금 1500만원 이후 5년만에..틱톡 복귀 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "스타뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43VWZCMzFJTEh1QUpQTllZTmhYZnJyQjFvZEE5YW1jUEZ0ZDFrbmFHZDlHb0RzMEpBSlNuaUtTdjZ1Y0dEaHBNTVdRbTNjczZadXdLMHBUR1o4LXVuMjNxT1VXT3pzdHN5WURHRHYtU2ZFX3M?oc=5",
+          "source_date": "2026-11-09"
+        },
+        {
+          "item": "카페 온 '거구남성' 돌연 주먹질 무차별 폭행‥경찰 수사 착수",
+          "hook": "카페 온 거구남성 돌연 주먹질 무차별 폭행‥경찰 수사 착수",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iT1Fsa083TC1wWFdPcjRBN2lRRXZ3NUFZRkVBX0t4WWhIc2hwUXdpNXhIRnhnQ2tFYU5KRWpEVm1EczZqeGhGLWE0ckVrWjM2TEp3djBTRlFkZnRxSjVSbFJjUVdWNjhHU2ladVdDdXVYZHFnZjQw0gF3QVVfeXFMTzJWbmVmRDZGaWdBUDA1cldUZXhvRVgzRHdMcV9RaG5RNUxqb2tRcXk0UE1zcGY0V1pBVmtyM0wwa0Z6djl2amZ3NTBJQ0h2bVlycE1qWGo4OWpQczY4Z00yV21BcDNsaFI5U0JYeW5ZR0Y4SG1xQkU?oc=5",
+          "source_date": "2026-11-10"
+        },
+        {
+          "item": "김종철 경찰청장 내정자 “수사기관장도 국무회의 참석 필요”",
+          "hook": "김종철 경찰청장 내정자 수사기관장도 국무회의 참석 필요",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ldDRXOUtHVXFkX1gzdDBKMVh4VEwtd3M0eGlrekVtS1Zfc20zdFRoNmY1U3NDenYxZmVoc05MT19xeDEyZVFCSkNVb2EwcV9ON3hleERZRmtzQdIBX0FVX3lxTE0ycTZyMnRaY3prVHp1NE1QRGY1YWxoR0c5WDVxcnFsMHBwWlhoVjV4aE83c09XMFdYTXhGQWFTSEpMZXNvWVMyTTJFSHE1WjNfRVJsVkduMWtJOEhzWGFr?oc=5",
+          "source_date": "2026-11-09"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-24",
+  "built_at": "2026-11-24 15:18",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/24 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "加총리, 트럼프 풍자 코미디언 만찬 초청…\"美 불필요한 자극\" 논란",
+          "hook": "加총리, 트럼프 풍자 코미디언 만찬 초청…美 불필요한 자극 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "뉴스1",
+          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GeUIxbGFGcWFLMUQ4LWxPa05MTnFTWWREbnhBWFJqcm1zbV91ei1nTGtVVnlUYjk4WXFWYmNwTnV3dHVnRXVSUjEwSFpuVUduV25ocjY2Q2g?oc=5",
+          "source_date": "2026-11-24"
+        },
+        {
+          "item": "김정은, 루비오에 맞장구… 美와의 대화 여지 열어둬",
+          "hook": "김정은, 루비오에 맞장구… 美와의 대화 여지 열어둬",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "동아일보",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95M0F3WlJycFZHbmliMktRYUtpTlFpSlR0V1pRN1I2UTUyVTQ0dXlBNnFFNC1QZC1WZjdpeTg1bm9tdDUwR3ZKdWlfRWJGOGhhUDNNQjgtblljQXFLbnpOaVRScWtjbXFWb3l4eG5maVZ5YTRNLUx30gFmQVVfeXFMUDNYWXJpVUlWZnlpY1ZSTlZfNm5zOVdhV1pnVDBPRnlZYmxzY0JKZmZobDlnQ2VkQmcwYjlCaTNnN0NXLXZWQXlEekNTUndndGRQOTl4T3VUQnRZSnZPX1FyZGhEdHp3?oc=5",
+          "source_date": "2026-11-23"
+        },
+        {
+          "item": "김여정, 스위스 대북제재에 반발…“평양 스위스 외교사무소 철수 검토”",
+          "hook": "김여정, 스위스 대북제재에 반발…평양 스위스 외교사무소 철수 검토",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfcVJSa1c2TklOS0hBanhKYXZVUVoyZFVoR1FQSkc2N1FPemk2clBVLXYzWUloWC14UGtQWXRCWEFfUFVTLUM2THFuOVBwTFVNcVh5eTdDQVE3QUNYMVhyb0dtdHRWeWU4QldMaUFCZFZMZXJ3?oc=5",
+          "source_date": "2026-11-24"
+        },
+        {
+          "item": "\"GTA6보다 못해\" 무더기 0점…메타크리틱 이용자 평가 논란",
+          "hook": "GTA6보다 못해 무더기 0점…메타크리틱 이용자 평가 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "지디넷코리아",
+          "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZd0NGdnVjdENkUmtCNDBVaEs2eHdpc1FQUGhDQldfVVRuS1R0OGNfY1dsd3RBNmtGTURpNExMVjJ0dGpRODBfclhMYmNXa1dnYWswMU1n?oc=5",
+          "source_date": "2026-11-24"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "'음주운전' 고경표, 경찰조사 후 제작진 언급하다 울먹…\"정말 죄송\"(종합)",
+              "hook": "음주운전 고경표, 경찰조사 후 제작진 언급하다 울먹…정말 죄송(종합)",
+              "topic": "사건",
+              "summary": "'음주운전' 고경표, 경찰조사 후 제작진 언급하다 울먹…\"정말 죄송\"(종합) '음주운전' 고경표, 경찰조사 후 제작진 언급하다 울먹…\"정말 죄송\"(종합)    뉴스1    ‘음주운전’ 배우 고경표, 첫 경찰 조사…“무책임한 모습, 죄송해”    KBS 뉴스    부르튼 입술·초췌한 얼굴…'음주운전' 고경표, 사고 9일 만에 경찰 출석해 '눈물 사과'    SBS 뉴스    “하…” 음주운전 고경표, 다친 미화원께 연락드렸냐 물었더니    한겨레    [단독]고경표 혐의 인정…경찰, '마디모 감정 검토' 치상 혐의 저울질    뉴스1",
+              "openings": [
+                "'음주운전' 고경표, 경찰조사 후 제작진 언급하다 울먹…\"정말 죄송\"(종합)."
+              ],
+              "source_name": "뉴스1",
+              "source_date": "2026-11-23",
+              "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bUxJMWI1aGlvQU55bDYyalJ4ejh3U2o3V29UczVrQjJyaXdQdlBoQTFTVy1NM015OHlJOVU3N0Vfa24yNzktZmt2Tkthakgyd29WcnUwdE9ldjh4MTlLSWRaaHI?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    }
+  ]
+}

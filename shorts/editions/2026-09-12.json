@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-12",
+  "built_at": "2026-09-12 09:31",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/12 기준, 후보 7건에서 장면·갈등·기괴 과학 축으로 7건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "“로드킬 당한 동물보다 못하게”…정재환에 아들 잃은 유가족의 절규",
+          "hook": "로드킬 당한 동물보다 못하게…정재환에 아들 잃은 유가족의 절규",
+          "topic": "과학",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "시사저널",
+          "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XV3N4Wi1kaGh2M256QVVQekt6MEgtU2RTREwwWWd0U2xxSm5hcVk2U0d1WkJLaTFuRXMtaWRiYnFUVEFHeTNEcmJfS09xZDg3WUwtbnk0cGVYNEZWTTdPNktzdGZxMlJKQ3E2SFkxb9IBc0FVX3lxTE5OcjBrVjdiUEtwSVpWLUJXRkd4Yk9lbGR4NFJacXljX1FYT0pIMXYwY0tEamo5bHBITlZPeGw4bHFBTVpYc0drWWVpTHV2MkczZWlPcWpqb19IaXZoRFhhQ1dDXzltUWFHWjBLWGlzR3pHNnc?oc=5",
+          "source_date": "2026-09-11"
+        },
+        {
+          "item": "한성숙, 한동훈 기자회견 논란에 “유감, 국민께 송구···사찰은 아니다”",
+          "hook": "한성숙, 한동훈 기자회견 논란에 유감, 국민께 송구···사찰은 아니다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경향신문",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CT19mM196aHVmSXNtaTZnc05BY2tQR2VEVUwxalc4VE8wZzlncTZiV1UwSDdWVlg0UmVQV2Q2eFB5MmRKSkQ2TEVDU0ZjbkNvOS04VEw1dDl0Z9IBX0FVX3lxTFBoeC01dERXQkFrN2tYY2R4QVQ1VXNQVzVQLXZHVDdRTDFQX3hNQktSLU0ta2dwTk1DejhzNTdhUEdOR09najI2ODdKMTZOUGVyMXB1UVRpUG5wWjVyVi1n?oc=5",
+          "source_date": "2026-09-11"
+        },
+        {
+          "item": "[이슈] 한국 소비자들 호구로 보는 애플 근황",
+          "hook": "한국 소비자들 호구로 보는 애플 근황",
+          "topic": "연예",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "inven.co.kr",
+          "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91MlZucjROSWFXbFVOZnRuSzQ3YllJcnFXaThUVVcteThsVEFVRG1mWlpBa01tVHBPNjI0cUdiZlduLXVQcFJVQjkwbHpGRmp1akxfWjdjc1R4Q05m?oc=5",
+          "source_date": "2026-09-11"
+        },
+        {
+          "item": "주진우, 용혜인 경찰 고발‥\"'페이퍼 시도당', 정당법 등 위반\"",
+          "hook": "주진우, 용혜인 경찰 고발‥페이퍼 시도당, 정당법 등 위반",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55TGhxVUR3R1gzb0tmcE1SQUI0VkhrNXRGS0duRmtUcW04dWdWT1JCbkZSc0ZKQXYwcmtpbk9pb3BSSWJGRnVpcUpUODJTdkRaN3NJcDd5N05ZaGVMY25maFpQMjdtM0tYRW5HQTRuZmQ2TlI3NjVXadIBeEFVX3lxTFBOUEszVEM1SS04RWxzamhPaE1LZkNLVm0yT1RhZGhxQjZhZ1lXNzJwV3NoVEYzV0JmSWJyTm9RdTVMVE5pallnN3J4aE5NWElxX0cxU3Rwb0I1RHk1UGdoU3J0Q1JQUUNVZkZ1UGxDRm4xTElDcU52bw?oc=5",
+          "source_date": "2026-09-11"
+        },
+        {
+          "item": "세종경찰청, 관사에 가족 위장 전입한 경찰 감찰",
+          "hook": "세종경찰청, 관사에 가족 위장 전입한 경찰 감찰",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "chosun.com",
+          "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOalVZNzFFT0tfYnlTY29zdTEta3MtVVpCcG1TNTEwVFVXeWl0X29wemJac3I2R2tQMlJpVzV6bXBsZV91OTB3MG5Da2lhZWEyY1hmajF1M0tKSnduTTJtdjB3VFR3dWdreGhFU0JVRHFFdWVIaWwzWW8wS1R3SG5tdWIzZzhXUQ?oc=5",
+          "source_date": "2026-09-11"
+        },
+        {
+          "item": "경찰이 테이저건 보여주다 오발 사고... 중학생 1명 부상",
+          "hook": "경찰이 테이저건 보여주다 오발 사고... 중학생 1명 부상",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "chosun.com",
+          "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZEwteFJoZ3VwdERsWllyTngtZjRjNW1qY2VvSVR0TEFCdG90VkxrdGhZamViWUFTU0hyd1lBLUdScy1wNUNhRmlYS05uM0duczJfX1NVOWU3QWxfM002MEhaTjJSbjFtVGppX1lsOUJqTXBWMS1PYVpiRXdHd1Y0TFhONEJhQQ?oc=5",
+          "source_date": "2026-09-11"
+        },
+        {
+          "item": "공직기강 특별경보 끝난지 얼마됐다고…경남 경찰 간부 음주운전 적발",
+          "hook": "공직기강 특별경보 끝난지 얼마됐다고…경남 경찰 간부 음주운전 적발",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "kmib.co.kr",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NOVdkaVVMTzk4SENfcC1OcWVqUjAyaG1KOWFMaEJORlhWeV9odTVXVVk1M2hXSUVlVmxHOFdsRmFuNXdWWUNyZzVSY0JNV2g3aUJPVTFkZkhPUlIyVmVnRlB5RURPcjTSAWxBVV95cUxNcl9ReHNqMWVWNVdfWmdxaFBRM0FwMzg5T3NuMmo4ZWZwSURiVVRxZHh3ZjNpc1JFRmpjSkR5QTB1MG1aQ1pDSi1LZ21PbC1hdGQxakg0eGxsTFRVUVFSMHQtMEFrLThMTTlyd3E?oc=5",
+          "source_date": "2026-09-11"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "박위♥송지은 케냐 봉사 논란 근황, 컴패션 비전트립 영상이 다시 소환된 이유 : 네이버 블로그",
+              "hook": "박위♥송지은 케냐 봉사 논란 근황, 컴패션 비전트립 영상이 다시 소환된 이유 : 네이버 블로그",
+              "topic": "연예",
+              "summary": "박위♥송지은 케냐 봉사 논란 근황, 컴패션 비전트립 영상이 다시 소환된 이유 : 네이버 블로그 박위♥송지은 케냐 봉사 논란 근황, 컴패션 비전트립 영상이 다시 소환된 이유 : 네이버 블로그    Naver Blog",
+              "openings": [
+                "박위♥송지은 케냐 봉사 논란 근황, 컴패션 비전트립 영상이 다시 소환된 이유 : 네이버 블로그."
+              ],
+              "source_name": "Naver Blog",
+              "source_date": "2026-09-11",
+              "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaGdBRl9KSFpsbmlEazF2S0o4RmgxV25YWEE4TGhHRkJJcWo2dWVYakpReGdXeThYYmxtUno3VnoxaGE0SWM2WEFqU2pGWTUzUFpXT3daMC0yX0JrRmVYLWxqRHR4RWNhLTBaZFFhdHVHWDhYYjVLN3g5SHZpUXVNNG84Y3FKck8wem9YTzNIZ1M?oc=5",
+              "priority": "A"
+            },
+            {
+              "item": "‘비행기 지연 민폐 논란’ 박수홍, 2주 만에 홈쇼핑으로 복귀",
+              "hook": "비행기 지연 민폐 논란 박수홍, 2주 만에 홈쇼핑으로 복귀",
+              "topic": "연예",
+              "summary": "‘비행기 지연 민폐 논란’ 박수홍, 2주 만에 홈쇼핑으로 복귀 ‘비행기 지연 민폐 논란’ 박수홍, 2주 만에 홈쇼핑으로 복귀 - 조선비즈    biz.chosun.com    '98억 돌려받나' 했는데 돌연 연기…박수홍, 친형과 5년 돈싸움, 끝나지 않았다    네이트    \"무릎 꿇고 사과라도\" 박수홍, 민폐 논란 2주만 의의의 근황…라이프 포착 [Oh!쎈 이슈]    OSEN    박수홍, 98억 손배소 선고 하루 앞두고 연기 … 5년 넘긴 법정 싸움    뉴데일리    '비행기 지연 민폐 논란' 박수홍, 홈쇼핑으로 2주 만에 방송 복귀    파이낸셜뉴스",
+              "openings": [
+                "‘비행기 지연 민폐 논란’ 박수홍, 2주 만에 홈쇼핑으로 복귀."
+              ],
+              "source_name": "biz.chosun.com",
+              "source_date": "2026-09-11",
+              "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFRfcUNFSnNRanJiZF93U0tTVlo5bzFPQUNsWjJsZlJwYzE4cUdMTVdRQ0JhcTZNSl84SnBpeVVPa08zRFd1dlZqVjRWY0owMWhZdTF3RUN3Nk02eFBaeDlBamc2UTJfT2d0THVPN29Uc19RTlRCdzVhcWlNTUZxeWhuU09ZY2JlSEd3SVhn0gGiAUFVX3lxTFBHZDVuY01mbVZfU2M5NTFoaWZsQ1gzWlMxdUxPMGJjUkkzaUd0dWRIVDhlbV9oOWltYy1vaV9PTUJIY09NMXVEWjBLMnBkUGk5UjFQTXlWWVc3Nk1KRUMzYXhtdFdhMGRhRWptelppRFozSjU5TDBNRkJnR1loLUMxSjVBX2p4YmdOUDVCVWVnUVcwdldyMWxheUdpel9KWjFJZw?oc=5",
+              "priority": "B"
+            }
+          ]
+        },
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "경기도의회 장경임 의원, “우리 전통문화, 아이들의 인성과 자긍심 키우는 교육자원”:경찰연합신문",
+              "hook": "경기도의회 장경임 의원, 우리 전통문화, 아이들의 인성과 자긍심 키우는 교육자원:경찰연합신문",
+              "topic": "사건",
+              "summary": "경기도의회 장경임 의원, “우리 전통문화, 아이들의 인성과 자긍심 키우는 교육자원”:경찰연합신문 경기도의회 장경임 의원, “우리 전통문화, 아이들의 인성과 자긍심 키우는 교육자원”:경찰연합신문    경찰연합신문",
+              "openings": [
+                "경기도의회 장경임 의원, “우리 전통문화, 아이들의 인성과 자긍심 키우는 교육자원”:경찰연합신문."
+              ],
+              "source_name": "경찰연합신문",
+              "source_date": "2026-09-11",
+              "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zSXh6Y1NKNU4zMk9ldmVFSVI3WURvNlVGNEIwU3dkVW1ETWMwY2dTelZ2T2JCN05Qelkza0sxMXMyX2kxamZUVGY3N0hHd1XSAWxBVV95cUxNTzRJRWVVVWJ1NU1OMEhkWTUwS0VtZGM0UWwtejFVZ3dXOG11WmFDYnVPMlpzZUJ6ZHZ3enlxVllBalhDU1FsN1JnbUROc1dnV0taQjJURGwzNFdPYjhnTDFXeUg4R01VRWwwNmU?oc=5",
+              "priority": "B"
+            },
+            {
+              "item": "에듀피디, 용인시 청원경찰 채용시험 대비 '합격패키지' 강의 할인 제공",
+              "hook": "에듀피디, 용인시 청원경찰 채용시험 대비 합격패키지 강의 할인 제공",
+              "topic": "사건",
+              "summary": "에듀피디, 용인시 청원경찰 채용시험 대비 '합격패키지' 강의 할인 제공 에듀피디, 용인시 청원경찰 채용시험 대비 '합격패키지' 강의 할인 제공    네이트",
+              "openings": [
+                "에듀피디, 용인시 청원경찰 채용시험 대비 '합격패키지' 강의 할인 제공."
+              ],
+              "source_name": "네이트",
+              "source_date": "2026-09-11",
+              "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTaEd6d19RVWRld0hnaHZqQ2JHdUV1Vi14YW0xMFFCSVhOV3g4UV8yY3gwM1g3c2pfVDF4emlySzNDeVBsMnY3SVRNQTZVSGkxWElN?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 11
+    }
+  ]
+}

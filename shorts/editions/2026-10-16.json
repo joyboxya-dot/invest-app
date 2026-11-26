@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-16",
+  "built_at": "2026-10-16 09:38",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "10/16 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "8개월 아들 리모컨으로 때려 숨지게 30대 어머니 1심서 징역 12년 선고",
+          "hook": "8개월 아들 리모컨으로 때려 숨지게 30대 어머니 1심서 징역 12년 선고",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45b2tNSWF0aEVJTXpPdUpiY21McThaQ19BYzFQVWtoaXFrZmZabUNfU1cyZjNBN0pnVGtXSlVYWWdtNWsxU2Q5NWoxRHl0YWZKckx4d2tval9jNUFKVjdqS1lKTVRjcnFlNlFHUlRubWM5VDNQUndj0gF3QVVfeXFMTWVvNzdRVkY4ZHhyVG1TYVpTTjJEbTdFS0R1UUZQc2twbW1ZWG5UT3VPZzc4RG5jMVZkNTFRdUp1eUlwM1g5bWNCZlA4UTVPelNZamIxUXJNNjdSdU5WSTRoTDEwWFYzYUdURm5QOFQ5clRLVnNCaFk?oc=5",
+          "source_date": "2026-10-15"
+        },
+        {
+          "item": "’가짜 변호사’ 논란 백악관 대변인 “시험 불합격 중요한가“",
+          "hook": "가짜 변호사 논란 백악관 대변인 시험 불합격 중요한가",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TNWYwUUNlaVhfVWZGM2FhbkRRVi1GdWxQOW1ILUdjaWthN3pQQzkxaWRwTjUwS3ZCWkQ0RVpfeHYyVUxrX0liUk93Y2MyRWFwcnZLdnM5My1PQm5INEFvM21wOHVTV00?oc=5",
+          "source_date": "2026-10-15"
+        },
+        {
+          "item": "여야, 서울경찰청 국감서 ‘수사 공정성’ 두고 경찰 질타",
+          "hook": "여야, 서울경찰청 국감서 수사 공정성 두고 경찰 질타",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UnpkT1dfY1ZJYmtMOWk2bWtoVnpjbmxEdkdZWkI5TVUza1Y0ejJfaEQzYXpCSXNuSGVFSlNyZW9UU3F3Y1FPUkpuZlA2b2d1M3JDOGF0Ul92dDA?oc=5",
+          "source_date": "2026-10-15"
+        },
+        {
+          "item": "경찰, 스마트워치 지급 대상자 피해 상황 집계 안 해",
+          "hook": "경찰, 스마트워치 지급 대상자 피해 상황 집계 안 해",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Hd28wUzdhckplM2F5b3pkUGtQVXlHd2NPaXBIZWFNME9DTjY0OE5HLWp6eVZlVHBJTUJfRjF1QXVfQkNNTHNkblpJM0Mza01YdVVpVWpyR2pURjNVN1g3Y25aekdPVXZ0ckJyZHMyWEpLNDd0cXNR0gF3QVVfeXFMTllMTnlOUmxXd1pobzh4VGRVUTJLbGJwT3cwejdWWlRMdEE1Z3pxY0k5Nllza0xQRmFlRTFMTGVNOWNXdGdoaC1wdUVnN1pnVTVlbzFrVkFxZUQzbDVYYTRJRnlZSVRiZTEyUk1YcWFRR2FicVBvdHc?oc=5",
+          "source_date": "2026-10-15"
+        },
+        {
+          "item": "‘집 앞 시위·협박’ 유해진, 경찰 신변보호 받다 해제 요청",
+          "hook": "집 앞 시위·협박 유해진, 경찰 신변보호 받다 해제 요청",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "경기일보",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BZGVHWFI0X3RDVkhBbTFkUHN3YmJrUmxOYUM3ZHI2ZThvRVQxNjV2MW85V0FndmZqWVl2MnFYRE5xME1JRFRqVzVnRkJJdkRqZWtod1VrQ0QyWVE?oc=5",
+          "source_date": "2026-10-15"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    }
+  ]
+}

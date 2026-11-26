@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-02",
+  "built_at": "2026-11-02 10:43",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/02 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "기괴한 그림, 흥행 참패... 그럼에도 이 영화에 박수치는 이유",
+          "hook": "기괴한 그림, 흥행 참패... 그럼에도 이 영화에 박수치는 이유",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "오마이스타",
+          "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82Yk1pYTNNUXJUai15NW1hTW14djd0OFNUWk9VWmJ5Q2tsZG1OV2k1aXkyUXgyMFRLd0tiWXlaRWFCZ283cXZVdFVhbWlkX2NBMVBLLXNnRklsYmRIVVNueEx5clVtSjB5aTdWdFF4eDUzMkJKSUJGMF9nQlVIZw?oc=5",
+          "source_date": "2026-11-02"
+        },
+        {
+          "item": "차예련, '학폭 의혹'에 유튜브 댓글창 폐쇄..\"가족 인신공격 방지\"[공식]",
+          "hook": "차예련, 학폭 의혹에 유튜브 댓글창 폐쇄..가족 인신공격 방지",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Chosunbiz",
+          "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU01SbHFUT2hVZWRmcmx6dVhpcEpwWWhzb1FBODNTNjk5UnBVZjRiLUJUaFZRb1huNHJsdjJGMFJIV1h3UkczVGx3cDFzU1JtU1BpOEtERnVxNmZsQnNkQkZFOHRZTU5PMzllX2U1NEJNREk2VnBYQ1pLWDJwZXpqUE4wWGhDUTI5TEVMWGxkaEthVzDSAacBQVVfeXFMTlZUWHJPRk1pNEJpU1dYT2tERDJETzV2LVFaSlRMcTF4c0ZUYUd0X1p0UUthdEU1b3p6ZGs3Ui0yMXBkRnQ4dHFMcWZrWnUzU1h2QUdSSEVtZ0ZacF9aVzNQRGk3VE5Wb0s2cS1oV2RpOVppelRuSFFleXVsNk1vbGM4Y1pQTmRpdXFnS3lHcWJqLUlvMklmYldVZ3k2REhYQkRXSGtZT0k?oc=5",
+          "source_date": "2026-11-02"
+        },
+        {
+          "item": "김종철 경찰청장 대행 \"수사 부서 가장 일하고 싶은 부서로\"",
+          "hook": "김종철 경찰청장 대행 수사 부서 가장 일하고 싶은 부서로",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "연합뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LME15dTE1dUVBckZyZVF5SUh3Q19tT1NjRms2SGh5TllHMDA3enIwZlplTnFwOTJXcDdlVUZCUmxNTHJnU3poQkFkNGRnYVVMNEdOdTd5VUVOLTTSAWBBVV95cUxQYzFFWE9nSTR6MFNjNk9KOGEwbXNNbUMtRURIdXh3X0VyNHBSc2VESXV3Q21rM0E3RzZKSVBraUJQWTFZUGxERlh1Z1l6RTNsVG9BYVJEYUVhRWk5NDRpYWc?oc=5",
+          "source_date": "2026-11-01"
+        },
+        {
+          "item": "깐깐해진 공소청 검사, 이삿짐 덜 푼 중수청, 수사 늪에 빠진 경찰",
+          "hook": "깐깐해진 공소청 검사, 이삿짐 덜 푼 중수청, 수사 늪에 빠진 경찰",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRjFqZlduUFh5M3BObXV3bUo0a1FhdGFiODA0c2RaVDRETEpLY2xhd1VnQlJNbXo2NktTaWdKZXI3SUhNekJOZXQ4dDJKN2RRUVdyTGY2eThGUWRGbk54N2w1OFhURzYzaFp4SUdMRGxSVzRlMVZGbVlXSGJRVDJRZVZkcVYtOFk?oc=5",
+          "source_date": "2026-11-01"
+        },
+        {
+          "item": "가정폭력 신고로 출동한 경찰관에 흉기‥50대 여성 체포",
+          "hook": "가정폭력 신고로 출동한 경찰관에 흉기‥50대 여성 체포",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwSk1vTjQxeXU3dHBHczBoeEFYQ21HYVczMjRPbXBJVEZXT0NGOXJhRmt2UWdxTzV4dUp4UnR1Q2tQcTg3VU5BMWZVTmJ2WXNISlVlMVhPdm5VYk0waF9ia3dLcFNJQ1l4bkJXY21CdWgwZ3V0STdV0gF3QVVfeXFMTUh5VUYzeFRLR3dwSFpwM0xVUU5WbUlsMHJxWldTVHlLaXZQcmJqU0M0UFg4Tzl0bDVzcmN2eXhzdU1jSHY3R3JYRjE1ZThjeDVoWU1uNURadTltSldDUXVrcF9zTlpCaEQ2ZWV0Z0dCNVo5dlpIWEk?oc=5",
+          "source_date": "2026-11-01"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    }
+  ]
+}

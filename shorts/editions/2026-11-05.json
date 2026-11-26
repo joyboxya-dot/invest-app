@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-05",
+  "built_at": "2026-11-05 11:42",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/05 기준, 후보 7건에서 장면·갈등·기괴 과학 축으로 7건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "100배 비싸, AS도 안돼…그래도 우주 데이터센터 포기 못하는 이유",
+          "hook": "100배 비싸, AS도 안돼…그래도 우주 데이터센터 포기 못하는 이유",
+          "topic": "우주",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1TXBSdjljMG1TSkZSWE5DTUU2R1pySlN0QW5HSl9FQmtFcVpxb3laM2tqNU0ydHRrRVRiTDBULW54M3Bna1RIR3QtcFR1Zw?oc=5",
+          "source_date": "2026-11-04"
+        },
+        {
+          "item": "[단독] 경찰, 강호동 농협중앙회장 수사 1년 2개월만에 구속영장 신청",
+          "hook": "경찰, 강호동 농협중앙회장 수사 1년 2개월만에 구속영장 신청",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORjJSN2lVeTRqMG5XU1E4OWVVZzZ0Wm9VOU1fNVZGTlA3cjlfcERBeDdGRDlIOFJ1YWlhbk0wYzQ5OGVxc1BDWE5YS1BEeVc5WWpQck5uSjgtalBaNXpEQV95QWNmTk5TNHVPcXZnTWxPd3hyQW1fS1NOanM4TVZ4bU9zQ1NoZWxlcU43VHYzb0s?oc=5",
+          "source_date": "2026-11-04"
+        },
+        {
+          "item": "'하루에 분유 한두 번' 17개월 딸 영양결핍으로 숨지게 한 30대 친부",
+          "hook": "하루에 분유 한두 번 17개월 딸 영양결핍으로 숨지게 한 30대 친부",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBC광주방송",
+          "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtdHgzbGxIMTJvUnh5WkU2TE9VNk1BdUJpbHJPNTVXNV9DS2k4NFQ1UVVtQlRJNi1aWWJfdmo3WXVacVR6V3RQQndFZ1dodVRINFB2UTBBcFBwRUY4UlB5V2p3?oc=5",
+          "source_date": "2026-11-05"
+        },
+        {
+          "item": "“동성애는 성폭력·도벽과 같은 비행”…논란 일자, 성평등부 “즉시 수정”",
+          "hook": "동성애는 성폭력·도벽과 같은 비행…논란 일자, 성평등부 즉시 수정",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "매일경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXckxNUW5sVFZqVE9BTVpTWTlnN0h5dXlhOW9rLUc0NFJ4dGdFWkppMnVEY2NiNkxPU2JKbTV4dWRGbEU5NGtLRkhRS1ZhTWk4RHo0aw?oc=5",
+          "source_date": "2026-11-04"
+        },
+        {
+          "item": "기니비사우 신생아 B형간염 백신 시험 취소…접종 제외 설계에 윤리 논란",
+          "hook": "기니비사우 신생아 B형간염 백신 시험 취소…접종 제외 설계에 윤리 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "유스연합",
+          "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnU3NjaExXbHVBUmlGdmNOREhHQkZDU1NTTndnRHhFRVJCRXhOazJPRVFNaEFMUGszRjd4aEdlYkFITVhGQ2lwRi13TmpmU05JVF8w?oc=5",
+          "source_date": "2026-11-05"
+        },
+        {
+          "item": "장원영, 인사 거부 '억까' 논란 직접해명 \"정신없어 놓친것..오해 말길\"[핫피플]",
+          "hook": "장원영, 인사 거부 억까 논란 직접해명 정신없어 놓친것..오해 말길",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Chosunbiz",
+          "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUFlUUktRTjlWd2daNUxaYkJGbzRMTFUxa0pkZHlPM1ZRVzg3aTJ1a3B2M2lBTUFQbDI5aFF0akgzVzRRNW5ZZjZGUFFidHBhbVpVdXBOLVNDS2ZfSGdYNFpxa3oxQWFFVUoyUXBLSHJGWXgyWk03SXJOTWd1MmpzTWlYUkUxRHBVLXVQYXRtaUh5M2_SAacBQVVfeXFMT2c4dFAzNVN5WUxGTm5VM0Vjb2NBekxOamtFcU81NkExMnhpVzBhX25ZNnIxaXN6eUxzQjNFUERLREtEdUxPWHBHcXJuTk83U0MxeVhSbE9zS1dpd21ENi1tRzNhcExKVlAzM0FrQ1E5TFVIaDZjdnlPSjBBdGk1Tkp3dXAtRWRUS0FXNnhaNUtUM2dnUUlKTEY5akp1QWRrSDk1NjAxNlU?oc=5",
+          "source_date": "2026-11-05"
+        },
+        {
+          "item": "세브란스 교수 흉기 피습에 과학수사대 투입… 경찰, 살인미수 혐의 검토",
+          "hook": "세브란스 교수 흉기 피습에 과학수사대 투입… 경찰, 살인미수 혐의 검토",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Chosunbiz",
+          "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWjQ0Y3ZWSWxRWjVaUEFwUU1xZWNqT1BHZldqOFNNZVB3U3lubUhNV0lOMTZ1RVVIYmtJcmREQlRrRE5KQk1BR2xpbkRQQmk2U2xtVEtlR3hvSExyU3Z4RUhnWXJGZk5CSFRlNktBVnZqT2FJeW12QkduQ0d1Zms3cHFyLUtJdGZEWnfSAZ4BQVVfeXFMUDRobm5RVjhCY2xRc3RmcmlyQW00bzNDVEV0d2pNd1V3Ukw5cFNpdFNud3RJeDZJaEJ4dDBMNk4xNXhfYkpQQzM1Wk1tVGE5Z3V4M0VZNjJfZWh5WVFDVnF3Y1NqalhkUFBiSVFNRUtPREFzbkRFSUJSZ3dSZ3lNQnRndEw0OVVMQWhRX3dzNldEcVdRdDRZZzR1TTZfYmc?oc=5",
+          "source_date": "2026-11-04"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": [
+          1,
+          7
+        ]
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "새벽 ‘만취 운전’ 차량 돌진…40대 운전자 집에서 검거 [이런뉴스]",
+              "hook": "새벽 만취 운전 차량 돌진…40대 운전자 집에서 검거",
+              "topic": "사건",
+              "summary": "새벽 ‘만취 운전’ 차량 돌진…40대 운전자 집에서 검거 [이런뉴스] 새벽 ‘만취 운전’ 차량 돌진…40대 운전자 집에서 검거 [이런뉴스]    KBS 뉴스    [단독] 식당 돌진한 음주 차량...경찰, 도주 운전자 검거    YTN    새벽에 만취 상태로 식당 돌진···차 버리고 도주한 40대 체포    경향신문    하남 상가건물에 차량 돌진…운전자 없어    경기일보    하남 덕풍동서 승용차 음식점 돌진…인명피해 없어    뉴스핌",
+              "openings": [
+                "새벽 ‘만취 운전’ 차량 돌진…40대 운전자 집에서 검거 [이런뉴스]."
+              ],
+              "source_name": "KBS 뉴스",
+              "source_date": "2026-11-05",
+              "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hZG1RdHljbVBXQWZWbkt1b01hckMxREVJMlh1eG1HOTlnWUxZQ1p0MEZxRXlaLXgwc2RHVUhoS0RuYjQySFhSa1pBSUh4Z05ZOGVxRVVjbGo2MzhuMVJiSWVGXzZaQQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        },
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "송중기·케이티 아들, 훌쩍 큰 근황... \"父닮아 콧날 오똑\"",
+              "hook": "송중기·케이티 아들, 훌쩍 큰 근황... 父닮아 콧날 오똑",
+              "topic": "연예",
+              "summary": "송중기·케이티 아들, 훌쩍 큰 근황... \"父닮아 콧날 오똑\" 송중기·케이티 아들, 훌쩍 큰 근황... \"父닮아 콧날 오똑\"    조선일보    송중기 아들 키가 '훌쩍'...서울서 포착된 가족 - 머니투데이    머니투데이    유모차 미는 송중기…아내 케이티-아들 딸과 나들이    동아일보    송중기♥케이티 아들, 훌쩍 큰 근황..“父닮아 콧날 오똑” 목격담 포착 [순간포착]    미주중앙일보    유모차 끄는 송중기, 영국 아내와 두 자녀 데리고 외출    뉴시스",
+              "openings": [
+                "송중기·케이티 아들, 훌쩍 큰 근황... \"父닮아 콧날 오똑\"."
+              ],
+              "source_name": "조선일보",
+              "source_date": "2026-11-04",
+              "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmtwNGJpRlNZblpzWnJUNzhqb0dLd29pWDJHV0EzTXBjX3BxU2dHQjc0a0NrSjYtNEN2ZnItdVRiV3F1Unc2MkFRQ2l5dFRjVWc2Umk2RVU2Y2NuYkJnRUVjek9xX0ZJZ1BhLUQ5eUdGdWtaYks2UjdCVWRHWmd1clZIN0V4NG5vT3pQbXFCQQ?oc=5",
+              "priority": "A"
+            },
+            {
+              "item": "\"메타에 엔비디아까지\"…김보연, 두 자녀 근황에 '깜짝'",
+              "hook": "메타에 엔비디아까지…김보연, 두 자녀 근황에 깜짝",
+              "topic": "AI",
+              "summary": "\"메타에 엔비디아까지\"…김보연, 두 자녀 근황에 '깜짝' \"메타에 엔비디아까지\"…김보연, 두 자녀 근황에 '깜짝'    한국경제    “딸은 메타, 아들은 엔비디아”…‘자식 농사’ 대박 난 여배우    중앙일보    \"아들 엔비디아·딸 메타 다닌다\"…배우 김보연, 자녀 근황 공개    파이낸셜뉴스    '전노민과 이혼' 김보연, 자식 농사 대박났다..\"딸은 메타·아들은 엔디비아 다녀\"[핫피플]    Chosunbiz    \"딸은 메타·아들은 엔비디아…1년에 만불 용돈\" 김보연 자식농사 '대박'    뉴시스",
+              "openings": [
+                "\"메타에 엔비디아까지\"…김보연, 두 자녀 근황에 '깜짝'."
+              ],
+              "source_name": "한국경제",
+              "source_date": "2026-11-04",
+              "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1scmFyd2F0NTZYbmhXNFpvUTBtZDk3NTdZUVlRT2xvTmpwbS1NdmQ2SzFtT044YmRUM3FrNHFtUl82cGdxT0diYnNTM2FibDhGZ2J1YVZfNXpXZw?oc=5",
+              "priority": "A"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 9
+    }
+  ]
+}

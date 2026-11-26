@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-26",
+  "built_at": "2026-11-26 13:17",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/26 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "APEC때 김정은 못만난 트럼프 “러브레터 당장 시작할수도”",
+          "hook": "APEC때 김정은 못만난 트럼프 러브레터 당장 시작할수도",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "동아일보",
+          "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KbVdsUldpVl93RWswMURlZTQ2OHRIQk43QTc5M0lYT1RDMGZSakIteXpnbmpBSkJpWi1hTWlORGNTaXJVdVNYbVdEZ1RBM3JNYzRUX1B2TVUxVG91ei1IajlZREt2QnFJSVRZTEVPeUZKd0U?oc=5",
+          "source_date": "2026-11-25"
+        },
+        {
+          "item": "김정은, 핵시설 현지지도…“전술핵 다영역 활용화 주목해야”",
+          "hook": "김정은, 핵시설 현지지도…전술핵 다영역 활용화 주목해야",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5veU9lcWhWNkowWEV5NG85cU1BZGlYaGprLTlIaExkUkVBdHhabmpEVl9RU3BLOTkyb0lYNjBLWlBxbTB2dS11Z3l6U3M1ajhNNlN1UmxTUEVrMG1EaVVzLVJnRy0xUVRB?oc=5",
+          "source_date": "2026-11-25"
+        },
+        {
+          "item": "음주운전 했는데 반전 미담? 고경표, 논란 11일 만에 '대리운전·접촉사고' 파묘[Oh!쎈 이슈]",
+          "hook": "음주운전 했는데 반전 미담? 고경표, 논란 11일 만에 대리운전·접촉사고 파묘",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "Chosunbiz",
+          "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2NjRHhzaG92cVBaNW4xcEhOdmo4TkhBeGRuSnVWX21tT3BhVUliYnNEWGNJUWVIeHpfLVc2WTM4VU5XaHh2bWxURS1UTE5PdWJhX1RoX0ZibDkweHJ2bWFiMVpLYkNfYUlUYWN3ZVZzR0dvZE5EZ2VMNXh5RVhWOTF4c19sTHE5cG9kR1otWDBYOFXSAacBQVVfeXFMT0RtcnA0RUgtRHFGcnVmU05XbVhEbUVXLXItTTZjWEpNeXJiUVN6OXBxNVpBSGdnNnJtOHVoLVV0Y05OY0dDbVBIQy1fazNpY1RBb3Z2dDRySWF2Y0l5MGF2RnQ5TlNOSTVXalVuNUJPZkR2NG1aYnFHQWg2U2k2Uk4yYkZIZUxabm1XTzF2ai05YWhHNFVzZUloZkFFMjUzem9XSElFNkk?oc=5",
+          "source_date": "2026-11-26"
+        },
+        {
+          "item": "추경호 무죄에 국힘 \"조은석 특검 경찰에 고발‥법왜곡죄 혐의\"",
+          "hook": "추경호 무죄에 국힘 조은석 특검 경찰에 고발‥법왜곡죄 혐의",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3RDFMOTBwRTh0SDBxU25XdlNkWVd4Tmd4bUE4NUxkajFYbEp5dklzbXJVU3M1cVRfZ1UzeTZkdk1LeHZhX09Nc3hDYmRYYUtFcGVmYTNCZldZSzk2LWdWbHRXN1o4ZzlBSy1ERmQxbTY1Snl2RU5pVtIBeEFVX3lxTE8yeTVrMEhJM1pyMnE0aWhtMFdFMGgya2NuR2I1SkFzODZJMWpEOFRvZllWR3RPNUU5THRwRlBMb0ptU1p0UWFDd0l5bmNCMjBzNTd5ZVRpcS03QTNZTFJKdFQza0pCb2JBNnY4NFB3RFNwM2o3QVFtQw?oc=5",
+          "source_date": "2026-11-26"
+        },
+        {
+          "item": "경찰, '리트 만점자' 이 씨 집·수능시험지 보관장소 압수수색 나서",
+          "hook": "경찰, 리트 만점자 이 씨 집·수능시험지 보관장소 압수수색 나서",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XMkFXQ1hzQTh2MVpsQWZKV0dLakpHRDlaRnlxZTI3VDNtazVkcEdYMldmZnRITFo3d25FdmJTemVUOEhTYnZqTWRHRWw5cTY3Wkdld1h4T1BJdVNnMVllb2NHR2xZdWhEbWliU0gzX056MHdULUhB0gF3QVVfeXFMT2lMbmUxMmVYdWNiUzBZN0xwdzNWZkhoNHZ0MU1sU0VCdS11a0I1bHpqeGlZZVZqbnlrZWxsbzlfVnU1aGViSVNZTldrT0lIQnJyMDF0QktzQmx3RlA4OUM3YmF4MlE0RVBWN09DQXNTS2pGMVM4ZE0?oc=5",
+          "source_date": "2026-11-26"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    }
+  ]
+}

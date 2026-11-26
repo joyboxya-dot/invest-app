@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-19",
+  "built_at": "2026-09-19 09:31",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/19 기준, 후보 3건에서 장면·갈등·기괴 과학 축으로 3건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "\"업무 부담돼서\" 실종신고 허위 종결한 제주 경찰관 구속 기소",
+          "hook": "업무 부담돼서 실종신고 허위 종결한 제주 경찰관 구속 기소",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWFVsbmptdjZsRmkyZ3BrejZ0V1F5V1NxSDUyZGk3X0xGallzYjZoZkRUMkFIZkgtOGYxV3E2T1gyNDFucDZiR19lQzl1ZEI4SnpjOGN6TlhSSDhnNUM1Q2xGQ0lYSTZIeS1jU291Skh5V2EyQ2lxMWhLV29BcVgtSXlnNnc0QQ?oc=5",
+          "source_date": "2026-09-18"
+        },
+        {
+          "item": "조민, 홈쇼핑 출연 90분 전 취소 당했다…\"논란 우려된다고\"",
+          "hook": "조민, 홈쇼핑 출연 90분 전 취소 당했다…논란 우려된다고",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "한국경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81bnJhRHpKRlg5WXhzd1EyT3l6U2FPRUNLWWdPYzNIYTlIVjU0Qm8xMTktR3hXNDNHVl9seGNEV2RCaUZOMV9iZmxOVTZnSW00ZEhDVl91bjhuUQ?oc=5",
+          "source_date": "2026-09-18"
+        },
+        {
+          "item": "24시간 신약 찾는 연구원 3만7000명… ‘AI 제약사’ 현실로 성큼",
+          "hook": "24시간 신약 찾는 연구원 3만7000명… AI 제약사 현실로 성큼",
+          "topic": "AI",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1ZwbUVwNURzTHVUQTk3aUVFV0FpM0kwUTdzcGhVWVJLV2ZHTV9JX0JoZ2xsNkxCelZUbkR2R3BwNHkxbDFwQWhWcjFKVDFLT0FvclpnZzFTeE41bWpiWmk3eGU3ZWJGbG0wMkZBOGhUWlJGU1NaaGc1ZzFTNEt2eHBzaw?oc=5",
+          "source_date": "2026-09-18"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2
+        ],
+        "money": [],
+        "tech": [
+          3
+        ],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 3
+    },
+    {
+      "categories": [
+        {
+          "id": "incident",
+          "title": "⚠️ 사건·사고",
+          "items": [
+            {
+              "item": "카페 테이블 도청장치로 차은우 대화 엿듣던 50대女…경찰 수사",
+              "hook": "카페 테이블 도청장치로 차은우 대화 엿듣던 50대女…경찰 수사",
+              "topic": "사건",
+              "summary": "카페 테이블 도청장치로 차은우 대화 엿듣던 50대女…경찰 수사 카페 테이블 도청장치로 차은우 대화 엿듣던 50대女…경찰 수사    뉴스1    차은우 겨냥 테이블 도청장치 50대 여성 수사받아    연합뉴스    “카페에서 누가 차은우 도청” 신고…50대 여성 경찰 수사    동아일보    카페에 도청 장치 설치‥차은우 도청한 50대 여성 입건    MBC 뉴스    \"카페서 차은우 대화 엿들어\"...테이블에 도청장치 설치 '소름' - 머니투데이    머니투데이",
+              "openings": [
+                "카페 테이블 도청장치로 차은우 대화 엿듣던 50대女…경찰 수사."
+              ],
+              "source_name": "뉴스1",
+              "source_date": "2026-09-18",
+              "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YWDBVdGxiTS1LS0NQcG90MEZTSjdlSlBFSFZuZWVzZlhhNDVhZ0d1cUxIZ3BEZ1JUUzgwdXpSa1VvaWoyWm1YTVM4WjRVeWlOQlJKQ0VNZEs4b0EwWF9memhXMGXSAWpBVV95cUxOdU5UTzlsLVVqWDVXa1R0dVF2TDR3emN2Um1KVVREcC1xaDlwRnQyMVgzOGVubVBMaWFtRlBMcjZCRzNDbnJoaDc0QjRMTUhrZTdsak1oTnc1enRfQnA3eWlfM3RSb05Jamdn?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    }
+  ]
+}

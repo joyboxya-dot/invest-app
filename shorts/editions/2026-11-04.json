@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-04",
+  "built_at": "2026-11-04 11:37",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/04 기준, 후보 6건에서 장면·갈등·기괴 과학 축으로 6건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "김정은 단둥 방문 열흘만에, 北 노동당 비서 방중",
+          "hook": "김정은 단둥 방문 열흘만에, 北 노동당 비서 방중",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "동아일보",
+          "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Fa2o4c1VSN0ZTQU9sYVMydGtfLTFCMFdTUkkzQWhUd2MxSFRsN2YtQUplbUhJN2szVGtfNzNUWFNpNUMxOTlTcmw3NnIyZXNMWTNnZDc1VXZ4TWhPOW5PVHFPZUhVMVlLbkhfVzdRZlBRTUnSAWZBVV95cUxOaWtsWldwamNzbnRhN0ItM3pxbGlxb0VYdDVuR1JMdTR2dmR4TndOdGlfckJHeXU1M3N0cVRrMTJ4dUxXeW42VnhfRGdvMjFOUldHaEVXMTdxXzg5TS1PalFXdkFCeGc?oc=5",
+          "source_date": "2026-11-03"
+        },
+        {
+          "item": "김여정, 바이낸스 사태에 \"美와 마주 앉을 필요 없어\"",
+          "hook": "김여정, 바이낸스 사태에 美와 마주 앉을 필요 없어",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zNzRSOHk4NVR4Q0Z4RHFtbUZtTjdELS1YQ2xBSDd5Qzh6VmdScXNnaml3N2t4MnU4TjBOanJYcklfMjB5bk5qSGFQaHRDa2NTZGNhRGVidzlROXg0VVNfeXJETGF0Zmc?oc=5",
+          "source_date": "2026-11-03"
+        },
+        {
+          "item": "李, 집값 하락 논란에 \"강남·서초·송파 말한 것...서울 전체라 한 적 없다\"",
+          "hook": "李, 집값 하락 논란에 강남·서초·송파 말한 것...서울 전체라 한 적 없다",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeEw2WU93akRzaTQyUnNkaUJYZXR3Tkl5Z1VacG1kMVVyS3VreVZkZWFWY2kzX2ZxbURFNzhab0lZWHVBZUcwWjFTTnpqc2RPclI4ZVhEcDVwTmdWWkRMckhHYnBFSDlydWhWZkhhS0Rob2FOMF9oNHhDaG1vWDI1NS1GYWRiR0F5OUpRaExHeUo?oc=5",
+          "source_date": "2026-11-04"
+        },
+        {
+          "item": "[속보] 김여정, 바이낸스사태에 선택지 대화 있지만 국익 동일시 아냐",
+          "hook": "김여정, 바이낸스사태에 선택지 대화 있지만 국익 동일시 아냐",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "아주경제",
+          "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GNDlaX0liRnRfZnRVWDFwM2xmdksyaVF2a3pBRW05NlJfY0VkYkIzSUFteS1DdWFpaERoR01sZzJ2S2hqOHZWaEdnS1BpZU5hMXNYUzlMaUdPQdIBWEFVX3lxTE5jQ1p2N05FbkxwcHEwb1I3ZzgwS0JnZFg5R1FvSlR1ZGprdkd2NkY1RHNyOV9nUVlzZFN2MmpTR3J2QlJSV3lNQjBpRVA0M3NLZVd5b09Waks?oc=5",
+          "source_date": "2026-11-03"
+        },
+        {
+          "item": "1억1500만년전 '공룡 피' 찾았을까…화석 검출 결과 논란",
+          "hook": "1억1500만년전 공룡 피 찾았을까…화석 검출 결과 논란",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "DongA Science",
+          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzUndzc21WaFZLLXc5NzlnMnZCMjZ2djRmWnlrTVhub00xQVFfbEV4R1dQX2ptT24zTWgwYVVWM2VTeHZBTVRZVDhXRnVnZjdYeDBmSQ?oc=5",
+          "source_date": "2026-11-03"
+        },
+        {
+          "item": "1호기 탑승자 정보, 해킹 아닌 유출에 무게… 경찰 수사 착수",
+          "hook": "1호기 탑승자 정보, 해킹 아닌 유출에 무게… 경찰 수사 착수",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdnpRR3FEVVExNC1uTmItMW1pZmItY0g5cW85LWNPRGlUMkxFQWdOVm1peTNuLUh1cFM4VThJMnRhUWp5elEtUjVDYTFkbXAwUElXS1VDZWxHNHo2MnpJb253aWE2aVpSM3lIYmd5YlZWX0RSczBxRWdTeDNlQlN0cVYxUkZKYWVkc3hWQ3V5aVU?oc=5",
+          "source_date": "2026-11-03"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 6
+    },
+    {
+      "categories": [],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 7
+    }
+  ]
+}

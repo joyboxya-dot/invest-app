@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-23",
+  "built_at": "2026-11-23 12:00",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "11/23 기준, 후보 3건에서 장면·갈등·기괴 과학 축으로 3건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "\"트럼프 행정부, 김정은 회동 위해 비핵화 요구 뺀 성명까지 검토…北은 외면\"",
+          "hook": "트럼프 행정부, 김정은 회동 위해 비핵화 요구 뺀 성명까지 검토…北은 외면",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "뉴스핌",
+          "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPdDRnZmRVNWx4TlVpTklkUlZMZ2JlNmZPQ3BzQ09DdkYtOGVYOXBGMmxuYjVyUmFCTFl6TWhOS0U5RlplXzF5X3R5UXNVQVo1X0FFdW5qaUNLd2lL?oc=5",
+          "source_date": "2026-11-22"
+        },
+        {
+          "item": "김정은 “패권도 팽창도 추구 안해”…30년 만에 대사 신임장 받아",
+          "hook": "김정은 패권도 팽창도 추구 안해…30년 만에 대사 신임장 받아",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "한겨레",
+          "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WUXhjNWxLRGhVWnoyQVhJT2tST09JUWNCT05CRVltc094cC0xclRyeUoxeGRKTWl4ckk0M2lGZERzZXVTbVdaRmE0NE9zUy1yU1U5NkZHVnpXNWhVaGs2akxSRy1TeHRZbkxmQW1jNHVna0JP?oc=5",
+          "source_date": "2026-11-23"
+        },
+        {
+          "item": "서해서 '해양경찰' 내건 北 함정 첫 포착‥북한 '경찰제도' 가시화 주목",
+          "hook": "서해서 해양경찰 내건 北 함정 첫 포착‥북한 경찰제도 가시화 주목",
+          "topic": "북한",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "MBC 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzV0FmczNXWTEyeWhDcEN3T3hzYU01YWJNMUNPN1RQNzFaSDZyWWdvZ3ZRd1ZFc01peVFpbFJTR2hnNFRXd1p4UnNJdEd5MG5NVXhmbnRualJzSFhoWGctcGxJV0o4SUNNbGlqZHhJUkgxcTVMbEpjatIBeEFVX3lxTE5yempEWGFmTFhGejFyTkJhZzZzU2Nra3ZTNUZvdHRJMFZ0dURCeXJxQzN0SHJicnl1SzVLTy1pWXp4ZTFERV85azJ4bmZJTVFCWTQ2blBqQi1qOVBIeVMwdURsSV9zTE5pMmVtbFl6S0FHbmdqckdlZg?oc=5",
+          "source_date": "2026-11-23"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 3
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "원곡도 커버곡도 AI 작품…저작권 논란? 즐기기 시작했다",
+              "hook": "원곡도 커버곡도 AI 작품…저작권 논란? 즐기기 시작",
+              "topic": "AI",
+              "summary": "원곡도 커버곡도 AI 작품…저작권 논란? 즐기기 시작했다 원곡도 커버곡도 AI 작품…저작권 논란? 즐기기 시작했다    JTBC    장한별, AI 가수 1위곡 불렀더니…유튜브 하이프 10위    스포츠동아    음저협, 11월 30일 AI 음악 신탁 기준 회원 공청회 개최    www.gukjenews.com    AI가 만든 노래, 음원차트 정상…사람 커버 영상도 화제 [자막뉴스]    채널A    결국 1위 오른 AI 음원… 장기 흥행 속 엇갈린 시선    한국일보",
+              "openings": [
+                "원곡도 커버곡도 AI 작품…저작권 논란? 즐기기 시작했다."
+              ],
+              "source_name": "JTBC",
+              "source_date": "2026-11-23",
+              "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tbTFudldQVWtDeGRscHlNamw5LWU1NlJFbGJmYXdrWWRKUzJWYWFQRTlxUG1uZkpPM2ZwcFJmSU9hXy1yZWQweWJnNXo0dmkyRC14OQ?oc=5",
+              "priority": "B"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    }
+  ]
+}

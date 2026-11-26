@@ -1,0 +1,109 @@
+{
+  "date": "2026-09-14",
+  "built_at": "2026-09-14 09:21",
+  "timezone": "Asia/Seoul",
+  "backend": "rss",
+  "channels": [
+    {
+      "board_summary": "09/14 기준, 후보 4건에서 장면·갈등·기괴 과학 축으로 4건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "items": [
+        {
+          "item": "트럼프 ‘1인당 5000달러’ 논란 커져… 참모들, 재원 방안도 제각각",
+          "hook": "트럼프 1인당 5000달러 논란 커져… 참모들, 재원 방안도 제각각",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWElLVGpzV2Z5dlNFclI1dllMTWw1Ym9jVlFMQ2xQekYwbG9JUENMM29BdkpLRVpHWFhJcDNfZkRTcjVzNFgtOS1yU3g3bVJhYVFKYXV4S0tWdEZtR0JnYWV1ZWxIbGt3OS1wbkdHQ2ltc3c0SWxVR2NQdzVpVllCM2x4T3d5ZzRrenFJLTU3Q3MyR1VwSUN6ZTZabHJzdw?oc=5",
+          "source_date": "2026-09-13"
+        },
+        {
+          "item": "북한, 도발 이틀 만에 포·미사일 합동타격훈련 확인…김정은 불참",
+          "hook": "북한, 도발 이틀 만에 포·미사일 합동타격훈련 확인…김정은 불참",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "연합뉴스TV",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pVmdjWk1WQVUyQ1EwOE1BeFU0d3lwel9pOV9kcXUtMkstMndud2hoOGlDVS1LLUYzT1lLcEJMak1sTkFvNklyWC1tYVJpdHljMnBhUjlKbmdMeUR3M2dhWFRQZlFzdWs?oc=5",
+          "source_date": "2026-09-13"
+        },
+        {
+          "item": "‘파업조끼 장인 납품 논란’… 삼성전자 최대 노조 분열 양상",
+          "hook": "파업조끼 장인 납품 논란… 삼성전자 최대 노조 분열 양상",
+          "topic": "이슈",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "v.daum.net",
+          "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aX19GZnc1NW10N01MejNNMjladXNlcmQ0WG45R3J2VXNvVTViRTE5WXhzcVFFTGh0LUlmZEliQ05rb21taDVZd05ZSTJNNWc?oc=5",
+          "source_date": "2026-09-13"
+        },
+        {
+          "item": "국회, 오늘 교육·사회·문화 대정부 질문…‘경찰 개혁’ 등 공방 예상",
+          "hook": "국회, 오늘 교육·사회·문화 대정부 질문…경찰 개혁 등 공방 예상",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
+          "source_name": "KBS 뉴스",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xd2RpYkFuNDY3ZVMxRk5iZHJDaWtDcVZBRnlGb3ZhOFJsOVNhZWdXRk5qYmFKSU9LOElTWDMzdUpvSzcwbHFKODZFdVJUSHBGcXFUNWRLRFR2NkE?oc=5",
+          "source_date": "2026-09-13"
+        }
+      ],
+      "top5": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "buckets": {
+        "domestic": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "money": [],
+        "tech": [],
+        "weird_science": []
+      },
+      "cta": "원하면 다음 단계로 20개를 30초 쇼츠 대본 제목+오프닝+클로징까지 확장해줄 수 있다.",
+      "id": "gunlimbo",
+      "name": "군림보",
+      "blurb": "권력·갈등·돈·안보·기술패권·기괴과학",
+      "format": "gunlimbo",
+      "mode": "rss",
+      "model": "",
+      "news_count": 4
+    },
+    {
+      "categories": [
+        {
+          "id": "celeb",
+          "title": "🔥 유튜버·연예",
+          "items": [
+            {
+              "item": "'56세' 김혜수, 부동산으로 1년만 40억 벌더니..럭셔리한 근황 [스타이슈]",
+              "hook": "56세 김혜수, 부동산으로 1년만 40억 벌더니..럭셔리한 근황",
+              "topic": "연예",
+              "summary": "'56세' 김혜수, 부동산으로 1년만 40억 벌더니..럭셔리한 근황 [스타이슈] '56세' 김혜수, 부동산으로 1년만 40억 벌더니..럭셔리한 근황 [스타이슈]    starnewskorea.com    56세 김혜수, 세월 비껴간 미모…여전히 우아한 분위기[N샷]    v.daum.net    빚더미서 120억 빌라 오너로…김혜수가 벼랑 끝에서 건져 올린 분투기    세계일보    120억 건물주라고? 김혜수, 소멸직전 얼굴크기 더 놀라워    OSEN    김혜수, 꽃 그림 카드 들고 환한 미소…‘지금 불륜’ 성공 이어간 여유    톱스타뉴스",
+              "openings": [
+                "'56세' 김혜수, 부동산으로 1년만 40억 벌더니..럭셔리한 근황 [스타이슈]."
+              ],
+              "source_name": "starnewskorea.com",
+              "source_date": "2026-09-13",
+              "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qaEJFWG5yQjRaU3o1SmNzTzJoa0JyR3F5ZFJ3MDBIbk9jLXdiSWk0RE9uWWlvWURXODJiRmoyZzZmSW05SmVqNE1ZcVo4YWtvNGFnUzVRUC1MSnpuQlRFeFdxMU9ld0p5OEZEYXZwek50Umc?oc=5",
+              "priority": "A"
+            }
+          ]
+        }
+      ],
+      "tips": {
+        "opening": "첫 1~2초에 훅 제목을 입말로 던지고, 바로 숫자나 결과 한 줄.",
+        "edit": "자막이 본문. 컷 1.5초, 얼굴·장면은 보조. 출처는 하단 고정.",
+        "uploads": "평일 8~12개, 주말 6~8개. A를 아침, B를 오후, C는 예비."
+      },
+      "id": "news_mix",
+      "name": "뇌전구",
+      "blurb": "사건·연예 근황·과학·국제 — 훅 제목 + 1줄 요약",
+      "format": "mix",
+      "mode": "rss",
+      "model": "",
+      "news_count": 5
+    }
+  ]
+}
