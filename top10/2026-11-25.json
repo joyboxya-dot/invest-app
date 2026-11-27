@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "asof": "2026-11-25",
-  "built_at": "2026-11-26 04:22",
+  "built_at": "2026-11-27 09:11",
   "pinned_id": "mom_only_flat20_buynew_sr_t10_lb15_vix25nb_ss20_stoptopup25_rate_pause_b_sd7_h1neg3_secqqq5_lagm1n42p20_top5_penult_sp500",
   "universe_n": 500,
   "pool_n": 500,
@@ -100,5 +100,5 @@
       "live_slot": false
     }
   ],
-  "note": "핀 규칙 동일: 매매시점 스냅샷500(시총패널 없음) · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5)"
+  "note": "핀 규칙 동일: 매매시점 시총500 · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5)"
 }
