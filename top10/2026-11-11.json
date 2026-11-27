@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-11",
+  "asof": "2026-11-11",
+  "built_at": "2026-11-13 01:51",
+  "pinned_id": "mom_only_flat20_buynew_sr_t10_lb15_vix25nb_ss20_stoptopup25_rate_pause_b_sd7_h1neg3_secqqq5_lagm1n42p20_top5_penult_sp500",
+  "universe_n": 500,
+  "pool_n": 500,
+  "lookback_months": 3,
+  "min_lookback_ret": 0.15,
+  "top_n": 10,
+  "rows": [
+    {
+      "rank": 1,
+      "symbol": "MRNA",
+      "name": "Moderna",
+      "mom_ret": 2.907148412876212,
+      "day_ret": -0.008531672343924046,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 2,
+      "symbol": "ACN",
+      "name": "Accenture",
+      "mom_ret": 0.43254459137972234,
+      "day_ret": -0.018761386098406163,
+      "in_holdings": true,
+      "live_slot": true
+    },
+    {
+      "rank": 3,
+      "symbol": "RVTY",
+      "name": "Revvity",
+      "mom_ret": 0.34740789479923784,
+      "day_ret": -0.005342590011986448,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 4,
+      "symbol": "VTRS",
+      "name": "Viatris",
+      "mom_ret": 0.32281467616183956,
+      "day_ret": 0.010071898351584174,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 5,
+      "symbol": "APP",
+      "name": "AppLovin",
+      "mom_ret": 0.2945596687583347,
+      "day_ret": 0.02341275573160395,
+      "in_holdings": false,
+      "live_slot": true
+    },
+    {
+      "rank": 6,
+      "symbol": "TYL",
+      "name": "Tyler Technologies",
+      "mom_ret": 0.2935703700350143,
+      "day_ret": 0.009154260110132872,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 7,
+      "symbol": "HAS",
+      "name": "Hasbro",
+      "mom_ret": 0.292146684338789,
+      "day_ret": 0.018059406942648737,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 8,
+      "symbol": "EL",
+      "name": "Estée Lauder Companies (The)",
+      "mom_ret": 0.2907874501313379,
+      "day_ret": -0.009697597383069967,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 9,
+      "symbol": "ULTA",
+      "name": "Ulta Beauty",
+      "mom_ret": 0.27835213012183235,
+      "day_ret": -0.00802208917705105,
+      "in_holdings": false,
+      "live_slot": false
+    },
+    {
+      "rank": 10,
+      "symbol": "PTC",
+      "name": "PTC Inc.",
+      "mom_ret": 0.2745467552639551,
+      "day_ret": -0.0020860018099384536,
+      "in_holdings": false,
+      "live_slot": false
+    }
+  ],
+  "note": "핀 규칙 동일: 매매시점 스냅샷500(시총패널 없음) · 3M 모멘텀 · 룩백≥15% · Top10 (실매매는 Top5)"
+}
