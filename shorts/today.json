@@ -1,56 +1,56 @@
 {
-  "date": "2026-11-26",
-  "built_at": "2026-11-26 13:17",
+  "date": "2026-11-27",
+  "built_at": "2026-11-27 13:27",
   "timezone": "Asia/Seoul",
   "backend": "rss",
   "channels": [
     {
-      "board_summary": "11/26 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
+      "board_summary": "11/27 기준, 후보 5건에서 장면·갈등·기괴 과학 축으로 5건을 골랐다. 금리·환율·증시 시황은 뺐다. 매일 바뀌는 숫자보다 다시 보고 싶은 사건만 남겼다.",
       "items": [
         {
-          "item": "APEC때 김정은 못만난 트럼프 “러브레터 당장 시작할수도”",
-          "hook": "APEC때 김정은 못만난 트럼프 러브레터 당장 시작할수도",
+          "item": "김정은, 한국 향해 ‘3종 핵 협박’",
+          "hook": "김정은, 한국 향해 3종 핵 협박",
           "topic": "북한",
           "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
-          "source_name": "동아일보",
-          "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KbVdsUldpVl93RWswMURlZTQ2OHRIQk43QTc5M0lYT1RDMGZSakIteXpnbmpBSkJpWi1hTWlORGNTaXJVdVNYbVdEZ1RBM3JNYzRUX1B2TVUxVG91ei1IajlZREt2QnFJSVRZTEVPeUZKd0U?oc=5",
-          "source_date": "2026-11-25"
+          "source_name": "조선일보",
+          "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMGI0WTkxVTM5OG1rMjQzbENRS3JLek9ubXNDakpHQ3ZSMThQVlVnLWZyYU5TNjllczB1MVVaTUJmQTN5R2MtcF96S3pCLWZWR2NXUE42VUdVWGV4LTFHdDVxS09nYzJjZW1EclVyX2syRlRHSnRoMllhc3RDRFVoTnBfblZYTngzNTRSMENtSXlwdw?oc=5",
+          "source_date": "2026-11-26"
         },
         {
-          "item": "김정은, 핵시설 현지지도…“전술핵 다영역 활용화 주목해야”",
-          "hook": "김정은, 핵시설 현지지도…전술핵 다영역 활용화 주목해야",
+          "item": "김정은, 러시아 예술인 공연 관람...친선 과시",
+          "hook": "김정은, 러시아 예술인 공연 관람...친선 과시",
           "topic": "북한",
           "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "YTN",
+          "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XRTJ0aFVIZFFIV1o2Q2w5ZndMM3dfUWMzVGtfQ3lsUXhWN2ZWQ1RwUUxxakE1VUFYMlFSQnpEdTdNQUVfMEQ2d2VySUhfSXpfWmR4bDRBZXRtYXJEY3c?oc=5",
+          "source_date": "2026-11-26"
+        },
+        {
+          "item": "김정은, 푸틴에 등 돌렸나⋯우크라 정보당국 \"北, 러시아 지원 일부 중단\"",
+          "hook": "김정은, 푸틴에 등 돌렸나⋯우크라 정보당국 北, 러시아 지원 일부 중단",
+          "topic": "북한",
+          "why": "장면과 갈등이 분명하다. 후속 쇼츠로 이어진다.",
+          "source_name": "이투데이",
+          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PWFRNYk1ZRDFJRTRfeWJIUnFKb1lrR2dTT2pLcTVZMjdMWmxpQXBlRldFSWxKZWtxQ182Qzg4UDlOMC1PeW1KZ2ZKZlk2OGN5em9WdQ?oc=5",
+          "source_date": "2026-11-26"
+        },
+        {
+          "item": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 등 압수수색",
+          "hook": "경찰, 한동훈 자료 유출 의혹 법무부·공소청 등 압수수색",
+          "topic": "사건",
+          "why": "특이해서 끝까지 보게 되는 소재.",
           "source_name": "한겨레",
-          "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5veU9lcWhWNkowWEV5NG85cU1BZGlYaGprLTlIaExkUkVBdHhabmpEVl9RU3BLOTkyb0lYNjBLWlBxbTB2dS11Z3l6U3M1ajhNNlN1UmxTUEVrMG1EaVVzLVJnRy0xUVRB?oc=5",
-          "source_date": "2026-11-25"
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kVTFoaGlkOFIwRlg5MjhuR2FoREhfU2x1M1EzbU9Ec2xwYmV0R0ZHQU5JRzlDYkphUVJZU1BnaUpqZkc3d05YZ2l1anMyaGpuZXNQNmh1LWtqRUExTElPOFhERVF1VE43Y001VlhMSFU3QQ?oc=5",
+          "source_date": "2026-11-27"
         },
         {
-          "item": "음주운전 했는데 반전 미담? 고경표, 논란 11일 만에 '대리운전·접촉사고' 파묘[Oh!쎈 이슈]",
-          "hook": "음주운전 했는데 반전 미담? 고경표, 논란 11일 만에 대리운전·접촉사고 파묘",
-          "topic": "사건",
-          "why": "특이해서 끝까지 보게 되는 소재.",
-          "source_name": "Chosunbiz",
-          "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2NjRHhzaG92cVBaNW4xcEhOdmo4TkhBeGRuSnVWX21tT3BhVUliYnNEWGNJUWVIeHpfLVc2WTM4VU5XaHh2bWxURS1UTE5PdWJhX1RoX0ZibDkweHJ2bWFiMVpLYkNfYUlUYWN3ZVZzR0dvZE5EZ2VMNXh5RVhWOTF4c19sTHE5cG9kR1otWDBYOFXSAacBQVVfeXFMT0RtcnA0RUgtRHFGcnVmU05XbVhEbUVXLXItTTZjWEpNeXJiUVN6OXBxNVpBSGdnNnJtOHVoLVV0Y05OY0dDbVBIQy1fazNpY1RBb3Z2dDRySWF2Y0l5MGF2RnQ5TlNOSTVXalVuNUJPZkR2NG1aYnFHQWg2U2k2Uk4yYkZIZUxabm1XTzF2ai05YWhHNFVzZUloZkFFMjUzem9XSElFNkk?oc=5",
-          "source_date": "2026-11-26"
-        },
-        {
-          "item": "추경호 무죄에 국힘 \"조은석 특검 경찰에 고발‥법왜곡죄 혐의\"",
-          "hook": "추경호 무죄에 국힘 조은석 특검 경찰에 고발‥법왜곡죄 혐의",
+          "item": "전직 유력 정치인 아들, 전 연인 스토킹·폭행 혐의로 경찰에 붙잡혀",
+          "hook": "전직 유력 정치인 아들, 전 연인 스토킹·폭행 혐의로 경찰에 붙잡혀",
           "topic": "사건",
           "why": "특이해서 끝까지 보게 되는 소재.",
           "source_name": "MBC 뉴스",
-          "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3RDFMOTBwRTh0SDBxU25XdlNkWVd4Tmd4bUE4NUxkajFYbEp5dklzbXJVU3M1cVRfZ1UzeTZkdk1LeHZhX09Nc3hDYmRYYUtFcGVmYTNCZldZSzk2LWdWbHRXN1o4ZzlBSy1ERmQxbTY1Snl2RU5pVtIBeEFVX3lxTE8yeTVrMEhJM1pyMnE0aWhtMFdFMGgya2NuR2I1SkFzODZJMWpEOFRvZllWR3RPNUU5THRwRlBMb0ptU1p0UWFDd0l5bmNCMjBzNTd5ZVRpcS03QTNZTFJKdFQza0pCb2JBNnY4NFB3RFNwM2o3QVFtQw?oc=5",
-          "source_date": "2026-11-26"
-        },
-        {
-          "item": "경찰, '리트 만점자' 이 씨 집·수능시험지 보관장소 압수수색 나서",
-          "hook": "경찰, 리트 만점자 이 씨 집·수능시험지 보관장소 압수수색 나서",
-          "topic": "사건",
-          "why": "특이해서 끝까지 보게 되는 소재.",
-          "source_name": "MBC 뉴스",
-          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XMkFXQ1hzQTh2MVpsQWZKV0dLakpHRDlaRnlxZTI3VDNtazVkcEdYMldmZnRITFo3d25FdmJTemVUOEhTYnZqTWRHRWw5cTY3Wkdld1h4T1BJdVNnMVllb2NHR2xZdWhEbWliU0gzX056MHdULUhB0gF3QVVfeXFMT2lMbmUxMmVYdWNiUzBZN0xwdzNWZkhoNHZ0MU1sU0VCdS11a0I1bHpqeGlZZVZqbnlrZWxsbzlfVnU1aGViSVNZTldrT0lIQnJyMDF0QktzQmx3RlA4OUM3YmF4MlE0RVBWN09DQXNTS2pGMVM4ZE0?oc=5",
-          "source_date": "2026-11-26"
+          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82ZmNFUGxUb3hHWlpjYS1BZURhSHpVV1RYQ2M3d1JaTG1QQjZ6OEtDRU11b29lVW0xQ21HcmdpVVFtMzBuOUlIYmRadUItM2JOUWd6VzBoTmhMbHIxN3hXZXFJTGo3bjJyeWpqdWhfUkN3eHAwM21F0gF3QVVfeXFMUHBMVWotZnZVeVAtTzdDYmFaYmJzY1lPMHFjTW40VGlxa3lFTWp0NklWQjhDSzIzWnRwUEdOUXU4V0hoUmZwYlNOc19nVEtCS0dKNzZRUW81OXkxZ3pfY1RoY2RlaTFocmNOVUx5NHZyQ3BkLVZyazg?oc=5",
+          "source_date": "2026-11-27"
         }
       ],
       "top5": [
@@ -94,7 +94,7 @@
       "format": "mix",
       "mode": "rss",
       "model": "",
-      "news_count": 6
+      "news_count": 5
     }
   ]
 }
